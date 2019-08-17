@@ -1,9 +1,8 @@
 <template>
-  <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link>|
-      <router-link to="/about">About</router-link>
-    </div>
+  <div class="container mx-auto py-8">
+    <h1 class="text-xl">typedex</h1>
+    <!-- <router-link to="/">Home</router-link> -->
+    <!-- <router-link to="/about">About</router-link> -->
     <router-view />
   </div>
 </template>
