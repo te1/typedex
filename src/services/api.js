@@ -13,12 +13,7 @@ export class Api {
 
   async load() {
     await this._loadList('type');
-
-    await Promise.all(
-      _.map(this.lists.type.results, type => {
-        return this._loadItem('type', type.name, type.url);
-      })
-    );
+    await this._loadListItems('type');
   }
 
   async _loadList(name) {
@@ -33,6 +28,14 @@ export class Api {
     let data = await cache.remember(cacheKey, cacheFor, fetch);
 
     this.lists[name] = data;
+  }
+
+  async _loadListItems(name) {
+    return await Promise.all(
+      _.map(this.lists[name].results, name => {
+        return this._loadItem(name, name.name, name.url);
+      })
+    );
   }
 
   async _loadItem(listName, itemName, itemUrl) {
