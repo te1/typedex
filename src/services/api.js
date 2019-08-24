@@ -20,8 +20,9 @@ export class Api {
 
       return response.data;
     };
+    let cacheKey = 'api_list_' + name;
 
-    let data = await cache.remember(name, cacheFor, fetch);
+    let data = await cache.remember(cacheKey, cacheFor, fetch);
 
     this._lists[name] = data;
   }
