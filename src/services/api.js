@@ -1,30 +1,56 @@
 import axios from 'axios';
+import _ from 'lodash';
 import cache from './cache';
 
-const cacheFor = 60 * 60; // 1 hour in seconds
-const base = 'https://pokeapi.co/api/v2/';
+const baseUrl = 'https://pokeapi.co/api/v2/';
+const cacheFor = 60 * 60 * 8; // 8 hours in seconds
 
 export class Api {
   constructor() {
-    this._lists = {};
+    this.lists = {};
+    this.items = {};
   }
 
   async load() {
     await this._loadList('type');
+
+    await Promise.all(
+      _.map(this.lists.type.results, type => {
+        return this._loadItem('type', type.name, type.url);
+      })
+    );
   }
 
   async _loadList(name) {
     let fetch = async () => {
-      let url = base + name + '?limit=10000';
+      let url = baseUrl + name + '?limit=10000';
       let response = await axios.get(url);
 
       return response.data;
     };
-    let cacheKey = 'api_list_' + name;
+    let cacheKey = 'api_' + name;
 
     let data = await cache.remember(cacheKey, cacheFor, fetch);
 
-    this._lists[name] = data;
+    this.lists[name] = data;
+  }
+
+  async _loadItem(listName, itemName, itemUrl) {
+    let fetch = async () => {
+      let response = await axios.get(itemUrl);
+
+      return response.data;
+    };
+
+    let cacheKey = 'api_' + listName + '_' + itemName;
+
+    let data = await cache.remember(cacheKey, cacheFor, fetch);
+
+    if (!this.items[listName]) {
+      this.items[listName] = {};
+    }
+
+    this.items[listName][itemName] = data;
   }
 }
 
