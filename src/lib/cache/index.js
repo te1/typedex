@@ -18,7 +18,7 @@ export default class Cache {
 
   async _setItem(key, value, seconds) {
     key = this._getKey(key);
-    value = this._getResult(value);
+    value = await this._getResult(value);
 
     let record = this._wrap(value, seconds);
     record = await this._store.setItem(key, record);
@@ -74,7 +74,7 @@ export default class Cache {
     let value = await this._checkExpires(key, record);
 
     if (value == null && defaultValue != null) {
-      return this._getResult(defaultValue);
+      return await this._getResult(defaultValue);
     }
 
     return value;
@@ -116,9 +116,9 @@ export default class Cache {
     return ttl;
   }
 
-  _getResult(value) {
+  async _getResult(value) {
     if (typeof value === 'function') {
-      return value();
+      return await value();
     }
     return value;
   }
