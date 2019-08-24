@@ -11,9 +11,11 @@ export class Api {
     this.items = {};
   }
 
-  async load() {
+  async loadTypes() {
     await this._loadList('type');
     await this._loadListItems('type');
+
+    return this.items.type;
   }
 
   async _loadList(name) {
@@ -32,8 +34,8 @@ export class Api {
 
   async _loadListItems(name) {
     return await Promise.all(
-      _.map(this.lists[name].results, name => {
-        return this._loadItem(name, name.name, name.url);
+      _.map(this.lists[name].results, item => {
+        return this._loadItem(name, item.name, item.url);
       })
     );
   }
