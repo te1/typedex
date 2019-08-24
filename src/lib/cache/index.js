@@ -11,25 +11,29 @@ export default class Cache {
   }
 
   async has(key) {
-    return (await this.get(key)) != null;
+    let value = await this.get(key);
+
+    return value != null;
+  }
+
+  async _setItem(key, value, seconds) {
+    key = this._getKey(key);
+    value = this._getResult(value);
+
+    let record = this._wrap(value, seconds);
+    record = await this._store.setItem(key, record);
+
+    return this._unwrap(record);
   }
 
   async put(key, value, ttl) {
     if (ttl == null) {
-      return await this._store.setItem(
-        this._getKey(key),
-        this._getResult(value)
-      );
+      return await this._setItem(key, value);
     }
 
     let seconds = this._getSeconds(ttl);
 
-    if (seconds <= 0) {
-      return await this.forget(key);
-    }
-
-    // TODO expire
-    return await this._store.setItem(this._getKey(key), this._getResult(value));
+    return await this._setItem(key, value, seconds);
   }
 
   async set(key, value, ttl) {
@@ -37,11 +41,7 @@ export default class Cache {
   }
 
   async add(key, value, ttl) {
-    if (ttl != null && this._getSeconds(ttl) <= 0) {
-      return false;
-    }
-
-    if ((await this.get(key)) == null) {
+    if (await !this.has(key)) {
       return await this.put(key, value, ttl);
     }
 
@@ -67,9 +67,11 @@ export default class Cache {
   }
 
   async get(key, defaultValue) {
-    let value = await this._store.getItem(this._getKey(key));
+    key = this._getKey(key);
 
-    // TODO expire
+    let record = await this._store.getItem(key);
+
+    let value = await this._checkExpires(key, record);
 
     if (value == null && defaultValue != null) {
       return this._getResult(defaultValue);
@@ -87,7 +89,9 @@ export default class Cache {
   }
 
   async forget(key) {
-    return await this._store.removeItem(this._getKey(key));
+    key = this._getKey(key);
+
+    return await this._store.removeItem(key);
   }
 
   async delete(key) {
@@ -106,7 +110,9 @@ export default class Cache {
   }
 
   _getSeconds(ttl) {
-    // TODO NYI
+    if (ttl < 0) {
+      return 0;
+    }
     return ttl;
   }
 
@@ -115,5 +121,49 @@ export default class Cache {
       return value();
     }
     return value;
+  }
+
+  _wrap(value, seconds) {
+    let expires;
+
+    if (typeof seconds === 'number') {
+      let now = new Date();
+      expires = new Date(now.getTime() + seconds * 1000);
+    }
+
+    return {
+      value,
+      expires,
+    };
+  }
+
+  _unwrap(record) {
+    if (record == null) {
+      return;
+    }
+    return record.value;
+  }
+
+  async _checkExpires(key, record) {
+    if (record && this._isValidDate(record.expires)) {
+      let now = new Date();
+
+      if (now > record.expires) {
+        await this.forget(key);
+        return;
+      }
+    }
+
+    return this._unwrap(record);
+  }
+
+  _isValidDate(date) {
+    // https://stackoverflow.com/questions/643782/how-to-check-whether-an-object-is-a-date/44198641#44198641
+
+    return (
+      date &&
+      Object.prototype.toString.call(date) === '[object Date]' &&
+      !isNaN(date)
+    );
   }
 }
