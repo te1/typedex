@@ -1,13 +1,14 @@
 <template>
-  <div class="inline-block select-none rounded text-gray-100 mb-4 mr-4" :class="classes">
+  <div class="inline-block select-none text-gray-100">
     <div class="flex items-center">
       <div
-        class="w-24 uppercase font-semibold tracking-wider text-center"
+        class="w-24 rounded uppercase font-semibold tracking-wider text-sm text-center"
+        :class="classes"
         @click="toggle"
       >{{ resolvedType.caption }}</div>
       <div
         v-if="hasFactor"
-        class="w-10 px-2 text-2xl font-light text-center border-l-4 border-gray-300"
+        class="flex items-center justify-center w-12 h-12 -ml-3 pb-1 rounded-full text-2xl font-light bg-gray-700 border-4 border-gray-300"
       >{{ prettyFactor }}</div>
     </div>
   </div>

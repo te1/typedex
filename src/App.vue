@@ -5,7 +5,7 @@
     <div class="mb-4">
       <router-link to="/">Home</router-link>
       <span class="px-2">|</span>
-      <router-link to="/types">Types</router-link>
+      <router-link to="/defend">Defend</router-link>
       <!-- <router-link to="/about">About</router-link> -->
     </div>
 

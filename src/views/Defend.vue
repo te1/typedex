@@ -2,40 +2,55 @@
   <div>
     <h2 class="text-2xl mb-4">Types</h2>
 
-    <type-pill
-      v-for="type in allTypes"
-      :key="type.id"
-      :type="type"
-      :selectable="true"
-      :selected="isSelected(type)"
-      @toggle="onToggle"
-    />
+    <div class="flex flex-wrap content-between mb-4">
+      <type-pill
+        v-for="type in allTypes"
+        :key="type.id"
+        :type="type"
+        :selectable="true"
+        :selected="isSelected(type)"
+        class="mr-2 mb-2"
+        @toggle="onToggle"
+      />
+    </div>
 
-    <h3 class="text-xl mb-4">Damage taken</h3>
+    <div v-if="selectedTypes.length" class="flex content-between">
+      <!-- <h3 class="text-xl mb-4">Damage taken</h3> -->
 
-    <h4>Weak against</h4>
-    <type-pill
-      v-for="damage in damageTaken.weak"
-      :key="damage.type"
-      :type="damage.type"
-      :factor="damage.factor"
-    />
+      <div v-if="damageTaken.weak.length" class="flex flex-col mr-8">
+        <h4>More</h4>
 
-    <h4>Resistant against</h4>
-    <type-pill
-      v-for="damage in damageTaken.resistant"
-      :key="damage.type"
-      :type="damage.type"
-      :factor="damage.factor"
-    />
+        <type-pill
+          v-for="damage in damageTaken.weak"
+          :key="damage.type"
+          :type="damage.type"
+          :factor="damage.factor"
+        />
+      </div>
 
-    <h4>Immune against</h4>
-    <type-pill
-      v-for="damage in damageTaken.immune"
-      :key="damage.type"
-      :type="damage.type"
-      :factor="damage.factor"
-    />
+      <div v-if="damageTaken.resistant.length" class="flex flex-col mr-8">
+        <h4>Less</h4>
+
+        <type-pill
+          v-for="damage in damageTaken.resistant"
+          :key="damage.type"
+          :type="damage.type"
+          :factor="damage.factor"
+        />
+      </div>
+
+      <div v-if="damageTaken.immune.length" class="flex flex-col mr-8">
+        <h4>None</h4>
+
+        <type-pill
+          v-for="damage in damageTaken.immune"
+          :key="damage.type"
+          :type="damage.type"
+          :factor="damage.factor"
+        />
+      </div>
+    </div>
+    <div v-else>Select type(s)</div>
   </div>
 </template>
 
@@ -45,7 +60,7 @@ import data from '../services/data';
 import TypePill from '../components/TypePill.vue';
 
 export default {
-  name: 'Types',
+  name: 'Defend',
 
   components: {
     TypePill,
@@ -103,7 +118,7 @@ export default {
 
     onToggle({ type }) {
       if (this.isSelected(type)) {
-        this.selectedTypes = _.without(this.selectedTypesTypes, type);
+        this.selectedTypes = _.without(this.selectedTypes, type);
       } else {
         this.selectedTypes.push(type);
       }

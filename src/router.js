@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import Router from 'vue-router';
 import Home from './views/Home.vue';
-import Types from './views/Types.vue';
+import Defend from './views/Defend.vue';
 
 Vue.use(Router);
 
@@ -15,9 +15,9 @@ export default new Router({
       component: Home,
     },
     {
-      path: '/types',
-      name: 'types',
-      component: Types,
+      path: '/defend',
+      name: 'defend',
+      component: Defend,
     },
     // {
     //   path: '/about',
