@@ -7,7 +7,7 @@
       >{{ resolvedType.caption }}</div>
       <div
         v-if="hasFactor"
-        class="w-16 px-2 text-2xl text-center border-l-2 border-gray-100"
+        class="w-10 px-2 text-2xl font-light text-center border-l-4 border-gray-300"
       >{{ prettyFactor }}</div>
     </div>
   </div>

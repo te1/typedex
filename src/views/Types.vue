@@ -3,7 +3,7 @@
     <h2 class="text-2xl mb-4">Types</h2>
 
     <type-pill
-      v-for="type in types"
+      v-for="type in allTypes"
       :key="type.id"
       :type="type"
       :selectable="true"
@@ -11,9 +11,31 @@
       @toggle="onToggle"
     />
 
-    <div v-for="damage in damageTaken">
-      <type-pill :type="damage.type" :factor="damage.factor" />
-    </div>
+    <h3 class="text-xl mb-4">Damage taken</h3>
+
+    <h4>Weak against</h4>
+    <type-pill
+      v-for="damage in damageTaken.weak"
+      :key="damage.type"
+      :type="damage.type"
+      :factor="damage.factor"
+    />
+
+    <h4>Resistant against</h4>
+    <type-pill
+      v-for="damage in damageTaken.resistant"
+      :key="damage.type"
+      :type="damage.type"
+      :factor="damage.factor"
+    />
+
+    <h4>Immune against</h4>
+    <type-pill
+      v-for="damage in damageTaken.immune"
+      :key="damage.type"
+      :type="damage.type"
+      :factor="damage.factor"
+    />
   </div>
 </template>
 
@@ -31,33 +53,44 @@ export default {
 
   data() {
     return {
-      types: data.types,
-      selected: [],
+      allTypes: data.types,
+      selectedTypes: [],
     };
   },
 
   computed: {
     damageTaken() {
-      let result = {};
+      let data = {};
 
-      _.forEach(this.selected, type => {
+      _.forEach(this.selectedTypes, type => {
         _.forEach(type.damageTaken, damage => {
-          if (result[damage.type] == null) {
-            result[damage.type] = damage.factor;
+          if (data[damage.type] == null) {
+            data[damage.type] = damage.factor;
           } else {
-            result[damage.type] *= damage.factor;
+            data[damage.type] *= damage.factor;
           }
         });
       });
 
-      result = _.map(result, (value, key) => {
+      data = _.map(data, (value, key) => {
         return {
           type: key,
           factor: value,
         };
       });
 
-      result = _.orderBy(result, ['factor', 'type'], ['desc', 'asc']);
+      data = _.orderBy(data, ['factor', 'type'], ['desc', 'asc']);
+
+      let result = {};
+
+      result.weak = _.filter(data, item => item.factor > 1);
+
+      result.resistant = _.filter(
+        data,
+        item => item.factor > 0 && item.factor < 1
+      );
+
+      result.immune = _.filter(data, item => item.factor <= 0);
 
       return result;
     },
@@ -65,18 +98,18 @@ export default {
 
   methods: {
     isSelected(type) {
-      return _.includes(this.selected, type);
+      return _.includes(this.selectedTypes, type);
     },
 
     onToggle({ type }) {
       if (this.isSelected(type)) {
-        this.selected = _.without(this.selected, type);
+        this.selectedTypes = _.without(this.selectedTypesTypes, type);
       } else {
-        this.selected.push(type);
+        this.selectedTypes.push(type);
       }
 
-      if (this.selected.length > 2) {
-        this.selected.shift();
+      if (this.selectedTypes.length > 2) {
+        this.selectedTypes.shift();
       }
     },
   },

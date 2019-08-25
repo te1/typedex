@@ -42,7 +42,7 @@ export class Data {
       };
     });
 
-    types = _.orderBy(types, 'caption');
+    types = _.orderBy(types, 'name');
 
     // make object for faster access by name
     types = _.keyBy(types, 'name');
