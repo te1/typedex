@@ -123,6 +123,10 @@ export class Data {
         return '#999999';
     }
   }
+
+  getType(name) {
+    return this.types[name];
+  }
 }
 
 const data = new Data();
