@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2 class="text-2xl mb-4">Defend</h2>
+    <h2 class="text-2xl mb-4">Atack</h2>
 
     <div class="flex flex-wrap content-between mb-4">
       <type-pill
@@ -14,14 +14,14 @@
       />
     </div>
 
-    <div v-if="selectedTypes.length" class="flex content-between">
+    <div v-if="selectedType" class="flex content-between">
       <!-- <h3 class="text-xl mb-4">Damage taken</h3> -->
 
-      <div v-if="damageTaken.weak.length" class="flex flex-col mr-2">
+      <div v-if="damageDealt.strong.length" class="flex flex-col mr-2">
         <h4>More</h4>
 
         <type-pill
-          v-for="damage in damageTaken.weak"
+          v-for="damage in damageDealt.strong"
           :key="damage.type"
           :type="damage.type"
           :factor="damage.factor"
@@ -29,11 +29,11 @@
         />
       </div>
 
-      <div v-if="damageTaken.resistant.length" class="flex flex-col mr-2">
+      <div v-if="damageDealt.resistant.length" class="flex flex-col mr-2">
         <h4>Less</h4>
 
         <type-pill
-          v-for="damage in damageTaken.resistant"
+          v-for="damage in damageDealt.resistant"
           :key="damage.type"
           :type="damage.type"
           :factor="damage.factor"
@@ -41,11 +41,11 @@
         />
       </div>
 
-      <div v-if="damageTaken.immune.length" class="flex flex-col mr-2">
+      <div v-if="damageDealt.immune.length" class="flex flex-col mr-2">
         <h4>None</h4>
 
         <type-pill
-          v-for="damage in damageTaken.immune"
+          v-for="damage in damageDealt.immune"
           :key="damage.type"
           :type="damage.type"
           :factor="damage.factor"
@@ -53,7 +53,7 @@
         />
       </div>
     </div>
-    <div v-else>Select Pokemon type(s)</div>
+    <div v-else>Select attack type</div>
   </div>
 </template>
 
@@ -72,36 +72,21 @@ export default {
   data() {
     return {
       allTypes: data.types,
-      selectedTypes: [],
+      selectedType: null,
     };
   },
 
   computed: {
-    damageTaken() {
-      let data = {};
-
-      _.forEach(this.selectedTypes, type => {
-        _.forEach(type.damageTaken, damage => {
-          if (data[damage.type] == null) {
-            data[damage.type] = damage.factor;
-          } else {
-            data[damage.type] *= damage.factor;
-          }
-        });
-      });
-
-      data = _.map(data, (value, key) => {
-        return {
-          type: key,
-          factor: value,
-        };
-      });
+    damageDealt() {
+      let data = _.map(this.selectedType.damageDealt, item =>
+        _.pick(item, ['type', 'factor'])
+      );
 
       data = _.orderBy(data, ['factor', 'type'], ['desc', 'asc']);
 
       let result = {};
 
-      result.weak = _.filter(data, item => item.factor > 1);
+      result.strong = _.filter(data, item => item.factor > 1);
 
       result.resistant = _.filter(
         data,
@@ -116,18 +101,14 @@ export default {
 
   methods: {
     isSelected(type) {
-      return _.includes(this.selectedTypes, type);
+      return this.selectedType === type;
     },
 
     onToggle({ type }) {
       if (this.isSelected(type)) {
-        this.selectedTypes = _.without(this.selectedTypes, type);
+        this.selectedType = null;
       } else {
-        this.selectedTypes.push(type);
-      }
-
-      if (this.selectedTypes.length > 2) {
-        this.selectedTypes.shift();
+        this.selectedType = type;
       }
     },
   },

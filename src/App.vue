@@ -6,7 +6,8 @@
       <router-link to="/">Home</router-link>
       <span class="px-2">|</span>
       <router-link to="/defend">Defend</router-link>
-      <!-- <router-link to="/about">About</router-link> -->
+      <span class="px-2">|</span>
+      <router-link to="/attack">Attack</router-link>
     </div>
 
     <div v-if="loading">Loading...</div>

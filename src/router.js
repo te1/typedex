@@ -2,6 +2,7 @@ import Vue from 'vue';
 import Router from 'vue-router';
 import Home from './views/Home.vue';
 import Defend from './views/Defend.vue';
+import Attack from './views/Attack.vue';
 
 Vue.use(Router);
 
@@ -18,6 +19,11 @@ export default new Router({
       path: '/defend',
       name: 'defend',
       component: Defend,
+    },
+    {
+      path: '/attack',
+      name: 'attack',
+      component: Attack,
     },
     // {
     //   path: '/about',
