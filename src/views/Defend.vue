@@ -17,7 +17,7 @@
     <div v-if="selectedTypes.length" class="flex content-between">
       <!-- <h3 class="text-xl mb-4">Damage taken</h3> -->
 
-      <div v-if="damageTaken.weak.length" class="flex flex-col mr-8">
+      <div v-if="damageTaken.weak.length" class="flex flex-col mr-2">
         <h4>More</h4>
 
         <type-pill
@@ -25,10 +25,11 @@
           :key="damage.type"
           :type="damage.type"
           :factor="damage.factor"
+          class="mb-2"
         />
       </div>
 
-      <div v-if="damageTaken.resistant.length" class="flex flex-col mr-8">
+      <div v-if="damageTaken.resistant.length" class="flex flex-col mr-2">
         <h4>Less</h4>
 
         <type-pill
@@ -36,10 +37,11 @@
           :key="damage.type"
           :type="damage.type"
           :factor="damage.factor"
+          class="mb-2"
         />
       </div>
 
-      <div v-if="damageTaken.immune.length" class="flex flex-col mr-8">
+      <div v-if="damageTaken.immune.length" class="flex flex-col mr-2">
         <h4>None</h4>
 
         <type-pill
@@ -47,6 +49,7 @@
           :key="damage.type"
           :type="damage.type"
           :factor="damage.factor"
+          class="mb-2"
         />
       </div>
     </div>

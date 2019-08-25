@@ -2,13 +2,13 @@
   <div class="inline-block select-none text-gray-100">
     <div class="flex items-center">
       <div
-        class="w-24 rounded uppercase font-semibold tracking-wider text-sm text-center"
+        class="flex items-center justify-center w-20 h-6 rounded uppercase font-semibold tracking-wider text-sm"
         :class="classes"
         @click="toggle"
       >{{ resolvedType.caption }}</div>
       <div
         v-if="hasFactor"
-        class="flex items-center justify-center w-12 h-12 -ml-3 pb-1 rounded-full text-2xl font-light bg-gray-700 border-4 border-gray-300"
+        class="flex items-center justify-center w-8 h-6 -ml-1 font-light text-xl rounded-r bg-gray-700"
       >{{ prettyFactor }}</div>
     </div>
   </div>
