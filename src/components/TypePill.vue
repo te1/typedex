@@ -2,7 +2,7 @@
   <div class="inline-block select-none text-gray-100">
     <div class="flex items-center">
       <div
-        class="flex items-center justify-center w-20 h-6 rounded uppercase font-semibold tracking-wider text-sm"
+        class="flex flex-1 items-center justify-center h-6 px-1 rounded uppercase font-semibold tracking-wider text-sm"
         :class="classes"
         @click="toggle"
       >{{ resolvedType.caption }}</div>
