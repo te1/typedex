@@ -12,7 +12,7 @@ export class Data {
     // only types that have at least one pokemon
     types = _.filter(types, type => type.pokemon.length);
 
-    let caption, damage, damageTaken, damageDealt;
+    let caption, damage, damageTaken, damageDone;
 
     types = _.map(types, type => {
       caption = _.find(type.names, { language: { name: 'en' } });
@@ -126,6 +126,16 @@ export class Data {
 
   getType(name) {
     return this.types[name];
+  }
+
+  async loadMovesIndex() {
+    let moves = await api.loadMovesIndex();
+
+    moves = moves.results;
+
+    this.moves = moves;
+
+    return moves;
   }
 }
 

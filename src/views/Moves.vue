@@ -1,9 +1,10 @@
 <template>
   <div>
-    <h2 class="text-xl font-semibold tracking-wider mb-4">Defending</h2>
+    <h2>Moves</h2>
 
-    <h3 class="font-semibold tracking-wider mb-2">Type(s) of the defending Pokemon</h3>
+    <move-picker />
 
+    <!--
     <div class="mb-4 px-4 pt-4 pb-2 rounded bg-white shadow-md">
       <div class="flex flex-wrap justify-between">
         <type-pill
@@ -22,7 +23,7 @@
       <h3 class="font-semibold tracking-wider mb-2">Damage taken</h3>
 
       <div class="px-4 pt-2 pb-4 rounded bg-white shadow-md">
-        <!-- <h3 class="text-xl mb-4">Damage taken</h3> -->
+        <h3 class="text-xl mb-4">Damage taken</h3>
 
         <div v-if="damageTaken.weak.length">
           <h4>More</h4>
@@ -62,18 +63,21 @@
       </div>
     </div>
     <div v-text="info"></div>
+    -->
   </div>
 </template>
 
 <script>
 import _ from 'lodash';
 import data from '../services/data';
+import MovePicker from '../components/MovePicker';
 import TypePill from '../components/TypePill';
 
 export default {
   name: 'Moves',
 
   components: {
+    MovePicker,
     TypePill,
   },
 

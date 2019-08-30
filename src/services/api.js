@@ -18,6 +18,12 @@ export class Api {
     return this.items.type;
   }
 
+  async loadMovesIndex() {
+    await this._loadList('move');
+
+    return this.lists.move;
+  }
+
   async _loadList(name) {
     let fetch = async () => {
       let url = baseUrl + name + '?limit=10000';
