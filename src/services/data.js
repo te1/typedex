@@ -26,7 +26,7 @@ export class Data {
         ...this._getTypeDamage(damage.no_damage_from, 0),
       ];
 
-      damageDealt = [
+      damageDone = [
         ...this._getTypeDamage(damage.double_damage_to, 2),
         ...this._getTypeDamage(damage.half_damage_to, 0.5),
         ...this._getTypeDamage(damage.no_damage_to, 0),
@@ -38,7 +38,7 @@ export class Data {
         caption,
         color: this._getTypeColor(type.name),
         damageTaken,
-        damageDealt,
+        damageDone,
       };
     });
 

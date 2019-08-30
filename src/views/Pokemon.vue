@@ -17,11 +17,11 @@
     <div v-if="selectedType" class="flex content-between">
       <!-- <h3 class="text-xl mb-4">Damage taken</h3> -->
 
-      <div v-if="damageDealt.strong.length" class="flex flex-col mr-2">
+      <div v-if="damageDone.strong.length" class="flex flex-col mr-2">
         <h4>More</h4>
 
         <type-pill
-          v-for="damage in damageDealt.strong"
+          v-for="damage in damageDone.strong"
           :key="damage.type"
           :type="damage.type"
           :factor="damage.factor"
@@ -29,11 +29,11 @@
         />
       </div>
 
-      <div v-if="damageDealt.resistant.length" class="flex flex-col mr-2">
+      <div v-if="damageDone.resistant.length" class="flex flex-col mr-2">
         <h4>Less</h4>
 
         <type-pill
-          v-for="damage in damageDealt.resistant"
+          v-for="damage in damageDone.resistant"
           :key="damage.type"
           :type="damage.type"
           :factor="damage.factor"
@@ -41,11 +41,11 @@
         />
       </div>
 
-      <div v-if="damageDealt.immune.length" class="flex flex-col mr-2">
+      <div v-if="damageDone.immune.length" class="flex flex-col mr-2">
         <h4>None</h4>
 
         <type-pill
-          v-for="damage in damageDealt.immune"
+          v-for="damage in damageDone.immune"
           :key="damage.type"
           :type="damage.type"
           :factor="damage.factor"
@@ -71,14 +71,14 @@ export default {
 
   data() {
     return {
-      allTypes: data.types,
+      allTypes: _.cloneDeep(data.types),
       selectedType: null,
     };
   },
 
   computed: {
-    damageDealt() {
-      let data = _.map(this.selectedType.damageDealt, item =>
+    damageDone() {
+      let data = _.map(this.selectedType.damageDone, item =>
         _.pick(item, ['type', 'factor'])
       );
 

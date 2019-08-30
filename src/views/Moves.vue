@@ -79,7 +79,7 @@ export default {
 
   data() {
     return {
-      allTypes: data.types,
+      allTypes: _.cloneDeep(data.types),
       selectedTypes: [],
     };
   },
