@@ -1,25 +1,25 @@
 <template>
-  <div>
-    <header class="flex items-baseline justify-between mb-4 px-4 py-2 bg-white">
-      <h1 class="text-xl font-semibold tracking-wider">typedex</h1>
+  <v-app>
+    <app-drawer v-model="showDrawer" />
 
-      <nav>
-        <router-link class="ml-2" to="/">Home</router-link>
-        <router-link class="ml-2" to="/defend">Defend</router-link>
-        <router-link class="ml-2" to="/attack">Attack</router-link>
-      </nav>
-    </header>
+    <app-bar @toggledrawer="showDrawer = !showDrawer" />
 
-    <div v-if="loading">Loading...</div>
-    <div v-else class="px-4">
-      <keep-alive>
-        <router-view />
-      </keep-alive>
-    </div>
-  </div>
+    <v-content>
+      <v-container fluid>
+        <div v-if="loading">Loading...</div>
+        <div v-else class="px-4">
+          <keep-alive>
+            <router-view />
+          </keep-alive>
+        </div>
+      </v-container>
+    </v-content>
+  </v-app>
 </template>
 
 <script>
+import AppDrawer from './components/AppDrawer';
+import AppBar from './components/AppBar';
 import cache from './services/cache';
 import api from './services/api';
 import data from './services/data';
@@ -27,8 +27,14 @@ import data from './services/data';
 export default {
   name: 'App',
 
+  components: {
+    AppDrawer,
+    AppBar,
+  },
+
   data() {
     return {
+      showDrawer: null,
       loading: true,
     };
   },
@@ -46,5 +52,5 @@ export default {
 </script>
 
 <style>
-@import 'styles/app.css';
+/* @import 'styles/app.css'; */
 </style>
