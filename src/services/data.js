@@ -4,6 +4,7 @@ import api from './api';
 export class Data {
   constructor() {
     this.types = [];
+    this.moves = [];
   }
 
   async loadTypes() {
