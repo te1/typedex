@@ -68,10 +68,10 @@
 <script>
 import _ from 'lodash';
 import data from '../services/data';
-import TypePill from '../components/TypePill.vue';
+import TypePill from '../components/TypePill';
 
 export default {
-  name: 'Defend',
+  name: 'Moves',
 
   components: {
     TypePill,

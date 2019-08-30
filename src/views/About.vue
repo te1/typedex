@@ -1,6 +1,7 @@
 <template>
   <div>
     <h2>About typedex</h2>
+
     <p>
       typedex is an unofficial, free fan made app and is
       <i>not</i> affiliated, endorsed or supported by Nintendo, GAME FREAK or

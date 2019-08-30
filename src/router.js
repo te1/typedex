@@ -1,9 +1,9 @@
 import Vue from 'vue';
 import Router from 'vue-router';
-import Home from './views/Home.vue';
-import Defend from './views/Defend.vue';
-import Attack from './views/Attack.vue';
+import Home from './views/Home';
 import About from './views/About';
+import Pokemon from './views/Pokemon';
+import Moves from './views/Moves';
 
 Vue.use(Router);
 
@@ -22,14 +22,18 @@ export default new Router({
       component: About,
     },
     {
-      path: '/defend',
-      name: 'defend',
-      component: Defend,
+      path: '/pokemon',
+      name: 'pokemon',
+      component: Pokemon,
     },
     {
-      path: '/attack',
-      name: 'attack',
-      component: Attack,
+      path: '/moves',
+      name: 'moves',
+      component: Moves,
+    },
+    {
+      path: '*',
+      redirect: '/',
     },
     // {
     //   path: '/about',
