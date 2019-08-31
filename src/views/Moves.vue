@@ -2,7 +2,11 @@
   <div>
     <h2>Moves</h2>
 
-    <move-picker />
+    <move-picker v-model="move" />
+
+    <div v-if="move">
+      {{ move.type }}
+    </div>
 
     <!--
     <div class="mb-4 px-4 pt-4 pb-2 rounded bg-white shadow-md">
@@ -83,6 +87,8 @@ export default {
 
   data() {
     return {
+      move: null,
+
       allTypes: _.cloneDeep(data.types),
       selectedTypes: [],
     };

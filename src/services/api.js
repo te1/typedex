@@ -1,32 +1,37 @@
 import axios from 'axios';
-import _ from 'lodash';
 import cache from './cache';
 
-const baseUrl = 'https://pokeapi.co/api/v2/';
+const baseUrl = '/data/';
 const cacheFor = 60 * 60 * 8; // 8 hours in seconds
 
 export class Api {
   constructor() {
-    this.lists = {};
-    this.items = {};
+    this.types = {};
+    this.pokemon = {};
+    this.moves = {};
   }
 
   async loadTypes() {
-    await this._loadList('type');
-    await this._loadListItems('type');
+    this.types = await this._load('types');
 
-    return this.items.type;
+    return this.types;
   }
 
-  async loadMovesIndex() {
-    await this._loadList('move');
+  async loadPokemon() {
+    this.pokemon = await this._load('pokemon-index');
 
-    return this.lists.move;
+    return this.pokemon;
   }
 
-  async _loadList(name) {
+  async loadMoves() {
+    this.moves = await this._load('moves-index');
+
+    return this.moves;
+  }
+
+  async _load(name) {
     let fetch = async () => {
-      let url = baseUrl + name + '?limit=10000';
+      let url = baseUrl + name + '.json';
       let response = await axios.get(url);
 
       return response.data;
@@ -35,33 +40,7 @@ export class Api {
 
     let data = await cache.remember(cacheKey, cacheFor, fetch);
 
-    this.lists[name] = data;
-  }
-
-  async _loadListItems(name) {
-    return await Promise.all(
-      _.map(this.lists[name].results, item => {
-        return this._loadItem(name, item.name, item.url);
-      })
-    );
-  }
-
-  async _loadItem(listName, itemName, itemUrl) {
-    let fetch = async () => {
-      let response = await axios.get(itemUrl);
-
-      return response.data;
-    };
-
-    let cacheKey = 'api_' + listName + '_' + itemName;
-
-    let data = await cache.remember(cacheKey, cacheFor, fetch);
-
-    if (!this.items[listName]) {
-      this.items[listName] = {};
-    }
-
-    this.items[listName][itemName] = data;
+    return data;
   }
 }
 

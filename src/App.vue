@@ -45,7 +45,7 @@ export default {
     window.data = data;
 
     await data.loadTypes();
-    await data.loadMovesIndex();
+    await data.loadMoves();
 
     this.loading = false;
   },
