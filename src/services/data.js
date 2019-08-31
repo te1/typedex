@@ -14,8 +14,11 @@ export class Data {
     return this.types;
   }
 
-  getType(name) {
-    return this.types[name];
+  getType(type) {
+    if (typeof type === 'string') {
+      return this.types[type];
+    }
+    return type;
   }
 
   async loadPokemon() {

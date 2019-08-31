@@ -50,17 +50,35 @@ export default {
       type: Object,
       default: null,
     },
+
+    exclude: {
+      type: [Object, String],
+      default: null,
+    },
   },
 
   data() {
     return {
       open: null,
-      types: _.values(data.types),
       type: null,
     };
   },
 
   computed: {
+    resolvedExclude() {
+      return data.getType(this.exclude);
+    },
+
+    types() {
+      let result = _.values(data.types);
+
+      if (this.resolvedExclude) {
+        result = _.reject(result, item => item === this.resolvedExclude);
+      }
+
+      return result;
+    },
+
     typeCaption() {
       if (this.type) {
         return this.type.caption;

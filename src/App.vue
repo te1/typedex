@@ -44,8 +44,7 @@ export default {
     window.api = api;
     window.data = data;
 
-    await data.loadTypes();
-    await data.loadMoves();
+    await Promise.all([data.loadTypes(), data.loadMoves(), data.loadPokemon()]);
 
     this.loading = false;
   },

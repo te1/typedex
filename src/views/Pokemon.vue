@@ -4,9 +4,9 @@
 
     <pokemon-picker v-model="pokemon" @input="onPokemonSelected" />
 
-    <type-picker v-model="type1" @input="onTypeSelected" />
+    <type-picker v-model="type1" :exclude="type2" @input="onTypeSelected" />
 
-    <type-picker v-model="type2" @input="onTypeSelected" />
+    <type-picker v-model="type2" :exclude="type1" @input="onTypeSelected" />
 
     <div v-if="selectedTypes.length > 0">
       <h3>Damage taken</h3>
@@ -112,11 +112,55 @@ export default {
 
       return result;
     },
+
+    pokemonType1() {
+      if (this.pokemon == null) {
+        return null;
+      }
+
+      if (this.pokemon.types.length > 0) {
+        return data.getType(this.pokemon.types[0]);
+      }
+
+      return null;
+    },
+
+    pokemonType2() {
+      if (this.pokemon == null) {
+        return null;
+      }
+
+      if (this.pokemon.types.length > 1) {
+        return data.getType(this.pokemon.types[1]);
+      }
+
+      return null;
+    },
   },
 
   methods: {
-    onPokemonSelected() {},
-    onTypeSelected() {},
+    onPokemonSelected() {
+      if (this.pokemon == null) {
+        return;
+      }
+
+      this.type1 = this.pokemonType1;
+      this.type2 = this.pokemonType2;
+    },
+
+    onTypeSelected() {
+      if (this.pokemon == null) {
+        return;
+      }
+
+      if (this.type1 && this.pokemonType1 !== this.type1) {
+        this.pokemon = null;
+      }
+
+      if (this.type2 && this.pokemonType2 !== this.type2) {
+        this.pokemon = null;
+      }
+    },
   },
 };
 </script>

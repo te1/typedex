@@ -26,10 +26,7 @@ export default {
 
   computed: {
     resolvedType() {
-      if (typeof this.type === 'string') {
-        return data.getType(this.type);
-      }
-      return this.type;
+      return data.getType(this.type);
     },
 
     hasFactor() {
