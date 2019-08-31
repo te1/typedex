@@ -2,11 +2,13 @@
   <div>
     <h2>Moves</h2>
 
-    <move-picker v-model="move" />
+    <move-picker v-model="move" @input="onMoveSelected" />
 
-    <div v-if="move">
-      {{ move.type }}
-    </div>
+    <type-picker v-model="type" @input="onTypeSelected" />
+
+    <div v-if="type">{{ type.name }}</div>
+
+    <div v-if="move">{{ move.name }}</div>
 
     <!--
     <div class="mb-4 px-4 pt-4 pb-2 rounded bg-white shadow-md">
@@ -75,6 +77,7 @@
 import _ from 'lodash';
 import data from '../services/data';
 import MovePicker from '../components/MovePicker';
+import TypePicker from '../components/TypePicker';
 import TypePill from '../components/TypePill';
 
 export default {
@@ -82,12 +85,14 @@ export default {
 
   components: {
     MovePicker,
+    TypePicker,
     TypePill,
   },
 
   data() {
     return {
       move: null,
+      type: null,
 
       allTypes: _.cloneDeep(data.types),
       selectedTypes: [],
@@ -151,6 +156,28 @@ export default {
   },
 
   methods: {
+    onMoveSelected() {
+      if (this.move == null) {
+        return;
+      }
+
+      this.type = data.getType(this.move.type);
+    },
+
+    onTypeSelected() {
+      if (this.type == null) {
+        return;
+      }
+
+      if (this.move == null) {
+        return;
+      }
+
+      if (this.move.type !== this.type.name) {
+        this.move = null;
+      }
+    },
+
     isSelected(type) {
       return _.includes(this.selectedTypes, type);
     },
