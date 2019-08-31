@@ -1,27 +1,40 @@
 <template>
   <div>
-    <v-dialog v-model="open">
+    <v-dialog v-model="open" scrollable>
       <template v-slot:activator="{ on }">
-        <v-btn v-on="on">Click Me</v-btn>
+        <v-text-field
+          v-model="typeCaption"
+          label="Type"
+          placeholder="Select type..."
+          append-icon="$vuetify.icons.dropdown"
+          readonly
+          v-on="on"
+        ></v-text-field>
       </template>
 
-      <v-list>
-        <v-list-item-group v-model="typeIndex">
-          <v-list-item v-for="type in types" :key="type.name">
-            <!--
-              <v-list-item-icon>
-              <v-icon v-text="item.icon"></v-icon>
-            </v-list-item-icon>
-            -->
-            <v-list-item-content>
-              <v-list-item-title v-text="type.caption"></v-list-item-title>
-            </v-list-item-content>
-          </v-list-item>
-        </v-list-item-group>
-      </v-list>
-    </v-dialog>
+      <v-card>
+        <v-card-title>Title</v-card-title>
 
-    <div>{{ typeIndex }}</div>
+        <v-divider></v-divider>
+
+        <v-card-text>
+          <v-list>
+            <v-list-item-group v-model="type">
+              <v-list-item v-for="item in types" :key="item.name" :value="item">
+                <!--
+                  <v-list-item-icon>
+                    <v-icon v-text="item.icon"></v-icon>
+                  </v-list-item-icon>
+                -->
+                <v-list-item-content>
+                  <v-list-item-title v-text="item.caption"></v-list-item-title>
+                </v-list-item-content>
+              </v-list-item>
+            </v-list-item-group>
+          </v-list>
+        </v-card-text>
+      </v-card>
+    </v-dialog>
   </div>
 </template>
 
@@ -41,37 +54,34 @@ export default {
 
   data() {
     return {
-      open: true,
+      open: null,
       types: _.values(data.types),
-      typeIndex: null,
+      type: null,
     };
   },
 
   computed: {
-    currentType() {
-      return this.types[this.typeIndex];
+    typeCaption() {
+      if (this.type) {
+        return this.type.caption;
+      }
+      return null;
     },
   },
 
   watch: {
-    value(type) {
-      if (type === this.currentType) {
-        return;
-      }
-
-      let index = _.indexOf(this.types, type);
-
-      this.typeIndex = index < 0 ? null : index;
+    value(newValue) {
+      this.type = newValue;
     },
 
-    typeIndex() {
+    type() {
       if (!this.open) {
         return;
       }
 
-      this.$emit('input', this.currentType);
+      this.$emit('input', this.type);
 
-      if (this.currentType) {
+      if (this.type) {
         this.open = false;
       }
     },

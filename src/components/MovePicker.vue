@@ -5,6 +5,7 @@
     item-text="caption"
     item-value="name"
     return-object
+    label="Move"
     placeholder="Search moves..."
     no-data-text="No move found"
     @input="$emit('input', $event)"
