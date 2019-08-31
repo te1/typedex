@@ -1,92 +1,107 @@
 <template>
   <div>
-    <h2 class="text-2xl mb-4">Atack</h2>
+    <h2>Pokemon</h2>
 
-    <div class="flex flex-wrap content-between mb-4">
+    <pokemon-picker v-model="pokemon" @input="onPokemonSelected" />
+
+    <type-picker v-model="type1" @input="onTypeSelected" />
+
+    <type-picker v-model="type2" @input="onTypeSelected" />
+
+    <div v-if="selectedTypes.length > 0">
+      <h3>Damage taken</h3>
+
+      <h4>Weak against</h4>
       <type-pill
-        v-for="type in allTypes"
-        :key="type.id"
-        :type="type"
-        :selectable="true"
-        :selected="isSelected(type)"
-        class="mr-2 mb-2"
-        @toggle="onToggle"
+        v-for="damage in damageTaken.weak"
+        :key="damage.type"
+        :type="damage.type"
+        :factor="damage.factor"
+      />
+
+      <h4>Resistant against</h4>
+      <type-pill
+        v-for="damage in damageTaken.resistant"
+        :key="damage.type"
+        :type="damage.type"
+        :factor="damage.factor"
+      />
+
+      <h4>Immune against</h4>
+      <type-pill
+        v-for="damage in damageTaken.immune"
+        :key="damage.type"
+        :type="damage.type"
+        :factor="damage.factor"
       />
     </div>
-
-    <div v-if="selectedType" class="flex content-between">
-      <!-- <h3 class="text-xl mb-4">Damage taken</h3> -->
-
-      <div v-if="damageDone.strong.length" class="flex flex-col mr-2">
-        <h4>More</h4>
-
-        <type-pill
-          v-for="damage in damageDone.strong"
-          :key="damage.type"
-          :type="damage.type"
-          :factor="damage.factor"
-          class="mb-2"
-        />
-      </div>
-
-      <div v-if="damageDone.resistant.length" class="flex flex-col mr-2">
-        <h4>Less</h4>
-
-        <type-pill
-          v-for="damage in damageDone.resistant"
-          :key="damage.type"
-          :type="damage.type"
-          :factor="damage.factor"
-          class="mb-2"
-        />
-      </div>
-
-      <div v-if="damageDone.immune.length" class="flex flex-col mr-2">
-        <h4>None</h4>
-
-        <type-pill
-          v-for="damage in damageDone.immune"
-          :key="damage.type"
-          :type="damage.type"
-          :factor="damage.factor"
-          class="mb-2"
-        />
-      </div>
-    </div>
-    <div v-else>Select attack type</div>
   </div>
 </template>
 
 <script>
 import _ from 'lodash';
 import data from '../services/data';
+import PokemonPicker from '../components/PokemonPicker';
+import TypePicker from '../components/TypePicker';
 import TypePill from '../components/TypePill';
 
 export default {
   name: 'Pokemon',
 
   components: {
+    PokemonPicker,
+    TypePicker,
     TypePill,
   },
 
   data() {
     return {
-      allTypes: _.cloneDeep(data.types),
-      selectedType: null,
+      pokemon: null,
+      type1: null,
+      type2: null,
     };
   },
 
   computed: {
-    damageDone() {
-      let data = _.map(this.selectedType.damageDone, item =>
-        _.pick(item, ['type', 'factor'])
-      );
+    selectedTypes() {
+      let result = [];
+
+      if (this.type1) {
+        result.push(this.type1);
+      }
+
+      if (this.type2) {
+        result.push(this.type2);
+      }
+
+      return result;
+    },
+
+    damageTaken() {
+      let data = {};
+
+      _.forEach(this.selectedTypes, type => {
+        _.forEach(type.damageTaken, damage => {
+          if (data[damage.type] == null) {
+            data[damage.type] = damage.factor;
+          } else {
+            data[damage.type] *= damage.factor;
+          }
+        });
+      });
+
+      data = _.map(data, (value, key) => {
+        return {
+          type: key,
+          factor: value,
+        };
+      });
 
       data = _.orderBy(data, ['factor', 'type'], ['desc', 'asc']);
 
       let result = {};
 
-      result.strong = _.filter(data, item => item.factor > 1);
+      result.weak = _.filter(data, item => item.factor > 1);
 
       result.resistant = _.filter(
         data,
@@ -100,17 +115,8 @@ export default {
   },
 
   methods: {
-    isSelected(type) {
-      return this.selectedType === type;
-    },
-
-    onToggle({ type }) {
-      if (this.isSelected(type)) {
-        this.selectedType = null;
-      } else {
-        this.selectedType = type;
-      }
-    },
+    onPokemonSelected() {},
+    onTypeSelected() {},
   },
 };
 </script>
