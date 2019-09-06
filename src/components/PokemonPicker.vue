@@ -15,30 +15,30 @@
 </template>
 
 <script>
-import _ from 'lodash';
-import data from '../services/data';
+  import _ from 'lodash';
+  import data from '../services/data';
 
-export default {
-  name: 'PokemonPicker',
+  export default {
+    name: 'PokemonPicker',
 
-  props: {
-    value: {
-      type: Object,
-      default: null,
+    props: {
+      value: {
+        type: Object,
+        default: null,
+      },
     },
-  },
 
-  data() {
-    return {
-      pokemon: _.values(data.pokemon),
-      pkmn: null,
-    };
-  },
-
-  watch: {
-    value(newValue) {
-      this.pkmn = newValue;
+    data() {
+      return {
+        pokemon: _.values(data.pokemon),
+        pkmn: null,
+      };
     },
-  },
-};
+
+    watch: {
+      value(newValue) {
+        this.pkmn = newValue;
+      },
+    },
+  };
 </script>

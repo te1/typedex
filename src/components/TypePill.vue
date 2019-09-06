@@ -6,45 +6,45 @@
 </template>
 
 <script>
-import data from '../services/data';
+  import data from '../services/data';
 
-export default {
-  name: 'TypePill',
+  export default {
+    name: 'TypePill',
 
-  props: {
-    type: {
-      type: [Object, String],
-      required: true,
+    props: {
+      type: {
+        type: [Object, String],
+        required: true,
+      },
+
+      factor: {
+        type: Number,
+        required: false,
+        default: null,
+      },
     },
 
-    factor: {
-      type: Number,
-      required: false,
-      default: null,
+    computed: {
+      resolvedType() {
+        return data.getType(this.type);
+      },
+
+      hasFactor() {
+        return this.factor != null;
+      },
+
+      prettyFactor() {
+        switch (this.factor) {
+          case 0.5:
+            return '½';
+
+          case 0.25:
+            return '¼';
+
+          default:
+            return this.factor;
+        }
+      },
     },
-  },
-
-  computed: {
-    resolvedType() {
-      return data.getType(this.type);
-    },
-
-    hasFactor() {
-      return this.factor != null;
-    },
-
-    prettyFactor() {
-      switch (this.factor) {
-        case 0.5:
-          return '½';
-
-        case 0.25:
-          return '¼';
-
-        default:
-          return this.factor;
-      }
-    },
-  },
-};
+  };
 </script>

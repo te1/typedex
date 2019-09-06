@@ -4,8 +4,7 @@
 
     <p>
       typedex is an unofficial, free fan made app and is
-      <i>not</i> affiliated, endorsed or supported by Nintendo, GAME FREAK or
-      The Pokémon company in any way.
+      <i>not</i> affiliated, endorsed or supported by Nintendo, GAME FREAK or The Pokémon company in any way.
     </p>
     <p>Some images used in this app are copyrighted and are supported under fair use.</p>
     <p>Pokémon and Pokémon character names are trademarks of Nintendo.</p>
@@ -19,7 +18,7 @@
 </template>
 
 <script>
-export default {
-  name: 'About',
-};
+  export default {
+    name: 'About',
+  };
 </script>

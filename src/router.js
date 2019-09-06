@@ -1,7 +1,10 @@
 import Vue from 'vue';
 import Router from 'vue-router';
+
 import Home from './views/Home';
 import About from './views/About';
+import Offense from './views/Offense';
+import Defense from './views/Defense';
 import Pokemon from './views/Pokemon';
 import Moves from './views/Moves';
 
@@ -11,38 +14,12 @@ export default new Router({
   mode: 'history',
   base: process.env.BASE_URL,
   routes: [
-    {
-      path: '/',
-      name: 'home',
-      component: Home,
-    },
-    {
-      path: '/about',
-      name: 'about',
-      component: About,
-    },
-    {
-      path: '/pokemon',
-      name: 'pokemon',
-      component: Pokemon,
-    },
-    {
-      path: '/moves',
-      name: 'moves',
-      component: Moves,
-    },
-    {
-      path: '*',
-      redirect: '/',
-    },
-    // {
-    //   path: '/about',
-    //   name: 'about',
-    //   // route level code-splitting
-    //   // this generates a separate chunk (about.[hash].js) for this route
-    //   // which is lazy-loaded when the route is visited.
-    //   component: () =>
-    //     import(/* webpackChunkName: "about" */ './views/About.vue'),
-    // },
+    { path: '/', name: 'home', component: Home },
+    { path: '/about', name: 'about', component: About },
+    { path: '/offense', name: 'offense', component: Offense },
+    { path: '/defense', name: 'defense', component: Defense },
+    { path: '/pokemon', name: 'pokemon', component: Pokemon },
+    { path: '/moves', name: 'moves', component: Moves },
+    { path: '*', redirect: '/' },
   ],
 });

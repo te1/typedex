@@ -15,29 +15,29 @@
 </template>
 
 <script>
-import data from '../services/data';
+  import data from '../services/data';
 
-export default {
-  name: 'MovePicker',
+  export default {
+    name: 'MovePicker',
 
-  props: {
-    value: {
-      type: Object,
-      default: null,
+    props: {
+      value: {
+        type: Object,
+        default: null,
+      },
     },
-  },
 
-  data() {
-    return {
-      moves: data.moves,
-      move: null,
-    };
-  },
-
-  watch: {
-    value(newValue) {
-      this.move = newValue;
+    data() {
+      return {
+        moves: data.moves,
+        move: null,
+      };
     },
-  },
-};
+
+    watch: {
+      value(newValue) {
+        this.move = newValue;
+      },
+    },
+  };
 </script>

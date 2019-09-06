@@ -46,69 +46,69 @@
 </template>
 
 <script>
-import _ from 'lodash';
-import data from '../services/data';
-import MovePicker from '../components/MovePicker';
-import TypePicker from '../components/TypePicker';
-import TypePill from '../components/TypePill';
+  import _ from 'lodash';
+  import data from '../services/data';
+  import MovePicker from '../components/MovePicker';
+  import TypePicker from '../components/TypePicker';
+  import TypePill from '../components/TypePill';
 
-export default {
-  name: 'Moves',
+  export default {
+    name: 'Moves',
 
-  components: {
-    MovePicker,
-    TypePicker,
-    TypePill,
-  },
-
-  data() {
-    return {
-      move: null,
-      type: null,
-    };
-  },
-
-  computed: {
-    damageDone() {
-      let data = _.map(this.type.damageDone, item =>
-        _.pick(item, ['type', 'factor'])
-      );
-
-      data = _.orderBy(data, ['factor', 'type'], ['desc', 'asc']);
-
-      let result = {};
-
-      result.strong = _.filter(data, item => item.factor > 1);
-
-      result.resistant = _.filter(
-        data,
-        item => item.factor > 0 && item.factor < 1
-      );
-
-      result.immune = _.filter(data, item => item.factor <= 0);
-
-      return result;
-    },
-  },
-
-  methods: {
-    onMoveSelected() {
-      if (this.move == null) {
-        return;
-      }
-
-      this.type = data.getType(this.move.type);
+    components: {
+      MovePicker,
+      TypePicker,
+      TypePill,
     },
 
-    onTypeSelected() {
-      if (this.type == null || this.move == null) {
-        return;
-      }
-
-      if (this.move.type !== this.type.name) {
-        this.move = null;
-      }
+    data() {
+      return {
+        move: null,
+        type: null,
+      };
     },
-  },
-};
+
+    computed: {
+      damageDone() {
+        let data = _.map(this.type.damageDone, item =>
+          _.pick(item, ['type', 'factor'])
+        );
+
+        data = _.orderBy(data, ['factor', 'type'], ['desc', 'asc']);
+
+        let result = {};
+
+        result.strong = _.filter(data, item => item.factor > 1);
+
+        result.resistant = _.filter(
+          data,
+          item => item.factor > 0 && item.factor < 1
+        );
+
+        result.immune = _.filter(data, item => item.factor <= 0);
+
+        return result;
+      },
+    },
+
+    methods: {
+      onMoveSelected() {
+        if (this.move == null) {
+          return;
+        }
+
+        this.type = data.getType(this.move.type);
+      },
+
+      onTypeSelected() {
+        if (this.type == null || this.move == null) {
+          return;
+        }
+
+        if (this.move.type !== this.type.name) {
+          this.move = null;
+        }
+      },
+    },
+  };
 </script>
