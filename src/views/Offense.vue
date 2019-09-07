@@ -1,19 +1,24 @@
 <template>
-  <div>
-    <app-heading>Offense</app-heading>
+  <div class="flex flex-wrap">
+    <div class="w-full sm:w-72 sm:pr-4">
+      <app-heading class="mb-2">Offense</app-heading>
 
-    <div class="box-heading">Move</div>
-    <div class="box -mx-2 mb-4 p-2">
-      <type-picker
-        v-model="type"
-        @select="typeSelected"
-      >
-        Type
-      </type-picker>
+      <div class="box-heading">Move</div>
+      <div class="box -mx-2 mb-4 p-2">
+        <type-picker
+          v-model="type"
+          @select="typeSelected"
+        >
+          Type
+        </type-picker>
+      </div>
     </div>
 
-    <div v-if="type">
-      <app-heading class="mt-6 mb-2">Damage Done</app-heading>
+    <div
+      v-if="type"
+      class="mt-6 w-full sm:flex-1 sm:mt-0 sm:pl-4"
+    >
+      <app-heading class="mb-2">Damage Done</app-heading>
 
       <type-damage-list
         :data="damageDone.strong"

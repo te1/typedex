@@ -1,30 +1,35 @@
 <template>
-  <div>
-    <app-heading>Defense</app-heading>
+  <div class="flex flex-wrap">
+    <div class="w-full sm:w-72 sm:pr-4">
+      <app-heading class="mb-2">Defense</app-heading>
 
-    <div class="box-heading">Pokemon</div>
-    <div class="box -mx-2 mb-4 p-2">
-      <type-picker
-        v-model="type1"
-        class="mb-2"
-        @select="type1Selected"
-      >
-        Primary Type
-      </type-picker>
+      <div class="box-heading">Pokemon</div>
+      <div class="box -mx-2 mb-4 p-2">
+        <type-picker
+          v-model="type1"
+          class="mb-2"
+          @select="type1Selected"
+        >
+          Primary Type
+        </type-picker>
 
-      <type-picker
-        v-model="type2"
-        :exclude="type1"
-        :show-none="true"
-        :allow-clear="true"
-        @select="type2Selected"
-      >
-        Secondary Type
-      </type-picker>
+        <type-picker
+          v-model="type2"
+          :exclude="type1"
+          :show-none="true"
+          :allow-clear="true"
+          @select="type2Selected"
+        >
+          Secondary Type
+        </type-picker>
+      </div>
     </div>
 
-    <div v-if="types.length">
-      <app-heading class="mt-6 mb-2">Damage Taken</app-heading>
+    <div
+      v-if="types.length"
+      class="mt-6 w-full sm:flex-1 sm:mt-0 sm:pl-4"
+    >
+      <app-heading class="mb-2">Damage Taken</app-heading>
 
       <type-damage-list
         :data="damageTaken.weak"
