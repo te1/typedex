@@ -66,8 +66,8 @@
         }
 
         if (this.interactive) {
-          result.push('cursor-pointer', 'select-none');
-          result.push('hover:opacity-75', 'hover:shadow');
+          result.push('cursor-pointer select-none');
+          result.push('hover:opacity-75 hover:shadow');
         }
 
         return result;

@@ -32,9 +32,7 @@
     },
 
     activated() {
-      if (this.type && this.$route.params.type !== this.type.name) {
-        this.$router.replace('/offense/' + this.type.name);
-      }
+      this.updateRoute(this.type, { replace: true });
     },
 
     beforeRouteUpdate(to, from, next) {
@@ -57,8 +55,18 @@
         return type;
       },
 
-      updateRoute(type) {
-        this.$router.push('/offense/' + type.name);
+      updateRoute(type, opts = {}) {
+        let path = '/offense/' + type.name;
+
+        if (this.$route.path === path) {
+          return;
+        }
+
+        if (opts.replace) {
+          this.$router.replace(path);
+        } else {
+          this.$router.push(path);
+        }
       },
     },
   };
