@@ -67,6 +67,11 @@
     },
 
     beforeRouteUpdate(to, from, next) {
+      if (to.name === from.name && !to.params.type) {
+        // don't reset type when navigating from /offense/x to /offense
+        return;
+      }
+
       this.type = this.getTypeFromRoute(to);
 
       next();
