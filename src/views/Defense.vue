@@ -1,5 +1,7 @@
 <template>
   <div>
+    <app-heading>Defense</app-heading>
+
     <div class="box-heading">Pokemon</div>
     <div class="box -mx-2 p-2">
       <div class="mb-2 flex items-center justify-between">
@@ -23,6 +25,8 @@
     </div>
 
     <div v-if="types.length">
+      <app-heading class="mt-6 mb-2">Damage Taken</app-heading>
+
       <type-damage-list
         :data="damageTaken.weak"
         :attack="false"

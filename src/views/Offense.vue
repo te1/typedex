@@ -1,5 +1,7 @@
 <template>
   <div>
+    <app-heading>Offense</app-heading>
+
     <div class="box-heading">Move</div>
     <div class="box -mx-2 p-2">
       <div class="flex items-center justify-between">
@@ -12,6 +14,8 @@
     </div>
 
     <div v-if="type">
+      <app-heading class="mt-6 mb-2">Damage Done</app-heading>
+
       <type-damage-list
         :data="damageDone.strong"
         heading="It's super effective!"
