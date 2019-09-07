@@ -9,11 +9,19 @@
         :type="type"
         :interactive="true"
       />
-      <div
-        v-else
-        class="cursor-pointer select-none italic text-gray-500"
-      >
-        Select a type...
+      <div v-else>
+        <div v-if="showNone && allowClear">
+          <type-label
+            type="none"
+            :interactive="true"
+          />
+        </div>
+        <div
+          v-else
+          class="cursor-pointer select-none italic text-gray-500"
+        >
+          Select a type...
+        </div>
       </div>
     </div>
 
@@ -27,7 +35,7 @@
     >
       <div
         v-if="open"
-        class="box -mx-2 mt-4 p-2 origin-top-left absolute"
+        class="box -mx-2 mt-4 p-2 right-0 origin-top-right absolute z-10"
       >
         <div
           v-for="(group, index) in typesGrouped"

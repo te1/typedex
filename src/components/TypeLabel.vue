@@ -1,6 +1,6 @@
 <template>
   <div
-    class="rounded flex items-center text-white"
+    class="flex items-center text-white"
     :class="classes"
     :style="styles"
     :title="title"
@@ -10,7 +10,7 @@
     </div>
     <div
       v-if="showText"
-      class="-ml-2 px-1 w-24 flex-1 text-center uppercase font-semibold tracking-wider"
+      class="-ml-2 px-2 w-24 flex-1 text-center uppercase font-semibold tracking-wider"
     >
       {{ resolvedType.caption }}
     </div>
@@ -43,6 +43,11 @@
         type: Boolean,
         default: true,
       },
+
+      hasFactor: {
+        type: Boolean,
+        default: false,
+      },
     },
 
     computed: {
@@ -60,6 +65,12 @@
 
       classes() {
         let result = [];
+
+        if (this.hasFactor) {
+          result.push('rounded-l');
+        } else {
+          result.push('rounded');
+        }
 
         if (this.active) {
           result.push('shadow bg-gray-300 text-gray-700');

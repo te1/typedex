@@ -10,8 +10,8 @@
   @apply mb-1 font-semibold;
 }
 
-.origin-top-left {
-  transform-origin: top left;
+.origin-top-right {
+  transform-origin: top right;
 }
 .transition-all {
   transition-property: all;
