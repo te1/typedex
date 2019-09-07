@@ -110,7 +110,7 @@
             return 'bug';
 
           case 'dark':
-            return 'adjust';
+            return 'moon';
 
           case 'dragon':
             return 'dragon';
@@ -128,13 +128,13 @@
             return 'fire';
 
           case 'flying':
-            return 'feather-alt';
+            return 'dove';
 
           case 'ghost':
             return 'ghost';
 
           case 'grass':
-            return 'leaf';
+            return 'seedling';
 
           case 'ground':
             return 'mountain';
@@ -149,13 +149,13 @@
             return 'skull';
 
           case 'psychic':
-            return 'dizzy';
+            return 'eye';
 
           case 'rock':
             return 'gem';
 
           case 'steel':
-            return 'cog';
+            return 'weight-hanging';
 
           case 'water':
             return 'tint';

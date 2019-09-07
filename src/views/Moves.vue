@@ -56,7 +56,6 @@
   import data from '../services/data';
   import MovePicker from '../components/MovePicker';
   import TypePicker from '../components/TypePicker';
-  import TypePill from '../components/TypePill';
 
   export default {
     name: 'Moves',
@@ -64,7 +63,6 @@
     components: {
       MovePicker,
       TypePicker,
-      TypePill,
     },
 
     data() {

@@ -1,7 +1,22 @@
 <template>
   <div v-if="data.length">
-    <div class="box-heading">
-      <slot name="default" />
+    <div
+      v-if="heading"
+      class="box-heading flex justify-between"
+    >
+      <div>{{ heading }}</div>
+      <div
+        v-if="info"
+        class="flex items-center"
+        :class="infoClasses"
+      >
+        <div class="uppercase font-semibold tracking-wider">{{ info }}</div>
+        <fa-icon
+          v-if="infoIcon"
+          :icon="infoIcon"
+          class="ml-1"
+        />
+      </div>
     </div>
 
     <div class="box -mx-2 px-2 py-1">
@@ -42,9 +57,51 @@
         required: true,
       },
 
+      heading: {
+        type: String,
+        default: '',
+      },
+
+      info: {
+        type: String,
+        default: '',
+      },
+
+      infoColor: {
+        type: String,
+        default: '',
+      },
+
+      infoIcon: {
+        type: String,
+        default: '',
+      },
+
       attack: {
         type: Boolean,
         default: true,
+      },
+    },
+
+    computed: {
+      infoClasses() {
+        let result = [];
+
+        switch (this.infoColor) {
+          case 'green':
+            result.push('text-green-500');
+            break;
+
+          case 'orange':
+            result.push('text-orange-400');
+            break;
+
+          case 'red':
+            result.push('text-red-400');
+            break;
+        }
+
+        return result;
       },
     },
 

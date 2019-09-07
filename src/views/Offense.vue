@@ -12,17 +12,29 @@
     </div>
 
     <div v-if="type">
-      <type-damage-list :data="damageDone.strong">
-        It's super effective!
-      </type-damage-list>
+      <type-damage-list
+        :data="damageDone.strong"
+        heading="It's super effective!"
+        info="strong"
+        info-color="green"
+        info-icon="arrow-up"
+      />
 
-      <type-damage-list :data="damageDone.weak">
-        It's not very effective...
-      </type-damage-list>
+      <type-damage-list
+        :data="damageDone.weak"
+        heading="It's not very effective..."
+        info="weak"
+        info-color="orange"
+        info-icon="arrow-down"
+      />
 
-      <type-damage-list :data="damageDone.immune">
-        It has no effect
-      </type-damage-list>
+      <type-damage-list
+        :data="damageDone.immune"
+        heading="It has no effect"
+        info="immune"
+        info-color="red"
+        info-icon="ban"
+      />
     </div>
   </div>
 </template>

@@ -26,23 +26,29 @@
       <type-damage-list
         :data="damageTaken.weak"
         :attack="false"
-      >
-        It's super effective!
-      </type-damage-list>
+        heading="It's super effective!"
+        info="weak"
+        info-color="red"
+        info-icon="arrow-up"
+      />
 
       <type-damage-list
         :data="damageTaken.resistant"
         :attack="false"
-      >
-        It's not very effective...
-      </type-damage-list>
+        heading="It's not very effective..."
+        info="resistant"
+        info-color="green"
+        info-icon="arrow-down"
+      />
 
       <type-damage-list
         :data="damageTaken.immune"
         :attack="false"
-      >
-        It has no effect
-      </type-damage-list>
+        heading="It has no effect"
+        info="immune"
+        info-color="green"
+        info-icon="ban"
+      />
     </div>
   </div>
 </template>
