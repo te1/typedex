@@ -1,108 +1,143 @@
 <template>
-  <div>
-    <v-dialog v-model="open" scrollable>
-      <template v-slot:activator="{ on }">
-        <v-text-field
-          v-model="typeCaption"
-          label="Type"
-          placeholder="Select type..."
-          append-icon="$vuetify.icons.dropdown"
-          readonly
-          v-on="on"
-        ></v-text-field>
-      </template>
+  <div class="relative">
+    <div
+      class="h-6 flex items-center"
+      @click="open = !open"
+    >
+      <type-label
+        v-if="type"
+        :type="type"
+        :interactive="true"
+      />
+      <div
+        v-else
+        class="cursor-pointer select-none italic text-gray-500"
+      >
+        Select a type...
+      </div>
+    </div>
 
-      <v-card>
-        <v-card-title>Title</v-card-title>
-
-        <v-divider></v-divider>
-
-        <v-card-text>
-          <v-list>
-            <v-list-item-group v-model="type">
-              <v-list-item v-for="item in types" :key="item.name" :value="item">
-                <!--
-                  <v-list-item-icon>
-                    <v-icon v-text="item.icon"></v-icon>
-                  </v-list-item-icon>
-                -->
-                <v-list-item-content>
-                  <v-list-item-title v-text="item.caption"></v-list-item-title>
-                </v-list-item-content>
-              </v-list-item>
-            </v-list-item-group>
-          </v-list>
-        </v-card-text>
-      </v-card>
-    </v-dialog>
+    <transition
+      enter-active-class="transition-all transition-fastest ease-out-quad"
+      leave-active-class="transition-all transition-faster ease-in-quad"
+      enter-class="opacity-0 scale-70"
+      enter-to-class="opacity-100 scale-100"
+      leave-class="opacity-100 scale-100"
+      leave-to-class="opacity-0 scale-70"
+    >
+      <div
+        v-if="open"
+        class="origin-top-right absolute right-0 pl-2 pt-2 mt-4 -mr-2 bg-white rounded shadow"
+      >
+        <div
+          v-for="(group, index) in typesGrouped"
+          :key="index"
+          class="flex mb-2"
+        >
+          <type-label
+            v-for="item in group"
+            :key="item.name"
+            :type="item"
+            :interactive="true"
+            :active="type === item"
+            class="mr-2"
+            @click.native="select(item)"
+          >
+            {{ item.caption }}
+          </type-label>
+        </div>
+      </div>
+    </transition>
   </div>
 </template>
 
 <script>
-import _ from 'lodash';
-import data from '../services/data';
+  import _ from 'lodash';
+  import data from '../services/data';
+  import TypeLabel from './TypeLabel';
 
-export default {
-  name: 'TypePicker',
+  export default {
+    name: 'TypePicker',
 
-  props: {
-    value: {
-      type: Object,
-      default: null,
+    components: {
+      TypeLabel,
     },
 
-    exclude: {
-      type: [Object, String],
-      default: null,
-    },
-  },
+    props: {
+      value: {
+        type: Object,
+        default: null,
+      },
 
-  data() {
-    return {
-      open: null,
-      type: null,
-    };
-  },
+      allowClear: {
+        type: Boolean,
+        default: false,
+      },
 
-  computed: {
-    resolvedExclude() {
-      return data.getType(this.exclude);
-    },
+      showNone: {
+        type: Boolean,
+        default: false,
+      },
 
-    types() {
-      let result = _.values(data.types);
-
-      if (this.resolvedExclude) {
-        result = _.reject(result, item => item === this.resolvedExclude);
-      }
-
-      return result;
+      exclude: {
+        type: [Object, String],
+        default: null,
+      },
     },
 
-    typeCaption() {
-      if (this.type) {
-        return this.type.caption;
-      }
-      return null;
-    },
-  },
-
-  watch: {
-    value(newValue) {
-      this.type = newValue;
+    data() {
+      return {
+        open: false,
+        type: this.value,
+      };
     },
 
-    type() {
-      if (!this.open) {
-        return;
-      }
+    computed: {
+      resolvedExclude() {
+        return data.getType(this.exclude);
+      },
 
-      this.$emit('input', this.type);
+      types() {
+        let result = _.values(data.types);
 
-      if (this.type) {
+        if (this.resolvedExclude) {
+          result = _.reject(result, item => item === this.resolvedExclude);
+        }
+
+        if (this.showNone) {
+          result.unshift('none');
+        }
+
+        return result;
+      },
+
+      typesGrouped() {
+        return _.chunk(this.types, 2);
+      },
+    },
+
+    watch: {
+      value(newValue) {
+        this.type = newValue;
+      },
+
+      type() {
+        this.$emit('input', this.type);
+      },
+    },
+
+    methods: {
+      select(type) {
         this.open = false;
-      }
+
+        if (this.allowClear && (this.type === type || type === 'none')) {
+          this.type = null;
+        } else {
+          this.type = type;
+        }
+
+        this.$emit('select', this.type);
+      },
     },
-  },
-};
+  };
 </script>

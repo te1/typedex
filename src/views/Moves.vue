@@ -2,9 +2,15 @@
   <div>
     <h2>Moves</h2>
 
-    <move-picker v-model="move" @input="onMoveSelected" />
+    <move-picker
+      v-model="move"
+      @input="onMoveSelected"
+    />
 
-    <type-picker v-model="type" @input="onTypeSelected" />
+    <type-picker
+      v-model="type"
+      @input="onTypeSelected"
+    />
 
     <div v-if="type">
       <h3>Damage done</h3>

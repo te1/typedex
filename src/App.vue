@@ -1,20 +1,22 @@
 <template>
   <div>
-    <app-nav />
+    <app-bar />
 
-    <div v-if="loading">
-      Loading...
-    </div>
-    <div v-else>
-      <keep-alive>
-        <router-view />
-      </keep-alive>
+    <div class="px-2 py-2">
+      <div v-if="loading">
+        Loading...
+      </div>
+      <div v-else>
+        <keep-alive>
+          <router-view />
+        </keep-alive>
+      </div>
     </div>
   </div>
 </template>
 
 <script>
-  import AppNav from './components/AppNav';
+  import AppBar from './components/AppBar';
   import cache from './services/cache';
   import api from './services/api';
   import data from './services/data';
@@ -23,7 +25,7 @@
     name: 'App',
 
     components: {
-      AppNav,
+      AppBar,
     },
 
     data() {

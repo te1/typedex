@@ -6,7 +6,7 @@ const cacheFor = 60 * 60 * 8; // 8 hours in seconds
 
 export class Api {
   constructor() {
-    this.types = {};
+    this.types = [];
     this.pokemon = {};
     this.moves = {};
   }

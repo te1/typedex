@@ -16,7 +16,7 @@ export default new Router({
   routes: [
     { path: '/', name: 'home', component: Home },
     { path: '/about', name: 'about', component: About },
-    { path: '/offense', name: 'offense', component: Offense },
+    { path: '/offense/:type?', name: 'offense', component: Offense },
     { path: '/defense', name: 'defense', component: Defense },
     { path: '/pokemon', name: 'pokemon', component: Pokemon },
     { path: '/moves', name: 'moves', component: Moves },

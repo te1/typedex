@@ -1,4 +1,4 @@
-// import _ from 'lodash';
+import _ from 'lodash';
 import api from './api';
 
 export class Data {
@@ -9,7 +9,9 @@ export class Data {
   }
 
   async loadTypes() {
-    this.types = await api.loadTypes();
+    let types = await api.loadTypes();
+
+    this.types = _.keyBy(types, 'name');
 
     return this.types;
   }

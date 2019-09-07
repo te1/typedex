@@ -148,9 +148,8 @@ async function exportTypes() {
   });
 
   types = _.orderBy(types, 'name');
-  types = _.keyBy(types, 'name');
 
-  console.log(`writing ${_.keys(types).length} types...`);
+  console.log(`writing ${types.length} types...`);
 
   await exportData(path.join(target, 'types.json'), types);
 

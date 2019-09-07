@@ -1,5 +1,5 @@
-{
-  "bug": {
+[
+  {
     "name": "bug",
     "caption": "Bug",
     "color": "#a6b91a",
@@ -72,7 +72,7 @@
       }
     ]
   },
-  "dark": {
+  {
     "name": "dark",
     "caption": "Dark",
     "color": "#705746",
@@ -125,7 +125,7 @@
       }
     ]
   },
-  "dragon": {
+  {
     "name": "dragon",
     "caption": "Dragon",
     "color": "#6f35fc",
@@ -174,7 +174,7 @@
       }
     ]
   },
-  "electric": {
+  {
     "name": "electric",
     "caption": "Electric",
     "color": "#f7d02c",
@@ -223,7 +223,7 @@
       }
     ]
   },
-  "fairy": {
+  {
     "name": "fairy",
     "caption": "Fairy",
     "color": "#d685ad",
@@ -280,7 +280,7 @@
       }
     ]
   },
-  "fighting": {
+  {
     "name": "fighting",
     "caption": "Fighting",
     "color": "#c22e28",
@@ -357,7 +357,7 @@
       }
     ]
   },
-  "fire": {
+  {
     "name": "fire",
     "caption": "Fire",
     "color": "#ee8130",
@@ -434,7 +434,7 @@
       }
     ]
   },
-  "flying": {
+  {
     "name": "flying",
     "caption": "Flying",
     "color": "#a98ff3",
@@ -495,7 +495,7 @@
       }
     ]
   },
-  "ghost": {
+  {
     "name": "ghost",
     "caption": "Ghost",
     "color": "#735797",
@@ -544,7 +544,7 @@
       }
     ]
   },
-  "grass": {
+  {
     "name": "grass",
     "caption": "Grass",
     "color": "#7ac74c",
@@ -629,7 +629,7 @@
       }
     ]
   },
-  "ground": {
+  {
     "name": "ground",
     "caption": "Ground",
     "color": "#e2bf65",
@@ -694,7 +694,7 @@
       }
     ]
   },
-  "ice": {
+  {
     "name": "ice",
     "caption": "Ice",
     "color": "#96d9d6",
@@ -755,7 +755,7 @@
       }
     ]
   },
-  "normal": {
+  {
     "name": "normal",
     "caption": "Normal",
     "color": "#a8a77a",
@@ -784,7 +784,7 @@
       }
     ]
   },
-  "poison": {
+  {
     "name": "poison",
     "caption": "Poison",
     "color": "#a33ea1",
@@ -849,7 +849,7 @@
       }
     ]
   },
-  "psychic": {
+  {
     "name": "psychic",
     "caption": "Psychic",
     "color": "#f95587",
@@ -898,7 +898,7 @@
       }
     ]
   },
-  "rock": {
+  {
     "name": "rock",
     "caption": "Rock",
     "color": "#b6a136",
@@ -971,7 +971,7 @@
       }
     ]
   },
-  "steel": {
+  {
     "name": "steel",
     "caption": "Steel",
     "color": "#b7b7ce",
@@ -1064,7 +1064,7 @@
       }
     ]
   },
-  "water": {
+  {
     "name": "water",
     "caption": "Water",
     "color": "#6390f0",
@@ -1121,4 +1121,4 @@
       }
     ]
   }
-}
+]
