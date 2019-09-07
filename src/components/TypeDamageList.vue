@@ -19,7 +19,7 @@
       </div>
     </div>
 
-    <div class="box -mx-2 px-2 py-1">
+    <div class="box -mx-2 mb-4 px-2 py-1">
       <div class="-mx-2 -mb-1 flex flex-wrap">
         <div
           v-for="item in data"
@@ -31,7 +31,7 @@
             :type="item.type"
             :has-factor="true"
           />
-          <div class="w-10 h-10 -ml-1 pb-1 flex items-center justify-center text-2xl text-white font-light rounded-full border-4 border-white bg-gray-700">
+          <div class="w-10 h-10 -ml-1 flex items-center justify-center text-2xl text-white font-light rounded-full border-4 border-white bg-gray-700">
             {{ getPrettyFactor(item) }}
           </div>
         </div>

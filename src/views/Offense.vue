@@ -3,14 +3,13 @@
     <app-heading>Offense</app-heading>
 
     <div class="box-heading">Move</div>
-    <div class="box -mx-2 p-2">
-      <div class="flex items-center justify-between">
-        <div>Type</div>
-        <type-picker
-          v-model="type"
-          @select="typeSelected"
-        />
-      </div>
+    <div class="box -mx-2 mb-4 p-2">
+      <type-picker
+        v-model="type"
+        @select="typeSelected"
+      >
+        Type
+      </type-picker>
     </div>
 
     <div v-if="type">

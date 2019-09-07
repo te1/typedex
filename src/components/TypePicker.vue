@@ -1,8 +1,16 @@
 <template>
-  <div class="relative">
+  <div class="flex items-center justify-between">
+    <div
+      v-if="$slots.default"
+      class="flex-1 cursor-pointer select-none"
+      @click="toggle"
+    >
+      <slot />
+    </div>
+
     <div
       class="h-6 flex items-center"
-      @click="open = !open"
+      @click="toggle"
     >
       <type-label
         v-if="type"
@@ -25,49 +33,51 @@
       </div>
     </div>
 
-    <transition
-      enter-active-class="transition-all transition-fastest ease-out-quad"
-      leave-active-class="transition-all transition-faster ease-in-quad"
-      enter-class="opacity-0 scale-70"
-      enter-to-class="opacity-100 scale-100"
-      leave-class="opacity-100 scale-100"
-      leave-to-class="opacity-0 scale-70"
-    >
+    <app-modal v-model="open">
+      <div slot="header">
+        Select Type
+      </div>
+
       <div
-        v-if="open"
-        class="box -mx-2 mt-4 p-2 right-0 origin-top-right absolute z-10"
+        v-for="(group, index) in typesGrouped"
+        :key="index"
+        class="-my-4"
       >
-        <div
-          v-for="(group, index) in typesGrouped"
-          :key="index"
-          class="-my-2"
-        >
-          <div class="flex -mr-2 py-2">
-            <type-label
-              v-for="item in group"
-              :key="item.name"
-              :type="item"
-              :interactive="true"
-              :active="type === item"
-              class="mr-2"
-              @click.native="select(item)"
-            />
-          </div>
+        <div class="flex -mr-4 py-4">
+          <type-label
+            v-for="item in group"
+            :key="item.name"
+            :type="item"
+            :interactive="true"
+            :active="type === item"
+            class="mr-4"
+            @click.native="select(item)"
+          />
         </div>
       </div>
-    </transition>
+
+      <div
+        slot="footer"
+        class="btn-link text-center"
+        @click="close"
+      >
+        Cancel
+      </div>
+    </app-modal>
   </div>
 </template>
 
 <script>
   import _ from 'lodash';
   import data from '../services/data';
+  import AppModal from '../components/AppModal';
   import TypeLabel from './TypeLabel';
 
   export default {
     name: 'TypePicker',
 
     components: {
+      AppModal,
       TypeLabel,
     },
 
@@ -135,6 +145,14 @@
     },
 
     methods: {
+      toggle() {
+        this.open = !this.open;
+      },
+
+      close() {
+        this.open = false;
+      },
+
       select(type) {
         this.open = false;
 

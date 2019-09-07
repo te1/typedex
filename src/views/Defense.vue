@@ -3,25 +3,24 @@
     <app-heading>Defense</app-heading>
 
     <div class="box-heading">Pokemon</div>
-    <div class="box -mx-2 p-2">
-      <div class="mb-2 flex items-center justify-between">
-        <div>Primary Type</div>
-        <type-picker
-          v-model="type1"
-          @select="type1Selected"
-        />
-      </div>
+    <div class="box -mx-2 mb-4 p-2">
+      <type-picker
+        v-model="type1"
+        class="mb-2"
+        @select="type1Selected"
+      >
+        Primary Type
+      </type-picker>
 
-      <div class="flex items-center justify-between">
-        <div>Secondary Type</div>
-        <type-picker
-          v-model="type2"
-          :exclude="type1"
-          :show-none="true"
-          :allow-clear="true"
-          @select="type2Selected"
-        />
-      </div>
+      <type-picker
+        v-model="type2"
+        :exclude="type1"
+        :show-none="true"
+        :allow-clear="true"
+        @select="type2Selected"
+      >
+        Secondary Type
+      </type-picker>
     </div>
 
     <div v-if="types.length">
