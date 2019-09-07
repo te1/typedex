@@ -1,34 +1,65 @@
 <template>
   <div>
-    <h2 class="px-2 mb-2">
-      Offense
-    </h2>
-
-    <div class="px-2 py-2 flex items-center justify-between bg-white rounded shadow">
-      <div>Type</div>
+    <div class="box-heading">Move Type</div>
+    <div class="box -mx-2 p-2">
       <type-picker
         v-model="type"
         @select="updateRoute"
       />
     </div>
+
+    <div v-if="type">
+      <type-damage-list :data="damageDone.strong">
+        It's super effective!
+      </type-damage-list>
+
+      <type-damage-list :data="damageDone.weak">
+        It's not very effective...
+      </type-damage-list>
+
+      <type-damage-list :data="damageDone.immune">
+        It has no effect
+      </type-damage-list>
+    </div>
   </div>
 </template>
 
 <script>
+  import _ from 'lodash';
   import data from '../services/data';
   import TypePicker from '../components/TypePicker';
+  import TypeDamageList from '../components/TypeDamageList';
 
   export default {
     name: 'Offense',
 
     components: {
       TypePicker,
+      TypeDamageList,
     },
 
     data() {
       return {
         type: this.getTypeFromRoute(this.$route),
       };
+    },
+
+    computed: {
+      damageDone() {
+        let data = _.map(this.type.damageDone, item =>
+          _.pick(item, ['type', 'factor'])
+        );
+
+        data = _.orderBy(data, ['factor', 'type'], ['desc', 'asc']);
+
+        let result = {};
+
+        result.strong = _.filter(data, item => item.factor > 1);
+        result.weak = _.filter(data, item => item.factor > 0 && item.factor < 1);
+        result.immune = _.filter(data, item => item.factor <= 0);
+
+        return result;
+      },
     },
 
     activated() {

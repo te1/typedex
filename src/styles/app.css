@@ -2,8 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
-.origin-top-right {
-  transform-origin: top right;
+.box {
+  @apply mb-4 rounded shadow bg-white;
+}
+
+.box-heading {
+  @apply mb-1 font-semibold;
+}
+
+.origin-top-left {
+  transform-origin: top left;
 }
 .transition-all {
   transition-property: all;

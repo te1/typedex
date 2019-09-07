@@ -27,24 +27,24 @@
     >
       <div
         v-if="open"
-        class="origin-top-right absolute right-0 pl-2 pt-2 mt-4 -mr-2 bg-white rounded shadow"
+        class="box -mx-2 mt-4 p-2 origin-top-left absolute"
       >
         <div
           v-for="(group, index) in typesGrouped"
           :key="index"
-          class="flex mb-2"
+          class="-my-2"
         >
-          <type-label
-            v-for="item in group"
-            :key="item.name"
-            :type="item"
-            :interactive="true"
-            :active="type === item"
-            class="mr-2"
-            @click.native="select(item)"
-          >
-            {{ item.caption }}
-          </type-label>
+          <div class="flex -mr-2 py-2">
+            <type-label
+              v-for="item in group"
+              :key="item.name"
+              :type="item"
+              :interactive="true"
+              :active="type === item"
+              class="mr-2"
+              @click.native="select(item)"
+            />
+          </div>
         </div>
       </div>
     </transition>

@@ -85,7 +85,7 @@
 
       title() {
         if (this.showText) {
-          return '';
+          return;
         }
         return this.resolvedType.caption;
       },
