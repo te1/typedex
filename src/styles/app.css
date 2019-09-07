@@ -10,6 +10,18 @@
   @apply mb-1 font-semibold;
 }
 
+.nav-link {
+  @apply text-blue-500;
+}
+
+.nav-link.router-link-active {
+  @apply font-semibold;
+}
+
+.nav-link:hover {
+  @apply opacity-75;
+}
+
 .btn-link {
   @apply text-blue-500 font-semibold tracking-wider cursor-pointer select-none;
 }

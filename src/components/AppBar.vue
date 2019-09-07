@@ -4,20 +4,24 @@
       typedex
     </h1>
 
-    <nav>
+    <div class="flex -mx-2">
       <!--
       <router-link to="/">
         Home
       </router-link>
       -->
 
-      <router-link to="/offense">
+      <router-link
+        to="/offense"
+        class="nav-link px-2"
+      >
         Offense
       </router-link>
 
-      <span>|</span>
-
-      <router-link to="/defense">
+      <router-link
+        to="/defense"
+        class="nav-link px-2"
+      >
         Defense
       </router-link>
 
@@ -34,7 +38,7 @@
         About
       </router-link>
       -->
-    </nav>
+    </div>
   </div>
 </template>
 
