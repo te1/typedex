@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.max-h-screen-90 {
+  max-height: 90vh;
+}
+
 .box {
   @apply rounded shadow bg-white;
 }

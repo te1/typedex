@@ -7,12 +7,12 @@
       class="absolute inset-0 bg-gray-300 opacity-50"
       @click="close"
     />
-    <div class="relative p-4 bg-white rounded shadow">
-      <div class="mb-4 text-xl text-center font-semibold tracking-wider">
+    <div class="relative p-4 max-h-screen-90 flex flex-col overflow-hidden bg-white rounded shadow">
+      <div class="mb-2 text-xl text-center font-semibold tracking-wider">
         <slot name="header" />
       </div>
 
-      <div class="mb-4">
+      <div class="mb-2 py-2 overflow-x-hidden overflow-y-auto">
         <slot />
       </div>
 

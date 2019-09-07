@@ -41,7 +41,7 @@
       <div
         v-for="(group, index) in typesGrouped"
         :key="index"
-        class="-my-4"
+        class="-my-4 overflow-hidden"
       >
         <div class="flex -mr-4 py-4">
           <type-label
@@ -50,7 +50,7 @@
             :type="item"
             :interactive="true"
             :active="type === item"
-            class="mr-4"
+            class="mr-4 overflow-hidden"
             @click.native="select(item)"
           />
         </div>
