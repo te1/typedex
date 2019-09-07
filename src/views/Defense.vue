@@ -6,7 +6,7 @@
         <div>Primary Type</div>
         <type-picker
           v-model="type1"
-          :exclude="type2"
+          @select="type1Selected"
         />
       </div>
 
@@ -17,6 +17,7 @@
           :exclude="type1"
           :show-none="true"
           :allow-clear="true"
+          @select="type2Selected"
         />
       </div>
     </div>
@@ -117,6 +118,22 @@
       },
     },
 
+    activated() {
+      this.updateRoute(this.type1, this.type2, { replace: true });
+    },
+
+    beforeRouteUpdate(to, from, next) {
+      if (to.name === from.name && !to.params.type1) {
+        // don't reset types when navigating from /defense/x/y to /defense
+        return;
+      }
+
+      // this.type1 = this.getTypeFromRoute(to, 'type1');
+      // this.type2 = this.getTypeFromRoute(to, 'type2');
+
+      next();
+    },
+
     methods: {
       getTypeFromRoute(route, paramName) {
         let type;
@@ -129,6 +146,36 @@
         }
 
         return type;
+      },
+
+      updateRoute(type1, type2, opts = {}) {
+        let path = '/defense/' + type1.name;
+
+        if (type2) {
+          path += '/' + type2.name;
+        }
+
+        if (this.$route.path === path) {
+          return;
+        }
+
+        if (opts.replace) {
+          this.$router.replace(path);
+        } else {
+          this.$router.push(path);
+        }
+      },
+
+      type1Selected(type) {
+        if (type && this.type2 === type) {
+          this.type2 = null;
+        }
+
+        this.updateRoute(type, this.type2);
+      },
+
+      type2Selected(type) {
+        this.updateRoute(this.type1, type);
       },
     },
   };

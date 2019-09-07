@@ -6,7 +6,7 @@
         <div>Type</div>
         <type-picker
           v-model="type"
-          @select="updateRoute"
+          @select="typeSelected"
         />
       </div>
     </div>
@@ -75,7 +75,7 @@
         return;
       }
 
-      this.type = this.getTypeFromRoute(to);
+      // this.type = this.getTypeFromRoute(to);
 
       next();
     },
@@ -106,6 +106,10 @@
         } else {
           this.$router.push(path);
         }
+      },
+
+      typeSelected(type) {
+        this.updateRoute(type);
       },
     },
   };
