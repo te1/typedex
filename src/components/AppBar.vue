@@ -1,5 +1,5 @@
 <template>
-  <div class="px-4 py-2 flex items-center justify-between bg-white shadow-md">
+  <div class="fixed top-0 w-full h-12 px-4 py-2 flex items-center justify-between bg-white shadow-md">
     <h1 class="text-lg font-semibold tracking-wider">
       typedex
     </h1>
