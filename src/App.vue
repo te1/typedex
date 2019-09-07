@@ -2,7 +2,7 @@
   <div>
     <app-bar />
 
-    <div class="px-4 py-2">
+    <div class="container mx-auto px-4 py-2">
       <div v-if="loading">
         Loading...
       </div>
