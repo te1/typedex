@@ -1,29 +1,20 @@
 # typedex
 
-## Project setup
-```
-npm install
-```
+## TODO
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [ ] Handle loading state and add spinner
+- [ ] Animations / transitions for modal dialogs
+- [ ] Animations / transitions for route changes
+- [ ] Transitions for hover states
+- [ ] Move picker / move list
+- [ ] Move details page
+- [ ] Pokemon picker / Pokemon list
+- [ ] Pokemon details page
+- [ ] Add move picker to offense page
+- [ ] Add Pokemon picker to defense page
+- [ ] Add home page with info and pickers for quick start
+- [ ] Add about page / legal / disclaimers
+- [ ] Better menu / navigation
+- [ ] Configure service worker / PWA
+- [ ] Team builder
+- [ ] Cloud sync for team builder
