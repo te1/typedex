@@ -1,13 +1,13 @@
 <template>
   <div
     v-if="value"
-    class="fixed inset-0 flex items-center justify-center"
+    class="fixed inset-0 flex items-center md:items-start justify-center"
   >
     <div
       class="absolute inset-0 bg-gray-300 opacity-50"
       @click="close"
     />
-    <div class="relative p-4 max-h-screen-90 flex flex-col overflow-hidden bg-white rounded shadow">
+    <div class="relative p-4 md:mt-24 max-h-screen-90 flex flex-col overflow-hidden bg-white rounded shadow">
       <div class="mb-2 text-xl text-center font-semibold tracking-wider">
         <slot name="header" />
       </div>
