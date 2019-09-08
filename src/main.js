@@ -3,7 +3,7 @@ import App from './App';
 import AppHeading from './components/AppHeading';
 import router from './router';
 import './fontawesome';
-import './registerServiceWorker';
+// import './registerServiceWorker';
 
 Vue.config.productionTip = false;
 
