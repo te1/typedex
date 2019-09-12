@@ -13,7 +13,7 @@ async function exportMoves(source, target) {
 
   moves = _.map(moves, move => {
     caption = _.find(move.names, { language: { name: 'en' } });
-    caption = caption ? caption.name : move.name;
+    caption = caption ? caption.name : null;
 
     effect = _.find(move.effect_entries, { language: { name: 'en' } });
     if (effect != null) {

@@ -1,5 +1,6 @@
 const fs = require('fs-extra');
 const path = require('path');
+const exportGenerations = require('./generations');
 const exportTypes = require('./types');
 const exportPokemon = require('./pokemon');
 const exportMoves = require('./moves');
@@ -11,6 +12,7 @@ async function main() {
   try {
     await fs.emptyDir(target);
 
+    await exportGenerations(source, target);
     await exportTypes(source, target);
     // await exportPokemon(source, target);
     await exportMoves(source, target);

@@ -86,7 +86,7 @@ async function exportTypes(source, target) {
 
   types = _.map(types, type => {
     caption = _.find(type.names, { language: { name: 'en' } });
-    caption = caption ? caption.name : type.name;
+    caption = caption ? caption.name : null;
 
     damage = type.damage_relations;
 
