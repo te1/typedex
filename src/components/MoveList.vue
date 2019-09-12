@@ -1,32 +1,40 @@
 <template>
   <div>
-    <recycle-scroller
-      v-slot="{ item }"
+    <dynamic-scroller
       :items="moves"
-      :item-size="72"
+      :min-item-size="50"
       key-field="id"
       class="h-full"
     >
-      <div class="box mb-4 h-16">
-        <div class="box-heading mx-2">{{ item.caption }}</div>
+      <template v-slot="{ item, index, active }">
+        <dynamic-scroller-item
+          :item="item"
+          :active="active"
+          :data-index="index"
+          class="pb-4"
+        >
+          <div class="box">
+            <div class="box-heading mx-2">{{ item.caption }}</div>
 
-        <div class="px-2 pb-2 flex items-center justify-between">
-          <type-label :type="item.type" />
-          <div>
-            {{ item.damageClass }}
+            <div class="px-2 pb-2 flex items-center justify-between">
+              <type-label :type="item.type" />
+              <div>
+                {{ item.damageClass }}
+              </div>
+              <div>
+                {{ item.power }}
+              </div>
+              <div>
+                {{ item.accuracy }}
+              </div>
+              <div>
+                {{ item.pp }}
+              </div>
+            </div>
           </div>
-          <div>
-            {{ item.power }}
-          </div>
-          <div>
-            {{ item.accuracy }}
-          </div>
-          <div>
-            {{ item.pp }}
-          </div>
-        </div>
-      </div>
-    </recycle-scroller>
+        </dynamic-scroller-item>
+      </template>
+    </dynamic-scroller>
   </div>
 </template>
 
