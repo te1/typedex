@@ -16,19 +16,23 @@
           <div class="box">
             <div class="box-heading mx-2">{{ item.caption }}</div>
 
-            <div class="px-2 pb-2 flex items-center justify-between">
-              <type-label :type="item.type" />
-              <div>
-                {{ item.damageClass }}
+            <div class="-mx-1 px-2 pb-2 flex items-center">
+              <type-label
+                class="mx-1"
+                :type="item.type"
+              />
+              <type-label
+                class="mx-1"
+                :type="item.damageClass"
+              />
+              <div v-if="item.power != null">
+                Pwr {{ item.power }}
               </div>
-              <div>
-                {{ item.power }}
+              <div v-if="item.accuracy != null">
+                Acc {{ item.accuracy }}
               </div>
-              <div>
-                {{ item.accuracy }}
-              </div>
-              <div>
-                {{ item.pp }}
+              <div v-if="item.pp != null">
+                PP {{ item.pp }}
               </div>
             </div>
           </div>

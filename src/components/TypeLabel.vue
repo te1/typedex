@@ -61,14 +61,6 @@
 
     computed: {
       resolvedType() {
-        if (this.type === 'none') {
-          return {
-            name: 'none',
-            caption: 'None',
-            color: '#444',
-          };
-        }
-
         return data.getType(this.type);
       },
 

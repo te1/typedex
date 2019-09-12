@@ -57,11 +57,13 @@
           return null;
         }
 
-        if (type === 'none') {
-          return 'times';
-        }
+        switch (type) {
+          case 'none':
+            return 'times';
 
-        return 'question';
+          default:
+            return 'question';
+        }
       },
 
       fallbackStyles() {
