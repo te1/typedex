@@ -1,12 +1,13 @@
 <!-- eslint-disable vue/no-v-html -->
 
 <template>
-  <fa-icon
-    v-if="fallback"
-    :icon="fallback"
-    :style="fallbackStyles"
-    class="block"
-  />
+  <div v-if="fallback">
+    <fa-icon
+      :icon="fallback"
+      :style="fallbackStyles"
+      class="block"
+    />
+  </div>
   <div
     v-else
     class="fill-current"
