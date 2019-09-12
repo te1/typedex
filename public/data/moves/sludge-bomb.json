@@ -1,0 +1,74 @@
+{
+  "id": 188,
+  "name": "sludge-bomb",
+  "caption": "Sludge Bomb",
+  "type": "poison",
+  "damageClass": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to poison the target.",
+    "full": "Inflicts regular damage.  Has a 30% chance to poison the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "Unsanitary sludge is hurled at the target. This may\nalso poison the target.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "Unsanitary sludge is hurled at the target. This may\nalso poison the target.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "Unsanitary sludge is hurled at the target.\nThis may also poison the target.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "Unsanitary sludge is hurled at the target.\nThis may also poison the target.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "Unsanitary sludge is hurled at the target.\nIt may also poison the target.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "Unsanitary sludge is hurled at the target.\nIt may also poison the target.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user attacks by\nhurling filthy sludge\nat the foe.\nIt may also poison\nthe target.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user attacks by\nhurling filthy sludge\nat the foe.\nIt may also poison\nthe target.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user attacks by\nhurling filthy sludge\nat the foe.\nIt may also poison\nthe target.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "Filthy sludge is\nhurled at the foe.\nIt may poison the\ntarget.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Sludge is hurled to inflict\ndamage. May also poison.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Sludge is hurled to inflict\ndamage. May also poison.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\npoison the foe.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\npoison the foe.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

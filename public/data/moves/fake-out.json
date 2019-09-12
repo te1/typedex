@@ -1,0 +1,66 @@
+{
+  "id": 252,
+  "name": "fake-out",
+  "caption": "Fake Out",
+  "type": "normal",
+  "damageClass": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 3,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Can only be used as the first move after the user enters battle.  Causes the target to flinch.",
+    "full": "Inflicts regular damage.  Causes the target to flinch.  Can only be used on the user's first turn after entering the field."
+  },
+  "flavorTexts": [
+    {
+      "text": "This attack hits first and makes the target flinch.\nIt only works the first turn the user is in battle.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "This attack hits first and makes the target flinch.\nIt only works the first turn the user is in battle.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "An attack that hits first and makes the\ntarget flinch. It only works the first turn\nthe user is in battle.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "An attack that hits first and makes the\ntarget flinch. It only works the first turn\nthe user is in battle.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "An attack that hits first and makes the\ntarget flinch. It only works the first turn\nthe user is in battle.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "An attack that hits first and makes the\ntarget flinch. It only works the first turn\nthe user is in battle.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "An attack that hits\nfirst and makes the\ntarget flinch. It only\nworks the first turn\nthe user is in battle.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "An attack that hits\nfirst and makes the\ntarget flinch.\nThis move works only\non the first turn.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "An attack that hits\nfirst and makes the\ntarget flinch.\nThis move works only\non the first turn.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "An attack that hits\nfirst and causes\nflinching. Usable\nonly on 1st turn.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A 1st-turn, 1st-strike move\nthat causes flinching.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A 1st-turn, 1st-strike move\nthat causes flinching.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

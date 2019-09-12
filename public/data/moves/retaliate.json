@@ -1,0 +1,42 @@
+{
+  "id": 514,
+  "name": "retaliate",
+  "caption": "Retaliate",
+  "type": "normal",
+  "damageClass": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Has double power if a friendly Pokémon fainted last turn.",
+    "full": "Inflicts regular damage.  If a friendly Pokémon fainted on the previous turn, this move has double power."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user gets revenge for a fainted ally. If an ally\nfainted in the previous turn, this move’s power\nis increased.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user gets revenge for a fainted ally. If an ally\nfainted in the previous turn, this move’s power\nis increased.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user gets revenge for a fainted ally.\nIf an ally fainted in the previous turn,\nthis move becomes more powerful.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user gets revenge for a fainted ally.\nIf an ally fainted in the previous turn,\nthis move becomes more powerful.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user gets revenge for a fainted ally.\nIf an ally fainted in the previous turn,\nthis attack’s damage increases.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user gets revenge for a fainted ally.\nIf an ally fainted in the previous turn,\nthis attack’s damage increases.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

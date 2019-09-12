@@ -1,0 +1,74 @@
+{
+  "id": 20,
+  "name": "bind",
+  "caption": "Bind",
+  "type": "normal",
+  "damageClass": "physical",
+  "power": 15,
+  "accuracy": 85,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
+    "full": "Inflicts regular damage.  For the next 2–5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.\n\nrapid spin cancels this effect."
+  },
+  "flavorTexts": [
+    {
+      "text": "Things such as long bodies or tentacles are used to\nbind and squeeze the target for four to five turns.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "Things such as long bodies or tentacles are used to\nbind and squeeze the target for four to five turns.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "Things such as long bodies or tentacles\nare used to bind and squeeze\nthe target for four to five turns.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "Things such as long bodies or tentacles\nare used to bind and squeeze\nthe target for four to five turns.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "Things such as long bodies or tentacles\nare used to bind and squeeze\nthe target for four to five turns.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "Things such as long bodies or tentacles\nare used to bind and squeeze\nthe target for four to five turns.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "A long body or\ntentacles are used\nto bind and squeeze\nthe foe for two to\nfive turns.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "A long body or\ntentacles are used\nto bind and squeeze\nthe foe for two to\nfive turns.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "A long body or\ntentacles are used\nto bind and squeeze\nthe foe for two to\nfive turns.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A long body or\ntentacles are used\nto bind the foe for\ntwo to five turns.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Binds and squeezes the foe\nfor 2 to 5 turns.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Binds and squeezes the foe\nfor 2 to 5 turns.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Binds the target\nfor 2-5 turns.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Binds the target\nfor 2-5 turns.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 149,
+  "name": "psywave",
+  "caption": "Psywave",
+  "type": "psychic",
+  "damageClass": "special",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Inflicts damage between 50% and 150% of the user's level.",
+    "full": "Inflicts typeless damage between 50% and 150% of the user's level, selected at random in increments of 10%."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is attacked with an odd psychic wave.\nThe attack varies in intensity.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is attacked with an odd psychic wave.\nThe attack varies in intensity.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is attacked with an odd\npsychic wave.\nThe attack varies in intensity.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is attacked with an odd\npsychic wave.\nThe attack varies in intensity.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is attacked with an odd\npsychic wave.\nThe attack varies in intensity.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is attacked with an odd \npsychic wave.\nThe attack varies in intensity.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is attacked\nwith an odd, hot\nenergy wave.\nThe attack varies in\nintensity.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is attacked\nwith an odd, hot\nenergy wave.\nThe attack varies in\nintensity.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is attacked\nwith an odd, hot\nenergy wave.\nThe attack varies in\nintensity.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is attacked\nwith an odd, hot\nenergy wave that\nvaries in intensity.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Attacks with a psychic\nwave of varying intensity.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Attacks with a psychic\nwave of varying intensity.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack with\nvariable power.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack with\nvariable power.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 148,
+  "name": "flash",
+  "caption": "Flash",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Lowers the target's accuracy by one stage.",
+    "full": "Lowers the target's accuracy by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user flashes a bright light that cuts the\ntarget’s accuracy.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user flashes a bright light that cuts the\ntarget’s accuracy.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user flashes a bright light that cuts the\ntarget’s accuracy.\nIt can also be used to illuminate dark caves.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user flashes a bright light that cuts\nthe target’s accuracy.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user flashes a bright light that cuts\nthe target’s accuracy.\nIt can also be used to illuminate caves.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user flashes a bright light that cuts\nthe target’s accuracy.\nIt can also be used to illuminate caves.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user flashes a\nlight that cuts the\nfoe’s accuracy.\nIt can also be used\nto illuminate caves.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user flashes a\nlight that cuts the\nfoe’s accuracy.\nIt can also be used\nto illuminate caves.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user flashes a\nlight that cuts the\nfoe’s accuracy.\nIt can also be used\nto illuminate caves.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A blast of light\nthat cuts the foe’s\naccuracy. It also\nilluminates caves.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Looses a powerful blast of\nlight that cuts accuracy.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Looses a powerful blast of\nlight that cuts accuracy.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Blinds the foe to\nreduce accuracy.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Blinds the foe to\nreduce accuracy.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

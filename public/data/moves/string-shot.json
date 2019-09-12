@@ -1,0 +1,74 @@
+{
+  "id": 81,
+  "name": "string-shot",
+  "caption": "String Shot",
+  "type": "bug",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 95,
+  "pp": 40,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Lowers the target's Speed by two stages.",
+    "full": "Lowers the target's Speed by two stages."
+  },
+  "flavorTexts": [
+    {
+      "text": "The opposing Pokémon are bound with silk blown\nfrom the user’s mouth that harshly lowers the\nSpeed stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The opposing Pokémon are bound with silk blown\nfrom the user’s mouth that harshly lowers the\nSpeed stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The opposing Pokémon are bound\nwith silk blown from the user’s mouth\nthat harshly lowers the Speed stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The opposing Pokémon are bound\nwith silk blown from the user’s mouth\nthat harshly lowers the Speed stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The targets are bound with silk blown\nfrom the user’s mouth. This silk reduces\nthe targets’ Speed stat.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The targets are bound with silk blown\nfrom the user’s mouth. This silk reduces\nthe targets’ Speed stat.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is bound with\nsilk blown from the\nuser’s mouth.\nIt reduces the\ntarget’s Speed stat.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is bound with\nsilk blown from the\nuser’s mouth.\nIt reduces the\ntarget’s Speed stat.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is bound with\nsilk blown from the\nuser’s mouth.\nIt reduces the\ntarget’s Speed stat.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is bound\nwith strings shot\nfrom the mouth to\nreduce its SPEED.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Binds the foe with string\nto reduce its SPEED.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Binds the foe with string\nto reduce its SPEED.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "A move that lowers\nthe foe's SPEED.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "A move that lowers\nthe foe's SPEED.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

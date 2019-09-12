@@ -1,0 +1,42 @@
+{
+  "id": 528,
+  "name": "wild-charge",
+  "caption": "Wild Charge",
+  "type": "electric",
+  "damageClass": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "User receives 1/4 the damage it inflicts in recoil.",
+    "full": "Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user shrouds itself in electricity and smashes\ninto its target. This also damages the user a little.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user shrouds itself in electricity and smashes\ninto its target. This also damages the user a little.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user shrouds itself in electricity\nand smashes into its target.\nThis also damages the user a little.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user shrouds itself in electricity\nand smashes into its target.\nThis also damages the user a little.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user shrouds itself in electricity\nand smashes into its target.\nIt also damages the user a little.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user shrouds itself in electricity\nand smashes into its target.\nIt also damages the user a little.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

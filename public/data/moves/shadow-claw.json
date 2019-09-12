@@ -1,0 +1,54 @@
+{
+  "id": 421,
+  "name": "shadow-claw",
+  "caption": "Shadow Claw",
+  "type": "ghost",
+  "damageClass": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has an increased chance for a critical hit.",
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user slashes with a sharp claw made from\nshadows. Critical hits land more easily.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user slashes with a sharp claw made from\nshadows. Critical hits land more easily.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user slashes with a sharp claw made\nfrom shadows.\nCritical hits land more easily.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user slashes with a sharp claw made\nfrom shadows.\nCritical hits land more easily.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user slashes with a sharp claw made\nfrom shadows.\nCritical hits land more easily.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user slashes with a sharp claw made\nfrom shadows.\nCritical hits land more easily.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user slashes with\na sharp claw made\nfrom shadows.\nIt has a high\ncritical-hit ratio.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user slashes with\na sharp claw made\nfrom shadows.\nIt has a high\ncritical-hit ratio.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user slashes with\na sharp claw made\nfrom shadows.\nIt has a high\ncritical-hit ratio.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

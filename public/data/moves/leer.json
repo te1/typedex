@@ -1,0 +1,74 @@
+{
+  "id": 43,
+  "name": "leer",
+  "caption": "Leer",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Lowers the target's Defense by one stage.",
+    "full": "Lowers the target's Defense by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user gives opposing Pokémon an intimidating\nleer that lowers the Defense stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user gives opposing Pokémon an intimidating\nleer that lowers the Defense stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user gives opposing Pokémon\nan intimidating leer that lowers the Defense stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user gives opposing Pokémon\nan intimidating leer that lowers the Defense stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user gains an intimidating leer with\nsharp eyes. The opposing team’s\nDefense stats are reduced.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The opposing team gains an intimidating\nleer with sharp eyes. The opposing team’s\nDefense stats are reduced.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is given an\nintimidating leer with\nsharp eyes.\nThe target’s Defense\nstat is reduced.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is given an\nintimidating leer with\nsharp eyes.\nThe target’s Defense\nstat is reduced.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is given an\nintimidating leer with\nsharp eyes.\nThe target’s Defense\nstat is reduced.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is given an\nintimidating look\nthat lowers its\nDEFENSE stat.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Frightens the foe with a\nleer to lower DEFENSE.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Frightens the foe with a\nleer to lower DEFENSE.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Reduces the foe's\nDEFENSE.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Reduces the foe's\nDEFENSE.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

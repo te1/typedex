@@ -1,0 +1,74 @@
+{
+  "id": 132,
+  "name": "constrict",
+  "caption": "Constrict",
+  "type": "normal",
+  "damageClass": "physical",
+  "power": 10,
+  "accuracy": 100,
+  "pp": 35,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a $effect_chance% chance to lower the target's Speed by one stage.",
+    "full": "Inflicts regular damage.  Has a 10% chance to lower the target's Speed by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is attacked with long, creeping tentacles,\nvines, or the like. This may also lower the target’s \nSpeed stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is attacked with long, creeping tentacles,\nvines, or the like. This may also lower the target’s \nSpeed stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is attacked with long, creeping\ntentacles or vines.\nThis may also lower the target’s Speed stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is attacked with long, creeping\ntentacles or vines.\nThis may also lower the target’s Speed stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is attacked with long, creeping\ntentacles or vines.\nIt may also lower the target’s Speed stat.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is attacked with long, creeping\ntentacles or vines.\nIt may also lower the target’s Speed stat.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is attacked\nwith long, creeping\ntentacles or vines.\nIt may also lower the\ntarget’s Speed.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is attacked\nwith long, creeping\ntentacles or vines.\nIt may also lower the\ntarget’s Speed.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is attacked\nwith long, creeping\ntentacles or vines.\nIt may also lower the\ntarget’s Speed.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is attacked\nwith long tentacles\nor vines. It may\nlower SPEED.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Constricts to inflict pain.\nMay lower SPEED.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Constricts to inflict pain.\nMay lower SPEED.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\nlower SPEED.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\nlower SPEED.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

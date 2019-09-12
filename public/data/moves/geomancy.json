@@ -1,0 +1,34 @@
+{
+  "id": 601,
+  "name": "geomancy",
+  "caption": "Geomancy",
+  "type": "fairy",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Takes one turn to charge, then raises the user's Special Attack, Special Defense, and Speed by two stages.",
+    "full": "Takes one turn to charge, then raises the user's Special Attack, Special Defense, and Speed by two stages."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user absorbs energy and sharply raises its\nSp. Atk, Sp. Def, and Speed stats on the next turn.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user absorbs energy and sharply raises its\nSp. Atk, Sp. Def, and Speed stats on the next turn.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user absorbs energy and sharply raises\nits Sp. Atk, Sp. Def, and Speed stats\non the next turn.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user absorbs energy and sharply raises\nits Sp. Atk, Sp. Def, and Speed stats\non the next turn.",
+      "versionGroup": "x-y"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 254,
+  "name": "stockpile",
+  "caption": "Stockpile",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Stores energy up to three times for use with Spit Up and Swallow.",
+    "full": "Raises the user's Defense and Special Defense by one stage each.  Stores energy for use with spit up and swallow.  Up to three levels of energy can be stored, and all are lost if the user leaves the field.  Energy is still stored even if the stat boosts cannot be applied.\n\nIf the user uses baton pass, the stat boosts are passed as normal, but the stored energy is not."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user charges up power and raises both its\nDefense and Sp. Def stats. The move can be used\nthree times.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user charges up power and raises both its\nDefense and Sp. Def stats. The move can be used\nthree times.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user charges up power and raises\nboth its Defense and Sp. Def stats.\nThe move can be used three times.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user charges up power and raises\nboth its Defense and Sp. Def stats.\nThe move can be used three times.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user charges up power and raises\nboth its Defense and Sp. Def. The move\ncan be used three times.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user charges up power and raises\nboth its Defense and Sp. Def. The move\ncan be used three times.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user charges\nup power, and raises\nboth its Defense and\nSp. Def. The move can\nbe used three times.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user charges\nup power, and raises\nboth its Defense and\nSp. Def. The move can\nbe used three times.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user charges\nup power, and raises\nboth its Defense and\nSp. Def. The move can\nbe used three times.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user charges\nup power for use\nlater. It can be\nused three times.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Charges up power for up to\n3 turns.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Charges up power for up to\n3 turns.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

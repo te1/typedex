@@ -1,0 +1,74 @@
+{
+  "id": 116,
+  "name": "focus-energy",
+  "caption": "Focus Energy",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Increases the user's chance to score a critical hit.",
+    "full": "User's critical hit rate is two levels higher until it leaves the field.  If the user has already used focus energy since entering the field, this move will fail.\n\nThis effect is passed on by baton pass."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user takes a deep breath and focuses so that\ncritical hits land more easily.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user takes a deep breath and focuses so that\ncritical hits land more easily.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user takes a deep breath and\nfocuses so that critical hits land\nmore easily.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user takes a deep breath and\nfocuses so that critical hits land\nmore easily.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user takes a deep breath and\nfocuses so that critical hits land\nmore easily.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user takes a deep breath and\nfocuses so that critical hits land\nmore easily.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user takes a\ndeep breath and\nfocuses to raise the\ncritical-hit ratio of\nits attacks.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user takes a\ndeep breath and\nfocuses to raise the\ncritical-hit ratio of\nits attacks.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user takes a\ndeep breath and\nfocuses to raise the\ncritical-hit ratio of\nits attacks.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user takes a\ndeep breath and\nfocuses to raise its\ncritical-hit ratio.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Focuses power to raise the\ncritical-hit ratio.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Focuses power to raise the\ncritical-hit ratio.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Raises the criti­\ncal hit ratio.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Raises the criti­\ncal hit ratio.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

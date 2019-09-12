@@ -1,0 +1,74 @@
+{
+  "id": 125,
+  "name": "bone-club",
+  "caption": "Bone Club",
+  "type": "ground",
+  "damageClass": "physical",
+  "power": 65,
+  "accuracy": 85,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a $effect_chance% chance to make the target flinch.",
+    "full": "Inflicts regular damage.  Has a 10% chance to make the target flinch."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user clubs the target with a bone. This may also\nmake the target flinch.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user clubs the target with a bone. This may also\nmake the target flinch.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user clubs the target with a bone.\nThis may also make the target flinch.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user clubs the target with a bone.\nThis may also make the target flinch.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user clubs the target with a bone.\nIt may also make the target flinch.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user clubs the target with a bone.\nIt may also make the target flinch.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user clubs the\nfoe with a bone.\nIt may also make the\ntarget flinch.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user clubs the\nfoe with a bone.\nIt may also make the\ntarget flinch.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user clubs the\nfoe with a bone.\nIt may also make the\ntarget flinch.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is clubbed\nwith a bone held in\nhand. It may make\nthe foe flinch.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Clubs the foe with a bone.\nMay cause flinching.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Clubs the foe with a bone.\nMay cause flinching.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\ncause flinching.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\ncause flinching.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 417,
+  "name": "nasty-plot",
+  "caption": "Nasty Plot",
+  "type": "dark",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Raises the user's Special Attack by two stages.",
+    "full": "Raises the user's Special Attack by two stages."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user stimulates its brain by thinking bad\nthoughts. This sharply raises the user’s Sp. Atk stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user stimulates its brain by thinking bad\nthoughts. This sharply raises the user’s Sp. Atk stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user stimulates its brain by thinking\nbad thoughts.\nThis sharply raises the user’s Sp. Atk.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user stimulates its brain by thinking\nbad thoughts.\nThis sharply raises the user’s Sp. Atk.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user stimulates its brain by thinking\nbad thoughts.\nIt sharply raises the user’s Sp. Atk.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user stimulates its brain by thinking\nbad thoughts.\nIt sharply raises the user’s Sp. Atk.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user stimulates\nits brain by thinking\nbad thoughts.\nIt sharply raises the\nuser’s Sp. Atk.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user stimulates\nits brain by thinking\nbad thoughts.\nIt sharply raises the\nuser’s Sp. Atk.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user stimulates\nits brain by thinking\nbad thoughts.\nIt sharply raises the\nuser’s Sp. Atk.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

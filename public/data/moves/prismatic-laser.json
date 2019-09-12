@@ -1,0 +1,26 @@
+{
+  "id": 711,
+  "name": "prismatic-laser",
+  "caption": "Prismatic Laser",
+  "type": "psychic",
+  "damageClass": "special",
+  "power": 160,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "User foregoes its next turn to recharge.",
+    "full": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user shoots powerful lasers using the power of\na prism. The user can’t move on the next turn.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user shoots powerful lasers using the power of\na prism. The user can’t move on the next turn.",
+      "versionGroup": "sun-moon"
+    }
+  ]
+}

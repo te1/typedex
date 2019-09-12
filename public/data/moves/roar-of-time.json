@@ -1,0 +1,54 @@
+{
+  "id": 459,
+  "name": "roar-of-time",
+  "caption": "Roar of Time",
+  "type": "dragon",
+  "damageClass": "special",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "User foregoes its next turn to recharge.",
+    "full": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user blasts the target with power that distorts\neven time. The user can’t move on the next turn.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user blasts the target with power that distorts\neven time. The user can’t move on the next turn.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user blasts the target with power\nthat distorts even time.\nThe user can’t move on the next turn.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user blasts the target with power\nthat distorts even time.\nThe user can’t move on the next turn.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user blasts the target with power\nthat distorts even time.\nThe user must rest on the next turn.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user blasts the target with power\nthat distorts even time.\nThe user must rest on the next turn.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user blasts the\nfoe with power that\ndistorts even time.\nThe user must rest\non the next turn.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user blasts the\nfoe with power that\ndistorts even time.\nThe user must rest\non the next turn.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user blasts the\nfoe with power that\ndistorts even time.\nThe user must rest\non the next turn.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

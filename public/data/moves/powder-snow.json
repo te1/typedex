@@ -1,0 +1,74 @@
+{
+  "id": 181,
+  "name": "powder-snow",
+  "caption": "Powder Snow",
+  "type": "ice",
+  "damageClass": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to freeze the target.",
+    "full": "Inflicts regular damage.  Has a 10% chance to freeze the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks with a chilling gust of powdery\nsnow. This may also freeze the opposing Pokémon.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks with a chilling gust of powdery\nsnow. This may also freeze the opposing Pokémon.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks with a chilling gust\nof powdery snow.\nThis may also freeze the opposing Pokémon.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks with a chilling gust\nof powdery snow.\nThis may also freeze the opposing Pokémon.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user attacks with a chilling gust\nof powdery snow.\nIt may also freeze the targets.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user attacks with a chilling gust\nof powdery snow.\nIt may also freeze the targets.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user attacks with\na chilling gust of\npowdery snow.\nIt may also freeze\nthe target.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user attacks with\na chilling gust of\npowdery snow.\nIt may also freeze\nthe target.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user attacks with\na chilling gust of\npowdery snow.\nIt may also freeze\nthe target.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "Blasts the foe with\na snowy gust.\nIt may cause\nfreezing.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Blasts the foe with a snowy\ngust. May cause freezing.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Blasts the foe with a snowy\ngust. May cause freezing.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\ncause freezing.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\ncause freezing.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

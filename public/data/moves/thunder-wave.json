@@ -1,0 +1,74 @@
+{
+  "id": 86,
+  "name": "thunder-wave",
+  "caption": "Thunder Wave",
+  "type": "electric",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 90,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Paralyzes the target.",
+    "full": "Paralyzes the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user launches a weak jolt of electricity that\nparalyzes the target.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user launches a weak jolt of electricity that\nparalyzes the target.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user launches a weak jolt\nof electricity that paralyzes the target.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user launches a weak jolt\nof electricity that paralyzes the target.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "A weak electric charge is launched at\nthe target. It causes paralysis if it hits.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "A weak electric charge is launched at\nthe target. It causes paralysis if it hits.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "A weak electric\ncharge is launched at\nthe foe.\nIt causes paralysis if\nit hits.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "A weak electric\ncharge is launched at\nthe foe.\nIt causes paralysis if\nit hits.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "A weak electric\ncharge is launched at\nthe foe.\nIt causes paralysis if\nit hits.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A weak electric\nshock that is sure\nto cause paralysis\nif it hits.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A weak jolt of electricity\nthat paralyzes the foe.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A weak jolt of electricity\nthat paralyzes the foe.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "A move that may\ncause paralysis.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "A move that may\ncause paralysis.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

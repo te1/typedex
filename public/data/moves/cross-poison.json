@@ -1,0 +1,54 @@
+{
+  "id": 440,
+  "name": "cross-poison",
+  "caption": "Cross Poison",
+  "type": "poison",
+  "damageClass": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has an increased chance for a critical hit and a $effect_chance% chance to poison the target.",
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a 10% chance to poison the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "A slashing attack with a poisonous blade that may\nalso poison the target. Critical hits land more easily.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "A slashing attack with a poisonous blade that may\nalso poison the target. Critical hits land more easily.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "A slashing attack with a poisonous blade\nthat may also poison the target.\nCritical hits land more easily.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "A slashing attack with a poisonous blade\nthat may also poison the target.\nCritical hits land more easily.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "A slashing attack with a poisonous blade\nthat may also leave the target poisoned.\nCritical hits land more easily.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "A slashing attack with a poisonous blade\nthat may also leave the target poisoned.\nCritical hits land more easily.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "A slashing attack\nthat may also leave\nthe target poisoned.\nIt has a high\ncritical-hit ratio.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "A slashing attack\nthat may also leave\nthe target poisoned.\nIt has a high\ncritical-hit ratio.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "A slashing attack\nthat may also leave\nthe target poisoned.\nIt has a high\ncritical-hit ratio.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

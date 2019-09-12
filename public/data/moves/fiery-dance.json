@@ -1,0 +1,42 @@
+{
+  "id": 552,
+  "name": "fiery-dance",
+  "caption": "Fiery Dance",
+  "type": "fire",
+  "damageClass": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Has a $effect_chance% chance to raise the user's Special Attack by one stage.",
+    "full": "Inflicts regular damage.  Has a 50% chance to raise the user's Special Attack by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "Cloaked in flames, the user dances and flaps its\nwings. This may also raise the user’s Sp. Atk stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "Cloaked in flames, the user dances and flaps its\nwings. This may also raise the user’s Sp. Atk stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "Cloaked in flames, the user dances\nand flaps its wings. This may also\nraise the user’s Sp. Atk stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "Cloaked in flames, the user dances\nand flaps its wings. This may also\nraise the user’s Sp. Atk stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "Cloaked in flames, the user dances\nand flaps its wings. It may also\nraise the user’s Sp. Atk stat.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "Cloaked in flames, the user dances\nand flaps its wings. It may also\nraise the user’s Sp. Atk stat.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 415,
+  "name": "switcheroo",
+  "caption": "Switcheroo",
+  "type": "dark",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "User and target swap items.",
+    "full": "User and target permanently swap held items.  Works even if one of the Pokémon isn't holding anything.  If either Pokémon is holding mail, this move will fail.\n\nIf either Pokémon has multitype or sticky hold, this move will fail.\n\nIf this move results in a Pokémon obtaining choice band, choice scarf, or choice specs, and that Pokémon was the latter of the pair to move this turn, then the move it used this turn becomes its chosen forced move.  This applies even if both Pokémon had a choice item before this move was used.  If the first of the two Pokémon gains a choice item, it may select whatever choice move it wishes next turn.\n\nNeither the user nor the target can recover its item with recycle.\n\nThis move cannot be selected by assist or metronome."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user trades held items with the target faster\nthan the eye can follow.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user trades held items with the target faster\nthan the eye can follow.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user trades held items with the target\nfaster than the eye can follow.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user trades held items with the target\nfaster than the eye can follow.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user trades held items with the target\nfaster than the eye can follow.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user trades held items with the target\nfaster than the eye can follow.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user trades held\nitems with the foe\nfaster than the eye\ncan follow.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user trades held\nitems with the foe\nfaster than the eye\ncan follow.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user trades held\nitems with the foe\nfaster than the eye\ncan follow.\n",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

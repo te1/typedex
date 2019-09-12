@@ -1,0 +1,34 @@
+{
+  "id": 585,
+  "name": "moonblast",
+  "caption": "Moonblast",
+  "type": "fairy",
+  "damageClass": "special",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Has a $effect_chance% chance to lower the target's Special Attack by one stage.",
+    "full": "Inflicts regular damage.  Has a 30% chance to lower the target's Special Attack by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "Borrowing the power of the moon, the user attacks\nthe target. This may also lower the target’s\nSp. Atk stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "Borrowing the power of the moon, the user attacks\nthe target. This may also lower the target’s\nSp. Atk stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "Borrowing the power of the moon,\nthe user attacks the target.\nThis may also lower the target’s Sp. Atk stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "Borrowing the power of the moon,\nthe user attacks the target.\nThis may also lower the target’s Sp. Atk stat.",
+      "versionGroup": "x-y"
+    }
+  ]
+}

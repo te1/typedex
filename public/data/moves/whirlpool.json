@@ -1,0 +1,74 @@
+{
+  "id": 250,
+  "name": "whirlpool",
+  "caption": "Whirlpool",
+  "type": "water",
+  "damageClass": "special",
+  "power": 35,
+  "accuracy": 85,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Prevents the target from leaving battle and inflicts 1/16 its max HP in damage for 2-5 turns.",
+    "full": "Inflicts regular damage.  For the next 2–5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.\n\nIf the target is in the first turn of dive, this move will hit with double power."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user traps the target in a violent swirling\nwhirlpool for four to five turns.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user traps the target in a violent swirling\nwhirlpool for four to five turns.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user traps the target in a violent swirling\nwhirlpool for four to five turns.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user traps the target in a violent swirling\nwhirlpool for four to five turns.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "Traps foes in a violent swirling\nwhirlpool for four to five turns.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "Traps foes in a violent swirling\nwhirlpool for four to five turns.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "Traps the foe inside a\nwhirlpool that lasts\nfor two to five turns.\nThe user can pass\nthrough whirlpools.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user traps the\nfoe inside a fast,\nvicious whirlpool that\nlasts for two to five\nturns.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user traps the\nfoe inside a fast,\nvicious whirlpool that\nlasts for two to five\nturns.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is trapped\nin a fast, vicious\nwhirlpool for two\nto five turns.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Traps and hurts the foe in\na whirlpool for 2 to 5 turns.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Traps and hurts the foe in\na whirlpool for 2 to 5 turns.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Traps the foe for\n2-5 turns.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Traps the foe for\n2-5 turns.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

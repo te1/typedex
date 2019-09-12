@@ -1,0 +1,54 @@
+{
+  "id": 397,
+  "name": "rock-polish",
+  "caption": "Rock Polish",
+  "type": "rock",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Raises the user's Speed by two stages.",
+    "full": "Raises the user's Speed by two stages."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user polishes its body to reduce drag.\nThis can sharply raise the Speed stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user polishes its body to reduce drag.\nThis can sharply raise the Speed stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user polishes its body to reduce drag.\nThis can sharply raise the Speed stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user polishes its body to reduce drag.\nThis can sharply raise the Speed stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user polishes its body to reduce drag.\nIt can sharply raise the Speed stat.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user polishes its body to reduce drag.\nIt can sharply raise the Speed stat.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user polishes its\nbody to reduce drag.\nIt can sharply raise\nthe Speed stat.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user polishes its\nbody to reduce drag.\nIt can sharply raise\nthe Speed stat.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user polishes its\nbody to reduce drag.\nIt can sharply raise\nthe Speed stat.\n",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

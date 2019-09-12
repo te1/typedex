@@ -1,0 +1,74 @@
+{
+  "id": 89,
+  "name": "earthquake",
+  "caption": "Earthquake",
+  "type": "ground",
+  "damageClass": "physical",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Inflicts regular damage and can hit Dig users.",
+    "full": "Inflicts regular damage.\n\nIf the target is in the first turn of dig, this move will hit with double power."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user sets off an earthquake that strikes every\nPokémon around it.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user sets off an earthquake that strikes every\nPokémon around it.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user sets off an earthquake that\nstrikes every Pokémon around it.\n",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user sets off an earthquake that\nstrikes every Pokémon around it.\n",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user sets off an earthquake that\nstrikes those around it.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user sets off an earthquake that\nstrikes those around it.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user sets off an\nearthquake that hits\nall the Pokémon in\nthe battle.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user sets off an\nearthquake that hits\nall the Pokémon in\nthe battle.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user sets off an\nearthquake that hits\nall the Pokémon in\nthe battle.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "An earthquake that\nstrikes all POKéMON\nin battle excluding\nthe user.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A powerful quake, but has\nno effect on flying foes.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A powerful quake, but has\nno effect on flying foes.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Tough but useless\nvs. flying foes.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Tough but useless\nvs. flying foes.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 379,
+  "name": "power-trick",
+  "caption": "Power Trick",
+  "type": "psychic",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "User swaps Attack and Defense.",
+    "full": "The user's original Attack and Defense are swapped.\n\nThis effect is passed on by baton pass."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user employs its psychic power to switch its\nAttack stat with its Defense stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user employs its psychic power to switch its\nAttack stat with its Defense stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user employs its psychic power to\nswitch its Attack with its Defense stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user employs its psychic power to\nswitch its Attack with its Defense stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user employs its psychic power to\nswitch its Attack with its Defense stat.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user employs its psychic power to\nswitch its Attack with its Defense stat.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user employs its\npsychic power to\nswitch its Attack\nwith its Defense\nstat.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user employs its\npsychic power to\nswitch its Attack\nwith its Defense\nstat.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user employs its\npsychic power to\nswitch its Attack\nwith its Defense\nstat.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

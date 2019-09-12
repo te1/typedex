@@ -1,0 +1,54 @@
+{
+  "id": 458,
+  "name": "double-hit",
+  "caption": "Double Hit",
+  "type": "normal",
+  "damageClass": "physical",
+  "power": 35,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Hits twice in one turn.",
+    "full": "Inflicts regular damage.  Hits twice in one turn."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user slams the target with a long tail, vines, or a\ntentacle. The target is hit twice in a row.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user slams the target with a long tail, vines, or a\ntentacle. The target is hit twice in a row.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user slams the target with a long tail,\nvines, or a tentacle.\nThe target is hit twice in a row.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user slams the target with a long tail,\nvines, or a tentacle.\nThe target is hit twice in a row.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user slams the target with a long tail,\nvines, or tentacle.\nThe target is hit twice in a row.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user slams the target with a long tail,\nvines, or tentacle.\nThe target is hit twice in a row.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user slams the\nfoe with a long tail,\nvines, etc. The\ntarget is hit\ntwice in a row.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user slams the\nfoe with a tail, etc.\nThe target is hit\ntwice in a row.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user slams the\nfoe with a tail, etc.\nThe target is hit\ntwice in a row.\n",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

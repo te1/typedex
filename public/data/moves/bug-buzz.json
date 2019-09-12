@@ -1,0 +1,54 @@
+{
+  "id": 405,
+  "name": "bug-buzz",
+  "caption": "Bug Buzz",
+  "type": "bug",
+  "damageClass": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a $effect_chance% chance to lower the target's Special Defense by one stage.",
+    "full": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user generates a damaging sound wave by\nvibration. This may also lower the target’s\nSp. Def stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user generates a damaging sound wave by\nvibration. This may also lower the target’s\nSp. Def stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user vibrates its wings to generate a\ndamaging sound wave. This may also lower\nthe target’s Sp. Def stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user vibrates its wings to generate a\ndamaging sound wave. This may also lower\nthe target’s Sp. Def stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user vibrates its wings to generate a\ndamaging sound wave. It may also lower\nthe target’s Sp. Def stat.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user vibrates its wings to generate a\ndamaging sound wave. It may also lower\nthe target’s Sp. Def stat.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user vibrates its\nwings to generate a\ndamaging sound wave.\nIt may also lower the\nfoe’s Sp. Def stat.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user vibrates its\nwings to generate a\ndamaging sound wave.\nIt may also lower the\nfoe’s Sp. Def stat.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user vibrates its\nwings to generate a\ndamaging sound wave.\nIt may also lower the\nfoe’s Sp. Def stat.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

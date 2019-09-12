@@ -1,0 +1,74 @@
+{
+  "id": 175,
+  "name": "flail",
+  "caption": "Flail",
+  "type": "normal",
+  "damageClass": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Inflicts more damage when the user has less HP remaining, with a maximum of 200 power.",
+    "full": "Inflicts regular damage.  Power varies inversely with the user's proportional remaining HP.\n\n64 * current HP / max HP | Power\n-----------------------: | ----:\n 0– 1                    |  200\n 2– 5                    |  150\n 6–12                    |  100\n13–21                    |   80\n22–42                    |   40\n43–64                    |   20\n"
+  },
+  "flavorTexts": [
+    {
+      "text": "The user flails about aimlessly to attack. The less HP\nthe user has, the greater the move’s power.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user flails about aimlessly to attack. The less HP\nthe user has, the greater the move’s power.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user flails about aimlessly to attack.\nThe less HP the user has,\nthe greater the move’s power.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user flails about aimlessly to attack.\nThe less HP the user has,\nthe greater the move’s power.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user flails about aimlessly to attack.\nIt becomes more powerful the less HP\nthe user has.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user flails about aimlessly to attack.\nIt becomes more powerful the less HP\nthe user has.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user flails about\naimlessly to attack.\nIt becomes more\npowerful the less HP\nthe user has.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user flails about\naimlessly to attack.\nIt becomes more\npowerful the less HP\nthe user has.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user flails about\naimlessly to attack.\nIt becomes more\npowerful the less HP\nthe user has.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A desperate attack\nthat becomes more\npowerful the less\nHP the user has.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Inflicts more damage when\nthe user’s HP is down.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Inflicts more damage when\nthe user’s HP is down.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Stronger if the\nuser's HP is low.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Stronger if the\nuser's HP is low.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

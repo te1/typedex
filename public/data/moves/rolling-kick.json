@@ -1,0 +1,74 @@
+{
+  "id": 27,
+  "name": "rolling-kick",
+  "caption": "Rolling Kick",
+  "type": "fighting",
+  "damageClass": "physical",
+  "power": 60,
+  "accuracy": 85,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a $effect_chance% chance to make the target flinch.",
+    "full": "Inflicts regular damage.  Has a 30% chance to make the target flinch."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user lashes out with a quick, spinning kick.\nThis may also make the target flinch.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user lashes out with a quick, spinning kick.\nThis may also make the target flinch.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user lashes out with a quick, spinning\nkick. This may also make the target flinch.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user lashes out with a quick, spinning\nkick. This may also make the target flinch.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user lashes out with a quick, spinning\nkick. It may also make the target flinch.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user lashes out with a quick, spinning\nkick. It may also make the target flinch.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user lashes \nout with a quick,\nspinning kick. It\nmay also make the\ntarget flinch.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user cuts a\nquick spin and lashes\nout with a sharp\nkick.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user cuts a\nquick spin and lashes\nout with a sharp\nkick.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A quick kick from a\nrolling spin.\nIt may make the\nfoe flinch.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A fast kick delivered from\na rapid spin.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A fast kick delivered from\na rapid spin.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "A fast, spinning\nkick.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "A fast, spinning\nkick.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

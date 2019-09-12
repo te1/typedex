@@ -1,0 +1,66 @@
+{
+  "id": 308,
+  "name": "hydro-cannon",
+  "caption": "Hydro Cannon",
+  "type": "water",
+  "damageClass": "special",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "User foregoes its next turn to recharge.",
+    "full": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is hit with a watery blast. The user can’t\nmove on the next turn.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is hit with a watery blast. The user can’t\nmove on the next turn.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is hit with a watery blast.\nThe user can’t move on the next turn.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is hit with a watery blast.\nThe user can’t move on the next turn.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is hit with a watery blast.\nThe user must rest on the\nnext turn, however.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is hit with a watery blast.\nThe user must rest on the\nnext turn, however.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is hit with\na watery blast.\nThe user must rest\non the next turn,\nhowever.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is hit with\na watery blast.\nThe user must rest\non the next turn,\nhowever.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is hit with\na watery blast.\nThe user must rest\non the next turn,\nhowever.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is hit with\na watery cannon.\nThe user can’t move\non the next turn.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Powerful, but leaves the\nuser immobile the next turn.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Powerful, but leaves the\nuser immobile the next turn.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

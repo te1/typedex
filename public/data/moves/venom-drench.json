@@ -1,0 +1,34 @@
+{
+  "id": 599,
+  "name": "venom-drench",
+  "caption": "Venom Drench",
+  "type": "poison",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Lowers the target's Attack, Special Attack, and Speed by one stage if it is poisoned.",
+    "full": "Lowers the target's Attack, Special Attack, and Speed by one stage if it is poisoned."
+  },
+  "flavorTexts": [
+    {
+      "text": "Opposing Pokémon are drenched in an odd\npoisonous liquid. This lowers the Attack, Sp. Atk, and\nSpeed stats of a poisoned target.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "Opposing Pokémon are drenched in an odd\npoisonous liquid. This lowers the Attack, Sp. Atk, and\nSpeed stats of a poisoned target.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "Opposing Pokémon are drenched in an odd\npoisonous liquid. This lowers the Attack,\nSp. Atk, and Speed stats of a poisoned target.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "Opposing Pokémon are drenched in an odd\npoisonous liquid. This lowers the Attack,\nSp. Atk, and Speed stats of a poisoned target.",
+      "versionGroup": "x-y"
+    }
+  ]
+}

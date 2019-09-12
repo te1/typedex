@@ -1,0 +1,74 @@
+{
+  "id": 201,
+  "name": "sandstorm",
+  "caption": "Sandstorm",
+  "type": "rock",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Changes the weather to a sandstorm for five turns.",
+    "full": "Changes the weather to a sandstorm for five turns.  Pokémon that are not ground, rock, or steel take 1/16 their max HP at the end of every turn.  Every rock Pokémon's original Special Defense is raised by 50% for the duration of this effect.\n\nsolar beam's power is halved.\n\nmoonlight, morning sun, and synthesis only heal 1/4 the user's max HP."
+  },
+  "flavorTexts": [
+    {
+      "text": "A five-turn sandstorm is summoned to hurt all\ncombatants except the Rock, Ground, and\nSteel types. It raises the Sp. Def stat of Rock types.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "A five-turn sandstorm is summoned to hurt all\ncombatants except the Rock, Ground, and\nSteel types. It raises the Sp. Def stat of Rock types.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "A five-turn sandstorm is summoned\nto hurt all combatants except the\nRock, Ground, and Steel types.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "A five-turn sandstorm is summoned\nto hurt all combatants except the\nRock, Ground, and Steel types.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "A five-turn sandstorm is summoned\nto hurt all combatants except the\nRock, Ground, and Steel types.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "A five-turn sandstorm is summoned\nto hurt all combatants except the\nRock, Ground, and Steel types.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "A five-turn sand­\nstorm is summoned\nto hurt all combatant\ntypes except Rock, \nGround, and Steel.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "A five-turn sand­\nstorm is summoned\nto hurt all combatant\ntypes except Rock, \nGround, and Steel.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "A five-turn sand­\nstorm is summoned\nto hurt all combatant\ntypes except Rock, \nGround, and Steel.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A 5-turn sandstorm\nthat damages all\ntypes except ROCK,\nGROUND, and STEEL.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Causes a sandstorm that\nrages for several turns.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Causes a sandstorm that\nrages for several turns.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Inflicts damage\nevery turn.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Inflicts damage\nevery turn.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 77,
+  "name": "poison-powder",
+  "caption": "Poison Powder",
+  "type": "poison",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 75,
+  "pp": 35,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Poisons the target.",
+    "full": "Poisons the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user scatters a cloud of poisonous dust that\npoisons the target.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user scatters a cloud of poisonous dust that\npoisons the target.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user scatters a cloud of poisonous\ndust on the target. This may also poison\nthe target.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user scatters a cloud of poisonous\ndust on the target. This may also poison\nthe target.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user scatters a cloud of poisonous\ndust on the target. It may poison\nthe target.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user scatters a cloud of poisonous\ndust on the target. It may poison\nthe target.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "A cloud of poisonous\ndust is scattered on\nthe foe.\nIt may poison the\ntarget.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "A cloud of poisonous\ndust is scattered on\nthe foe.\nIt may poison the\ntarget.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "A cloud of poisonous\ndust is scattered on\nthe foe.\nIt may poison the\ntarget.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A cloud of toxic\ndust is scattered.\nIt may poison the\nfoe.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Scatters a toxic powder\nthat may poison the foe.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Scatters a toxic powder\nthat may poison the foe.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "A move that may\npoison the foe.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "A move that may\npoison the foe.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

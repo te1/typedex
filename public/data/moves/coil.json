@@ -1,0 +1,42 @@
+{
+  "id": 489,
+  "name": "coil",
+  "caption": "Coil",
+  "type": "poison",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Raises the user's Attack, Defense, and accuracy by one stage each.",
+    "full": "Raises the user's Attack, Defense, and accuracy by one stage each."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user coils up and concentrates. This raises its\nAttack and Defense stats as well as its accuracy.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user coils up and concentrates. This raises its\nAttack and Defense stats as well as its accuracy.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user coils up and concentrates.\nThis raises its Attack and Defense stats\nas well as its accuracy.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user coils up and concentrates.\nThis raises its Attack and Defense stats\nas well as its accuracy.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user coils up and concentrates.\nThis raises its Attack and Defense stats\nas well as its accuracy.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user coils up and concentrates.\nThis raises its Attack and Defense stats\nas well as its accuracy.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 7,
+  "name": "fire-punch",
+  "caption": "Fire Punch",
+  "type": "fire",
+  "damageClass": "physical",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a $effect_chance% chance to burn the target.",
+    "full": "Inflicts regular damage.  Has a 10% chance to burn the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is punched with a fiery fist. This may also\nleave the target with a burn.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is punched with a fiery fist. This may also\nleave the target with a burn.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is punched with a fiery fist.\nThis may also leave the target with a burn.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is punched with a fiery fist.\nThis may also leave the target with a burn.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is punched with a fiery fist.\nIt may also leave the target with a burn.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is punched with a fiery fist.\nIt may also leave the target with a burn.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is punched\nwith a fiery fist.\nIt may leave the\ntarget with a burn.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is punched\nwith a fiery fist.\nIt may leave the\ntarget with a burn.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is punched\nwith a fiery fist.\nIt may leave the\ntarget with a burn.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is punched\nwith a fiery fist.\nIt may leave the\nfoe with a burn.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A fiery punch that may burn\nthe foe.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A fiery punch that may burn\nthe foe.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "A fiery punch. May\ncause a burn.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "A fiery punch. May\ncause a burn.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

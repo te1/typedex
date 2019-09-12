@@ -1,0 +1,42 @@
+{
+  "id": 526,
+  "name": "work-up",
+  "caption": "Work Up",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Raises the user's Attack and Special Attack by one stage each.",
+    "full": "Raises the user's Attack and Special Attack by one stage each."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user is roused, and its Attack and Sp. Atk\nstats increase.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user is roused, and its Attack and Sp. Atk\nstats increase.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user is roused, and its Attack\nand Sp. Atk stats increase.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user is roused, and its Attack\nand Sp. Atk stats increase.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user is roused, and its Attack\nand Sp. Atk stats increase.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user is roused, and its Attack\nand Sp. Atk stats increase.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 503,
+  "name": "scald",
+  "caption": "Scald",
+  "type": "water",
+  "damageClass": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Has a $effect_chance% chance to burn the target.",
+    "full": "Inflicts regular damage.  Has a 30% chance to burn the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user shoots boiling hot water at its target.\nThis may also leave the target with a burn.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user shoots boiling hot water at its target.\nThis may also leave the target with a burn.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user shoots boiling hot water at\nits target. This may also leave the target\nwith a burn.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user shoots boiling hot water at\nits target. This may also leave the target\nwith a burn.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user shoots boiling hot water at\nits target. It may also leave the target\nwith a burn.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user shoots boiling hot water at\nits target. It may also leave the target\nwith a burn.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

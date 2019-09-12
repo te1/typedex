@@ -1,0 +1,74 @@
+{
+  "id": 231,
+  "name": "iron-tail",
+  "caption": "Iron Tail",
+  "type": "steel",
+  "damageClass": "physical",
+  "power": 100,
+  "accuracy": 75,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to lower the target's Defense by one stage.",
+    "full": "Inflicts regular damage.  Has a 30% chance to lower the target's Defense by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is slammed with a steel-hard tail.\nThis may also lower the target’s Defense stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is slammed with a steel-hard tail.\nThis may also lower the target’s Defense stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is slammed with a steel-hard\ntail. This may also lower the target’s\nDefense stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is slammed with a steel-hard\ntail. This may also lower the target’s\nDefense stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is slammed with a steel-hard\ntail. It may also lower the target’s\nDefense stat.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is slammed with a steel-hard\ntail. It may also lower the target’s\nDefense stat.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is slammed\nwith a steel-hard\ntail. It may also\nlower the target’s\nDefense stat.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is slammed\nwith a steel-hard\ntail. It may also\nlower the target’s\nDefense stat.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is slammed\nwith a steel-hard\ntail. It may also\nlower the target’s\nDefense stat.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "An attack with a\nsteel-hard tail.\nIt may lower the\nfoe’s DEFENSE stat.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Attacks with a rock-hard\ntail. May lower DEFENSE.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Attacks with a rock-hard\ntail. May lower DEFENSE.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\nreduce DEFENSE.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\nreduce DEFENSE.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

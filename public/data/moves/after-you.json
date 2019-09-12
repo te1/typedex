@@ -1,0 +1,42 @@
+{
+  "id": 495,
+  "name": "after-you",
+  "caption": "After You",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Makes the target act next this turn.",
+    "full": "The target will act next this turn, regardless of Speed or move priority.\nIf the target has already acted this turn, this move will fail."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user helps the target and makes it use its move\nright after the user.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user helps the target and makes it use its move\nright after the user.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user helps the target and makes it\nuse its move right after the user.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user helps the target and makes it\nuse its move right after the user.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user helps the target and makes it\nuse its move right after the user.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user helps the target and makes it\nuse its move right after the user.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

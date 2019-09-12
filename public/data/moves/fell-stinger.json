@@ -1,0 +1,34 @@
+{
+  "id": 565,
+  "name": "fell-stinger",
+  "caption": "Fell Stinger",
+  "type": "bug",
+  "damageClass": "physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Raises the user's Attack by two stages if it KOs the target.",
+    "full": "Inflicts regular damage.  Raises the user's Attack by two stages if it KOs the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "When the user knocks out a target with this move,\nthe user’s Attack stat rises drastically.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "When the user knocks out a target with this move,\nthe user’s Attack stat rises drastically.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "When the user knocks out a target\nwith this move, the user’s Attack stat\nrises sharply.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "When the user knocks out a target\nwith this move, the user’s Attack stat\nrises sharply.",
+      "versionGroup": "x-y"
+    }
+  ]
+}

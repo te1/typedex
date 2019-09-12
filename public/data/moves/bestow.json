@@ -1,0 +1,42 @@
+{
+  "id": 516,
+  "name": "bestow",
+  "caption": "Bestow",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Gives the user's held item to the target.",
+    "full": "Transfers the user's held item to the target.  If the user has no held item, or the target already has a held item, this move will fail."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user passes its held item to the target when the\ntarget isn’t holding an item.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user passes its held item to the target when the\ntarget isn’t holding an item.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user passes its held item to the\ntarget when the target isn’t holding\nan item.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user passes its held item to the\ntarget when the target isn’t holding\nan item.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user passes its held item to the\ntarget when the target isn’t holding\nan item.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user passes its held item to the\ntarget when the target isn’t holding\nan item.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

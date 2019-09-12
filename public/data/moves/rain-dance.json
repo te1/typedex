@@ -1,0 +1,74 @@
+{
+  "id": 240,
+  "name": "rain-dance",
+  "caption": "Rain Dance",
+  "type": "water",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Changes the weather to rain for five turns.",
+    "full": "Changes the weather to rain for five turns, during which water moves inflict 50% extra damage, and fire moves inflict half damage.\n\nIf the user is holding damp rock, this effect lasts for eight turns.\n\nthunder has 100% accuracy.  If the target has used detect or protect, thunder has a (100 - accuracy)% chance to break through the protection.\n\nsolar beam has half power.\n\nmoonlight, morning sun, and synthesis heal only 1/4 of the user's max HP.\n\nPokémon with swift swim have doubled original Speed.\n\nPokémon with forecast become water.\n\nPokémon with dry skin heal 1/8 max HP, Pokémon with hydration are cured of major status effects, and Pokémon with rain dish heal 1/16 max HP at the end of each turn."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user summons a heavy rain that falls for five\nturns, powering up Water-type moves. It lowers\nthe power of Fire-type moves.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user summons a heavy rain that falls for five\nturns, powering up Water-type moves. It lowers\nthe power of Fire-type moves.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user summons a heavy rain\nthat falls for five turns,\npowering up Water-type moves.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user summons a heavy rain\nthat falls for five turns,\npowering up Water-type moves.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user summons a heavy rain\nthat falls for five turns,\npowering up Water-type moves.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user summons a heavy rain\nthat falls for five turns,\npowering up Water-type moves.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user summons a\nheavy rain that falls\nfor five turns,\npowering up Water-\ntype moves.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user summons a\nheavy rain that falls\nfor five turns,\npowering up Water-\ntype moves.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user summons a\nheavy rain that falls\nfor five turns,\npowering up Water-\ntype moves.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A heavy rain falls\nfor five turns,\npowering up WATER-\ntype moves.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Boosts the power of WATER-\ntype moves for 5 turns.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Boosts the power of WATER-\ntype moves for 5 turns.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Boosts water-type\nmoves for 5 turns.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Boosts water-type\nmoves for 5 turns.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 469,
+  "name": "wide-guard",
+  "caption": "Wide Guard",
+  "type": "rock",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "priority": 3,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Prevents any multi-target moves from hitting friendly Pokémon this turn.",
+    "full": "Moves with multiple targets will not hit friendly Pokémon for the remainder of this turn.  If the user is last to act this turn, this move will fail.\n\nThis move cannot be selected by assist or metronome."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user and its allies are protected from\nwide-ranging attacks for one turn.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user and its allies are protected from\nwide-ranging attacks for one turn.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user and its allies are protected from\nwide-ranging attacks for one turn.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user and its allies are protected from\nwide-ranging attacks for one turn.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user and its allies are protected from\nwide-ranging attacks for one turn. If used\nin succession, its chance of failing rises.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user and its allies are protected from\nwide-ranging attacks for one turn. If used\nin succession, its chance of failing rises.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

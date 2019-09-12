@@ -1,0 +1,74 @@
+{
+  "id": 62,
+  "name": "aurora-beam",
+  "caption": "Aurora Beam",
+  "type": "ice",
+  "damageClass": "special",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a $effect_chance% chance to lower the target's Attack by one stage.",
+    "full": "Inflicts regular damage.  Has a 10% chance to lower the target's Attack by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is hit with a rainbow-colored beam.\nThis may also lower the target’s Attack stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is hit with a rainbow-colored beam.\nThis may also lower the target’s Attack stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is hit with a rainbow-colored\nbeam. This may also lower the target’s\nAttack stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is hit with a rainbow-colored\nbeam. This may also lower the target’s\nAttack stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is hit with a rainbow-colored\nbeam. This may also lower the target’s\nAttack stat.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is hit with a rainbow-colored\nbeam. This may also lower the target’s\nAttack stat.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is hit with a\nrainbow-colored beam.\nIt may also lower the\ntarget’s Attack\nstat.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is hit with a\nrainbow-colored beam.\nIt may also lower the\ntarget’s Attack\nstat.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is hit with a\nrainbow-colored beam.\nIt may also lower the\ntarget’s Attack\nstat.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A rainbow-colored\nattack beam.\nIt may lower the\nfoe’s ATTACK stat.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Fires a rainbow-colored\nbeam that may lower ATTACK.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Fires a rainbow-colored\nbeam that may lower ATTACK.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\nlower ATTACK.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\nlower ATTACK.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

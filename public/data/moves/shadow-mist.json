@@ -1,0 +1,17 @@
+{
+  "id": 10015,
+  "name": "shadow-mist",
+  "caption": "Shadow Mist",
+  "type": "shadow",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": null,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Lowers the target's evasion by two stages.",
+    "full": "Lowers the target's evasion by two stages."
+  },
+  "flavorTexts": []
+}

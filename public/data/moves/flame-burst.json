@@ -1,0 +1,42 @@
+{
+  "id": 481,
+  "name": "flame-burst",
+  "caption": "Flame Burst",
+  "type": "fire",
+  "damageClass": "special",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Deals splash damage to Pokémon next to the target.",
+    "full": "Inflicts regular damage.  If this move successfully hits the target, any Pokémon adjacent to the target are damaged for 1/16 their max HP."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks the target with a bursting flame.\nThe bursting flame damages Pokémon next to the\ntarget as well.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks the target with a bursting flame.\nThe bursting flame damages Pokémon next to the\ntarget as well.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks the target with a\nbursting flame. The bursting flame damages\nPokémon next to the target as well.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks the target with a\nbursting flame. The bursting flame damages\nPokémon next to the target as well.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user attacks the target with a\nbursting flame. The bursting flame damages\nPokémon next to the target as well.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user attacks the target with a\nbursting flame. The bursting flame damages\nPokémon next to the target as well.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

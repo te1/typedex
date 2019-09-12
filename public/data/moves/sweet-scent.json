@@ -1,0 +1,74 @@
+{
+  "id": 230,
+  "name": "sweet-scent",
+  "caption": "Sweet Scent",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Lowers the target's evasion by one stage.",
+    "full": "Lowers the target's evasion by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "A sweet scent that harshly lowers opposing\nPokémon’s evasiveness.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "A sweet scent that harshly lowers opposing\nPokémon’s evasiveness.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "A sweet scent that harshly lowers opposing\nPokémon’s evasiveness. This also lures wild\nPokémon if used in places such as tall grass.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "A sweet scent that harshly lowers opposing\nPokémon’s evasiveness. This also lures wild\nPokémon if used in places such as tall grass.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "A sweet scent that lowers the opposing\nteam’s evasiveness. It also lures wild\nPokémon if used in grass, etc.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "A sweet scent that lowers the opposing\nteam’s evasiveness. It also lures wild\nPokémon if used in grass, etc.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "A sweet scent that\nlowers the foe’s\nevasiveness. It also\nlures wild Pokémon\nif used in grass, etc.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "A sweet scent that\nlowers the foe’s\nevasiveness. It also\nlures wild Pokémon\nif used in grass, etc.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "A sweet scent that\nlowers the foe’s\nevasiveness. It also\nlures wild Pokémon\nif used in grass, etc.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "Allures the foe to\nreduce evasiveness.\nIt also attracts\nwild POKéMON.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Allures the foe to reduce\nevasiveness.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Allures the foe to reduce\nevasiveness.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Reduces the foe's\nevasiveness.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Reduces the foe's\nevasiveness.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 10004,
+  "name": "shadow-bolt",
+  "caption": "Shadow Bolt",
+  "type": "shadow",
+  "damageClass": "special",
+  "power": 75,
+  "accuracy": 100,
+  "pp": null,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to paralyze the target.",
+    "full": "Inflicts regular damage.  Has a 10% chance to paralyze the target."
+  },
+  "flavorTexts": []
+}

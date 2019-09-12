@@ -1,0 +1,42 @@
+{
+  "id": 511,
+  "name": "quash",
+  "caption": "Quash",
+  "type": "dark",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Makes the target act last this turn.",
+    "full": "Forces the target to act last this turn, regardless of Speed or move priority.  If the target has already acted this turn, this move will fail."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user suppresses the target and makes its move\ngo last.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user suppresses the target and makes its move\ngo last.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user suppresses the target and\nmakes its move go last.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user suppresses the target and\nmakes its move go last.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user suppresses the target and\nmakes its move go last.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user suppresses the target and\nmakes its move go last.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

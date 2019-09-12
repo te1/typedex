@@ -1,0 +1,74 @@
+{
+  "id": 187,
+  "name": "belly-drum",
+  "caption": "Belly Drum",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "User pays half its max HP to max out its Attack.",
+    "full": "User pays half its max HP to raise its Attack to +6 stages.  If the user cannot pay the HP cost, this move will fail."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user maximizes its Attack stat in exchange for\nHP equal to half its max HP.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user maximizes its Attack stat in exchange for\nHP equal to half its max HP.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user maximizes its Attack stat in\nexchange for HP equal to half its max HP.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user maximizes its Attack stat in\nexchange for HP equal to half its max HP.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user maximizes its Attack stat in\nexchange for HP equal to half its max HP.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user maximizes its Attack stat in\nexchange for HP equal to half its max HP.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user maximizes\nits Attack stat in\nexchange for HP\nequal to half its max\nHP.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user maximizes\nits Attack stat in\nexchange for HP\nequal to half its max\nHP.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user maximizes\nits Attack stat in\nexchange for HP\nequal to half its max\nHP.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user maximizes\nits ATTACK stat at\nthe cost of half\nits full HP.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Maximizes ATTACK while\nsacrificing HP.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Maximizes ATTACK while\nsacrificing HP.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Reduces own HP to\nmaximize ATTACK.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Reduces own HP to\nmaximize ATTACK.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

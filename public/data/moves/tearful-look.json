@@ -1,0 +1,26 @@
+{
+  "id": 715,
+  "name": "tearful-look",
+  "caption": "Tearful Look",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Lowers the target's Attack and Special Attack by one stage.",
+    "full": "Lowers the target's Attack and Special Attack by one stage each."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user gets teary eyed to make the target lose\nits combative spirit. This lowers the target’s\nAttack and Sp. Atk stats.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user gets teary eyed to make the target lose\nits combative spirit. This lowers the target’s\nAttack and Sp. Atk stats.",
+      "versionGroup": "sun-moon"
+    }
+  ]
+}

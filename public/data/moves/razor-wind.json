@@ -1,0 +1,74 @@
+{
+  "id": 13,
+  "name": "razor-wind",
+  "caption": "Razor Wind",
+  "type": "normal",
+  "damageClass": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Requires a turn to charge before attacking.",
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.  User charges for one turn before attacking.\n\nThis move cannot be selected by sleep talk."
+  },
+  "flavorTexts": [
+    {
+      "text": "In this two-turn attack, blades of wind hit opposing\nPokémon on the second turn. Critical hits land\nmore easily.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "In this two-turn attack, blades of wind hit opposing\nPokémon on the second turn. Critical hits land\nmore easily.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "A two-turn attack. Blades of wind hit\nopposing Pokémon on the second turn.\nCritical hits land more easily.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "A two-turn attack. Blades of wind hit\nopposing Pokémon on the second turn.\nCritical hits land more easily.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "A two-turn attack. Blades of wind hit\nopposing Pokémon on the second turn.\nCritical hits land more easily.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "A two-turn attack. Blades of wind hit\nopposing Pokémon on the second turn.\nCritical hits land more easily.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "A two-turn attack.\nBlades of wind hit the\nfoe on the second\nturn. It has a high\ncritical-hit ratio.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "A two-turn attack.\nBlades of wind hit the\nfoe on the second\nturn. It has a high\ncritical-hit ratio.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "A two-turn attack.\nBlades of wind hit the\nfoe on the second\nturn. It has a high\ncritical-hit ratio.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "Blades of wind hit\nthe foe on the 2nd\nturn. It has a high\ncritical-hit ratio.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A 2-turn move that strikes\nthe foe on the 2nd turn.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A 2-turn move that strikes\nthe foe on the 2nd turn.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "1st turn: Prepare\n2nd turn: Attack",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "1st turn: Prepare\n2nd turn: Attack",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

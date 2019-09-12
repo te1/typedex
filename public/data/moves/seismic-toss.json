@@ -1,0 +1,74 @@
+{
+  "id": 69,
+  "name": "seismic-toss",
+  "caption": "Seismic Toss",
+  "type": "fighting",
+  "damageClass": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Inflicts damage equal to the user's level.",
+    "full": "Inflicts damage equal to the user's level.  Type immunity applies, but other type effects are ignored."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is thrown using the power of gravity.\nIt inflicts damage equal to the user’s level.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is thrown using the power of gravity.\nIt inflicts damage equal to the user’s level.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is thrown using the power of\ngravity. It inflicts damage equal to\nthe user’s level.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is thrown using the power of\ngravity. It inflicts damage equal to\nthe user’s level.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is thrown using the power of\ngravity. It inflicts damage equal to\nthe user’s level.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is thrown using the power of\ngravity. It inflicts damage equal to\nthe user’s level.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is thrown\nusing the power of\ngravity. It inflicts\ndamage equal to\nthe user’s level.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is thrown\nusing the power of\ngravity. It inflicts\ndamage equal to\nthe user’s level.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is thrown\nusing the power of\ngravity. It inflicts\ndamage equal to\nthe user’s level.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A gravity-fed throw\nthat causes damage\nmatching the user’s\nlevel.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Inflicts damage identical\nto the user’s level.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Inflicts damage identical\nto the user’s level.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "The user's level\nequals damage HP.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "The user's level\nequals damage HP.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

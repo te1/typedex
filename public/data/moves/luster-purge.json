@@ -1,0 +1,66 @@
+{
+  "id": 295,
+  "name": "luster-purge",
+  "caption": "Luster Purge",
+  "type": "psychic",
+  "damageClass": "special",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to lower the target's Special Defense by one stage.",
+    "full": "Inflicts regular damage.  Has a 50% chance to lower the target's Special Defense by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user lets loose a damaging burst of light. This\nmay also lower the target’s Sp. Def stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user lets loose a damaging burst of light. This\nmay also lower the target’s Sp. Def stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user lets loose a damaging burst\nof light. This may also lower the target’s\nSp. Def stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user lets loose a damaging burst\nof light. This may also lower the target’s\nSp. Def stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user lets loose a damaging burst\nof light. It may also reduce the target’s\nSp. Def stat.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user lets loose a damaging burst\nof light. It may also reduce the target’s\nSp. Def stat.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user looses a\ndamaging burst of\nlight. It may also\nreduce the target’s\nSp. Def stat.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user looses a\ndamaging burst of\nlight. It may also\nreduce the target’s\nSp. Def stat.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user looses a\ndamaging burst of\nlight. It may also\nreduce the target’s\nSp. Def stat.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A burst of light\ninjures the foe. It\nmay also lower the\nfoe’s SP. DEF.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Attacks with a burst of\nlight. May lower SP. DEF.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Attacks with a burst of\nlight. May lower SP. DEF.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

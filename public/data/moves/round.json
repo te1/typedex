@@ -1,0 +1,42 @@
+{
+  "id": 496,
+  "name": "round",
+  "caption": "Round",
+  "type": "normal",
+  "damageClass": "special",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Has double power if it's used more than once per turn.",
+    "full": "Inflicts regular damage.  If round has already been used this turn, this move's power is doubled.  After this move is used, any other Pokémon using it this turn will immediately do so (in the order they would otherwise act), regardless of Speed or priority.  Pokémon using other moves will then continue to act as usual."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks the target with a song. Others can\njoin in the Round to increase the power of\nthe attack.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks the target with a song. Others can\njoin in the Round to increase the power of\nthe attack.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks the target with a song.\nOthers can join in the Round and make\nthe attack do greater damage.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks the target with a song.\nOthers can join in the Round and make\nthe attack do greater damage.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user attacks the target with a song.\nOthers can join in the Round and make\nthe attack do greater damage.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user attacks the target with a song.\nOthers can join in the Round and make\nthe attack do greater damage.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

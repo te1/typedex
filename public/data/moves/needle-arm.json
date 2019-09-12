@@ -1,0 +1,66 @@
+{
+  "id": 302,
+  "name": "needle-arm",
+  "caption": "Needle Arm",
+  "type": "grass",
+  "damageClass": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to make the target flinch.",
+    "full": "Inflicts regular damage.  Has a 30% chance to make the target flinch."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks by wildly swinging its thorny arms.\nThis may also make the target flinch.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks by wildly swinging its thorny arms.\nThis may also make the target flinch.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks by wildly swinging its\nthorny arms. This may also make the\ntarget flinch.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks by wildly swinging its\nthorny arms. This may also make the\ntarget flinch.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user attacks by wildly swinging its\nthorny arms. It may also make the\ntarget flinch.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user attacks by wildly swinging its\nthorny arms. It may also make the\ntarget flinch.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user attacks by\nwildly swinging its\nthorny arms.\nIt may also make the\ntarget flinch.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user attacks by\nwildly swinging its\nthorny arms.\nIt may also make the\ntarget flinch.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user attacks by\nwildly swinging its\nthorny arms.\nIt may also make the\ntarget flinch.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "An attack using\nthorny arms.\nIt may make the\nfoe flinch.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Attacks with thorny arms.\nMay cause flinching.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Attacks with thorny arms.\nMay cause flinching.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

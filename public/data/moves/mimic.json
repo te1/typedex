@@ -1,0 +1,74 @@
+{
+  "id": 102,
+  "name": "mimic",
+  "caption": "Mimic",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Copies the target's last used move.",
+    "full": "This move is replaced by the target's last successfully used move, and its PP changes to 5.  If the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, or if the user already knows the targeted move, this move will fail.  This effect vanishes when the user leaves the field.\n\nIf chatter, metronome, mimic, sketch, or struggle is selected, this move will fail.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome, nor forced by encore."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user copies the target’s last move. The move\ncan be used during battle until the Pokémon is\nswitched out.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user copies the target’s last move. The move\ncan be used during battle until the Pokémon is\nswitched out.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user copies the target’s last move.\nThe move can be used during battle\nuntil the Pokémon is switched out.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user copies the target’s last move.\nThe move can be used during battle\nuntil the Pokémon is switched out.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user copies the target’s last move.\nThe move can be used during battle\nuntil the Pokémon is switched out.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user copies the target’s last move.\nThe move can be used during battle\nuntil the Pokémon is switched out.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user copies the\nmove last used by\nthe foe. The move can\nbe used for the rest\nof the battle.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user copies the\nmove last used by\nthe foe. The move can\nbe used for the rest\nof the battle.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user copies the\nmove last used by\nthe foe. The move can\nbe used for the rest\nof the battle.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user copies the\nmove last used by\nthe foe for the\nrest of the battle.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Copies a move used by the\nfoe during one battle.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Copies a move used by the\nfoe during one battle.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Copies a move used\nby the foe.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Copies a move used\nby the foe.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

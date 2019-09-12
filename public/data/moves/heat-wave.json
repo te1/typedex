@@ -1,0 +1,66 @@
+{
+  "id": 257,
+  "name": "heat-wave",
+  "caption": "Heat Wave",
+  "type": "fire",
+  "damageClass": "special",
+  "power": 95,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to burn the target.",
+    "full": "Inflicts regular damage.  Has a 10% chance to burn the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks by exhaling hot breath on the\nopposing Pokémon. This may also leave those\nPokémon with a burn.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks by exhaling hot breath on the\nopposing Pokémon. This may also leave those\nPokémon with a burn.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks by exhaling hot breath\non the opposing Pokémon. This may also leave\nthose Pokémon with a burn.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks by exhaling hot breath\non the opposing Pokémon. This may also leave\nthose Pokémon with a burn.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user attacks by exhaling hot breath\non the opposing team. It may also leave\ntargets with a burn.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user attacks by exhaling hot breath\non the opposing team. It may also leave\ntargets with a burn.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user exhales a\nheated breath on the\nfoe to attack. It may\nalso leave the target\nwith a burn.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user exhales a\nheated breath on the\nfoe to attack. It may\nalso leave the target\nwith a burn.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user exhales a\nheated breath on the\nfoe to attack. It may\nalso leave the target\nwith a burn.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user exhales a\nheated breath to\nattack. It may also\ninflict a burn.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Exhales a hot breath on the\nfoe. May inflict a burn.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Exhales a hot breath on the\nfoe. May inflict a burn.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

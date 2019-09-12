@@ -1,0 +1,42 @@
+{
+  "id": 533,
+  "name": "sacred-sword",
+  "caption": "Sacred Sword",
+  "type": "fighting",
+  "damageClass": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Ignores the target's stat modifiers.",
+    "full": "Inflicts regular damage.  Damage calculation ignores the target's stat modifiers, including evasion."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks by slicing with a long horn. The\ntarget’s stat changes don’t affect this\nattack’s damage.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks by slicing with a long horn. The\ntarget’s stat changes don’t affect this\nattack’s damage.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks by slicing with a long\nhorn. The target’s stat changes\ndon’t affect this attack’s damage.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks by slicing with a long\nhorn. The target’s stat changes\ndon’t affect this attack’s damage.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user attacks by slicing with its long\nhorns. The target’s stat changes\ndon’t affect this attack’s damage.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user attacks by slicing with its long\nhorns. The target’s stat changes\ndon’t affect this attack’s damage.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

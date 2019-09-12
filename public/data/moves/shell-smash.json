@@ -1,0 +1,42 @@
+{
+  "id": 504,
+  "name": "shell-smash",
+  "caption": "Shell Smash",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Raises user's Attack, Special Attack, and Speed by two stages.  Lower user's Defense and Special Defense by one stage.",
+    "full": "Raises the user's Attack, Special Attack, and Speed by two stages each.  Lowers the user's Defense and Special Defense by one stage each."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user breaks its shell, which lowers Defense and\nSp. Def stats but sharply raises its Attack, Sp. Atk,\nand Speed stats.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user breaks its shell, which lowers Defense and\nSp. Def stats but sharply raises its Attack, Sp. Atk,\nand Speed stats.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user breaks its shell, which lowers\nDefense and Sp. Def stats but sharply\nraises its Attack, Sp. Atk, and Speed stats.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user breaks its shell, which lowers\nDefense and Sp. Def stats but sharply\nraises its Attack, Sp. Atk, and Speed stats.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user breaks its shell, lowering its\nDefense and Sp. Def stats but sharply\nraising Attack, Sp. Atk, and Speed stats.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user breaks its shell, lowering its\nDefense and Sp. Def stats but sharply\nraising Attack, Sp. Atk, and Speed stats.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

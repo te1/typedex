@@ -1,0 +1,54 @@
+{
+  "id": 443,
+  "name": "magnet-bomb",
+  "caption": "Magnet Bomb",
+  "type": "steel",
+  "damageClass": "physical",
+  "power": 60,
+  "accuracy": null,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Never misses.",
+    "full": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user launches steel bombs that stick to the\ntarget. This attack never misses.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user launches steel bombs that stick to the\ntarget. This attack never misses.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user launches steel bombs that\nstick to the target.\nThis attack never misses.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user launches steel bombs that\nstick to the target.\nThis attack never misses.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user launches steel bombs that\nstick to the target.\nThis attack will not miss.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user launches steel bombs that\nstick to the target.\nThis attack will not miss.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user launches a\nsteel bomb that\nsticks to the target.\nThis attack will not\nmiss.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user launches a\nsteel bomb that\nsticks to the target.\nThis attack will not\nmiss.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user launches a\nsteel bomb that\nsticks to the target.\nThis attack will not\nmiss.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 473,
+  "name": "psyshock",
+  "caption": "Psyshock",
+  "type": "psychic",
+  "damageClass": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Inflicts damage based on the target's Defense, not Special Defense.",
+    "full": "Inflicts regular damage.  Damage calculation always uses the target's Defense, regardless of this move's damage class."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user materializes an odd psychic wave to attack\nthe target. This attack does physical damage.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user materializes an odd psychic wave to attack\nthe target. This attack does physical damage.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user materializes an odd\npsychic wave to attack the target.\nThis attack does physical damage.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user materializes an odd\npsychic wave to attack the target.\nThis attack does physical damage.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user materializes an odd\npsychic wave to attack the target.\nThis attack does physical damage.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user materializes an odd\npsychic wave to attack the target.\nThis attack does physical damage.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

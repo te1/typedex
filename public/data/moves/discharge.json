@@ -1,0 +1,54 @@
+{
+  "id": 435,
+  "name": "discharge",
+  "caption": "Discharge",
+  "type": "electric",
+  "damageClass": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a $effect_chance% chance to paralyze the target.",
+    "full": "Inflicts regular damage.  Has a 30% chance to paralyze the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user strikes everything around it by letting loose\na flare of electricity. This may also cause paralysis.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user strikes everything around it by letting loose\na flare of electricity. This may also cause paralysis.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user strikes everything around it\nby letting loose a flare of electricity.\nThis may also cause paralysis.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user strikes everything around it\nby letting loose a flare of electricity.\nThis may also cause paralysis.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "A flare of electricity is loosed to strike\nthe area around the user.\nIt may also cause paralysis.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "A flare of electricity is loosed to strike\nthe area around the user.\nIt may also cause paralysis.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "A flare of electricity\nis loosed to strike\nall Pokémon in battle.\nIt may also cause\nparalysis.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "A flare of electricity\nis loosed to strike\nall Pokémon in battle.\nIt may also cause\nparalysis.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "A flare of electricity\nis loosed to strike\nall Pokémon in battle.\nIt may also cause\nparalysis.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

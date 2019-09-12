@@ -1,0 +1,74 @@
+{
+  "id": 28,
+  "name": "sand-attack",
+  "caption": "Sand Attack",
+  "type": "ground",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Lowers the target's accuracy by one stage.",
+    "full": "Lowers the target's accuracy by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "Sand is hurled in the target’s face, reducing the\ntarget’s accuracy.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "Sand is hurled in the target’s face, reducing the\ntarget’s accuracy.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "Sand is hurled in the target’s face,\nreducing the target’s accuracy.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "Sand is hurled in the target’s face,\nreducing the target’s accuracy.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "Sand is hurled in the target’s face,\nreducing its accuracy.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "Sand is hurled in the target’s face,\nreducing its accuracy.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "Sand is hurled in the\nfoe’s face, reducing\nits accuracy.\n\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "Sand is hurled in the\nfoe’s face, reducing\nits accuracy.\n\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "Sand is hurled in the\nfoe’s face, reducing\nits accuracy.\n\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A lot of sand is\nhurled in the foe’s\nface, reducing its\naccuracy.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Reduces the foe’s accuracy\nby hurling sand in its face.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Reduces the foe’s accuracy\nby hurling sand in its face.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Reduces accuracy\nby throwing sand.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Reduces accuracy\nby throwing sand.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 316,
+  "name": "odor-sleuth",
+  "caption": "Odor Sleuth",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 40,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it's a Ghost.",
+    "full": "Resets the target's evasion to normal and prevents any further boosting until the target leaves the field.  A ghost under this effect takes normal damage from normal and fighting moves.  This move itself ignores accuracy and evasion modifiers."
+  },
+  "flavorTexts": [
+    {
+      "text": "Enables a Ghost-type target to be hit by Normal-\nand Fighting-type attacks. This also enables an\nevasive target to be hit.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "Enables a Ghost-type target to be hit by Normal-\nand Fighting-type attacks. This also enables an\nevasive target to be hit.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "Enables a Ghost-type target to be hit by\nNormal- and Fighting-type attacks. This also\nenables an evasive target to be hit.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "Enables a Ghost-type target to be hit by\nNormal- and Fighting-type attacks. This also\nenables an evasive target to be hit.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "Enables a Ghost-type target to be hit with\nNormal- and Fighting-type attacks. It also\nenables an evasive target to be hit.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "Enables a Ghost-type target to be hit with\nNormal- and Fighting-type attacks. It also\nenables an evasive target to be hit.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "Enables the user to\nhit a Ghost type with\nany type of move. It\nalso enables the user\nto hit an evasive foe.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "Enables the user to\nhit a Ghost type with\nany type of move. It\nalso enables the user\nto hit an evasive foe.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "Enables the user to\nhit a Ghost type with\nany type of move. It\nalso enables the user\nto hit an evasive foe.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "Completely negates\nthe foe’s efforts to\nheighten its ability\nto evade.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Negates the foe’s efforts\nto heighten evasiveness.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Negates the foe’s efforts\nto heighten evasiveness.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

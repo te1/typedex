@@ -1,0 +1,66 @@
+{
+  "id": 292,
+  "name": "arm-thrust",
+  "caption": "Arm Thrust",
+  "type": "fighting",
+  "damageClass": "physical",
+  "power": 15,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Hits 2-5 times in one turn.",
+    "full": "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user lets loose a flurry of open-palmed arm\nthrusts that hit two to five times in a row.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user lets loose a flurry of open-palmed arm\nthrusts that hit two to five times in a row.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user lets loose a flurry of open-palmed\narm thrusts that hit two to five times in\na row.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user lets loose a flurry of open-palmed\narm thrusts that hit two to five times in\na row.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user looses a flurry of open-palmed\narm thrusts that hit two to five times in\na row.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user looses a flurry of open-palmed\narm thrusts that hit two to five times in\na row.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user looses a\nflurry of open-palmed\narm thrusts that hit\ntwo to five times in a\nrow.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user looses a\nflurry of open-palmed\narm thrusts that hit\ntwo to five times in a\nrow.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user looses a\nflurry of open-palmed\narm thrusts that hit\ntwo to five times in a\nrow.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A quick flurry of\nstraight-arm\npunches that hit\ntwo to five times.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Straight-arm punches that\nstrike the foe 2 to 5 times.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Straight-arm punches that\nstrike the foe 2 to 5 times.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

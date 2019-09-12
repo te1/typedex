@@ -1,0 +1,74 @@
+{
+  "id": 243,
+  "name": "mirror-coat",
+  "caption": "Mirror Coat",
+  "type": "psychic",
+  "damageClass": "special",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": -5,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Inflicts twice the damage the user received from the last special hit it took.",
+    "full": "Targets the last opposing Pokémon to hit the user with a special move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome."
+  },
+  "flavorTexts": [
+    {
+      "text": "A retaliation move that counters any special attack,\ninflicting double the damage taken.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "A retaliation move that counters any special attack,\ninflicting double the damage taken.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "A retaliation move that counters any\nspecial attack, inflicting double the\ndamage taken.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "A retaliation move that counters any\nspecial attack, inflicting double the\ndamage taken.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "A retaliation move that counters any\nspecial attack, inflicting double the\ndamage taken.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "A retaliation move that counters any\nspecial attack, inflicting double the\ndamage taken.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "A retaliation move\nthat counters any\nspecial attack,\ninflicting double the\ndamage taken.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "A retaliation move\nthat counters any\nspecial attack,\ninflicting double the\ndamage taken.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "A retaliation move\nthat counters any\nspecial attack,\ninflicting double the\ndamage taken.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A retaliation move\nthat pays back the\nfoe’s special attack\ndouble.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Counters the foe’s special\nattack at double the power.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Counters the foe’s special\nattack at double the power.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Counters a SPCL.\nATK move double.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Counters a SPCL.\nATK. move double.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

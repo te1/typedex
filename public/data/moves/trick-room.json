@@ -1,0 +1,54 @@
+{
+  "id": 433,
+  "name": "trick-room",
+  "caption": "Trick Room",
+  "type": "psychic",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "priority": -7,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "For five turns, slower Pokémon will act before faster Pokémon.",
+    "full": "For five turns (including this one), slower Pokémon will act before faster Pokémon.  Move priority is not affected.  Using this move when its effect is already active will end the effect.\n\nPokémon holding full incense, lagging tail, or quick claw and Pokémon with stall ignore this effect."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user creates a bizarre area in which slower\nPokémon get to move first for five turns.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user creates a bizarre area in which slower\nPokémon get to move first for five turns.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user creates a bizarre area in which\nslower Pokémon get to move first for\nfive turns.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user creates a bizarre area in which\nslower Pokémon get to move first for\nfive turns.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user creates a bizarre area in which\nslower Pokémon get to move first for\nfive turns.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user creates a bizarre area in which\nslower Pokémon get to move first for\nfive turns.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user creates a\nbizarre area in which\nslower Pokémon get\nto move first for five\nturns.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user creates a\nbizarre area in which\nslower Pokémon get\nto move first for five\nturns.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user creates a\nbizarre area in which\nslower Pokémon get\nto move first for five\nturns.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

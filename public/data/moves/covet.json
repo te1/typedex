@@ -1,0 +1,66 @@
+{
+  "id": 343,
+  "name": "covet",
+  "caption": "Covet",
+  "type": "normal",
+  "damageClass": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Takes the target's item.",
+    "full": "Inflicts regular damage.  If the target is holding an item and the user is not, the user will permanently take the item.  Damage is still inflicted if an item cannot be taken.\n\nPokémon with sticky hold or multitype are immune to the item theft effect.\n\nThe target cannot recover its item with recycle.\n\nThis move cannot be selected by assist or metronome."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user endearingly approaches the target, then\nsteals the target’s held item.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user endearingly approaches the target, then\nsteals the target’s held item.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user endearingly approaches\nthe target, then steals the target’s\nheld item.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user endearingly approaches\nthe target, then steals the target’s\nheld item.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user endearingly approaches\nthe target, then steals the target’s\nheld item.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user endearingly approaches\nthe target, then steals the target’s\nheld item.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user endearingly\napproaches the foe,\nthen steals the item\nthe foe is holding.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user endearingly\napproaches the foe,\nthen steals the item\nthe foe is holding.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user endearingly\napproaches the foe,\nthen steals the item\nthe foe is holding.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A cutely executed\nattack that also\nsteals the foe’s\nhold item.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Cutely begs to obtain an\nitem held by the foe.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Cutely begs to obtain an\nitem held by the foe.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

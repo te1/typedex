@@ -1,0 +1,74 @@
+{
+  "id": 158,
+  "name": "hyper-fang",
+  "caption": "Hyper Fang",
+  "type": "normal",
+  "damageClass": "physical",
+  "power": 80,
+  "accuracy": 90,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a $effect_chance% chance to make the target flinch.",
+    "full": "Inflicts regular damage.  Has a 10% chance to make the target flinch."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user bites hard on the target with its sharp\nfront fangs. This may also make the target flinch.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user bites hard on the target with its sharp\nfront fangs. This may also make the target flinch.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user bites hard on the target\nwith its sharp front fangs.\nThis may also make the target flinch.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user bites hard on the target\nwith its sharp front fangs.\nThis may also make the target flinch.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user bites hard on the target\nwith its sharp front fangs.\nIt may also make the target flinch.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user bites hard on the target\nwith its sharp front fangs.\nIt may also make the target flinch.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user bites hard\non the foe with its\nsharp front fangs.\nIt may also make the\ntarget flinch.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user bites hard\non the foe with its\nsharp front fangs.\nIt may also make the\ntarget flinch.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user bites hard\non the foe with its\nsharp front fangs.\nIt may also make the\ntarget flinch.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is attacked\nwith sharp fangs.\nIt may make the\nfoe flinch.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Attacks with sharp fangs.\nMay cause flinching.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Attacks with sharp fangs.\nMay cause flinching.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\ncause flinching.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\ncause flinching.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

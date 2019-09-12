@@ -1,0 +1,54 @@
+{
+  "id": 398,
+  "name": "poison-jab",
+  "caption": "Poison Jab",
+  "type": "poison",
+  "damageClass": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a $effect_chance% chance to poison the target.",
+    "full": "Inflicts regular damage.  Has a 30% chance to poison the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is stabbed with a tentacle or arm steeped\nin poison. This may also poison the target.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is stabbed with a tentacle or arm steeped\nin poison. This may also poison the target.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is stabbed with a tentacle or\narm steeped in poison. This may also\npoison the target.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is stabbed with a tentacle or\narm steeped in poison. This may also\npoison the target.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is stabbed with a tentacle or\narm steeped in poison. It may also\npoison the target.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is stabbed with a tentacle or\narm steeped in poison. It may also\npoison the target.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is stabbed\nwith a tentacle or\narm steeped in\npoison. It may also\npoison the foe.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is stabbed\nwith a tentacle or\narm steeped in\npoison. It may also\npoison the foe.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is stabbed\nwith a tentacle or\narm steeped in\npoison. It may also\npoison the foe.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

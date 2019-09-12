@@ -1,0 +1,74 @@
+{
+  "id": 24,
+  "name": "double-kick",
+  "caption": "Double Kick",
+  "type": "fighting",
+  "damageClass": "physical",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Hits twice in one turn.",
+    "full": "Inflicts regular damage.  Hits twice in one turn."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is quickly kicked twice in succession\nusing both feet.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is quickly kicked twice in succession\nusing both feet.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is quickly kicked twice in\nsuccession using both feet.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is quickly kicked twice in\nsuccession using both feet.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is quickly kicked twice in\nsuccession using both feet.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is quickly kicked twice in\nsuccession using both feet.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is quickly\nkicked twice in\nsuccession using both\nfeet.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is quickly\nkicked twice in\nsuccession using both\nfeet.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is quickly\nkicked twice in\nsuccession using both\nfeet.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "Two legs are used\nto quickly kick the\nfoe twice in one\nturn.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A double-kicking attack\nthat strikes the foe twice.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A double-kicking attack\nthat strikes the foe twice.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "A double kicking\nattack.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "A double kicking\nattack.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 143,
+  "name": "sky-attack",
+  "caption": "Sky Attack",
+  "type": "flying",
+  "damageClass": "physical",
+  "power": 140,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "User charges for one turn before attacking.  Has a $effect_chance% chance to make the target flinch.",
+    "full": "Inflicts regular damage.  User charges for one turn before attacking.  Critical hit chance is one level higher than normal.  Has a 30% chance to make the target flinch.\n\nThis move cannot be selected by sleep talk."
+  },
+  "flavorTexts": [
+    {
+      "text": "A second-turn attack move where critical hits land\nmore easily. This may also make the target flinch.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "A second-turn attack move where critical hits land\nmore easily. This may also make the target flinch.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "A second-turn attack move where\ncritical hits land more easily.\nThis may also make the target flinch.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "A second-turn attack move where\ncritical hits land more easily.\nThis may also make the target flinch.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "A second-turn attack move where\ncritical hits land more easily.\nIt may also make the target flinch.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "A second-turn attack move where\ncritical hits land more easily.\nIt may also make the target flinch.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "A second-turn attack\nmove with a high\ncritical-hit ratio.\nIt may also make the\ntarget flinch.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "A second-turn attack\nmove with a high\ncritical-hit ratio.\nIt may also make the\ntarget flinch.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "A second-turn attack\nmove with a high\ncritical-hit ratio.\nIt may also make the\ntarget flinch.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A 2nd-turn attack\nmove with a high\ncritical-hit ratio.\nThe foe may flinch.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Searches out weak spots,\nthen strikes the next turn.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Searches out weak spots,\nthen strikes the next turn.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "1st turn: Prepare\n2nd turn: Attack",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "1st turn: Prepare\n2nd turn: Attack",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

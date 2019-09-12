@@ -1,0 +1,66 @@
+{
+  "id": 318,
+  "name": "silver-wind",
+  "caption": "Silver Wind",
+  "type": "bug",
+  "damageClass": "special",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to raise all of the user's stats by one stage.",
+    "full": "Inflicts regular damage. Has a 10% chance to raise all of the user's stats one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is attacked with powdery scales blown\nby the wind. This may also raise all the user’s stats.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is attacked with powdery scales blown\nby the wind. This may also raise all the user’s stats.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is attacked with powdery\nscales blown by wind.\nThis may also raise all the user’s stats.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is attacked with powdery\nscales blown by wind.\nThis may also raise all the user’s stats.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is attacked with powdery\nscales blown by wind.\nIt may also raise all the user’s stats.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is attacked with powdery\nscales blown by wind.\nIt may also raise all the user’s stats.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is attacked\nwith powdery scales\nblown by wind.\nIt may also raise all\nthe user’s stats.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is attacked\nwith powdery scales\nblown by wind.\nIt may also raise all\nthe user’s stats.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is attacked\nwith powdery scales\nblown by wind.\nIt may also raise all\nthe user’s stats.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is attacked\nwith a silver dust.\nIt may raise all\nthe user’s stats.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A powdery attack that may\nraise abilities.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A powdery attack that may\nraise abilities.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

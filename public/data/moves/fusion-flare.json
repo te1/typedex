@@ -1,0 +1,42 @@
+{
+  "id": 558,
+  "name": "fusion-flare",
+  "caption": "Fusion Flare",
+  "type": "fire",
+  "damageClass": "special",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "With Fusion Bolt, inflicts double damage.",
+    "full": "Inflicts regular damage.  If a friendly Pokémon used fusion bolt earlier this turn, this move has double power."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user brings down a giant flame. This move’s\npower is increased when influenced by an enormous\nlightning bolt.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user brings down a giant flame. This move’s\npower is increased when influenced by an enormous\nlightning bolt.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user brings down a giant flame.\nThis move is more powerful when\ninfluenced by an enormous thunderbolt.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user brings down a giant flame.\nThis move is more powerful when\ninfluenced by an enormous thunderbolt.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user brings down a giant flame.\nThis attack does greater damage when\ninfluenced by an enormous thunderbolt.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user brings down a giant flame.\nThis attack does greater damage when\ninfluenced by an enormous thunderbolt.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

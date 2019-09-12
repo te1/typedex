@@ -1,0 +1,54 @@
+{
+  "id": 386,
+  "name": "punishment",
+  "caption": "Punishment",
+  "type": "dark",
+  "damageClass": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Power increases against targets with more raised stats, up to a maximum of 200.",
+    "full": "Inflicts regular damage.  Power starts at 60 and is increased by 20 for every stage any of the target's stats has been raised, capping at 200.  Accuracy and evasion modifiers do not increase this move's power."
+  },
+  "flavorTexts": [
+    {
+      "text": "The more the target has powered up with stat\nchanges, the greater the move’s power.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The more the target has powered up with stat\nchanges, the greater the move’s power.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The more the target has powered\nup with stat changes, the greater\nthe move’s power.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The more the target has powered\nup with stat changes, the greater\nthe move’s power.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "This attack’s power increases\nthe more the target has powered\nup with stat changes.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "This attack’s power increases\nthe more the target has powered\nup with stat changes.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "This attack’s power\nincreases the more\nthe foe has powered\nup with stat changes.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "This attack’s power\nincreases the more\nthe foe has powered\nup with stat changes.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "This attack’s power\nincreases the more\nthe foe has powered\nup with stat changes.\n",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 115,
+  "name": "reflect",
+  "caption": "Reflect",
+  "type": "psychic",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Reduces damage from physical attacks by half.",
+    "full": "Erects a barrier around the user's side of the field that reduces damage from physical attacks by half for five turns.  In double battles, the reduction is 1/3.  Critical hits are not affected by the barrier.\n\nIf the user is holding light clay, the barrier lasts for eight turns.\n\nbrick break or defog used by an opponent will destroy the barrier."
+  },
+  "flavorTexts": [
+    {
+      "text": "A wondrous wall of light is put up to reduce damage\nfrom physical attacks for five turns.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "A wondrous wall of light is put up to reduce damage\nfrom physical attacks for five turns.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "A wondrous wall of light is put up to\nreduce damage from physical attacks\nfor five turns.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "A wondrous wall of light is put up to\nreduce damage from physical attacks\nfor five turns.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "A wondrous wall of light is put up to\nsuppress damage from physical attacks\nfor five turns.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "A wondrous wall of light is put up to\nsuppress damage from physical attacks\nfor five turns.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "A wondrous wall of\nlight is put up to\nsuppress damage from\nphysical attacks for\nfive turns.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "A wondrous wall of\nlight is put up to\nsuppress damage from\nphysical attacks for\nfive turns.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "A wondrous wall of\nlight is put up to\nsuppress damage from\nphysical attacks for\nfive turns.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A wall of light\ncuts damage from\nphysical attacks\nfor five turns.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Creates a wall of light that\nweakens physical attacks.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Creates a wall of light that\nweakens physical attacks.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Raises DEFENSE\nwith a barrier.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Raises DEFENSE\nwith a barrier.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 161,
+  "name": "tri-attack",
+  "caption": "Tri Attack",
+  "type": "normal",
+  "damageClass": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a $effect_chance% chance to burn, freeze, or paralyze the target.",
+    "full": "Inflicts regular damage.  Has a 20% chance to burn, freeze, or paralyze the target.  One of these effects is selected at random; they do not each have independent chances to occur."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user strikes with a simultaneous three-beam\nattack. May also burn, freeze, or paralyze the target.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user strikes with a simultaneous three-beam\nattack. May also burn, freeze, or paralyze the target.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user strikes with a simultaneous\nthree-beam attack. May also burn, freeze,\nor leave the target with paralysis.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user strikes with a simultaneous\nthree-beam attack. May also burn, freeze,\nor leave the target with paralysis.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user strikes with a simultaneous\nthree-beam attack. May also burn, freeze,\nor leave the target with paralysis.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user strikes with a simultaneous\nthree-beam attack. May also burn, freeze,\nor leave the target with paralysis.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user strikes with\na simultaneous three-\nbeam attack. May also\nparalyze, burn, or\nfreeze the target.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user strikes with\na simultaneous three-\nbeam attack. May also\nparalyze, burn, or\nfreeze the target.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user strikes with\na simultaneous three-\nbeam attack. May also\nparalyze, burn, or\nfreeze the target.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A simultaneous\n3-beam attack that\nmay paralyze, burn,\nor freeze the foe.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Fires three types of beams\nat the same time.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Fires three types of beams\nat the same time.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Fires three kinds\nof beams at once.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Fires three kinds\nof beams at once.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

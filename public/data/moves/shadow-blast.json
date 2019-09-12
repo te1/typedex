@@ -1,0 +1,17 @@
+{
+  "id": 10002,
+  "name": "shadow-blast",
+  "caption": "Shadow Blast",
+  "type": "shadow",
+  "damageClass": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": null,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has an increased chance for a critical hit.",
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+  },
+  "flavorTexts": []
+}

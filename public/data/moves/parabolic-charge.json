@@ -1,0 +1,34 @@
+{
+  "id": 570,
+  "name": "parabolic-charge",
+  "caption": "Parabolic Charge",
+  "type": "electric",
+  "damageClass": "special",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Heals the user for half the total damage dealt to all targets.",
+    "full": "Heals the user for half the total damage dealt to all targets."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks everything around it. The user’s HP\nis restored by half the damage taken by those hit.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks everything around it. The user’s HP\nis restored by half the damage taken by those hit.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks everything around it.\nThe user’s HP is restored by half\nthe damage taken by those hit.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks everything around it.\nThe user’s HP is restored by half\nthe damage taken by those hit.",
+      "versionGroup": "x-y"
+    }
+  ]
+}

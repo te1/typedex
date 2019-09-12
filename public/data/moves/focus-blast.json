@@ -1,0 +1,54 @@
+{
+  "id": 411,
+  "name": "focus-blast",
+  "caption": "Focus Blast",
+  "type": "fighting",
+  "damageClass": "special",
+  "power": 120,
+  "accuracy": 70,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a $effect_chance% chance to lower the target's Special Defense by one stage.",
+    "full": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user heightens its mental focus and unleashes\nits power. This may also lower the target’s \nSp. Def stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user heightens its mental focus and unleashes\nits power. This may also lower the target’s \nSp. Def stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user heightens its mental focus and\nunleashes its power.\nThis may also lower the target’s Sp. Def.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user heightens its mental focus and\nunleashes its power.\nThis may also lower the target’s Sp. Def.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user heightens its mental focus and\nunleashes its power.\nIt may also lower the target’s Sp. Def.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user heightens its mental focus and\nunleashes its power.\nIt may also lower the target’s Sp. Def.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user heightens\nits mental focus and\nunleashes its power.\nIt may also lower the\ntarget’s Sp. Def.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user heightens\nits mental focus and\nunleashes its power.\nIt may also lower the\ntarget’s Sp. Def.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user heightens\nits mental focus and\nunleashes its power.\nIt may also lower the\ntarget’s Sp. Def.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

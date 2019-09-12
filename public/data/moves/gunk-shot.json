@@ -1,0 +1,54 @@
+{
+  "id": 441,
+  "name": "gunk-shot",
+  "caption": "Gunk Shot",
+  "type": "poison",
+  "damageClass": "physical",
+  "power": 120,
+  "accuracy": 80,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a $effect_chance% chance to poison the target.",
+    "full": "Inflicts regular damage.  Has a 30% chance to poison the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user shoots filthy garbage at the target to\nattack. This may also poison the target.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user shoots filthy garbage at the target to\nattack. This may also poison the target.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user shoots filthy garbage\nat the target to attack.\nThis may also poison the target.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user shoots filthy garbage\nat the target to attack.\nThis may also poison the target.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user shoots filthy garbage\nat the target to attack.\nIt may also poison the target.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user shoots filthy garbage\nat the target to attack.\nIt may also poison the target.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user shoots\nfilthy garbage at the\nfoe to attack.\nIt may also poison\nthe target.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user shoots\nfilthy garbage at the\nfoe to attack.\nIt may also poison\nthe target.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user shoots\nfilthy garbage at the\nfoe to attack.\nIt may also poison\nthe target.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

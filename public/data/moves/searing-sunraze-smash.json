@@ -1,0 +1,22 @@
+{
+  "id": 724,
+  "name": "searing-sunraze-smash",
+  "caption": "Searing Sunraze Smash",
+  "type": "steel",
+  "damageClass": "physical",
+  "power": 200,
+  "accuracy": null,
+  "pp": 1,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Cannot be disrupted by abilities.",
+    "full": "Inflicts regular damage.  Other Pokémon's abilities cannot activate in response to this move.  In particular, it hits through disguise"
+  },
+  "flavorTexts": [
+    {
+      "text": "After obtaining Z-Power, the user, Solgaleo,\nattacks the target with full force. This move can\nignore the effect of the target’s Ability.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    }
+  ]
+}

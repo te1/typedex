@@ -1,0 +1,74 @@
+{
+  "id": 189,
+  "name": "mud-slap",
+  "caption": "Mud-Slap",
+  "type": "ground",
+  "damageClass": "special",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to lower the target's accuracy by one stage.",
+    "full": "Inflicts regular damage.  Has a 100% chance to lower the target's accuracy by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user hurls mud in the target’s face to inflict\ndamage and lower its accuracy.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user hurls mud in the target’s face to inflict\ndamage and lower its accuracy.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user hurls mud in the target’s face to\ninflict damage and lower its accuracy.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user hurls mud in the target’s face to\ninflict damage and lower its accuracy.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user hurls mud in the target’s face to\ninflict damage and lower its accuracy.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user hurls mud in the target’s face to\ninflict damage and lower its accuracy.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user hurls mud in\nthe foe’s face to\ninflict damage and\nlower its accuracy.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user hurls mud in\nthe foe’s face to\ninflict damage and\nlower its accuracy.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user hurls mud in\nthe foe’s face to\ninflict damage and\nlower its accuracy.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "Mud is hurled in\nthe foe’s face to\ninflict damage and\nlower its accuracy.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Hurls mud in the foe’s face\nto reduce its accuracy.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Hurls mud in the foe’s face\nto reduce its accuracy.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Reduces the foe's\naccuracy.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Reduces the foe's\naccuracy.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

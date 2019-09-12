@@ -1,0 +1,66 @@
+{
+  "id": 298,
+  "name": "teeter-dance",
+  "caption": "Teeter Dance",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Confuses the target.",
+    "full": "Confuses all targets."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user performs a wobbly dance that confuses\nthe Pokémon around it.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user performs a wobbly dance that confuses\nthe Pokémon around it.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user performs a wobbly dance that\nconfuses the Pokémon around it.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user performs a wobbly dance that\nconfuses the Pokémon around it.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user performs a wobbly dance that\nconfuses the Pokémon around it.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user performs a wobbly dance that\nconfuses the Pokémon around it.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user performs a\nwobbly dance that\nconfuses all the\nPokémon in battle.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user performs a\nwobbly dance that\nconfuses all the\nPokémon in battle.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user performs a\nwobbly dance that\nconfuses all the\nPokémon in battle.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A wobbly dance\nthat confuses all\nthe POKéMON in\nbattle.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Confuses all POKéMON on\nthe scene.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Confuses all POKéMON on\nthe scene.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

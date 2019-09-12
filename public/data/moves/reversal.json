@@ -1,0 +1,74 @@
+{
+  "id": 179,
+  "name": "reversal",
+  "caption": "Reversal",
+  "type": "fighting",
+  "damageClass": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Inflicts more damage when the user has less HP remaining, with a maximum of 200 power.",
+    "full": "Inflicts regular damage.  Power varies inversely with the user's proportional remaining HP.\n\n64 * current HP / max HP | Power\n-----------------------: | ----:\n 0– 1                    |  200\n 2– 5                    |  150\n 6–12                    |  100\n13–21                    |   80\n22–42                    |   40\n43–64                    |   20\n"
+  },
+  "flavorTexts": [
+    {
+      "text": "An all-out attack that becomes more powerful the\nless HP the user has.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "An all-out attack that becomes more powerful the\nless HP the user has.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "An all-out attack that becomes more\npowerful the less HP the user has.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "An all-out attack that becomes more\npowerful the less HP the user has.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "An all-out attack that becomes more\npowerful the less HP the user has.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "An all-out attack that becomes more\npowerful the less HP the user has.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "An all-out attack\nthat becomes more\npowerful the less\nHP the user has.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "An all-out attack\nthat becomes more\npowerful the less\nHP the user has.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "An all-out attack\nthat becomes more\npowerful the less\nHP the user has.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "An all-out attack\nthat becomes more\npowerful the less\nHP the user has.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Inflicts more damage when\nthe user’s HP is down.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Inflicts more damage when\nthe user’s HP is down.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Stronger if the\nuser's HP is low.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Stronger if the\nuser's HP is low.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

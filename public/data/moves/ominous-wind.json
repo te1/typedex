@@ -1,0 +1,54 @@
+{
+  "id": 466,
+  "name": "ominous-wind",
+  "caption": "Ominous Wind",
+  "type": "ghost",
+  "damageClass": "special",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a $effect_chance% chance to raise all of the user's stats by one stage.",
+    "full": "Inflicts regular damage. Has a 10% chance to raise all of the user's stats one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user blasts the target with a gust of repulsive\nwind. This may also raise all the user’s stats at once.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user blasts the target with a gust of repulsive\nwind. This may also raise all the user’s stats at once.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user blasts the target with a gust of\nrepulsive wind. This may also raise all the\nuser’s stats at once.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user blasts the target with a gust of\nrepulsive wind. This may also raise all the\nuser’s stats at once.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user blasts the target with a gust of\nrepulsive wind. It may also raise all the\nuser’s stats at once.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user blasts the target with a gust of\nrepulsive wind. It may also raise all the\nuser’s stats at once.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user creates a\ngust of repulsive\nwind. It may also\nraise all the user’s\nstats at once.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user creates a\ngust of repulsive\nwind. It may also\nraise all the user’s\nstats at once.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user creates a\ngust of repulsive\nwind. It may also\nraise all the user’s\nstats at once.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

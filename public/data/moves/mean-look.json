@@ -1,0 +1,74 @@
+{
+  "id": 212,
+  "name": "mean-look",
+  "caption": "Mean Look",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Prevents the target from leaving battle.",
+    "full": "The target cannot switch out normally.  Ignores accuracy and evasion modifiers.  This effect ends when the user leaves the field.\n\nThe target may still escape by using baton pass, u turn, or a shed shell.\n\nBoth the user and the target pass on this effect with baton pass."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user pins the target with a dark, arresting look.\nThe target becomes unable to flee.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user pins the target with a dark, arresting look.\nThe target becomes unable to flee.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user pins the target with a dark,\narresting look.\nThe target becomes unable to flee.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user pins the target with a dark,\narresting look.\nThe target becomes unable to flee.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user pins the target with a dark,\narresting look.\nThe target becomes unable to flee.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user pins the target with a dark,\narresting look.\nThe target becomes unable to flee.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user affixes the\nfoe with a dark,\narresting look.\nThe target becomes\nunable to flee.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user affixes the\nfoe with a dark,\narresting look.\nThe target becomes\nunable to flee.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user affixes the\nfoe with a dark,\narresting look.\nThe target becomes\nunable to flee.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is fixed\nwith a mean look\nthat prevents it\nfrom escaping.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Fixes the foe with a mean\nlook that prevents escape.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Fixes the foe with a mean\nlook that prevents escape.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Prevents fleeing\nor switching.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Prevents fleeing\nor switching.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

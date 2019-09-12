@@ -1,0 +1,74 @@
+{
+  "id": 99,
+  "name": "rage",
+  "caption": "Rage",
+  "type": "normal",
+  "damageClass": "physical",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "If the user is hit after using this move, its Attack rises by one stage.",
+    "full": "Inflicts regular damage.  Every time the user is hit after it uses this move but before its next action, its Attack raises by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "As long as this move is in use, the power of rage\nraises the Attack stat each time the user is hit\nin battle.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "As long as this move is in use, the power of rage\nraises the Attack stat each time the user is hit\nin battle.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "As long as this move is in use, the power\nof rage raises the Attack stat each\ntime the user is hit in battle.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "As long as this move is in use, the power\nof rage raises the Attack stat each\ntime the user is hit in battle.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "As long as this move is in use, the power\nof rage raises the Attack stat each\ntime the user is hit in battle.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "As long as this move is in use, the power\nof rage raises the Attack stat each\ntime the user is hit in battle.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "While this move is in\nuse, it gains attack\npower each time the\nuser is hit in battle.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "While this move is in\nuse, it gains attack\npower each time the\nuser is hit in battle.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "While this move is in\nuse, it gains attack\npower each time the\nuser is hit in battle.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "An attack that\nbecomes stronger\neach time the user\nis hit in battle.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Raises the user’s ATTACK\nevery time it is hit.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Raises the user’s ATTACK\nevery time it is hit.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Raises ATTACK if\nthe user is hit.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Raises ATTACK if\nthe user is hit.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 159,
+  "name": "sharpen",
+  "caption": "Sharpen",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Raises the user's Attack by one stage.",
+    "full": "Raises the user's Attack by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user makes its edges more jagged, \nwhich raises its Attack stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user makes its edges more jagged, \nwhich raises its Attack stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user lowers its polygon count to\nmake itself more jagged, raising the\nAttack stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user lowers its polygon count to\nmake itself more jagged, raising the\nAttack stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user reduces its polygon count to\nmake itself more jagged, raising the\nAttack stat.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user reduces its polygon count to\nmake itself more jagged, raising the\nAttack stat.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user reduces its\npolygon count to\nmake itself more\njagged, raising the\nAttack stat.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user reduces its\npolygon count to\nmake itself more\njagged, raising the\nAttack stat.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user reduces its\npolygon count to\nmake itself more\njagged, raising the\nAttack stat.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user reduces\nits polygon count\nto sharpen edges\nand raise ATTACK.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Reduces the polygon count\nand raises ATTACK.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Reduces the polygon count\nand raises ATTACK.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "A move that raises\nthe user's ATTACK.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "A move that raises\nthe user's ATTACK.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

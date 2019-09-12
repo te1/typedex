@@ -1,0 +1,54 @@
+{
+  "id": 425,
+  "name": "shadow-sneak",
+  "caption": "Shadow Sneak",
+  "type": "ghost",
+  "damageClass": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 1,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts regular damage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user extends its shadow and attacks the target\nfrom behind. This move always goes first.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user extends its shadow and attacks the target\nfrom behind. This move always goes first.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user extends its shadow and attacks\nthe target from behind.\nThis move always goes first.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user extends its shadow and attacks\nthe target from behind.\nThis move always goes first.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user extends its shadow and attacks\nthe target from behind.\nThis move always goes first.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user extends its shadow and attacks\nthe target from behind.\nThis move always goes first.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user extends its\nshadow and attacks\nthe foe from behind.\nThis move always goes\nfirst.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user extends its\nshadow and attacks\nthe foe from behind.\nThis move always goes\nfirst.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user extends its\nshadow and attacks\nthe foe from behind.\nThis move always goes\nfirst.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

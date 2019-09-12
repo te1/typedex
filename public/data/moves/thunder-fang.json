@@ -1,0 +1,54 @@
+{
+  "id": 422,
+  "name": "thunder-fang",
+  "caption": "Thunder Fang",
+  "type": "electric",
+  "damageClass": "physical",
+  "power": 65,
+  "accuracy": 95,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a $effect_chance% chance to paralyze the target and a $effect_chance% chance to make the target flinch.",
+    "full": "Inflicts regular damage.  Has a 10% chance to paralyze the target and a separate 10% chance to make the target flinch."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user bites with electrified fangs. This may also\nmake the target flinch or leave it with paralysis.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user bites with electrified fangs. This may also\nmake the target flinch or leave it with paralysis.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user bites with electrified fangs.\nThis may also make the target flinch or\nleave it with paralysis.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user bites with electrified fangs.\nThis may also make the target flinch or\nleave it with paralysis.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user bites with electrified fangs.\nIt may also make the target flinch or\nleave it with paralysis.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user bites with electrified fangs.\nIt may also make the target flinch or\nleave it with paralysis.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user bites with\nelectrified fangs.\nIt may also make the\nfoe flinch or become\nparalyzed.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user bites with\nelectrified fangs.\nIt may also make the\nfoe flinch or become\nparalyzed.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user bites with\nelectrified fangs.\nIt may also make the\nfoe flinch or become\nparalyzed.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

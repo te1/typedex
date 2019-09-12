@@ -8,35 +8,37 @@ export class Api {
   constructor() {
     this.types = [];
     this.pokemon = {};
-    this.moves = {};
+    this.moves = [];
   }
 
   async loadTypes() {
-    this.types = await this._load('types');
+    this.types = await this._load('types.json', 'types');
 
     return this.types;
   }
 
   async loadPokemon() {
-    this.pokemon = await this._load('pokemon-index');
-
-    return this.pokemon;
+    // this.pokemon = await this._load('pokemon-index');
+    // return this.pokemon;
   }
 
   async loadMoves() {
-    this.moves = await this._load('moves-index');
+    this.moves = await this._load('moves/index.json', 'moves');
 
     return this.moves;
   }
 
-  async _load(name) {
+  async _load(url, cacheName) {
     let fetch = async () => {
-      let url = baseUrl + name + '.json';
-      let response = await axios.get(url);
+      let fullUrl = baseUrl + url;
+      let response = await axios.get(fullUrl);
 
       return response.data;
     };
-    let cacheKey = 'api_' + name;
+    if (!cacheName) {
+      cacheName = url;
+    }
+    let cacheKey = 'api_' + cacheName;
 
     let data = await cache.remember(cacheKey, cacheFor, fetch);
 

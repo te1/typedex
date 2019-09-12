@@ -1,0 +1,74 @@
+{
+  "id": 207,
+  "name": "swagger",
+  "caption": "Swagger",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 85,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Raises the target's Attack by two stages and confuses the target.",
+    "full": "Raises the target's Attack by two stages, then confuses it.  If the target's Attack cannot be raised by two stages, the confusion is not applied."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user enrages and confuses the target. However,\nthis also sharply raises the target’s Attack stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user enrages and confuses the target. However,\nthis also sharply raises the target’s Attack stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user enrages and confuses the target.\nHowever, this also sharply raises the\ntarget’s Attack stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user enrages and confuses the target.\nHowever, this also sharply raises the\ntarget’s Attack stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user enrages and confuses the target.\nHowever, it also sharply raises the\ntarget’s Attack stat.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user enrages and confuses the target.\nHowever, it also sharply raises the\ntarget’s Attack stat.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user enrages the\nfoe into confusion.\nHowever, it also\nsharply raises the\nfoe’s Attack stat.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user enrages the\nfoe into confusion.\nHowever, it also\nsharply raises the\nfoe’s Attack stat.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user enrages the\nfoe into confusion.\nHowever, it also\nsharply raises the\nfoe’s Attack stat.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A move that makes\nthe foe confused,\nbut also sharply\nraises its ATTACK.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Confuses the foe, but also\nsharply raises ATTACK.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Confuses the foe, but also\nsharply raises ATTACK.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Causes confusion\nand raises ATTACK.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Causes confusion\nand raises ATTACK.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

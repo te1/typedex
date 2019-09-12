@@ -1,0 +1,66 @@
+{
+  "id": 320,
+  "name": "grass-whistle",
+  "caption": "Grass Whistle",
+  "type": "grass",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 55,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Puts the target to sleep.",
+    "full": "Puts the target to sleep."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user plays a pleasant melody that lulls the\ntarget into a deep sleep.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user plays a pleasant melody that lulls the\ntarget into a deep sleep.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user plays a pleasant melody that\nlulls the target into a deep sleep.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user plays a pleasant melody that\nlulls the target into a deep sleep.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user plays a pleasant melody that\nlulls the target into a deep sleep.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user plays a pleasant melody that\nlulls the target into a deep sleep.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user plays a\npleasant melody that\nlulls the foe into a\ndeep sleep.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user plays a\npleasant melody that\nlulls the foe into a\ndeep sleep.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user plays a\npleasant melody that\nlulls the foe into a\ndeep sleep.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A pleasant melody\nis played to lull\nthe foe into a deep\nsleep.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Lulls the foe into sleep\nwith a pleasant melody.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Lulls the foe into sleep\nwith a pleasant melody.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

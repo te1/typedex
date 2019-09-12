@@ -1,0 +1,26 @@
+{
+  "id": 666,
+  "name": "floral-healing",
+  "caption": "Floral Healing",
+  "type": "fairy",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Heals the target for ½ its max HP, or ⅔ on Grassy Terrain.",
+    "full": "Heals the target for ½ its max HP.  If grassy terrain is in effect, heals for ⅔ instead."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user restores the target’s HP by up to half of its\nmax HP. It restores more HP when the terrain\nis grass.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user restores the target’s HP by up to half of its\nmax HP. It restores more HP when the terrain\nis grass.",
+      "versionGroup": "sun-moon"
+    }
+  ]
+}

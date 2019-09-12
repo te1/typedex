@@ -1,0 +1,42 @@
+{
+  "id": 475,
+  "name": "autotomize",
+  "caption": "Autotomize",
+  "type": "steel",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Raises the user's Speed by two stages and halves the user's weight.",
+    "full": "Raises the user's Speed by two stages.  Halves the user's weight; this effect does not stack."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user sheds part of its body to make itself lighter\nand sharply raise its Speed stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user sheds part of its body to make itself lighter\nand sharply raise its Speed stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user sheds part of its body\nto make itself lighter and sharply\nraise its Speed stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user sheds part of its body\nto make itself lighter and sharply\nraise its Speed stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user sheds part of its body\nto make itself lighter and sharply\nraise its Speed stat.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user sheds part of its body\nto make itself lighter and sharply\nraise its Speed stat.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

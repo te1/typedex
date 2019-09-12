@@ -1,0 +1,42 @@
+{
+  "id": 505,
+  "name": "heal-pulse",
+  "caption": "Heal Pulse",
+  "type": "psychic",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Heals the target for half its max HP.",
+    "full": "Heals the target for half its max HP."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user emits a healing pulse that restores the\ntarget’s HP by up to half of its max HP.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user emits a healing pulse that restores the\ntarget’s HP by up to half of its max HP.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user emits a healing pulse which\nrestores the target’s HP by up to\nhalf of its max HP.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user emits a healing pulse which\nrestores the target’s HP by up to\nhalf of its max HP.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user emits a healing pulse which\nrestores the target’s HP by up to\nhalf of its max HP.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user emits a healing pulse which\nrestores the target’s HP by up to\nhalf of its max HP.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

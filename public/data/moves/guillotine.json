@@ -1,0 +1,74 @@
+{
+  "id": 12,
+  "name": "guillotine",
+  "caption": "Guillotine",
+  "type": "normal",
+  "damageClass": "physical",
+  "power": null,
+  "accuracy": 30,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Causes a one-hit KO.",
+    "full": "Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.\n\nBecause this move inflicts a specific and finite amount of damage, endure still prevents the target from fainting.\n\nThe effects of lock on, mind reader, and no guard still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through detect or protect."
+  },
+  "flavorTexts": [
+    {
+      "text": "A vicious, tearing attack with big pincers. The target\nfaints instantly if this attack hits.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "A vicious, tearing attack with big pincers. The target\nfaints instantly if this attack hits.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "A vicious, tearing attack with big pincers.\nThe target faints instantly if this attack hits.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "A vicious, tearing attack with big pincers.\nThe target faints instantly if this attack hits.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "A vicious, tearing attack with big pincers.\nThe target will faint instantly\nif this attack hits.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "A vicious, tearing attack with big pincers.\nThe target will faint instantly\nif this attack hits.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "A vicious, tearing\nattack with pincers.\nThe foe will faint\ninstantly if this\nattack hits.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "A vicious, tearing\nattack with pincers.\nThe foe will faint\ninstantly if this\nattack hits.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "A vicious, tearing\nattack with pincers.\nThe foe will faint\ninstantly if this\nattack hits.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A vicious tearing\nattack with pincers.\nThe foe will faint\nif it hits.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A powerful pincer attack\nthat may cause fainting.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A powerful pincer attack\nthat may cause fainting.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "A one-hit KO,\npincer attack.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "A one-hit KO,\npincer attack.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

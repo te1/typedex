@@ -1,0 +1,74 @@
+{
+  "id": 53,
+  "name": "flamethrower",
+  "caption": "Flamethrower",
+  "type": "fire",
+  "damageClass": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a $effect_chance% chance to burn the target.",
+    "full": "Inflicts regular damage.  Has a 10% chance to burn the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is scorched with an intense blast of fire.\nThis may also leave the target with a burn.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is scorched with an intense blast of fire.\nThis may also leave the target with a burn.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is scorched with an intense\nblast of fire. This may also leave the target\nwith a burn.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is scorched with an intense\nblast of fire. This may also leave the target\nwith a burn.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is scorched with an intense\nblast of fire. It may also leave the target\nwith a burn.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is scorched with an intense\nblast of fire. It may also leave the target\nwith a burn.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is scorched\nwith an intense blast\nof fire. The target\nmay also be left with\na burn.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is scorched\nwith an intense blast\nof fire. The target\nmay also be left with\na burn.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is scorched\nwith an intense blast\nof fire. The target\nmay also be left with\na burn.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is scorched\nwith intense flames.\nThe foe may suffer\na burn.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A powerful fire attack that\nmay inflict a burn.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A powerful fire attack that\nmay inflict a burn.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\ninflict a burn.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\ninflict a burn.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

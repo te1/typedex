@@ -1,0 +1,74 @@
+{
+  "id": 61,
+  "name": "bubble-beam",
+  "caption": "Bubble Beam",
+  "type": "water",
+  "damageClass": "special",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a $effect_chance% chance to lower the target's Speed by one stage.",
+    "full": "Inflicts regular damage.  Has a 10% chance to lower the target's Speed by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "A spray of bubbles is forcefully ejected at the\ntarget. This may also lower its Speed stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "A spray of bubbles is forcefully ejected at the\ntarget. This may also lower its Speed stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "A spray of bubbles is forcefully ejected\nat the target. This may also lower\nits Speed stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "A spray of bubbles is forcefully ejected\nat the target. This may also lower\nits Speed stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "A spray of bubbles is forcefully ejected\nat the opposing team. It may also lower\ntheir Speed stats.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "A spray of bubbles is forcefully ejected\nat the opposing team. It may also lower\ntheir Speed stats.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "A spray of bubbles is\nforcefully ejected\nat the foe.\nIt may also lower the\ntarget’s Speed stat.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "A spray of bubbles is\nforcefully ejected\nat the foe.\nIt may also lower the\ntarget’s Speed stat.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "A spray of bubbles is\nforcefully ejected\nat the foe.\nIt may also lower the\ntarget’s Speed stat.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A spray of bubbles\nstrikes the foe.\nIt may lower the\nfoe’s SPEED stat.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Forcefully sprays bubbles\nthat may lower SPEED.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Forcefully sprays bubbles\nthat may lower SPEED.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\nlower SPEED.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\nlower SPEED.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

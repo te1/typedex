@@ -1,0 +1,74 @@
+{
+  "id": 174,
+  "name": "curse",
+  "caption": "Curse",
+  "type": "ghost",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Ghosts pay half their max HP to hurt the target every turn.  Others decrease Speed but raise Attack and Defense.",
+    "full": "If the user is a ghost: user pays half its max HP to place a curse on the target, damaging it for 1/4 its max HP every turn.\nOtherwise: Lowers the user's Speed by one stage, and raises its Attack and Defense by one stage each.\n\nThe curse effect is passed on by baton pass.\n\nThis move cannot be copied by mirror move."
+  },
+  "flavorTexts": [
+    {
+      "text": "A move that works differently for the Ghost type\nthan for all other types.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "A move that works differently for the Ghost type\nthan for all other types.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "A move that works differently for the\nGhost type than for all other types.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "A move that works differently for the\nGhost type than for all other types.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "A move that works differently for the\nGhost type than for all other types.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "A move that works differently for the\nGhost type than for all other types.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "A move that works\ndifferently for the\nGhost type than for\nall the other types.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "A move that works\ndifferently for the\nGhost type than for\nall the other types.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "A move that works\ndifferently for the\nGhost type than for\nall the other types.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A move that works\ndifferently for the\nGHOST-type and all\nthe other types.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A move that functions\ndifferently for GHOSTS.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A move that functions\ndifferently for GHOSTS.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Works differently\nfor ghost-types.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Works differently\nfor ghost-types.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

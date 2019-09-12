@@ -1,0 +1,66 @@
+{
+  "id": 264,
+  "name": "focus-punch",
+  "caption": "Focus Punch",
+  "type": "fighting",
+  "damageClass": "physical",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": -3,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "If the user takes damage before attacking, the attack is canceled.",
+    "full": "Inflicts regular damage.  If the user takes damage this turn before hitting, this move will fail.\n\nThis move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user focuses its mind before launching a punch.\nThis move fails if the user is hit before it is used.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user focuses its mind before launching a punch.\nThis move fails if the user is hit before it is used.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user focuses its mind before\nlaunching a punch. This move fails\nif the user is hit before it is used.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user focuses its mind before\nlaunching a punch. This move fails\nif the user is hit before it is used.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user focuses its mind before\nlaunching a punch. It will fail if the user\nis hit before it is used.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user focuses its mind before\nlaunching a punch. It will fail if the user\nis hit before it is used.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user focuses its\nmind before launching\na punch. It will fail\nif the user is hit\nbefore it is used.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user focuses its\nmind before launching\na punch. It will fail\nif the user is hit\nbefore it is used.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user focuses its\nmind before launching\na punch. It will fail\nif the user is hit\nbefore it is used.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "An attack that is\nexecuted last.\nThe user flinches\nif hit beforehand.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A powerful loyalty attack.\nThe user flinches if hit.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A powerful loyalty attack.\nThe user flinches if hit.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

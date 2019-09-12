@@ -1,0 +1,74 @@
+{
+  "id": 221,
+  "name": "sacred-fire",
+  "caption": "Sacred Fire",
+  "type": "fire",
+  "damageClass": "physical",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to burn the target.  Lets frozen Pokémon thaw themselves.",
+    "full": "Inflicts regular damage.  Has a 50% chance to burn the target.  Frozen Pokémon may use this move, in which case they will thaw."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is razed with a mystical fire of great\nintensity. This may also leave the target with a burn.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is razed with a mystical fire of great\nintensity. This may also leave the target with a burn.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is razed with a mystical fire\nof great intensity. This may also leave the\ntarget with a burn.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is razed with a mystical fire\nof great intensity. This may also leave the\ntarget with a burn.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is razed with a mystical fire\nof great intensity. It may also leave the\ntarget with a burn.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is razed with a mystical fire\nof great intensity. It may also leave the\ntarget with a burn.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is razed with\na mystical fire of\ngreat intensity.\nIt may also leave the\ntarget with a burn.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is razed with\na mystical fire of\ngreat intensity.\nIt may also leave the\ntarget with a burn.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is razed with\na mystical fire of\ngreat intensity.\nIt may also leave the\ntarget with a burn.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A mystical and\npowerful fire\nattack that may\ninflict a burn.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A mystical fire attack that\nmay inflict a burn.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A mystical fire attack that\nmay inflict a burn.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\ninflict a burn.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\ninflict a burn.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

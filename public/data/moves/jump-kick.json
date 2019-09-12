@@ -1,0 +1,74 @@
+{
+  "id": 26,
+  "name": "jump-kick",
+  "caption": "Jump Kick",
+  "type": "fighting",
+  "damageClass": "physical",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "If the user misses, it takes half the damage it would have inflicted in recoil.",
+    "full": "Inflicts regular damage.  If this move misses, is blocked by protect or detect, or has no effect, the user takes half the damage it would have inflicted in recoil.  This recoil damage will not exceed half the user's max HP.\n\nThis move cannot be used while gravity is in effect."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user jumps up high, then strikes with a kick.\nIf the kick misses, the user hurts itself.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user jumps up high, then strikes with a kick.\nIf the kick misses, the user hurts itself.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user jumps up high, then strikes\nwith a kick. If the kick misses, the\nuser hurts itself.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user jumps up high, then strikes\nwith a kick. If the kick misses, the\nuser hurts itself.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user jumps up high, then strikes\nwith a kick. If the kick misses, the\nuser hurts itself.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user jumps up high, then strikes\nwith a kick. If the kick misses, the\nuser hurts itself.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user jumps up\nhigh, then strikes\nwith a kick. If the\nkick misses, the\nuser hurts itself.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user jumps up\nhigh, then strikes\nwith a kick. If the\nkick misses, the\nuser hurts itself.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user jumps up\nhigh, then strikes\nwith a kick. If the\nkick misses, the\nuser hurts itself.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user jumps up\nhigh, then kicks.\nIf it misses, the\nuser hurts itself.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A strong jumping kick. May\nmiss and hurt the kicker.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A strong jumping kick. May\nmiss and hurt the kicker.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "May miss, damaging\nthe user.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "May miss, damaging\nthe user.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 468,
+  "name": "hone-claws",
+  "caption": "Hone Claws",
+  "type": "dark",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Raises the user's Attack and accuracy by one stage.",
+    "full": "Raises the user's Attack and accuracy by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user sharpens its claws to boost its Attack stat\nand accuracy.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user sharpens its claws to boost its Attack stat\nand accuracy.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user sharpens its claws to\nboost its Attack stat and accuracy.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user sharpens its claws to\nboost its Attack stat and accuracy.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user sharpens its claws to\nboost its Attack stat and accuracy.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user sharpens its claws to\nboost its Attack stat and accuracy.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

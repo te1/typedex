@@ -1,0 +1,26 @@
+{
+  "id": 648,
+  "name": "shattered-psyche--physical",
+  "caption": "Shattered Psyche",
+  "type": "psychic",
+  "damageClass": "physical",
+  "power": null,
+  "accuracy": null,
+  "pp": 1,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts regular damage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user controls the target with its Z-Power and\nhurts the target with full force. The power varies,\ndepending on the original move.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user controls the target with its Z-Power and\nhurts the target with full force. The power varies,\ndepending on the original move.",
+      "versionGroup": "sun-moon"
+    }
+  ]
+}

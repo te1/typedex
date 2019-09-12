@@ -1,0 +1,66 @@
+{
+  "id": 330,
+  "name": "muddy-water",
+  "caption": "Muddy Water",
+  "type": "water",
+  "damageClass": "special",
+  "power": 90,
+  "accuracy": 85,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to lower the target's accuracy by one stage.",
+    "full": "Inflicts regular damage.  Has a 30% chance to lower the target's accuracy by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks by shooting muddy water at the\nopposing Pokémon. This may also lower\ntheir accuracy.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks by shooting muddy water at the\nopposing Pokémon. This may also lower\ntheir accuracy.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks by shooting muddy water\nat the opposing Pokémon.\nThis may also lower their accuracy.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks by shooting muddy water\nat the opposing Pokémon.\nThis may also lower their accuracy.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user attacks by shooting muddy water\nat the opposing team.\nIt may also lower the targets’ accuracy.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user attacks by shooting muddy water\nat the opposing team.\nIt may also lower the targets’ accuracy.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user attacks by\nshooting out muddy\nwater.\nIt may also lower the\nfoe’s accuracy.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user attacks by\nshooting out muddy\nwater.\nIt may also lower the\nfoe’s accuracy.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user attacks by\nshooting out muddy\nwater.\nIt may also lower the\nfoe’s accuracy.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user attacks\nwith muddy water.\nIt may also lower\nthe foe’s accuracy.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Attacks with muddy water.\nMay lower accuracy.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Attacks with muddy water.\nMay lower accuracy.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

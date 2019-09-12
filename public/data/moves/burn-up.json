@@ -1,0 +1,26 @@
+{
+  "id": 682,
+  "name": "burn-up",
+  "caption": "Burn Up",
+  "type": "fire",
+  "damageClass": "special",
+  "power": 130,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Removes the user's fire type after inflicting damage.",
+    "full": "Inflicts regular damage.  Removes the user's fire type after damage calculation.  If the user is not fire-type, this move will fail."
+  },
+  "flavorTexts": [
+    {
+      "text": "To inflict massive damage, the user burns itself out.\nAfter using this move, the user will no longer be\nFire type.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "To inflict massive damage, the user burns itself out.\nAfter using this move, the user will no longer be\nFire type.",
+      "versionGroup": "sun-moon"
+    }
+  ]
+}

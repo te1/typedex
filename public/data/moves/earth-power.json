@@ -1,0 +1,54 @@
+{
+  "id": 414,
+  "name": "earth-power",
+  "caption": "Earth Power",
+  "type": "ground",
+  "damageClass": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a $effect_chance% chance to lower the target's Special Defense by one stage.",
+    "full": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user makes the ground under the target erupt\nwith power. This may also lower the target’s \nSp. Def stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user makes the ground under the target erupt\nwith power. This may also lower the target’s \nSp. Def stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user makes the ground under\nthe target erupt with power.\nThis may also lower the target’s Sp. Def.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user makes the ground under\nthe target erupt with power.\nThis may also lower the target’s Sp. Def.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user makes the ground under\nthe target erupt with power.\nIt may also lower the target’s Sp. Def.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user makes the ground under\nthe target erupt with power.\nIt may also lower the target’s Sp. Def.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user makes the\nground under the foe\nerupt with power.\nIt may also lower the\ntarget’s Sp. Def.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user makes the\nground under the foe\nerupt with power.\nIt may also lower the\ntarget’s Sp. Def.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user makes the\nground under the foe\nerupt with power.\nIt may also lower the\ntarget’s Sp. Def.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

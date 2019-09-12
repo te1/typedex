@@ -1,0 +1,66 @@
+{
+  "id": 345,
+  "name": "magical-leaf",
+  "caption": "Magical Leaf",
+  "type": "grass",
+  "damageClass": "special",
+  "power": 60,
+  "accuracy": null,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Never misses.",
+    "full": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user scatters curious leaves that chase the\ntarget. This attack never misses.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user scatters curious leaves that chase the\ntarget. This attack never misses.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user scatters curious leaves\nthat chase the target.\nThis attack never misses.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user scatters curious leaves\nthat chase the target.\nThis attack never misses.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user scatters curious leaves\nthat chase the target.\nThis attack will not miss.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user scatters curious leaves\nthat chase the target.\nThis attack will not miss.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user scatters\ncurious leaves that\nchase the foe.\nThis attack will not\nmiss.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user scatters\ncurious leaves that\nchase the foe.\nThis attack will not\nmiss.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user scatters\ncurious leaves that\nchase the foe.\nThis attack will not\nmiss.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is attacked\nwith a strange leaf\nthat cannot be\nevaded.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Attacks with a strange leaf\nthat cannot be evaded.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Attacks with a strange leaf\nthat cannot be evaded.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

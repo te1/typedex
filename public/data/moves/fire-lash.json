@@ -1,0 +1,26 @@
+{
+  "id": 680,
+  "name": "fire-lash",
+  "caption": "Fire Lash",
+  "type": "fire",
+  "damageClass": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Lowers the target's Defense by one stage after inflicting damage.",
+    "full": "Inflicts regular damage.  Lowers the target's Defense by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user strikes the target with a burning lash. This\nalso lowers the target’s Defense stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user strikes the target with a burning lash. This\nalso lowers the target’s Defense stat.",
+      "versionGroup": "sun-moon"
+    }
+  ]
+}

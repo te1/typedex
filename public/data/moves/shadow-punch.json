@@ -1,0 +1,66 @@
+{
+  "id": 325,
+  "name": "shadow-punch",
+  "caption": "Shadow Punch",
+  "type": "ghost",
+  "damageClass": "physical",
+  "power": 60,
+  "accuracy": null,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Never misses.",
+    "full": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user throws a punch from the shadows. This\nattack never misses.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user throws a punch from the shadows. This\nattack never misses.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user throws a punch from the shadows.\nThis attack never misses.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user throws a punch from the shadows.\nThis attack never misses.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user throws a punch from the shadows.\nThe punch lands without fail.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user throws a punch from the shadows.\nThe punch lands without fail.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user throws a\npunch at the foe from\nthe shadows.\nThe punch lands\nwithout fail.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user throws a\npunch at the foe from\nthe shadows.\nThe punch lands\nwithout fail.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user throws a\npunch at the foe from\nthe shadows.\nThe punch lands\nwithout fail.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user throws a\npunch from the\nshadows. It cannot\nbe evaded.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "An unavoidable punch that\nis thrown from shadows.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "An unavoidable punch that\nis thrown from shadows.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

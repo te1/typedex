@@ -1,0 +1,54 @@
+{
+  "id": 453,
+  "name": "aqua-jet",
+  "caption": "Aqua Jet",
+  "type": "water",
+  "damageClass": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 1,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts regular damage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user lunges at the target at a speed that makes\nit almost invisible. This move always goes first.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user lunges at the target at a speed that makes\nit almost invisible. This move always goes first.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user lunges at the target at a speed\nthat makes it almost invisible.\nThis move always goes first.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user lunges at the target at a speed\nthat makes it almost invisible.\nThis move always goes first.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user lunges at the target at a speed\nthat makes it almost invisible. It is sure\nto strike first.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user lunges at the target at a speed\nthat makes it almost invisible. It is sure\nto strike first.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user lunges at\nthe foe at a speed\nthat makes it almost\ninvisible. It is sure\nto strike first.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user lunges at\nthe foe at a speed\nthat makes it almost\ninvisible. It is sure\nto strike first.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user lunges at\nthe foe at a speed\nthat makes it almost\ninvisible. It is sure\nto strike first.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

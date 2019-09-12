@@ -1,0 +1,34 @@
+{
+  "id": 586,
+  "name": "boomburst",
+  "caption": "Boomburst",
+  "type": "normal",
+  "damageClass": "special",
+  "power": 140,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Inflicts regular damage.",
+    "full": "Inflicts regular damage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks everything around it with the\ndestructive power of a terrible, explosive sound.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks everything around it with the\ndestructive power of a terrible, explosive sound.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks everything around it\nwith the destructive power of a terrible,\nexplosive sound.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks everything around it\nwith the destructive power of a terrible,\nexplosive sound.",
+      "versionGroup": "x-y"
+    }
+  ]
+}

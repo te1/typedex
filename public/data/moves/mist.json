@@ -1,0 +1,74 @@
+{
+  "id": 54,
+  "name": "mist",
+  "caption": "Mist",
+  "type": "ice",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Protects the user's stats from being changed by enemy moves.",
+    "full": "Pokémon on the user's side of the field are immune to stat-lowering effects for five turns.\n\nguard swap, heart swap, and power swap may still be used.\n\ndefog used by an opponent will end this effect."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user cloaks itself and its allies in a white mist\nthat prevents any of their stats from being lowered\nfor five turns.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user cloaks itself and its allies in a white mist\nthat prevents any of their stats from being lowered\nfor five turns.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user cloaks itself and its allies in a\nwhite mist that prevents any of their stats\nfrom being lowered for five turns.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user cloaks itself and its allies in a\nwhite mist that prevents any of their stats\nfrom being lowered for five turns.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user cloaks its body with a white mist\nthat prevents any of its stats from being\ncut for five turns.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user cloaks its body with a white mist\nthat prevents any of its stats from being\ncut for five turns.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user cloaks its\nbody with a white mist\nthat prevents any of\nits stats from being\ncut for five turns.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user cloaks its\nbody with a white mist\nthat prevents any of\nits stats from being\ncut for five turns.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user cloaks its\nbody with a white mist\nthat prevents any of\nits stats from being\ncut for five turns.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The ally party is\nprotected by a\nmist that prevents\nstat reductions.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Creates a mist that stops\nreduction of abilities.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Creates a mist that stops\nreduction of abilities.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Prevents stat\nreduction.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Prevents stat\nreduction.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

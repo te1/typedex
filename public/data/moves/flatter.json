@@ -1,0 +1,66 @@
+{
+  "id": 260,
+  "name": "flatter",
+  "caption": "Flatter",
+  "type": "dark",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Raises the target's Special Attack by one stage and confuses the target.",
+    "full": "Raises the target's Special Attack by one stage, then confuses it."
+  },
+  "flavorTexts": [
+    {
+      "text": "Flattery is used to confuse the target. However,\nthis also raises the target’s Sp. Atk stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "Flattery is used to confuse the target. However,\nthis also raises the target’s Sp. Atk stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "Flattery is used to confuse the target.\nHowever, this also raises the target’s\nSp. Atk stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "Flattery is used to confuse the target.\nHowever, this also raises the target’s\nSp. Atk stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "Flattery is used to confuse the target.\nHowever, it also raises the target’s\nSp. Atk stat.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "Flattery is used to confuse the target.\nHowever, it also raises the target’s\nSp. Atk stat.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "Flattery is used to\nconfuse the foe.\nHowever, it also\nraises the target’s\nSp. Atk stat.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "Flattery is used to\nconfuse the foe.\nHowever, it also\nraises the target’s\nSp. Atk stat.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "Flattery is used to\nconfuse the foe.\nHowever, it also\nraises the target’s\nSp. Atk stat.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "Flattery is used to\nconfuse the foe,\nbut its SP. ATK\nalso rises.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Confuses the foe, but\nraises its SP. ATK.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Confuses the foe, but\nraises its SP. ATK.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

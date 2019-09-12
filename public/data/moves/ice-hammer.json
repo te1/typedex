@@ -1,0 +1,26 @@
+{
+  "id": 665,
+  "name": "ice-hammer",
+  "caption": "Ice Hammer",
+  "type": "ice",
+  "damageClass": "physical",
+  "power": 100,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Lowers user's Speed by one stage.",
+    "full": "Inflicts regular damage, then lowers the user's Speed by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user swings and hits with its strong, heavy fist.\nIt lowers the user’s Speed, however.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user swings and hits with its strong, heavy fist.\nIt lowers the user’s Speed, however.",
+      "versionGroup": "sun-moon"
+    }
+  ]
+}

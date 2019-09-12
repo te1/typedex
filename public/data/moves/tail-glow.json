@@ -1,0 +1,66 @@
+{
+  "id": 294,
+  "name": "tail-glow",
+  "caption": "Tail Glow",
+  "type": "bug",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Raises the user's Special Attack by three stages.",
+    "full": "Raises the user's Special Attack by three stages."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user stares at flashing lights to focus its mind,\ndrastically raising its Sp. Atk stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user stares at flashing lights to focus its mind,\ndrastically raising its Sp. Atk stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user stares at flashing lights to\nfocus its mind, drastically raising its\nSp. Atk stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user stares at flashing lights to\nfocus its mind, drastically raising its\nSp. Atk stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user stares at flashing lights to\nfocus its mind, drastically raising its\nSp. Atk stat.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user stares at flashing lights to\nfocus its mind, drastically raising its\nSp. Atk stat.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user stares at\nflashing lights to\nfocus its mind,\nsharply raising its\nSp. Atk stat.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user stares at\nflashing lights to\nfocus its mind,\nsharply raising its\nSp. Atk stat.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user stares at\nflashing lights to\nfocus its mind,\nsharply raising its\nSp. Atk stat.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user flashes a\nlight that sharply\nraises its SP. ATK\nstat.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Flashes a light that sharply\nraises SP. ATK.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Flashes a light that sharply\nraises SP. ATK.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

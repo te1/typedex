@@ -1,0 +1,54 @@
+{
+  "id": 389,
+  "name": "sucker-punch",
+  "caption": "Sucker Punch",
+  "type": "dark",
+  "damageClass": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 1,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Only works if the target is about to use a damaging move.",
+    "full": "Inflicts regular damage.  If the target has not selected a damaging move this turn, or if the target has already acted this turn, this move will fail.\n\nThis move is not affected by iron fist."
+  },
+  "flavorTexts": [
+    {
+      "text": "This move enables the user to attack first. This move\nfails if the target is not readying an attack.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "This move enables the user to attack first. This move\nfails if the target is not readying an attack.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "This move enables the user to attack\nfirst. This move fails if the target is not\nreadying an attack.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "This move enables the user to attack\nfirst. This move fails if the target is not\nreadying an attack.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "This move enables the user to attack\nfirst. It fails if the target is not\nreadying an attack, however.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "This move enables the user to attack\nfirst. It fails if the target is not\nreadying an attack, however.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "This move enables the\nuser to attack first.\nIt fails if the foe is\nnot readying an\nattack, however.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "This move enables the\nuser to attack first.\nIt fails if the foe is\nnot readying an\nattack, however.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "This move enables the\nuser to attack first.\nIt fails if the foe is\nnot readying an\nattack, however.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

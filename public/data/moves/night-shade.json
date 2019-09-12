@@ -1,0 +1,74 @@
+{
+  "id": 101,
+  "name": "night-shade",
+  "caption": "Night Shade",
+  "type": "ghost",
+  "damageClass": "special",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Inflicts damage equal to the user's level.",
+    "full": "Inflicts damage equal to the user's level.  Type immunity applies, but other type effects are ignored."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user makes the target see a frightening mirage.\nIt inflicts damage equal to the user’s level.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user makes the target see a frightening mirage.\nIt inflicts damage equal to the user’s level.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user makes the target see a\nfrightening mirage. It inflicts damage\nequal to the user’s level.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user makes the target see a\nfrightening mirage. It inflicts damage\nequal to the user’s level.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user makes the target see a\nfrightening mirage. It inflicts damage\nmatching the user’s level.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user makes the target see a\nfrightening mirage. It inflicts damage\nmatching the user’s level.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user makes the\nfoe see a mirage.\nIt inflicts damage\nmatching the user’s\nlevel.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user makes the\nfoe see a mirage.\nIt inflicts damage\nmatching the user’s\nlevel.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user makes the\nfoe see a mirage.\nIt inflicts damage\nmatching the user’s\nlevel.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "An attack with a\nmirage that inflicts\ndamage matching\nthe user’s level.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Inflicts damage identical\nto the user’s level.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Inflicts damage identical\nto the user’s level.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "The user's level\nequals damage HP.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "The user's level\nequals damage HP.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

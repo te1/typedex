@@ -1,0 +1,17 @@
+{
+  "id": 10010,
+  "name": "shadow-storm",
+  "caption": "Shadow Storm",
+  "type": "shadow",
+  "damageClass": "special",
+  "power": 95,
+  "accuracy": 100,
+  "pp": null,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts regular damage."
+  },
+  "flavorTexts": []
+}

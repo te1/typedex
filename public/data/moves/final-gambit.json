@@ -1,0 +1,42 @@
+{
+  "id": 515,
+  "name": "final-gambit",
+  "caption": "Final Gambit",
+  "type": "fighting",
+  "damageClass": "special",
+  "power": null,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Inflicts damage equal to the user's remaining HP.  User faints.",
+    "full": "Inflicts damage equal to the user's remaining HP.  User faints."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user risks everything to attack its target. The\nuser faints but does damage equal to its HP.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user risks everything to attack its target. The\nuser faints but does damage equal to its HP.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user risks everything to attack its\ntarget. The user faints but does damage\nequal to its HP.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user risks everything to attack its\ntarget. The user faints but does damage\nequal to its HP.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user risks everything to attack its\ntarget. The user faints but does damage\nequal to the user’s HP.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user risks everything to attack its\ntarget. The user faints but does damage\nequal to the user’s HP.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

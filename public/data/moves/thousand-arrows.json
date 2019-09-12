@@ -1,0 +1,34 @@
+{
+  "id": 614,
+  "name": "thousand-arrows",
+  "caption": "Thousand Arrows",
+  "type": "ground",
+  "damageClass": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Grounds the target, and hits even Flying-type or levitating Pokémon.",
+    "full": "Inflicts regular damage.  Grounds the target until it leaves battle.  Ignores levitation effects and the immunity of flying-type Pokémon."
+  },
+  "flavorTexts": [
+    {
+      "text": "This move also hits opposing Pokémon that are in\nthe air. Those Pokémon are knocked down to\nthe ground.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "This move also hits opposing Pokémon that are in\nthe air. Those Pokémon are knocked down to\nthe ground.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "This move also hits opposing Pokémon\nthat are in the air. Those Pokémon are\nknocked down to the ground.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "This move also hits opposing Pokémon\nthat are in the air. Those Pokémon are\nknocked down to the ground.",
+      "versionGroup": "x-y"
+    }
+  ]
+}

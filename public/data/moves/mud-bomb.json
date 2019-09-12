@@ -1,0 +1,54 @@
+{
+  "id": 426,
+  "name": "mud-bomb",
+  "caption": "Mud Bomb",
+  "type": "ground",
+  "damageClass": "special",
+  "power": 65,
+  "accuracy": 85,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a $effect_chance% chance to lower the target's accuracy by one stage.",
+    "full": "Inflicts regular damage.  Has a 30% chance to lower the target's accuracy by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user launches a hard-packed mud ball to attack.\nThis may also lower the target’s accuracy.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user launches a hard-packed mud ball to attack.\nThis may also lower the target’s accuracy.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user launches a hard-packed\nmud ball to attack.\nThis may also lower the target’s accuracy.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user launches a hard-packed\nmud ball to attack.\nThis may also lower the target’s accuracy.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user launches a hard-packed\nmud ball to attack.\nIt may also lower the target’s accuracy.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user launches a hard-packed\nmud ball to attack.\nIt may also lower the target’s accuracy.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user launches a\nhard-packed mud ball\nto attack.\nIt may also lower the\ntarget’s accuracy.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user launches a\nhard-packed mud ball\nto attack.\nIt may also lower the\ntarget’s accuracy.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user launches a\nhard-packed mud ball\nto attack.\nIt may also lower the\ntarget’s accuracy.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

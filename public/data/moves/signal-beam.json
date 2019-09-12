@@ -1,0 +1,66 @@
+{
+  "id": 324,
+  "name": "signal-beam",
+  "caption": "Signal Beam",
+  "type": "bug",
+  "damageClass": "special",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to confuse the target.",
+    "full": "Inflicts regular damage.  Has a 10% chance to confuse the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks with a sinister beam of light.\nThis may also confuse the target.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks with a sinister beam of light.\nThis may also confuse the target.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks with a sinister beam of\nlight. This may also confuse the target.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks with a sinister beam of\nlight. This may also confuse the target.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user attacks with a sinister beam of\nlight. It may also confuse the target.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user attacks with a sinister beam of\nlight. It may also confuse the target.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user attacks with\na sinister beam of\nlight. It may also\nconfuse the target.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user attacks with\na sinister beam of\nlight. It may also\nconfuse the target.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user attacks with\na sinister beam of\nlight. It may also\nconfuse the target.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is hit with\na flashing beam\nthat may also\ncause confusion.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A strange beam attack that\nmay confuse the foe.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A strange beam attack that\nmay confuse the foe.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 311,
+  "name": "weather-ball",
+  "caption": "Weather Ball",
+  "type": "normal",
+  "damageClass": "special",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "If there be weather, this move has doubled power and the weather's type.",
+    "full": "Inflicts regular damage.  If a weather move is active, this move has double power, and its type becomes the type of the weather move.  shadow sky is typeless for the purposes of this move."
+  },
+  "flavorTexts": [
+    {
+      "text": "This attack move varies in power and type\ndepending on the weather.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "This attack move varies in power and type\ndepending on the weather.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "An attack move that varies in power and\ntype depending on the weather.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "An attack move that varies in power and\ntype depending on the weather.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "An attack move that varies in power and\ntype depending on the weather.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "An attack move that varies in power and\ntype depending on the weather.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "An attack move that\nvaries in power and\ntype depending on\nthe weather.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "An attack move that\nvaries in power and\ntype depending on\nthe weather.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "An attack move that\nvaries in power and\ntype depending on\nthe weather.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "An attack that\nvaries in power and\ntype depending on\nthe weather.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "The move’s type and power\nchange with the weather.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "The move’s type and power\nchange with the weather.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

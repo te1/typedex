@@ -1,0 +1,74 @@
+{
+  "id": 246,
+  "name": "ancient-power",
+  "caption": "Ancient Power",
+  "type": "rock",
+  "damageClass": "special",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to raise all of the user's stats by one stage.",
+    "full": "Inflicts regular damage. Has a 10% chance to raise all of the user's stats one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks with a prehistoric power.\nThis may also raise all the user’s stats at once.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks with a prehistoric power.\nThis may also raise all the user’s stats at once.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks with a prehistoric power.\nThis may also raise all the user’s stats\nat once.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks with a prehistoric power.\nThis may also raise all the user’s stats\nat once.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user attacks with a prehistoric power.\nIt may also raise all the user’s stats\nat once.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user attacks with a prehistoric power.\nIt may also raise all the user’s stats\nat once.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user attacks with\na prehistoric power.\nIt may also raise all\nthe user’s stats at\nonce.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user attacks with\na prehistoric power.\nIt may also raise all\nthe user’s stats at\nonce.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user attacks with\na prehistoric power.\nIt may also raise all\nthe user’s stats at\nonce.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "An ancient power is\nused to attack. It\nmay also raise all\nthe user’s stats.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "An attack that may raise\nall stats.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "An attack that may raise\nall stats.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\nraise all stats.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\nraise all stats.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

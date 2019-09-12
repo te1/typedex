@@ -1,0 +1,74 @@
+{
+  "id": 137,
+  "name": "glare",
+  "caption": "Glare",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Paralyzes the target.",
+    "full": "Paralyzes the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user intimidates the target with the pattern on\nits belly to cause paralysis.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user intimidates the target with the pattern on\nits belly to cause paralysis.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user intimidates the target with the\npattern on its belly to cause paralysis.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user intimidates the target with the\npattern on its belly to cause paralysis.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user intimidates the target with the\npattern on its belly to cause paralysis.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user intimidates the target with the\npattern on its belly to cause paralysis.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user intimidates\nthe foe with the\npattern on its belly\nto cause paralysis.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user intimidates\nthe foe with the\npattern on its belly\nto cause paralysis.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user intimidates\nthe foe with the\npattern on its belly\nto cause paralysis.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user intimidates\nthe foe with the\ndesign on its belly\nto cause paralysis.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Intimidates and frightens\nthe foe into paralysis.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Intimidates and frightens\nthe foe into paralysis.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "A move that may\ncause paralysis.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "A move that may\ncause paralysis.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

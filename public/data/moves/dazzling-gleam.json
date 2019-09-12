@@ -1,0 +1,34 @@
+{
+  "id": 605,
+  "name": "dazzling-gleam",
+  "caption": "Dazzling Gleam",
+  "type": "fairy",
+  "damageClass": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts regular damage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user damages opposing Pokémon by emitting a\npowerful flash.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user damages opposing Pokémon by emitting a\npowerful flash.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user damages opposing Pokémon\nby emitting a powerful flash.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user damages opposing Pokémon\nby emitting a powerful flash.",
+      "versionGroup": "x-y"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 142,
+  "name": "lovely-kiss",
+  "caption": "Lovely Kiss",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 75,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Puts the target to sleep.",
+    "full": "Puts the target to sleep."
+  },
+  "flavorTexts": [
+    {
+      "text": "With a scary face, the user tries to force a kiss on\nthe target. If it succeeds, the target falls asleep.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "With a scary face, the user tries to force a kiss on\nthe target. If it succeeds, the target falls asleep.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "With a scary face, the user tries to\nforce a kiss on the target. If it\nsucceeds, the target falls asleep.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "With a scary face, the user tries to\nforce a kiss on the target. If it\nsucceeds, the target falls asleep.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "With a scary face, the user tries to\nforce a kiss on the target. If it\nsucceeds, the target falls asleep.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "With a scary face, the user tries to\nforce a kiss on the target. If it\nsucceeds, the target falls asleep.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "With a scary face, the\nuser tries to force a\nkiss on the foe. If it\nsucceeds, the target\nfalls asleep.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "With a scary face,\nthe user forces a\nkiss on the foe.\nIt may make the\ntarget fall asleep.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "With a scary face,\nthe user forces a\nkiss on the foe.\nIt may make the\ntarget fall asleep.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user forces a\nkiss on the foe\nwith a scary face\nthat induces sleep.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Demands a kiss with a scary\nface that induces sleep.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Demands a kiss with a scary\nface that induces sleep.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "May cause the foe\nto fall asleep.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "May cause the foe\nto fall asleep.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

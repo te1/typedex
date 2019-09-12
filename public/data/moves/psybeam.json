@@ -1,0 +1,74 @@
+{
+  "id": 60,
+  "name": "psybeam",
+  "caption": "Psybeam",
+  "type": "psychic",
+  "damageClass": "special",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a $effect_chance% chance to confuse the target.",
+    "full": "Inflicts regular damage.  Has a 10% chance to confuse the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is attacked with a peculiar ray. This may\nalso leave the target confused.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is attacked with a peculiar ray. This may\nalso leave the target confused.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is attacked with a peculiar ray.\nThis may also leave the target confused.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is attacked with a peculiar ray.\nThis may also leave the target confused.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is attacked with a peculiar ray.\nIt may also cause confusion.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is attacked with a peculiar ray.\nIt may also cause confusion.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is attacked\nwith a peculiar ray.\nIt may also leave the\ntarget confused.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is attacked\nwith a peculiar ray.\nIt may also leave the\ntarget confused.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is attacked\nwith a peculiar ray.\nIt may also leave the\ntarget confused.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A peculiar ray is\nshot at the foe.\nIt may leave the\nfoe confused.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Fires a peculiar ray that\nmay confuse the foe.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Fires a peculiar ray that\nmay confuse the foe.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\nconfuse the foe.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\nconfuse the foe.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

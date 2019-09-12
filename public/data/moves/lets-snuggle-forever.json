@@ -1,0 +1,22 @@
+{
+  "id": 726,
+  "name": "lets-snuggle-forever",
+  "caption": "Let’s Snuggle Forever",
+  "type": "fairy",
+  "damageClass": "physical",
+  "power": 190,
+  "accuracy": null,
+  "pp": 1,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "XXX new effect for lets-snuggle-forever",
+    "full": "XXX new effect for lets-snuggle-forever"
+  },
+  "flavorTexts": [
+    {
+      "text": "After obtaining Z-Power, the user, Mimikyu,\npunches the target with full force.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    }
+  ]
+}

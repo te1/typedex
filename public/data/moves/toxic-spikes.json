@@ -1,0 +1,54 @@
+{
+  "id": 390,
+  "name": "toxic-spikes",
+  "caption": "Toxic Spikes",
+  "type": "poison",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Scatters poisoned spikes, poisoning opposing Pokémon that switch in.",
+    "full": "Scatters poisoned spikes around the opposing field, which poison opposing Pokémon that enter the field.  A second layer of these spikes may be laid down, in which case Pokémon will be badly poisoned instead.  Pokémon immune to either ground moves or being poisoned are immune to this effect.  Pokémon otherwise immune to ground moves are affected during gravity.\n\nIf a poison Pokémon not immune to ground moves enters a field covered with poisoned spikes, the spikes are removed.\n\nrapid spin will remove this effect from its user's side of the field.  defog will remove this effect from its target's side of the field.\n\nThis move does not trigger synchronize, unless the Pokémon with synchronize was forced to enter the field by another effect such as roar.\n\nPokémon entering the field due to baton pass are not affected by this effect."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user lays a trap of poison spikes at the feet of\nthe opposing team. The spikes will poison opposing\nPokémon that switch into battle.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user lays a trap of poison spikes at the feet of\nthe opposing team. The spikes will poison opposing\nPokémon that switch into battle.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user lays a trap of poison spikes at the\nopposing team’s feet. They poison\nopposing Pokémon that switch into battle.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user lays a trap of poison spikes at the\nopposing team’s feet. They poison\nopposing Pokémon that switch into battle.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user lays a trap of poison spikes at\nthe opponent’s feet. They poison\nopponents that switch into battle.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user lays a trap of poison spikes at\nthe opponent’s feet. They poison\nopponents that switch into battle.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user lays a trap\nof poison spikes at\nthe foe’s feet. They\npoison foes that\nswitch into battle.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user lays a trap\nof poison spikes at\nthe foe’s feet. They\npoison foes that\nswitch into battle.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user lays a trap\nof poison spikes at\nthe foe’s feet. They\npoison foes that\nswitch into battle.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

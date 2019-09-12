@@ -1,0 +1,54 @@
+{
+  "id": 396,
+  "name": "aura-sphere",
+  "caption": "Aura Sphere",
+  "type": "fighting",
+  "damageClass": "special",
+  "power": 80,
+  "accuracy": null,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Never misses.",
+    "full": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user lets loose a blast of aura power from deep\nwithin its body at the target. This attack\nnever misses.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user lets loose a blast of aura power from deep\nwithin its body at the target. This attack\nnever misses.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user lets loose a blast of aura power\nfrom deep within its body at the target.\nThis attack never misses.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user lets loose a blast of aura power\nfrom deep within its body at the target.\nThis attack never misses.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user looses a blast of aura power\nfrom deep within its body at the target.\nThis move is certain to hit.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user looses a blast of aura power\nfrom deep within its body at the target.\nThis move is certain to hit.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user looses a\nblast of aura power\nfrom deep within its\nbody. This move is\ncertain to hit.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user looses a\nblast of aura power\nfrom deep within its\nbody. This move is\ncertain to hit.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user looses a\nblast of aura power\nfrom deep within its\nbody. This move is\ncertain to hit.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

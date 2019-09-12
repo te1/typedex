@@ -1,0 +1,54 @@
+{
+  "id": 393,
+  "name": "magnet-rise",
+  "caption": "Magnet Rise",
+  "type": "electric",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "User is immune to Ground moves and effects for five turns.",
+    "full": "For five turns, the user is immune to ground moves.\n\nIf the user is under the effect of ingrain or has levitate, this move will fail.\n\nThis effect is temporarily disabled by and cannot be used during gravity.\n\nThis effect is passed on by baton pass."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user levitates using electrically generated\nmagnetism for five turns.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user levitates using electrically generated\nmagnetism for five turns.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user levitates using electrically\ngenerated magnetism for five turns.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user levitates using electrically\ngenerated magnetism for five turns.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user levitates using electrically\ngenerated magnetism for five turns.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user levitates using electrically\ngenerated magnetism for five turns.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user levitates\nusing electrically\ngenerated magnetism\nfor five turns.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user levitates\nusing electrically\ngenerated magnetism\nfor five turns.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user levitates\nusing electrically\ngenerated magnetism\nfor five turns.\n",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

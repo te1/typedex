@@ -1,0 +1,66 @@
+{
+  "id": 256,
+  "name": "swallow",
+  "caption": "Swallow",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Recovers 1/4 HP after one Stockpile, 1/2 HP after two Stockpiles, or full HP after three Stockpiles.",
+    "full": "Heals the user depending on the amount of energy stored by stockpile: 1/4 its max HP after one use, 1/2 its max HP after two uses, or fully after three uses.  Stored energy is consumed, and the user's Defense and Special Defense are reset to what they would be if stockpile had not been used.  If the user has no energy stored, this move will fail."
+  },
+  "flavorTexts": [
+    {
+      "text": "The power stored using the move Stockpile is\nabsorbed by the user to heal its HP. Storing more\npower heals more HP.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The power stored using the move Stockpile is\nabsorbed by the user to heal its HP. Storing more\npower heals more HP.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The power stored using the move Stockpile\nis absorbed by the user to heal its HP.\nStoring more power heals more HP.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The power stored using the move Stockpile\nis absorbed by the user to heal its HP.\nStoring more power heals more HP.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The power stored using the move Stockpile\nis absorbed by the user to heal its HP.\nStoring more power heals more HP.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The power stored using the move Stockpile\nis absorbed by the user to heal its HP.\nStoring more power heals more HP.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The power stored\nusing the move\nStockpile is absorbed\nby the user to heal\nits HP.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The power stored\nusing the move\nStockpile is absorbed\nby the user to heal\nits HP.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The power stored\nusing the move\nStockpile is absorbed\nby the user to heal\nits HP.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The energy it built\nusing STOCKPILE is\nabsorbed to restore\nHP.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Absorbs stockpiled power\nand restores HP.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Absorbs stockpiled power\nand restores HP.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

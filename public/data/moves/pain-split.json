@@ -1,0 +1,74 @@
+{
+  "id": 220,
+  "name": "pain-split",
+  "caption": "Pain Split",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Sets the user's and targets's HP to the average of their current HP.",
+    "full": "Changes the user's and target's remaining HP to the average of their current remaining HP.  Ignores accuracy and evasion modifiers.  This effect does not count as inflicting damage for other moves and effects that respond to damage taken.\n\nThis effect fails against a substitute."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user adds its HP to the target’s HP, then equally\nshares the combined HP with the target.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user adds its HP to the target’s HP, then equally\nshares the combined HP with the target.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user adds its HP to the target’s HP,\nthen equally shares the combined HP\nwith the target.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user adds its HP to the target’s HP,\nthen equally shares the combined HP\nwith the target.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user adds its HP to the target’s HP,\nthen equally shares the combined HP\nwith the target.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user adds its HP to the target’s HP,\nthen equally shares the combined HP\nwith the target.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user adds its HP\nto the foe’s HP, then\nequally shares the\ncombined HP with the\nfoe.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user adds its HP\nto the foe’s HP, then\nequally shares the\ncombined HP with the\nfoe.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user adds its HP\nto the foe’s HP, then\nequally shares the\ncombined HP with the\nfoe.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user adds its\nHP to the foe’s HP,\nthen equally shares\nthe total HP.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Adds the user and foe’s HP,\nthen shares them equally.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Adds the user and foe’s HP,\nthen shares them equally.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Adds user & foe's\nHPs. Shares total.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Adds user & foe's\nHPs. Shares total.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

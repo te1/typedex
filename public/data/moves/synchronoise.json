@@ -1,0 +1,42 @@
+{
+  "id": 485,
+  "name": "synchronoise",
+  "caption": "Synchronoise",
+  "type": "psychic",
+  "damageClass": "special",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Hits any Pokémon that shares a type with the user.",
+    "full": "Inflicts regular damage.  Only Pokémon that share a type with the user will take damage from this move."
+  },
+  "flavorTexts": [
+    {
+      "text": "Using an odd shock wave, the user inflicts damage\non any Pokémon of the same type in the area\naround it.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "Using an odd shock wave, the user inflicts damage\non any Pokémon of the same type in the area\naround it.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "Using an odd shock wave, the user\ninflicts damage on any Pokémon of the same\ntype in the area around it.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "Using an odd shock wave, the user\ninflicts damage on any Pokémon of the same\ntype in the area around it.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "Using an odd shock wave, the user\ninflicts damage on any Pokémon of the same\ntype in the area around it.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "Using an odd shock wave, the user\ninflicts damage on any Pokémon of the same\ntype in the area around it.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

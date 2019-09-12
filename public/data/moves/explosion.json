@@ -1,0 +1,74 @@
+{
+  "id": 153,
+  "name": "explosion",
+  "caption": "Explosion",
+  "type": "normal",
+  "damageClass": "physical",
+  "power": 250,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "User faints.",
+    "full": "User faints, even if the attack fails or misses.  Inflicts regular damage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks everything around it by causing a\ntremendous explosion. The user faints upon using\nthis move.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks everything around it by causing a\ntremendous explosion. The user faints upon using\nthis move.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks everything around it\nby causing a tremendous explosion.\nThe user faints upon using this move.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks everything around it\nby causing a tremendous explosion.\nThe user faints upon using this move.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user explodes to inflict damage on\nthose around it.\nThe user faints upon using this move.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user explodes to inflict damage on\nthose around it.\nThe user faints upon using this move.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user explodes to\ninflict damage on all\nPokémon in battle.\nThe user faints upon\nusing this move.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user explodes to\ninflict damage on all\nPokémon in battle.\nThe user faints upon\nusing this move.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user explodes to\ninflict damage on all\nPokémon in battle.\nThe user faints upon\nusing this move.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user explodes\nto inflict terrible\ndamage even while\nfainting itself.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Inflicts severe damage but\nmakes the user faint.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Inflicts severe damage but\nmakes the user faint.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Very powerful but\nmakes user faint.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Very powerful but\nmakes user faint.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

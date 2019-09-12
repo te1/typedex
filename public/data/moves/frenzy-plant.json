@@ -1,0 +1,66 @@
+{
+  "id": 338,
+  "name": "frenzy-plant",
+  "caption": "Frenzy Plant",
+  "type": "grass",
+  "damageClass": "special",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "User foregoes its next turn to recharge.",
+    "full": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user slams the target with an enormous tree.\nThe user can’t move on the next turn.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user slams the target with an enormous tree.\nThe user can’t move on the next turn.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user slams the target with\nan enormous tree.\nThe user can’t move on the next turn.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user slams the target with\nan enormous tree.\nThe user can’t move on the next turn.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user slams the target with\nan enormous tree.\nThe user can’t move on the next turn.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user slams the target with\nan enormous tree.\nThe user can’t move on the next turn.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is slammed\nwith an enormous\ntree.\nThe user can’t move\non the next turn.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is slammed\nwith an enormous\ntree.\nThe user can’t move\non the next turn.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is slammed\nwith an enormous\ntree.\nThe user can’t move\non the next turn.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is hit with\nan enormous branch.\nThe user can’t move\non the next turn.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Powerful, but leaves the\nuser immobile the next turn.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Powerful, but leaves the\nuser immobile the next turn.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

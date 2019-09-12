@@ -1,0 +1,74 @@
+{
+  "id": 14,
+  "name": "swords-dance",
+  "caption": "Swords Dance",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Raises the user's Attack by two stages.",
+    "full": "Raises the user's Attack by two stages."
+  },
+  "flavorTexts": [
+    {
+      "text": "A frenetic dance to uplift the fighting spirit.\nThis sharply raises the user’s Attack stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "A frenetic dance to uplift the fighting spirit.\nThis sharply raises the user’s Attack stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "A frenetic dance to uplift the fighting\nspirit. This sharply raises the user’s\nAttack stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "A frenetic dance to uplift the fighting\nspirit. This sharply raises the user’s\nAttack stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "A frenetic dance to uplift the fighting\nspirit. It sharply raises the user’s\nAttack stat.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "A frenetic dance to uplift the fighting\nspirit. It sharply raises the user’s\nAttack stat.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "A frenetic dance to\nuplift the fighting\nspirit. It sharply\nraises the user’s\nAttack stat.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "A frenetic dance to\nuplift the fighting\nspirit. It sharply\nraises the user’s\nAttack stat.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "A frenetic dance to\nuplift the fighting\nspirit. It sharply\nraises the user’s\nAttack stat.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A frenetic dance of\nfighting. It sharply\nraises the ATTACK\nstat.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A fighting dance that\nsharply raises ATTACK.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A fighting dance that\nsharply raises ATTACK.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "A dance that in­\ncreases ATTACK.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "A dance that in­\ncreases ATTACK.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

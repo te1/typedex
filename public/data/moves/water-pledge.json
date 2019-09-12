@@ -1,0 +1,42 @@
+{
+  "id": 518,
+  "name": "water-pledge",
+  "caption": "Water Pledge",
+  "type": "water",
+  "damageClass": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "With Grass Pledge, halves opposing Pokémon's Speed for four turns.",
+    "full": "Inflicts regular damage.  If a friendly Pokémon used grass pledge earlier this turn, all opposing Pokémon have halved Speed for four turns (including this one)."
+  },
+  "flavorTexts": [
+    {
+      "text": "A column of water strikes the target. When combined\nwith its fire equivalent, its power increases and a\nrainbow appears.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "A column of water strikes the target. When combined\nwith its fire equivalent, its power increases and a\nrainbow appears.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "A column of water strikes the target. When\ncombined with its fire equivalent, the\ndamage increases and a rainbow appears.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "A column of water strikes the target. When\ncombined with its fire equivalent, the\ndamage increases and a rainbow appears.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "A column of water strikes the target. When\ncombined with its fire equivalent, the\ndamage increases and a rainbow appears.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "A column of water strikes the target. When\ncombined with its fire equivalent, the\ndamage increases and a rainbow appears.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

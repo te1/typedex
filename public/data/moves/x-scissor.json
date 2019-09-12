@@ -1,0 +1,54 @@
+{
+  "id": 404,
+  "name": "x-scissor",
+  "caption": "X-Scissor",
+  "type": "bug",
+  "damageClass": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts regular damage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user slashes at the target by crossing its\nscythes or claws as if they were a pair of scissors.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user slashes at the target by crossing its\nscythes or claws as if they were a pair of scissors.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user slashes at the target by\ncrossing its scythes or claws as if\nthey were a pair of scissors.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user slashes at the target by\ncrossing its scythes or claws as if\nthey were a pair of scissors.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user slashes at the target by\ncrossing its scythes or claws as if\nthey were a pair of scissors.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user slashes at the target by\ncrossing its scythes or claws as if\nthey were a pair of scissors.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user slashes at\nthe foe by crossing\nits scythes or claws\nas if they were a pair\nof scissors.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user slashes at\nthe foe by crossing\nits scythes or claws\nas if they were a pair\nof scissors.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user slashes at\nthe foe by crossing\nits scythes or claws\nas if they were a pair\nof scissors.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

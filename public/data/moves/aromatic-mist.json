@@ -1,0 +1,34 @@
+{
+  "id": 597,
+  "name": "aromatic-mist",
+  "caption": "Aromatic Mist",
+  "type": "fairy",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Raises a selected ally's Special Defense by one stage.",
+    "full": "Raises a selected ally's Special Defense by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user raises the Sp. Def stat of an ally Pokémon\nby using a mysterious aroma.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user raises the Sp. Def stat of an ally Pokémon\nby using a mysterious aroma.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user raises the Sp. Def stat of an ally\nPokémon by using a mysterious aroma.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user raises the Sp. Def stat of an ally\nPokémon by using a mysterious aroma.",
+      "versionGroup": "x-y"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 395,
+  "name": "force-palm",
+  "caption": "Force Palm",
+  "type": "fighting",
+  "damageClass": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a $effect_chance% chance to paralyze the target.",
+    "full": "Inflicts regular damage.  Has a 30% chance to paralyze the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is attacked with a shock wave. This may\nalso leave the target with paralysis.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is attacked with a shock wave. This may\nalso leave the target with paralysis.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is attacked with a shock wave.\nThis may also leave the target\nwith paralysis.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is attacked with a shock wave.\nThis may also leave the target\nwith paralysis.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is attacked with a shock wave.\nIt may also leave the target\nwith paralysis.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is attacked with a shock wave.\nIt may also leave the target\nwith paralysis.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is attacked\nwith a shock wave.\nIt may also leave the\ntarget paralyzed.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is attacked\nwith a shock wave.\nIt may also leave the\ntarget paralyzed.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is attacked\nwith a shock wave.\nIt may also leave the\ntarget paralyzed.\n",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

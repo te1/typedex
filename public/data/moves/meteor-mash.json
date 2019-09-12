@@ -1,0 +1,66 @@
+{
+  "id": 309,
+  "name": "meteor-mash",
+  "caption": "Meteor Mash",
+  "type": "steel",
+  "damageClass": "physical",
+  "power": 90,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to raise the user's Attack by one stage.",
+    "full": "Inflicts regular damage. Has a 20% chance to raise the user's Attack one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is hit with a hard punch fired like a\nmeteor. This may also raise the user’s Attack stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is hit with a hard punch fired like a\nmeteor. This may also raise the user’s Attack stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is hit with a hard punch fired\nlike a meteor. This may also raise\nthe user’s Attack stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is hit with a hard punch fired\nlike a meteor. This may also raise\nthe user’s Attack stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is hit with a hard punch fired\nlike a meteor. It may also raise\nthe user’s Attack.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is hit with a hard punch fired\nlike a meteor. It may also raise\nthe user’s Attack.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is hit with a\nhard punch fired\nlike a meteor.\nIt may also raise\nthe user’s Attack.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is hit with a\nhard punch fired\nlike a meteor.\nIt may also raise\nthe user’s Attack.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is hit with a\nhard punch fired\nlike a meteor.\nIt may also raise\nthe user’s Attack.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is hit with\na hard, fast punch.\nIt may also raise\nthe user’s ATTACK.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Fires a meteor-like punch.\nMay raise ATTACK.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Fires a meteor-like punch.\nMay raise ATTACK.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

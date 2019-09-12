@@ -1,0 +1,66 @@
+{
+  "id": 272,
+  "name": "role-play",
+  "caption": "Role Play",
+  "type": "psychic",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Copies the target's ability.",
+    "full": "User's ability is replaced with the target's until the user leaves the field.  Ignores accuracy and evasion modifiers.\n\nIf the target has flower gift, forecast, illusion, imposter, multitype, stance change, trace, wonder guard, or zen mode, this move will fail.\n\nThis move cannot be copied by mirror move."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user mimics the target completely, copying the\ntarget’s natural Ability.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user mimics the target completely, copying the\ntarget’s natural Ability.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user mimics the target completely,\ncopying the target’s natural Ability.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user mimics the target completely,\ncopying the target’s natural Ability.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user mimics the target completely,\ncopying the target’s natural Ability.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user mimics the target completely,\ncopying the target’s natural Ability.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user mimics the\nfoe completely,\ncopying the foe’s\nnatural ability.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user mimics the\nfoe completely,\ncopying the foe’s\nnatural ability.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user mimics the\nfoe completely,\ncopying the foe’s\nnatural ability.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user mimics the\nfoe completely and\ncopies the foe’s\nability.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Mimics the target and\ncopies its special ability.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Mimics the target and\ncopies its special ability.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

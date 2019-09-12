@@ -1,0 +1,34 @@
+{
+  "id": 583,
+  "name": "play-rough",
+  "caption": "Play Rough",
+  "type": "fairy",
+  "damageClass": "physical",
+  "power": 90,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Has a $effect_chance% chance to lower the target's Attack by one stage.",
+    "full": "Inflicts regular damage.  Has a 10% chance to lower the target's Attack by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user plays rough with the target and attacks it.\nThis may also lower the target’s Attack stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user plays rough with the target and attacks it.\nThis may also lower the target’s Attack stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user plays rough with the target\nand attacks it. This may also lower\nthe target’s Attack stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user plays rough with the target\nand attacks it. This may also lower\nthe target’s Attack stat.",
+      "versionGroup": "x-y"
+    }
+  ]
+}

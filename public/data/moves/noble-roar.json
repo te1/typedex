@@ -1,0 +1,34 @@
+{
+  "id": 568,
+  "name": "noble-roar",
+  "caption": "Noble Roar",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Lowers the target's Attack and Special Attack by one stage.",
+    "full": "Lowers the target's Attack and Special Attack by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "Letting out a noble roar, the user intimidates the\ntarget and lowers its Attack and Sp. Atk stats.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "Letting out a noble roar, the user intimidates the\ntarget and lowers its Attack and Sp. Atk stats.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "Letting out a noble roar, the user\nintimidates the target and lowers\nits Attack and Sp. Atk stats.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "Letting out a noble roar, the user\nintimidates the target and lowers\nits Attack and Sp. Atk stats.",
+      "versionGroup": "x-y"
+    }
+  ]
+}

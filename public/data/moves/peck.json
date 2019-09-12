@@ -1,0 +1,74 @@
+{
+  "id": 64,
+  "name": "peck",
+  "caption": "Peck",
+  "type": "flying",
+  "damageClass": "physical",
+  "power": 35,
+  "accuracy": 100,
+  "pp": 35,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts regular damage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is jabbed with a sharply pointed beak\nor horn.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is jabbed with a sharply pointed beak\nor horn.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is jabbed with a sharply\npointed beak or horn.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is jabbed with a sharply\npointed beak or horn.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is jabbed with a sharply\npointed beak or horn.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is jabbed with a sharply\npointed beak or horn.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is jabbed\nwith a sharply\npointed beak or\nhorn.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is jabbed\nwith a sharply\npointed beak or\nhorn.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is jabbed\nwith a sharply\npointed beak or\nhorn.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is jabbed\nwith a sharply\npointed beak or\nhorn.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Attacks the foe with a\njabbing beak, etc.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Attacks the foe with a\njabbing beak, etc.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Jabs the foe with\na beak, etc.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Jabs the foe with\na beak, etc.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

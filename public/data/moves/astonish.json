@@ -1,0 +1,66 @@
+{
+  "id": 310,
+  "name": "astonish",
+  "caption": "Astonish",
+  "type": "ghost",
+  "damageClass": "physical",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to make the target flinch.",
+    "full": "Inflicts regular damage.  Has a 30% chance to make the target flinch."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks the target while shouting in a\nstartling fashion. This may also make the\ntarget flinch.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks the target while shouting in a\nstartling fashion. This may also make the\ntarget flinch.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks the target while shouting\nin a startling fashion.\nThis may also make the target flinch.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks the target while shouting\nin a startling fashion.\nThis may also make the target flinch.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user attacks the target while shouting\nin a startling fashion.\nIt may also make the target flinch.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user attacks the target while shouting\nin a startling fashion.\nIt may also make the target flinch.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user attacks the\nfoe while shouting in\na startling fashion.\nIt may also make the\ntarget flinch.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user attacks the\nfoe while shouting in\na startling fashion.\nIt may also make the\ntarget flinch.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user attacks the\nfoe while shouting in\na startling fashion.\nIt may also make the\ntarget flinch.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "An attack using a\nstartling shout.\nIt also may make\nthe foe flinch.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "An attack that may shock\nthe foe into flinching.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "An attack that may shock\nthe foe into flinching.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

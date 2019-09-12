@@ -1,0 +1,34 @@
+{
+  "id": 560,
+  "name": "flying-press",
+  "caption": "Flying Press",
+  "type": "fighting",
+  "damageClass": "physical",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Deals both fighting and flying-type damage.",
+    "full": "Inflicts regular damage.  For the purposes of type effectiveness, this move is both fighting- and flying-type: its final effectiveness is determined by multiplying the effectiveness of each type against each of the target's types.\n\nFor all other purposes, this move is pure Fighting-type.  If this move's type is changed, its Fighting typing is overwritten, and its secondary type remains Flying.\n\nIf the target has used minimize since entering battle, this move has double power and will never miss."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user dives down onto the target from the sky.\nThis move is Fighting and Flying type simultaneously.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user dives down onto the target from the sky.\nThis move is Fighting and Flying type simultaneously.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user dives down onto the target\nfrom the sky. This move is Fighting\nand Flying type simultaneously.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user dives down onto the target\nfrom the sky. This move is Fighting\nand Flying type simultaneously.",
+      "versionGroup": "x-y"
+    }
+  ]
+}

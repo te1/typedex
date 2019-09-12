@@ -1,0 +1,22 @@
+{
+  "id": 720,
+  "name": "mind-blown",
+  "caption": "Mind Blown",
+  "type": "fire",
+  "damageClass": "special",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "XXX new effect for mind-blown",
+    "full": "XXX new effect for mind-blown"
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks everything around it by causing its\nown head to explode. This also damages the user.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    }
+  ]
+}

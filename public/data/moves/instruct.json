@@ -1,0 +1,26 @@
+{
+  "id": 689,
+  "name": "instruct",
+  "caption": "Instruct",
+  "type": "psychic",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Forces the target to repeat its last used move.",
+    "full": "The target immediately uses its most recently-used move.  This is independent of the target's normal action for the turn (i.e., it may end up moving twice), but otherwise functions as usual, including deduction of PP.  This effect works for disabled moves and ignores torment."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user instructs the target to use the target’s last\nmove again.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user instructs the target to use the target’s last\nmove again.",
+      "versionGroup": "sun-moon"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 727,
+  "name": "splintered-stormshards",
+  "caption": "Splintered Stormshards",
+  "type": "rock",
+  "damageClass": "physical",
+  "power": 190,
+  "accuracy": null,
+  "pp": 1,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "XXX new effect for splintered-stormshards",
+    "full": "XXX new effect for splintered-stormshards"
+  },
+  "flavorTexts": [
+    {
+      "text": "After obtaining Z-Power, the user, Lycanroc,\nattacks the target with full force. This move negates\nthe effect on the battlefield.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    }
+  ]
+}

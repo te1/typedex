@@ -1,0 +1,42 @@
+{
+  "id": 546,
+  "name": "techno-blast",
+  "caption": "Techno Blast",
+  "type": "normal",
+  "damageClass": "special",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "If the user is holding a appropriate plate or drive, the damage inflicted will match it.",
+    "full": "Inflicts regular damage.  If the user is holding a plate or a drive, this move's type is the type corresponding to that item.\n\nNote: This effect is technically shared by both techno blast and judgment; however, Techno Blast is only affected by drives, and Judgment is only affected by plates."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user fires a beam of light at its target. The\nmove’s type changes depending on the Drive the\nuser holds.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user fires a beam of light at its target. The\nmove’s type changes depending on the Drive the\nuser holds.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user fires a beam of light at\nits target. The move’s type changes\ndepending on the Drive the user holds.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user fires a beam of light at\nits target. The move’s type changes\ndepending on the Drive the user holds.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user fires a beam of light at\nits target. The type changes depending\non the Drive the user holds.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user fires a beam of light at\nits target. The type changes depending\non the Drive the user holds.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

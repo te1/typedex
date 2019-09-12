@@ -1,0 +1,26 @@
+{
+  "id": 717,
+  "name": "natures-madness",
+  "caption": "Nature’s Madness",
+  "type": "fairy",
+  "damageClass": "special",
+  "power": null,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Inflicts damage equal to half the target's HP.",
+    "full": "Inflicts typeless damage equal to half the target's remaining HP."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user hits the target with the force of nature.\nIt halves the target’s HP.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user hits the target with the force of nature.\nIt halves the target’s HP.",
+      "versionGroup": "sun-moon"
+    }
+  ]
+}

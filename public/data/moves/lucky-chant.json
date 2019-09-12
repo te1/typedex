@@ -1,0 +1,54 @@
+{
+  "id": 381,
+  "name": "lucky-chant",
+  "caption": "Lucky Chant",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Prevents the target from scoring critical hits for five turns.",
+    "full": "For five turns, opposing Pokémon cannot score critical hits."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user chants an incantation toward the sky,\npreventing opposing Pokémon from landing\ncritical hits for five turns.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user chants an incantation toward the sky,\npreventing opposing Pokémon from landing\ncritical hits for five turns.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user chants an incantation toward\nthe sky, preventing opposing Pokémon\nfrom landing critical hits.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user chants an incantation toward\nthe sky, preventing opposing Pokémon\nfrom landing critical hits.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user chants an incantation toward\nthe sky, preventing opposing Pokémon\nfrom landing critical hits.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user chants an incantation toward\nthe sky, preventing opposing Pokémon\nfrom landing critical hits.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user chants an\nincantation toward\nthe sky, preventing\nthe foe from landing\ncritical hits.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user chants an\nincantation toward\nthe sky, preventing\nthe foe from landing\ncritical hits.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user chants an\nincantation toward\nthe sky, preventing\nthe foe from landing\ncritical hits.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

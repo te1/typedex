@@ -1,0 +1,74 @@
+{
+  "id": 39,
+  "name": "tail-whip",
+  "caption": "Tail Whip",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Lowers the target's Defense by one stage.",
+    "full": "Lowers the target's Defense by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user wags its tail cutely, making opposing\nPokémon less wary and lowering their Defense stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user wags its tail cutely, making opposing\nPokémon less wary and lowering their Defense stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user wags its tail cutely, making\nopposing Pokémon less wary and\nlowering their Defense stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user wags its tail cutely, making\nopposing Pokémon less wary and\nlowering their Defense stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user wags its tail cutely, making\nopposing Pokémon less wary and\nlowering their Defense stat.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user wags its tail cutely, making\nopposing Pokémon less wary and\nlowering their Defense stat.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user wags its tail\ncutely, making the\nfoe less wary.\nThe target’s Defense\nstat is lowered.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user wags its tail\ncutely, making the\nfoe less wary.\nThe target’s Defense\nstat is lowered.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user wags its tail\ncutely, making the\nfoe less wary.\nThe target’s Defense\nstat is lowered.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user wags its\ntail cutely, making\nthe foe lower its\nDEFENSE stat.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Wags the tail to lower the\nfoe’s DEFENSE.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Wags the tail to lower the\nfoe’s DEFENSE.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Lowers the foe's\nDEFENSE.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Lowers the foe's\nDEFENSE.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

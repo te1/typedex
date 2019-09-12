@@ -1,0 +1,54 @@
+{
+  "id": 391,
+  "name": "heart-swap",
+  "caption": "Heart Swap",
+  "type": "psychic",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "User and target swap stat changes.",
+    "full": "User swaps its stat modifiers with the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user employs its psychic power to switch stat\nchanges with the target.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user employs its psychic power to switch stat\nchanges with the target.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user employs its psychic power to\nswitch stat changes with the target.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user employs its psychic power to\nswitch stat changes with the target.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user employs its psychic power to\nswitch stat changes with the target.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user employs its psychic power to\nswitch stat changes with the target.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user employs its\npsychic power to\nswitch stat changes\nwith the foe.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user employs its\npsychic power to\nswitch stat changes\nwith the foe.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user employs its\npsychic power to\nswitch stat changes\nwith the foe.\n",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

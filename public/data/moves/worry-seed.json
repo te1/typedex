@@ -1,0 +1,54 @@
+{
+  "id": 388,
+  "name": "worry-seed",
+  "caption": "Worry Seed",
+  "type": "grass",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Changes the target's ability to Insomnia.",
+    "full": "Changes the target's ability to insomnia.\n\nIf the target's ability is truant or multitype, this move will fail."
+  },
+  "flavorTexts": [
+    {
+      "text": "A seed that causes worry is planted on the target.\nIt prevents sleep by making the target’s\nAbility Insomnia.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "A seed that causes worry is planted on the target.\nIt prevents sleep by making the target’s\nAbility Insomnia.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "A seed that causes worry is planted on\nthe target. It prevents sleep by making\nthe target’s Ability Insomnia.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "A seed that causes worry is planted on\nthe target. It prevents sleep by making\nthe target’s Ability Insomnia.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "A seed that causes worry is planted on\nthe target. It prevents sleep by making\nits Ability Insomnia.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "A seed that causes worry is planted on\nthe target. It prevents sleep by making\nits Ability Insomnia.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "A seed that causes\nworry is planted on\nthe foe. It prevents\nsleep by making its\nability Insomnia.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "A seed that causes\nworry is planted on\nthe foe. It prevents\nsleep by making its\nability Insomnia.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "A seed that causes\nworry is planted on\nthe foe. It prevents\nsleep by making its\nability Insomnia.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

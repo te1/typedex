@@ -1,0 +1,26 @@
+{
+  "id": 660,
+  "name": "first-impression",
+  "caption": "First Impression",
+  "type": "bug",
+  "damageClass": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 2,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Can only be used as the first move after the user enters battle.",
+    "full": "Inflicts regular damage. Can only be used on the user's first turn after entering the field."
+  },
+  "flavorTexts": [
+    {
+      "text": "Although this move has great power, it only works\nthe first turn the user is in battle.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "Although this move has great power, it only works\nthe first turn the user is in battle.",
+      "versionGroup": "sun-moon"
+    }
+  ]
+}

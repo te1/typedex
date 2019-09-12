@@ -1,0 +1,66 @@
+{
+  "id": 352,
+  "name": "water-pulse",
+  "caption": "Water Pulse",
+  "type": "water",
+  "damageClass": "special",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to confuse the target.",
+    "full": "Inflicts regular damage.  Has a 20% chance to confuse the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks the target with a pulsing blast of\nwater. This may also confuse the target.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks the target with a pulsing blast of\nwater. This may also confuse the target.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks the target with\na pulsing blast of water.\nThis may also confuse the target.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks the target with\na pulsing blast of water.\nThis may also confuse the target.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user attacks the target with\na pulsing blast of water.\nIt may also confuse the target.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user attacks the target with\na pulsing blast of water.\nIt may also confuse the target.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user attacks the\nfoe with a pulsing\nblast of water.\nIt may also confuse\nthe foe.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user attacks the\nfoe with a pulsing\nblast of water.\nIt may also confuse\nthe foe.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user attacks the\nfoe with a pulsing\nblast of water.\nIt may also confuse\nthe foe.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "An attack with a\npulsing blast of\nwater. It may also\nconfuse the foe.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Attacks with ultrasonic\nwaves. May confuse the foe.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Attacks with ultrasonic\nwaves. May confuse the foe",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

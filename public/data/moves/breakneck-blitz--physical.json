@@ -1,0 +1,26 @@
+{
+  "id": 622,
+  "name": "breakneck-blitz--physical",
+  "caption": "Breakneck Blitz",
+  "type": "normal",
+  "damageClass": "physical",
+  "power": null,
+  "accuracy": null,
+  "pp": 1,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts regular damage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user builds up its momentum using its Z-Power\nand crashes into the target at full speed. The power\nvaries, depending on the original move.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user builds up its momentum using its Z-Power\nand crashes into the target at full speed. The power\nvaries, depending on the original move.",
+      "versionGroup": "sun-moon"
+    }
+  ]
+}

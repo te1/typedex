@@ -1,0 +1,54 @@
+{
+  "id": 444,
+  "name": "stone-edge",
+  "caption": "Stone Edge",
+  "type": "rock",
+  "damageClass": "physical",
+  "power": 100,
+  "accuracy": 80,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has an increased chance for a critical hit.",
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user stabs the target from below with\nsharpened stones. Critical hits land more easily.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user stabs the target from below with\nsharpened stones. Critical hits land more easily.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user stabs the target with\nsharpened stones from below.\nCritical hits land more easily.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user stabs the target with\nsharpened stones from below.\nCritical hits land more easily.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user stabs the foe with\nsharpened stones from below.\nIt has a high critical-hit ratio.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user stabs the foe with\nsharpened stones from below.\nIt has a high critical-hit ratio.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user stabs the\nfoe with a sharpened\nstone. It has a high\ncritical-hit ratio.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user stabs the\nfoe with a sharpened\nstone. It has a high\ncritical-hit ratio.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user stabs the\nfoe with a sharpened\nstone. It has a high\ncritical-hit ratio.\n",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

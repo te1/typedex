@@ -1,0 +1,74 @@
+{
+  "id": 76,
+  "name": "solar-beam",
+  "caption": "Solar Beam",
+  "type": "grass",
+  "damageClass": "special",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Requires a turn to charge before attacking.",
+    "full": "Inflicts regular damage.  User charges for one turn before attacking.\n\nDuring sunny day, the charge turn is skipped.\n\nDuring hail, rain dance, or sandstorm, power is halved.\n\nThis move cannot be selected by sleep talk."
+  },
+  "flavorTexts": [
+    {
+      "text": "In this two-turn attack, the user gathers light, then\nblasts a bundled beam on the next turn.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "In this two-turn attack, the user gathers light, then\nblasts a bundled beam on the next turn.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "A two-turn attack. The user gathers\nlight, then blasts a bundled beam on the\nnext turn.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "A two-turn attack. The user gathers\nlight, then blasts a bundled beam on the\nnext turn.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "A two-turn attack. The user gathers\nlight, then blasts a bundled beam on the\nsecond turn.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "A two-turn attack. The user gathers\nlight, then blasts a bundled beam on the\nsecond turn.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "A two-turn attack.\nThe user gathers\nlight, then blasts a\nbundled beam on the\nsecond turn.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "A two-turn attack.\nThe user gathers\nlight, then blasts a\nbundled beam on the\nsecond turn.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "A two-turn attack.\nThe user gathers\nlight, then blasts a\nbundled beam on the\nsecond turn.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A 2-turn move that\nblasts the foe with\nabsorbed energy in\nthe 2nd turn.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Absorbs light in one turn,\nthen attacks next turn.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Absorbs light in one turn,\nthen attacks next turn.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "1st turn: Prepare\n2nd turn: Attack",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "1st turn: Prepare\n2nd turn: Attack",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

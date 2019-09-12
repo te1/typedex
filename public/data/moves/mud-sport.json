@@ -1,0 +1,66 @@
+{
+  "id": 300,
+  "name": "mud-sport",
+  "caption": "Mud Sport",
+  "type": "ground",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Halves all Electric-type damage.",
+    "full": "electric moves inflict half damage, regardless of target.  If the user leaves the field, this effect ends."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user kicks up mud on the battlefield. This\nweakens Electric-type moves for five turns.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user kicks up mud on the battlefield. This\nweakens Electric-type moves for five turns.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user covers itself with mud.\nThis weakens Electric-type moves\nfor five turns.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user covers itself with mud.\nThis weakens Electric-type moves\nfor five turns.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user covers itself with mud. It\nweakens Electric-type moves while the\nuser is in the battle.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user covers itself with mud. It\nweakens Electric-type moves while the\nuser is in the battle.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user covers\nitself with mud. It\nweakens Electric-\ntype moves while the\nuser is in the battle.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user covers\nitself with mud. It\nweakens Electric-\ntype moves while the\nuser is in the battle.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user covers\nitself with mud. It\nweakens Electric-\ntype moves while the\nuser is in the battle.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "Weakens ELECTRIC-\ntype attacks while\nthe user is in the\nbattle.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Covers the user in mud to\nraise electrical resistance.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Covers the user in mud to\nraise electrical resistance.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

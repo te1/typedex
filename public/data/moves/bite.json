@@ -1,0 +1,74 @@
+{
+  "id": 44,
+  "name": "bite",
+  "caption": "Bite",
+  "type": "dark",
+  "damageClass": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a $effect_chance% chance to make the target flinch.",
+    "full": "Inflicts regular damage.  Has a 30% chance to make the target flinch."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is bitten with viciously sharp fangs.\nThis may also make the target flinch.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is bitten with viciously sharp fangs.\nThis may also make the target flinch.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is bitten\nwith viciously sharp fangs.\nThis may also make the target flinch.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is bitten\nwith viciously sharp fangs.\nThis may also make the target flinch.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is bitten\nwith viciously sharp fangs.\nIt may make the target flinch.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is bitten\nwith viciously sharp fangs.\nIt may make the target flinch.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is bitten with\nviciously sharp fangs.\nIt may make the\ntarget flinch.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is bitten with\nviciously sharp fangs.\nIt may make the\ntarget flinch.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is bitten with\nviciously sharp fangs.\nIt may make the\ntarget flinch.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user bites with\nvicious fangs.\nIt may make the\nfoe flinch.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Bites with vicious fangs.\nMay cause flinching.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Bites with vicious fangs.\nMay cause flinching.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\ncause flinching.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\ncause flinching.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

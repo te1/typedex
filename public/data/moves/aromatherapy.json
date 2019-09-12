@@ -1,0 +1,66 @@
+{
+  "id": 312,
+  "name": "aromatherapy",
+  "caption": "Aromatherapy",
+  "type": "grass",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Cures the entire party of major status effects.",
+    "full": "Removes major status effects and confusion from every Pokémon in the user's party."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user releases a soothing scent that heals all\nstatus conditions affecting the user’s party.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user releases a soothing scent that heals all\nstatus conditions affecting the user’s party.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user releases a soothing scent that\nheals all status conditions affecting\nthe user’s party.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user releases a soothing scent that\nheals all status conditions affecting\nthe user’s party.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user releases a soothing scent that\nheals all status problems affecting\nthe user’s party.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user releases a soothing scent that\nheals all status problems affecting\nthe user’s party.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user releases a\nsoothing scent that\nheals all status\nproblems affecting\nthe user’s party.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user releases a\nsoothing scent that\nheals all status\nproblems affecting\nthe user’s party.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user releases a\nsoothing scent that\nheals all status\nproblems affecting\nthe user’s party.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A soothing scent is\nreleased to heal\nall status problems\nin the user’s party.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Heals all status problems\nwith a soothing scent.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Heals all status problems\nwith a soothing scent.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

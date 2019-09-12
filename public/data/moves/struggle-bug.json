@@ -1,0 +1,42 @@
+{
+  "id": 522,
+  "name": "struggle-bug",
+  "caption": "Struggle Bug",
+  "type": "bug",
+  "damageClass": "special",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Has a $effect_chance% chance to lower the target's Special Attack by one stage.",
+    "full": "Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "While resisting, the user attacks the opposing\nPokémon. This lowers the Sp. Atk stat of those hit.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "While resisting, the user attacks the opposing\nPokémon. This lowers the Sp. Atk stat of those hit.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "While resisting, the user attacks the\nopposing Pokémon. This lowers the\nSp. Atk stat of those hit.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "While resisting, the user attacks the\nopposing Pokémon. This lowers the\nSp. Atk stat of those hit.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "While resisting, the user attacks the\nopposing Pokémon. The targets’\nSp. Atk stat is reduced.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "While resisting, the user attacks the\nopposing Pokémon. The targets’\nSp. Atk stat is reduced.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

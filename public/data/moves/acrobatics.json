@@ -1,0 +1,42 @@
+{
+  "id": 512,
+  "name": "acrobatics",
+  "caption": "Acrobatics",
+  "type": "flying",
+  "damageClass": "physical",
+  "power": 55,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Has double power if the user has no held item.",
+    "full": "Inflicts regular damage.  If the user has no held item, this move has double power."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user nimbly strikes the target. If the user is not\nholding an item, this attack inflicts massive damage.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user nimbly strikes the target. If the user is not\nholding an item, this attack inflicts massive damage.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user nimbly strikes the target.\nIf the user is not holding an item,\nthis attack inflicts massive damage.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user nimbly strikes the target.\nIf the user is not holding an item,\nthis attack inflicts massive damage.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user nimbly strikes the target.\nIf the user is not holding an item,\nthis attack inflicts massive damage.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user nimbly strikes the target.\nIf the user is not holding an item,\nthis attack inflicts massive damage.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 93,
+  "name": "confusion",
+  "caption": "Confusion",
+  "type": "psychic",
+  "damageClass": "special",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a $effect_chance% chance to confuse the target.",
+    "full": "Inflicts regular damage.  Has a 10% chance to confuse the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is hit by a weak telekinetic force.\nThis may also confuse the target.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is hit by a weak telekinetic force.\nThis may also confuse the target.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is hit by a weak telekinetic\nforce. This may also confuse the target.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is hit by a weak telekinetic\nforce. This may also confuse the target.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is hit by a weak telekinetic\nforce. It may also leave the\ntarget confused.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is hit by a weak telekinetic\nforce. It may also leave the\ntarget confused.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is hit by a\nweak telekinetic\nforce. It may also\nleave the foe\nconfused.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is hit by a\nweak telekinetic\nforce. It may also\nleave the foe\nconfused.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is hit by a\nweak telekinetic\nforce. It may also\nleave the foe\nconfused.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A weak telekinetic\nattack that may\nalso leave the foe\nconfused.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A psychic attack that may\ncause confusion.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A psychic attack that may\ncause confusion.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\ncause confusion.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\ncause confusion.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

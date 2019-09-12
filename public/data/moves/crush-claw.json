@@ -1,0 +1,66 @@
+{
+  "id": 306,
+  "name": "crush-claw",
+  "caption": "Crush Claw",
+  "type": "normal",
+  "damageClass": "physical",
+  "power": 75,
+  "accuracy": 95,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to lower the target's Defense by one stage.",
+    "full": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user slashes the target with hard and sharp\nclaws. This may also lower the target’s Defense stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user slashes the target with hard and sharp\nclaws. This may also lower the target’s Defense stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user slashes the target with hard\nand sharp claws. This may also lower\nthe target’s Defense stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user slashes the target with hard\nand sharp claws. This may also lower\nthe target’s Defense stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user slashes the target with hard\nand sharp claws.\nIt may also lower the target’s Defense.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user slashes the target with hard\nand sharp claws.\nIt may also lower the target’s Defense.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user slashes the\nfoe with hard and\nsharp claws.\nIt may also lower the\ntarget’s Defense.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user slashes the\nfoe with hard and\nsharp claws.\nIt may also lower the\ntarget’s Defense.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user slashes the\nfoe with hard and\nsharp claws.\nIt may also lower the\ntarget’s Defense.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is attacked\nwith sharp claws.\nIt may also lower\nthe foe’s DEFENSE.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Tears at the foe with sharp\nclaws. May lower DEFENSE.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Tears at the foe with sharp\nclaws. May lower DEFENSE.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

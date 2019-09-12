@@ -1,0 +1,74 @@
+{
+  "id": 58,
+  "name": "ice-beam",
+  "caption": "Ice Beam",
+  "type": "ice",
+  "damageClass": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a $effect_chance% chance to freeze the target.",
+    "full": "Inflicts regular damage.  Has a 10% chance to freeze the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is struck with an icy-cold beam of energy.\nThis may also leave the target frozen.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is struck with an icy-cold beam of energy.\nThis may also leave the target frozen.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is struck with an icy-cold\nbeam of energy.\nThis may also leave the target frozen.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is struck with an icy-cold\nbeam of energy.\nThis may also leave the target frozen.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is struck with an icy-cold\nbeam of energy.\nIt may also freeze the target solid.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is struck with an icy-cold\nbeam of energy.\nIt may also freeze the target solid.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is struck\nwith an icy-cold\nbeam of energy.\nIt may also freeze\nthe target solid.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is struck\nwith an icy-cold\nbeam of energy.\nIt may also freeze\nthe target solid.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is struck\nwith an icy-cold\nbeam of energy.\nIt may also freeze\nthe target solid.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is struck\nwith an icy beam.\nIt may freeze the\nfoe solid.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Blasts the foe with an icy\nbeam that may freeze it.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Blasts the foe with an icy\nbeam that may freeze it.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\nfreeze the foe.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\nfreeze the foe.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 347,
+  "name": "calm-mind",
+  "caption": "Calm Mind",
+  "type": "psychic",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Raises the user's Special Attack and Special Defense by one stage.",
+    "full": "Raises the user's Special Attack and Special Defense by one stage each."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user quietly focuses its mind and calms its\nspirit to raise its Sp. Atk and Sp. Def stats.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user quietly focuses its mind and calms its\nspirit to raise its Sp. Atk and Sp. Def stats.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user quietly focuses its mind and\ncalms its spirit to raise its Sp. Atk and\nSp. Def stats.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user quietly focuses its mind and\ncalms its spirit to raise its Sp. Atk and\nSp. Def stats.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user quietly focuses its mind and\ncalms its spirit to raise its Sp. Atk and\nSp. Def stats.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user quietly focuses its mind and\ncalms its spirit to raise its Sp. Atk and\nSp. Def stats.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user quietly\nfocuses its mind and\ncalms its spirit to\nraise its Sp. Atk and\nSp. Def stats.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user quietly\nfocuses its mind and\ncalms its spirit to\nraise its Sp. Atk and\nSp. Def stats.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user quietly\nfocuses its mind and\ncalms its spirit to\nraise its Sp. Atk and\nSp. Def stats.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user focuses\nits mind to raise\nthe SP. ATK and\nSP. DEF stats.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Raises SP. ATK and SP. DEF\nby focusing the mind.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Raises SP. ATK and SP. DEF\nby focusing the mind.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

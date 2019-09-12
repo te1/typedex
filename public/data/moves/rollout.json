@@ -1,0 +1,74 @@
+{
+  "id": 205,
+  "name": "rollout",
+  "caption": "Rollout",
+  "type": "rock",
+  "damageClass": "physical",
+  "power": 30,
+  "accuracy": 90,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Power doubles every turn this move is used in succession after the first, resetting after five turns.",
+    "full": "Inflicts regular damage.  User is forced to use this move for five turns.  Power doubles every time this move is used in succession to a maximum of 16x, and resets to normal after the lock-in ends.  If this move misses or becomes unusable, the lock-in ends.\n\nIf the user has used defense curl since entering the field, this move has double power."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user continually rolls into the target over five\nturns. It becomes more powerful each time it hits.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user continually rolls into the target over five\nturns. It becomes more powerful each time it hits.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user continually rolls into the target\nover five turns. It becomes more powerful\neach time it hits.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user continually rolls into the target\nover five turns. It becomes more powerful\neach time it hits.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user continually rolls into the target\nover five turns. It becomes stronger\neach time it hits.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user continually rolls into the target\nover five turns. It becomes stronger\neach time it hits.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user continually\nrolls into the foe\nover five turns. It\nbecomes stronger\neach time it hits.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user continually\nrolls into the foe\nover five turns. It\nbecomes stronger\neach time it hits.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user continually\nrolls into the foe\nover five turns. It\nbecomes stronger\neach time it hits.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A 5-turn rolling\nattack that becomes\nstronger each time\nit hits.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "An attack lasting 5 turns\nwith rising intensity.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "An attack lasting 5 turns\nwith rising intensity.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Attacks 5 turns\nwith rising power.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Attacks 5 turns\nwith rising power.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

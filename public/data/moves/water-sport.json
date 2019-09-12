@@ -1,0 +1,66 @@
+{
+  "id": 346,
+  "name": "water-sport",
+  "caption": "Water Sport",
+  "type": "water",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Halves all Fire-type damage.",
+    "full": "fire moves inflict half damage, regardless of target.  If the user leaves the field, this effect ends."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user soaks the battlefield with water. This\nweakens Fire-type moves for five turns.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user soaks the battlefield with water. This\nweakens Fire-type moves for five turns.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user soaks itself with water.\nThis weakens Fire-type moves\nfor five turns.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user soaks itself with water.\nThis weakens Fire-type moves\nfor five turns.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user soaks itself with water. The move\nweakens Fire-type moves while the user\nis in the battle.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user soaks itself with water. The move\nweakens Fire-type moves while the user\nis in the battle.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user soaks itself\nwith water. The move\nweakens Fire-type\nmoves while the user\nis in the battle.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user soaks itself\nwith water. The move\nweakens Fire-type\nmoves while the user\nis in the battle.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user soaks itself\nwith water. The move\nweakens Fire-type\nmoves while the user\nis in the battle.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "Weakens FIRE-type\nattacks while the\nuser is in the\nbattle.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "The user becomes soaked to\nraise resistance to fire.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "The user becomes soaked to\nraise resistance to fire.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 563,
+  "name": "rototiller",
+  "caption": "Rototiller",
+  "type": "ground",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Raises the Attack and Special Attack of all grass Pokémon in battle.",
+    "full": "Raises the Attack and Special Attack of all grass Pokémon in battle."
+  },
+  "flavorTexts": [
+    {
+      "text": "Tilling the soil, the user makes it easier for plants to\ngrow. This raises the Attack and Sp. Atk stats of\nGrass-type Pokémon.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "Tilling the soil, the user makes it easier for plants to\ngrow. This raises the Attack and Sp. Atk stats of\nGrass-type Pokémon.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "Tilling the soil, the user makes it easier\nfor plants to grow. This raises the Attack\nand Sp. Atk stats of Grass-type Pokémon.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "Tilling the soil, the user makes it easier\nfor plants to grow. This raises the Attack\nand Sp. Atk stats of Grass-type Pokémon.",
+      "versionGroup": "x-y"
+    }
+  ]
+}

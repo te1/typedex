@@ -1,0 +1,54 @@
+{
+  "id": 442,
+  "name": "iron-head",
+  "caption": "Iron Head",
+  "type": "steel",
+  "damageClass": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a $effect_chance% chance to make the target flinch.",
+    "full": "Inflicts regular damage.  Has a 30% chance to make the target flinch."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user slams the target with its steel-hard head.\nThis may also make the target flinch.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user slams the target with its steel-hard head.\nThis may also make the target flinch.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user slams the target\nwith its steel-hard head.\nThis may also make the target flinch.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user slams the target\nwith its steel-hard head.\nThis may also make the target flinch.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user slams the target\nwith its steel-hard head.\nIt may also make the target flinch.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user slams the target\nwith its steel-hard head.\nIt may also make the target flinch.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe slams the\ntarget with its\nsteel-hard head.\nIt may also make the\ntarget flinch.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe slams the\ntarget with its\nsteel-hard head.\nIt may also make the\ntarget flinch.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe slams the\ntarget with its\nsteel-hard head.\nIt may also make the\ntarget flinch.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

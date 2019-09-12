@@ -1,0 +1,42 @@
+{
+  "id": 499,
+  "name": "clear-smog",
+  "caption": "Clear Smog",
+  "type": "poison",
+  "damageClass": "special",
+  "power": 50,
+  "accuracy": null,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Removes all of the target's stat modifiers.",
+    "full": "Inflicts regular damage.  All of the target's stat modifiers are reset to zero."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks by throwing a clump of special\nmud. All stat changes are returned to normal.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks by throwing a clump of special\nmud. All stat changes are returned to normal.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks by throwing a clump of\nspecial mud. All stat changes are\nreturned to normal.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks by throwing a clump of\nspecial mud. All stat changes are\nreturned to normal.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user attacks by throwing a clump of\nspecial mud. All status changes are\nreturned to normal.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user attacks by throwing a clump of\nspecial mud. All status changes are\nreturned to normal.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

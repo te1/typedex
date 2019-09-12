@@ -1,0 +1,26 @@
+{
+  "id": 705,
+  "name": "fleur-cannon",
+  "caption": "Fleur Cannon",
+  "type": "fairy",
+  "damageClass": "special",
+  "power": 130,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Lowers the user's Special Attack by two stages after inflicting damage.",
+    "full": "Inflicts regular damage, then lowers the user's Special Attack by two stages."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user unleashes a strong beam. The attack’s\nrecoil harshly lowers the user’s Sp. Atk stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user unleashes a strong beam. The attack’s\nrecoil harshly lowers the user’s Sp. Atk stat.",
+      "versionGroup": "sun-moon"
+    }
+  ]
+}

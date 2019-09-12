@@ -1,0 +1,42 @@
+{
+  "id": 523,
+  "name": "bulldoze",
+  "caption": "Bulldoze",
+  "type": "ground",
+  "damageClass": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Has a $effect_chance% chance to lower the target's Speed by one stage.",
+    "full": "Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user strikes everything around it by stomping\ndown on the ground. This lowers the Speed stat of\nthose hit.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user strikes everything around it by stomping\ndown on the ground. This lowers the Speed stat of\nthose hit.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user strikes everything around it\nby stomping down on the ground.\nThis lowers the Speed stat of those hit.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user strikes everything around it\nby stomping down on the ground.\nThis lowers the Speed stat of those hit.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user stomps down on the ground\nand attacks everything in the area. Hit\nPokémon’s Speed stat is reduced.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user stomps down on the ground\nand attacks everything in the area. Hit\nPokémon’s Speed stat is reduced.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

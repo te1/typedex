@@ -1,0 +1,74 @@
+{
+  "id": 40,
+  "name": "poison-sting",
+  "caption": "Poison Sting",
+  "type": "poison",
+  "damageClass": "physical",
+  "power": 15,
+  "accuracy": 100,
+  "pp": 35,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a $effect_chance% chance to poison the target.",
+    "full": "Inflicts regular damage.  Has a 30% chance to poison the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user stabs the target with a poisonous stinger.\nThis may also poison the target.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user stabs the target with a poisonous stinger.\nThis may also poison the target.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user stabs the target\nwith a poisonous stinger.\nThis may also poison the target.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user stabs the target\nwith a poisonous stinger.\nThis may also poison the target.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user stabs the target\nwith a poisonous stinger.\nThis may also poison the target.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user stabs the target\nwith a poisonous stinger.\nThis may also poison the target.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is stabbed\nwith a poisonous\nbarb of some sort.\nIt may also poison\nthe target.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is stabbed\nwith a poisonous\nbarb of some sort.\nIt may also poison\nthe target.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is stabbed\nwith a poisonous\nbarb of some sort.\nIt may also poison\nthe target.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is stabbed\nwith a toxic barb,\netc. It may poison\nthe foe.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A toxic attack with barbs,\netc., that may poison.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A toxic attack with barbs,\netc., that may poison.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\npoison the target.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\npoison the target.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

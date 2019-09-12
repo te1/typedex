@@ -1,0 +1,42 @@
+{
+  "id": 480,
+  "name": "storm-throw",
+  "caption": "Storm Throw",
+  "type": "fighting",
+  "damageClass": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Always scores a critical hit.",
+    "full": "Inflicts regular damage.  Always scores a critical hit."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user strikes the target with a fierce blow. This\nattack always results in a critical hit.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user strikes the target with a fierce blow. This\nattack always results in a critical hit.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user strikes the target with a fierce\nblow. This attack always results in a\ncritical hit.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user strikes the target with a fierce\nblow. This attack always results in a\ncritical hit.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user strikes the target with a fierce\nblow. This attack always results in a\ncritical hit.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user strikes the target with a fierce\nblow. This attack always results in a\ncritical hit.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

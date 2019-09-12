@@ -1,0 +1,74 @@
+{
+  "id": 32,
+  "name": "horn-drill",
+  "caption": "Horn Drill",
+  "type": "normal",
+  "damageClass": "physical",
+  "power": null,
+  "accuracy": 30,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Causes a one-hit KO.",
+    "full": "Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.\n\nBecause this move inflicts a specific and finite amount of damage, endure still prevents the target from fainting.\n\nThe effects of lock on, mind reader, and no guard still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through detect or protect."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user stabs the target with a horn that rotates\nlike a drill. The target faints instantly if this\nattack hits.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user stabs the target with a horn that rotates\nlike a drill. The target faints instantly if this\nattack hits.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user stabs the target with a horn\nthat rotates like a drill. The target\nfaints instantly if this attack hits.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user stabs the target with a horn\nthat rotates like a drill. The target\nfaints instantly if this attack hits.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user stabs the target with a horn\nthat rotates like a drill.\nIf it hits, the target faints instantly.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user stabs the target with a horn\nthat rotates like a drill.\nIf it hits, the target faints instantly.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is stabbed\nwith a horn rotating\nlike a drill.\nThe foe instantly\nfaints if it hits.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is stabbed\nwith a horn rotating\nlike a drill.\nThe foe instantly\nfaints if it hits.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is stabbed\nwith a horn rotating\nlike a drill.\nThe foe instantly\nfaints if it hits.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The horn is rotated\nlike a drill to ram.\nThe foe will faint\nif it hits.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A one-hit KO attack that\nuses a horn like a drill.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A one-hit KO attack that\nuses a horn like a drill.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "A one-hit KO,\ndrill attack.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "A one-hit KO,\ndrill attack.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

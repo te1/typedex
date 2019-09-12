@@ -1,0 +1,74 @@
+{
+  "id": 233,
+  "name": "vital-throw",
+  "caption": "Vital Throw",
+  "type": "fighting",
+  "damageClass": "physical",
+  "power": 70,
+  "accuracy": null,
+  "pp": 10,
+  "priority": -1,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Never misses.",
+    "full": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks last. In return, this throw move\nnever misses.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks last. In return, this throw move\nnever misses.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks last. In return, this throw\nmove never misses.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks last. In return, this throw\nmove never misses.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user attacks last.\nIn return, this throw move is\nguaranteed not to miss.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user attacks last.\nIn return, this throw move is\nguaranteed not to miss.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user allows the\nfoe to attack first.\nIn return, this throw\nmove is guaranteed\nnot to miss.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user allows the\nfoe to attack first.\nIn return, this throw\nmove is guaranteed\nnot to miss.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user allows the\nfoe to attack first.\nIn return, this throw\nmove is guaranteed\nnot to miss.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "Makes the user\nattack after the\nfoe. In return,\nit will not miss.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Makes the user’s move last,\nbut it never misses.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Makes the user’s move last,\nbut it never misses.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "A 2nd-strike move\nthat never misses.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "A 2nd-strike move\nthat never misses.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

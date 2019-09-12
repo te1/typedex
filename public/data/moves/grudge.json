@@ -1,0 +1,66 @@
+{
+  "id": 288,
+  "name": "grudge",
+  "caption": "Grudge",
+  "type": "ghost",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "If the user faints this turn, the PP of the move that fainted it drops to 0.",
+    "full": "If the user faints before it next acts, the move that fainted it will have its PP dropped to 0.  End-of-turn damage does not trigger this effect."
+  },
+  "flavorTexts": [
+    {
+      "text": "If the user faints, the user’s grudge fully depletes\nthe PP of the opponent’s move that knocked it out.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "If the user faints, the user’s grudge fully depletes\nthe PP of the opponent’s move that knocked it out.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "If the user faints, the user’s grudge\nfully depletes the PP of the opponent’s\nmove that knocked it out.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "If the user faints, the user’s grudge\nfully depletes the PP of the opponent’s\nmove that knocked it out.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "If the user faints, the user’s grudge\nfully depletes the PP of the opponent’s\nmove that knocked it out.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "If the user faints, the user’s grudge\nfully depletes the PP of the opponent’s\nmove that knocked it out.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "If the user faints,\nthe user’s grudge\nfully depletes the PP\nof the foe’s move\nthat knocked it out.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "If the user faints,\nthe user’s grudge\nfully depletes the PP\nof the foe’s move\nthat knocked it out.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "If the user faints,\nthe user’s grudge\nfully depletes the PP\nof the foe’s move\nthat knocked it out.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "If the user faints,\nthis move deletes\nthe PP of the move\nthat finished it.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "If the user faints, deletes\nall PP of foe’s last move.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "If the user faints, deletes\nthe PP of the final move.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

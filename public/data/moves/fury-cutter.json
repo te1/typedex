@@ -1,0 +1,74 @@
+{
+  "id": 210,
+  "name": "fury-cutter",
+  "caption": "Fury Cutter",
+  "type": "bug",
+  "damageClass": "physical",
+  "power": 40,
+  "accuracy": 95,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Power doubles every turn this move is used in succession after the first, maxing out after five turns.",
+    "full": "Inflicts regular damage.  Power doubles after every time this move is used, whether consecutively or not, maxing out at 16x.  If this move misses or the user leaves the field, power resets."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is slashed with scythes or claws. This\nattack becomes more powerful if it hits\nin succession.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is slashed with scythes or claws. This\nattack becomes more powerful if it hits\nin succession.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is slashed with scythes or\nclaws. This attack becomes more powerful\nif it hits in succession.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is slashed with scythes or\nclaws. This attack becomes more powerful\nif it hits in succession.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is slashed with scythes or\nclaws. Its power increases if it hits\nin succession.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is slashed with scythes or\nclaws. Its power increases if it hits\nin succession.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is slashed\nwith scythes or\nclaws. Its power\nincreases if it hits\nin succession.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is slashed\nwith scythes or\nclaws. Its power\nincreases if it hits\nin succession.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is slashed\nwith scythes or\nclaws. Its power\nincreases if it hits\nin succession.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "An attack that\ngrows stronger on\neach successive\nhit.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "An attack that intensifies\non each successive hit.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "An attack that intensifies\non each successive hit.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Successive hits\nraise power.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Successive hits\nraise power.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

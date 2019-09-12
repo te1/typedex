@@ -1,0 +1,34 @@
+{
+  "id": 582,
+  "name": "electrify",
+  "caption": "Electrify",
+  "type": "electric",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Changes the target's move's type to electric if it hasn't moved yet this turn.",
+    "full": "Changes the target's move's type to electric if it hasn't moved yet this turn."
+  },
+  "flavorTexts": [
+    {
+      "text": "If the target is electrified before it uses a move\nduring that turn, the target’s move becomes\nElectric type.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "If the target is electrified before it uses a move\nduring that turn, the target’s move becomes\nElectric type.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "If the target is electrified before it uses\na move during that turn, the target’s\nmove becomes Electric type.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "If the target is electrified before it uses\na move during that turn, the target’s\nmove becomes Electric type.",
+      "versionGroup": "x-y"
+    }
+  ]
+}

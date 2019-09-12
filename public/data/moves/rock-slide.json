@@ -1,0 +1,74 @@
+{
+  "id": 157,
+  "name": "rock-slide",
+  "caption": "Rock Slide",
+  "type": "rock",
+  "damageClass": "physical",
+  "power": 75,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a $effect_chance% chance to make the target flinch.",
+    "full": "Inflicts regular damage.  Has a 30% chance to make the target flinch."
+  },
+  "flavorTexts": [
+    {
+      "text": "Large boulders are hurled at the opposing Pokémon\nto inflict damage. This may also make the opposing\nPokémon flinch.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "Large boulders are hurled at the opposing Pokémon\nto inflict damage. This may also make the opposing\nPokémon flinch.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "Large boulders are hurled at the opposing\nPokémon to inflict damage. This may also make\nthe opposing Pokémon flinch.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "Large boulders are hurled at the opposing\nPokémon to inflict damage. This may also make\nthe opposing Pokémon flinch.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "Large boulders are hurled at the opposing\nteam to inflict damage. It may also make\nthe targets flinch.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "Large boulders are hurled at the opposing\nteam to inflict damage. It may also make\nthe targets flinch.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "Large boulders are\nhurled at the foe to\ninflict damage.\nIt may also make the\ntarget flinch.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "Large boulders are\nhurled at the foe to\ninflict damage.\nIt may also make the\ntarget flinch.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "Large boulders are\nhurled at the foe to\ninflict damage.\nIt may also make the\ntarget flinch.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "Large boulders are\nhurled at the foe.\nIt may make the\nfoe flinch.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Large boulders are hurled.\nMay cause flinching.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Large boulders are hurled.\nMay cause flinching.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\ncause flinching.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\ncause flinching.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

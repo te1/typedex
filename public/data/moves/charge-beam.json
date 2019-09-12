@@ -1,0 +1,54 @@
+{
+  "id": 451,
+  "name": "charge-beam",
+  "caption": "Charge Beam",
+  "type": "electric",
+  "damageClass": "special",
+  "power": 50,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a $effect_chance% chance to raise the user's Special Attack by one stage.",
+    "full": "Inflicts regular damage.  Has a 70% chance to raise the user's Special Attack by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks with an electric charge. The user\nmay use any remaining electricity to raise its\nSp. Atk stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks with an electric charge. The user\nmay use any remaining electricity to raise its\nSp. Atk stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks with an electric\ncharge. The user may use any remaining\nelectricity to raise its Sp. Atk stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks with an electric\ncharge. The user may use any remaining\nelectricity to raise its Sp. Atk stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user attacks with an electric\ncharge. The user may use any remaining\nelectricity to raise its Sp. Atk stat.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user attacks with an electric\ncharge. The user may use any remaining\nelectricity to raise its Sp. Atk stat.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user fires a\nconcentrated bundle\nof electricity. It may\nalso raise the user’s\nSp. Atk stat.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user fires a\nconcentrated bundle\nof electricity. It may\nalso raise the user’s\nSp. Atk stat.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user fires a\nconcentrated bundle\nof electricity. It may\nalso raise the user’s\nSp. Atk stat.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 314,
+  "name": "air-cutter",
+  "caption": "Air Cutter",
+  "type": "flying",
+  "damageClass": "special",
+  "power": 60,
+  "accuracy": 95,
+  "pp": 25,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has an increased chance for a critical hit.",
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user launches razor-like wind to slash the\nopposing Pokémon. Critical hits land more easily.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user launches razor-like wind to slash the\nopposing Pokémon. Critical hits land more easily.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user launches razor-like wind\nto slash the opposing Pokémon.\nCritical hits land more easily.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user launches razor-like wind\nto slash the opposing Pokémon.\nCritical hits land more easily.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user launches razor-like wind to\nslash the opposing team.\nCritical hits land more easily.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user launches razor-like wind to\nslash the opposing team.\nCritical hits land more easily.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user launches\nrazorlike wind to\nslash the foe.\nIt has a high\ncritical-hit ratio.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user launches\nrazorlike wind to\nslash the foe.\nIt has a high\ncritical-hit ratio.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user launches\nrazorlike wind to\nslash the foe.\nIt has a high\ncritical-hit ratio.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is hit with\nrazor-like wind.\nIt has a high\ncritical-hit ratio.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Hacks with razorlike wind.\nHigh critical-hit ratio.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Hacks with razorlike wind.\nHigh critical-hit ratio.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

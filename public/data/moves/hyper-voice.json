@@ -1,0 +1,66 @@
+{
+  "id": 304,
+  "name": "hyper-voice",
+  "caption": "Hyper Voice",
+  "type": "normal",
+  "damageClass": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts regular damage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user lets loose a horribly echoing shout with\nthe power to inflict damage.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user lets loose a horribly echoing shout with\nthe power to inflict damage.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user lets loose a horribly echoing\nshout with the power to inflict damage.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user lets loose a horribly echoing\nshout with the power to inflict damage.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user lets loose a horribly echoing\nshout with the power to inflict damage.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user lets loose a horribly echoing\nshout with the power to inflict damage.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user lets loose\na horribly echoing\nshout with the\npower to inflict\ndamage.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user lets loose\na horribly echoing\nshout with the\npower to inflict\ndamage.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user lets loose\na horribly echoing\nshout with the\npower to inflict\ndamage.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user lets loose\na horribly loud\nshout with the\npower to damage.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A loud attack that uses\nsound waves to injure.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A loud attack that uses\nsound waves to injure.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 663,
+  "name": "darkest-lariat",
+  "caption": "Darkest Lariat",
+  "type": "dark",
+  "damageClass": "physical",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Ignores the target's stat modifiers.",
+    "full": "Inflicts regular damage.  Damage calculation ignores the target's stat modifiers, including evasion."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user swings both arms and hits the target.\nThe target’s stat changes don’t affect this\nattack’s damage.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user swings both arms and hits the target.\nThe target’s stat changes don’t affect this\nattack’s damage.",
+      "versionGroup": "sun-moon"
+    }
+  ]
+}

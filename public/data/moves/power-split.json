@@ -1,0 +1,42 @@
+{
+  "id": 471,
+  "name": "power-split",
+  "caption": "Power Split",
+  "type": "psychic",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Averages Attack and Special Attack with the target.",
+    "full": "Averages the user's unmodified Attack with the target's unmodified Attack; the value becomes the unmodified Attack for both Pokémon. Unmodified Special Attack is averaged the same way.\n\nThis effect applies before any other persistent changes to unmodified Attack or Special Attack, such as flower gift during sunny day."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user employs its psychic power to average its\nAttack and Sp. Atk stats with those of the target.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user employs its psychic power to average its\nAttack and Sp. Atk stats with those of the target.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user employs its psychic power to\naverage its Attack and Sp. Atk stats\nwith those of the target.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user employs its psychic power to\naverage its Attack and Sp. Atk stats\nwith those of the target.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user employs its psychic power to\naverage its Attack and Sp. Atk stats\nwith those of the target’s.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user employs its psychic power to\naverage its Attack and Sp. Atk stats\nwith those of the target’s.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 286,
+  "name": "imprison",
+  "caption": "Imprison",
+  "type": "psychic",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Prevents the target from using any moves that the user also knows.",
+    "full": "Prevents any Pokémon on the opposing side of the field from using any move the user knows until the user leaves the field.  This effect is live; if the user obtains new moves while on the field, these moves become restricted.  If no opposing Pokémon knows any of the user's moves when this move is used, this move will fail."
+  },
+  "flavorTexts": [
+    {
+      "text": "If opposing Pokémon know any move also known by\nthe user, they are prevented from using it.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "If opposing Pokémon know any move also known by\nthe user, they are prevented from using it.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "If opposing Pokémon know any move\nalso known by the user,\nthey are prevented from using it.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "If opposing Pokémon know any move\nalso known by the user,\nthey are prevented from using it.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "If the opponents know any move also known\nby the user, the opponents are prevented\nfrom using it.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "If the opponents know any move also known\nby the user, the opponents are prevented\nfrom using it.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "If the foe knows any\nmove also known by\nthe user, the foe\nis prevented\nfrom using it.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "If the foe knows any\nmove also known by\nthe user, the foe\nis prevented\nfrom using it.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "If the foe knows any\nmove also known by\nthe user, the foe\nis prevented\nfrom using it.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "Prevents foes from\nusing any move\nthat is also known\nby the user.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Prevents foes from using\nmoves known by the user.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Prevents foes from using\nmoves known by the user.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

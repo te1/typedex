@@ -1,0 +1,74 @@
+{
+  "id": 48,
+  "name": "supersonic",
+  "caption": "Supersonic",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 55,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Confuses the target.",
+    "full": "Confuses the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user generates odd sound waves from its body\nthat confuse the target.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user generates odd sound waves from its body\nthat confuse the target.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user generates odd sound waves from\nits body that confuse the target.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user generates odd sound waves from\nits body that confuse the target.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user generates odd sound waves from\nits body. It may confuse the target.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user generates odd sound waves from\nits body. It may confuse the target.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user generates\nodd sound waves from\nits body.\nIt may confuse the\ntarget.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user generates\nodd sound waves from\nits body.\nIt may confuse the\ntarget.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user generates\nodd sound waves from\nits body.\nIt may confuse the\ntarget.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user generates\nodd sound waves.\nIt may confuse the\nfoe.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Emits bizarre sound waves\nthat may confuse the foe.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Emits bizarre sound waves\nthat may confuse the foe.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Sound waves that\ncause confusion.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Sound waves that\ncause confusion.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

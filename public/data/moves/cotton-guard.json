@@ -1,0 +1,42 @@
+{
+  "id": 538,
+  "name": "cotton-guard",
+  "caption": "Cotton Guard",
+  "type": "grass",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Raises the user's Defense by three stages.",
+    "full": "Raises the user's Defense by three stages."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user protects itself by wrapping its body in soft\ncotton, which drastically raises the user’s\nDefense stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user protects itself by wrapping its body in soft\ncotton, which drastically raises the user’s\nDefense stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user protects itself by wrapping\nits body in soft cotton, which drastically\nraises the user’s Defense stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user protects itself by wrapping\nits body in soft cotton, which drastically\nraises the user’s Defense stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user protects itself by wrapping\nits body in soft cotton, drastically\nraising the user’s Defense stat.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user protects itself by wrapping\nits body in soft cotton, drastically\nraising the user’s Defense stat.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

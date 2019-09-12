@@ -1,0 +1,74 @@
+{
+  "id": 87,
+  "name": "thunder",
+  "caption": "Thunder",
+  "type": "electric",
+  "damageClass": "special",
+  "power": 110,
+  "accuracy": 70,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a $effect_chance% chance to paralyze the target.",
+    "full": "Inflicts regular damage.  Has a 30% chance to paralyze the target.\n\nDuring rain dance, this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of protect and detect.\n\nDuring sunny day, this move has 50% accuracy."
+  },
+  "flavorTexts": [
+    {
+      "text": "A wicked thunderbolt is dropped on the target to\ninflict damage. This may also leave the target\nwith paralysis.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "A wicked thunderbolt is dropped on the target to\ninflict damage. This may also leave the target\nwith paralysis.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "A wicked thunderbolt is dropped\non the target to inflict damage.\nThis may also leave the target with paralysis.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "A wicked thunderbolt is dropped\non the target to inflict damage.\nThis may also leave the target with paralysis.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "A wicked thunderbolt is dropped\non the target to inflict damage. It may\nalso leave the target with paralysis.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "A wicked thunderbolt is dropped\non the target to inflict damage. It may\nalso leave the target with paralysis.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "A wicked thunderbolt\nis dropped on the foe\nto inflict damage.\nIt may also leave the\ntarget paralyzed.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "A wicked thunderbolt\nis dropped on the foe\nto inflict damage.\nIt may also leave the\ntarget paralyzed.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "A wicked thunderbolt\nis dropped on the foe\nto inflict damage.\nIt may also leave the\ntarget paralyzed.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A brutal lightning\nattack that may\nalso leave the foe\nparalyzed.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A lightning attack that may\ncause paralysis.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A lightning attack that may\ncause paralysis.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\ncause paralysis.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\ncause paralysis.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

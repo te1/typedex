@@ -1,0 +1,74 @@
+{
+  "id": 244,
+  "name": "psych-up",
+  "caption": "Psych Up",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Discards the user's stat changes and copies the target's.",
+    "full": "Discards the user's stat changes and copies the target's.\n\nThis move cannot be copied by mirror move."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user hypnotizes itself into copying any stat\nchange made by the target.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user hypnotizes itself into copying any stat\nchange made by the target.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user hypnotizes itself into\ncopying any stat change made\nby the target.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user hypnotizes itself into\ncopying any stat change made\nby the target.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user hypnotizes itself into\ncopying any stat change made\nby the target.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user hypnotizes itself into\ncopying any stat change made\nby the target.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user hypnotizes\nitself into copying\nany stat change\nmade by the foe.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user hypnotizes\nitself into copying\nany stat change\nmade by the foe.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user hypnotizes\nitself into copying\nany stat change\nmade by the foe.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user hypnotizes\nitself into copying\nany stat change\nmade by the foe.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Copies the foe’s effect(s)\nand gives to the user.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Copies the foe’s effect(s)\nand gives to the user.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Copies the foe's\nstat changes.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Copies the foe's\nstat changes.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

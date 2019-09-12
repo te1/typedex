@@ -1,0 +1,74 @@
+{
+  "id": 92,
+  "name": "toxic",
+  "caption": "Toxic",
+  "type": "poison",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Badly poisons the target, inflicting more damage every turn.",
+    "full": "Badly poisons the target.  Never misses when used by a poison-type Pokémon."
+  },
+  "flavorTexts": [
+    {
+      "text": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "A move that leaves the target\nbadly poisoned.\nIts poison damage worsens every turn.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "A move that leaves the target\nbadly poisoned.\nIts poison damage worsens every turn.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "A move that leaves the target\nbadly poisoned.\nIts poison damage worsens every turn.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "A move that leaves the target\nbadly poisoned.\nIts poison damage worsens every turn.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "A move that leaves\nthe target badly\npoisoned.\nIts poison damage\nworsens every turn.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "A move that leaves\nthe target badly\npoisoned.\nIts poison damage\nworsens every turn.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "A move that leaves\nthe target badly\npoisoned.\nIts poison damage\nworsens every turn.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A move that badly\npoisons the foe.\nIts poison damage\nworsens every turn.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Poisons the foe with an\nintensifying toxin.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Poisons the foe with an\nintensifying toxin.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "A poison move with\nincreasing damage.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "A poison move with\nincreasing damage.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 63,
+  "name": "hyper-beam",
+  "caption": "Hyper Beam",
+  "type": "normal",
+  "damageClass": "special",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "User foregoes its next turn to recharge.",
+    "full": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is attacked with a powerful beam.\nThe user can’t move on the next turn.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is attacked with a powerful beam.\nThe user can’t move on the next turn.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is attacked with a powerful\nbeam. The user can’t move on the next turn.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is attacked with a powerful\nbeam. The user can’t move on the next turn.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is attacked with a powerful\nbeam. The user must rest on the next\nturn to regain its energy.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is attacked with a powerful\nbeam. The user must rest on the next\nturn to regain its energy.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is attacked\nwith a powerful beam.\nThe user must rest\non the next turn to\nregain its energy.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is attacked\nwith a powerful beam.\nThe user must rest\non the next turn to\nregain its energy.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is attacked\nwith a powerful beam.\nThe user must rest\non the next turn to\nregain its energy.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A severely damaging\nattack that makes\nthe user rest on\nthe next turn.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Powerful, but leaves the\nuser immobile the next turn.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Powerful, but leaves the\nuser immobile the next turn.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "1st turn: Attack\n2nd turn: Rest",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "1st turn: Attack\n2nd turn: Rest",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

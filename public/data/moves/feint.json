@@ -1,0 +1,54 @@
+{
+  "id": 364,
+  "name": "feint",
+  "caption": "Feint",
+  "type": "normal",
+  "damageClass": "physical",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 2,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Hits through Protect and Detect.",
+    "full": "Inflicts regular damage.  Removes the effects of detect or protect from the target before hitting.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome."
+  },
+  "flavorTexts": [
+    {
+      "text": "This attack hits a target using a move such as\nProtect or Detect.\nThis also lifts the effects of those moves.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "This attack hits a target using a move such as\nProtect or Detect.\nThis also lifts the effects of those moves.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "An attack that hits a target using\nProtect or Detect. This also lifts\nthe effects of those moves.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "An attack that hits a target using\nProtect or Detect. This also lifts\nthe effects of those moves.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "An attack that hits a target using\nProtect or Detect. It also lifts\nthe effects of those moves.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "An attack that hits a target using\nProtect or Detect. It also lifts\nthe effects of those moves.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "An attack that hits a\nfoe using Protect or\nDetect. It also lifts\nthe effects of those\nmoves.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "An attack that hits a\nfoe using Protect or\nDetect. It also lifts\nthe effects of those\nmoves.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "An attack that hits a\nfoe using Protect or\nDetect. It also lifts\nthe effects of those\nmoves.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

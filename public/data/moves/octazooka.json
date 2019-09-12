@@ -1,0 +1,74 @@
+{
+  "id": 190,
+  "name": "octazooka",
+  "caption": "Octazooka",
+  "type": "water",
+  "damageClass": "special",
+  "power": 65,
+  "accuracy": 85,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to lower the target's accuracy by one stage.",
+    "full": "Inflicts regular damage.  Has a 50% chance to lower the target's accuracy by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks by spraying ink in the target’s face\nor eyes. This may also lower the target’s accuracy.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks by spraying ink in the target’s face\nor eyes. This may also lower the target’s accuracy.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks by spraying ink in the\ntarget’s face or eyes.\nThis may also lower the target’s accuracy.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks by spraying ink in the\ntarget’s face or eyes.\nThis may also lower the target’s accuracy.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user attacks by spraying ink in the\ntarget’s face or eyes.\nIt may also lower the target’s accuracy.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user attacks by spraying ink in the\ntarget’s face or eyes.\nIt may also lower the target’s accuracy.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user attacks by\nspraying ink in the\nfoe’s face or eyes.\nIt may also lower the\ntarget’s accuracy.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user attacks by\nspraying ink in the\nfoe’s face or eyes.\nIt may also lower the\ntarget’s accuracy.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user attacks by\nspraying ink in the\nfoe’s face or eyes.\nIt may also lower the\ntarget’s accuracy.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "Ink is blasted in\nthe foe’s face or\neyes to damage and\nlower accuracy.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Fires a lump of ink to\ndamage and cut accuracy.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Fires a lump of ink to\ndamage and cut accuracy.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\nreduce accuracy.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\nreduce accuracy.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

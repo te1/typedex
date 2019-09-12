@@ -1,0 +1,66 @@
+{
+  "id": 337,
+  "name": "dragon-claw",
+  "caption": "Dragon Claw",
+  "type": "dragon",
+  "damageClass": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts regular damage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user slashes the target with huge sharp claws.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user slashes the target with huge sharp claws.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user slashes the target with huge,\nsharp claws.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user slashes the target with huge,\nsharp claws.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user slashes the target with huge,\nsharp claws.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user slashes the target with huge,\nsharp claws.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user slashes the\nfoe with huge, sharp\nclaws.\n\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user slashes the\nfoe with huge, sharp\nclaws.\n\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user slashes the\nfoe with huge, sharp\nclaws.\n\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "Sharp, huge claws\nhook and slash the\nfoe quickly and\nwith great power.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Slashes the foe with sharp\nclaws.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Slashes the foe with sharp\nclaws.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 492,
+  "name": "foul-play",
+  "caption": "Foul Play",
+  "type": "dark",
+  "damageClass": "physical",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Calculates damage with the target's attacking stat.",
+    "full": "Inflicts regular damage.  Damage is calculated using the target's attacking stat rather than the user's."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user turns the target’s power against it. The\nhigher the target’s Attack stat, the greater the\nmove’s power.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user turns the target’s power against it. The\nhigher the target’s Attack stat, the greater the\nmove’s power.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user turns the target’s power\nagainst it. The higher the target’s Attack stat,\nthe greater the move’s power.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user turns the target’s power\nagainst it. The higher the target’s Attack stat,\nthe greater the move’s power.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user turns the target’s power\nagainst it. The higher the target’s\nAttack stat, the greater the damage.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user turns the target’s power\nagainst it. The higher the target’s\nAttack stat, the greater the damage.",
+      "versionGroup": "black-white"
+    }
+  ]
+}

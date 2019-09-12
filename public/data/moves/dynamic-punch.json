@@ -1,0 +1,74 @@
+{
+  "id": 223,
+  "name": "dynamic-punch",
+  "caption": "Dynamic Punch",
+  "type": "fighting",
+  "damageClass": "physical",
+  "power": 100,
+  "accuracy": 50,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to confuse the target.",
+    "full": "Inflicts regular damage.  Has a 100% chance to confuse the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user punches the target with full, concentrated\npower. This confuses the target if it hits.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user punches the target with full, concentrated\npower. This confuses the target if it hits.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user punches the target with full,\nconcentrated power.\nThis confuses the target if it hits.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user punches the target with full,\nconcentrated power.\nThis confuses the target if it hits.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user punches the target with full,\nconcentrated power.\nIt confuses the target if it hits.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user punches the target with full,\nconcentrated power.\nIt confuses the target if it hits.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is punched\nwith the user’s full,\nconcentrated power.\nIt confuses the foe\nif it hits.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is punched\nwith the user’s full,\nconcentrated power.\nIt confuses the foe\nif it hits.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is punched\nwith the user’s full,\nconcentrated power.\nIt confuses the foe\nif it hits.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is punched\nwith the user’s full\npower. It confuses\nthe foe if it hits.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Powerful and sure to cause\nconfusion, but inaccurate.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Powerful and sure to cause\nconfusion, but inaccurate.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that\nalways confuses.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that\nalways confuses.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

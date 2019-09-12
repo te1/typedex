@@ -1,0 +1,22 @@
+{
+  "id": 723,
+  "name": "light-that-burns-the-sky",
+  "caption": "Light That Burns the Sky",
+  "type": "psychic",
+  "damageClass": "special",
+  "power": 200,
+  "accuracy": null,
+  "pp": 1,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "XXX new effect for light-that-burns-the-sky",
+    "full": "XXX new effect for light-that-burns-the-sky"
+  },
+  "flavorTexts": [
+    {
+      "text": "This attack inflicts Attack or Sp. Atk damage—\nwhichever stat is higher for the user, Necrozma. \nThis move ignores the target’s Ability.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    }
+  ]
+}

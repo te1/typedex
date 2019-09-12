@@ -1,0 +1,66 @@
+{
+  "id": 293,
+  "name": "camouflage",
+  "caption": "Camouflage",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "User's type changes to match the terrain.",
+    "full": "User's type changes according to the terrain.\n\nTerrain        | New type\n-------------- | --------------\nBuilding       | normal\nCave           | rock\nDesert         | ground\nGrass          | grass\nMountain       | rock\nOcean          | water\nPond           | water\nRoad           | ground\nSnow           | ice\nTall grass     | grass\n\nIn Pokémon Battle Revolution:\n\nTerrain        | New type\n-------------- | --------------\nCourtyard      | normal\nCrystal        | rock\nGateway        | water\nMagma          | rock\nMain Street    | normal\nNeon           | normal\nStargazer      | rock\nSunny Park     | grass\nSunset         | ground\nWaterfall      | grass\n"
+  },
+  "flavorTexts": [
+    {
+      "text": "The user’s type is changed depending on its\nenvironment, such as at water’s edge, in grass, or in\na cave.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user’s type is changed depending on its\nenvironment, such as at water’s edge, in grass, or in\na cave.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user’s type is changed depending on\nits environment, such as at water’s edge,\nin grass, or in a cave.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user’s type is changed depending on\nits environment, such as at water’s edge,\nin grass, or in a cave.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user’s type is changed depending on\nits environment, such as at water’s edge,\nin grass, or in a cave.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user’s type is changed depending on\nits environment, such as at water’s edge,\nin grass, or in a cave.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user’s type is\nchanged depending on\nits environment, such\nas at water’s edge, in\ngrass, or in a cave.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user’s type is\nchanged depending on\nits environment, such\nas at water’s edge, in\ngrass, or in a cave.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user’s type is\nchanged depending on\nits environment, such\nas at water’s edge, in\ngrass, or in a cave.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "Alters the user’s\ntype depending on\nthe location’s\nterrain.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Alters the POKéMON’s type\ndepending on the location.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Alters the POKéMON’s type\ndepending on the location.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

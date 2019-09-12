@@ -1,0 +1,74 @@
+{
+  "id": 11,
+  "name": "vice-grip",
+  "caption": "Vice Grip",
+  "type": "normal",
+  "damageClass": "physical",
+  "power": 55,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts regular damage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is gripped and squeezed from both sides\nto inflict damage.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is gripped and squeezed from both sides\nto inflict damage.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is gripped and squeezed from\nboth sides to inflict damage.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is gripped and squeezed from\nboth sides to inflict damage.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is gripped and squeezed from\nboth sides to inflict damage.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is gripped and squeezed from\nboth sides to inflict damage.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "Huge, impressive\npincers grip and\nsqueeze the foe.\n\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "Huge, impressive\npincers grip and\nsqueeze the foe.\n\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "Huge, impressive\npincers grip and\nsqueeze the foe.\n\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "Huge, impressive\npincers grip and\nsqueeze the foe.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Grips the foe with large and\npowerful pincers.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Grips the foe with large and\npowerful pincers.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Grips with power­\nful pincers.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Grips with power­\nful pincers.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

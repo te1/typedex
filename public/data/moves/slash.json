@@ -1,0 +1,74 @@
+{
+  "id": 163,
+  "name": "slash",
+  "caption": "Slash",
+  "type": "normal",
+  "damageClass": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has an increased chance for a critical hit.",
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is attacked with a slash of claws or\nblades. Critical hits land more easily.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is attacked with a slash of claws or\nblades. Critical hits land more easily.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is attacked with a slash\nof claws or blades.\nCritical hits land more easily.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is attacked with a slash\nof claws or blades.\nCritical hits land more easily.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is attacked with a slash\nof claws or blades.\nCritical hits land more easily.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is attacked with a slash\nof claws or blades.\nCritical hits land more easily.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is attacked\nwith a slash of\nclaws, etc.\nIt has a high\ncritical-hit ratio.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is attacked\nwith a slash of\nclaws, etc.\nIt has a high\ncritical-hit ratio.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is attacked\nwith a slash of\nclaws, etc.\nIt has a high\ncritical-hit ratio.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is slashed\nwith claws, etc.\nIt has a high\ncritical-hit ratio.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Slashes with claws, etc. Has\na high critical-hit ratio.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Slashes with claws, etc. Has\na high critical-hit ratio.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Has a high criti­\ncal hit ratio.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Has a high criti­\ncal hit ratio.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

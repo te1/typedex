@@ -1,0 +1,34 @@
+{
+  "id": 609,
+  "name": "nuzzle",
+  "caption": "Nuzzle",
+  "type": "electric",
+  "damageClass": "physical",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Has a $effect_chance% chance to paralyze the target.",
+    "full": "Inflicts regular damage.  Has a 100% chance to paralyze the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks by nuzzling its electrified cheeks\nagainst the target. This also leaves the target\nwith paralysis.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks by nuzzling its electrified cheeks\nagainst the target. This also leaves the target\nwith paralysis.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks by nuzzling its electrified\ncheeks against the target. This also leaves\nthe target with paralysis.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks by nuzzling its electrified\ncheeks against the target. This also leaves\nthe target with paralysis.",
+      "versionGroup": "x-y"
+    }
+  ]
+}

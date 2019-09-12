@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "export-data": "node export-data.js"
+    "export": "node pokeapi-data-export"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.22",
@@ -33,6 +33,7 @@
     "babel-plugin-lodash": "^3.3.4",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
+    "fs-extra": "^8.1.0",
     "raw-loader": "^3.1.0",
     "vue-template-compiler": "^2.6.10"
   }

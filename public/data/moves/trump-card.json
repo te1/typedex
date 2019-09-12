@@ -1,0 +1,54 @@
+{
+  "id": 376,
+  "name": "trump-card",
+  "caption": "Trump Card",
+  "type": "normal",
+  "damageClass": "special",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Power increases when this move has less PP, up to a maximum of 200.",
+    "full": "Inflicts regular damage.  Power is determined by the PP remaining for this move, after its PP cost is deducted.  Ignores accuracy and evasion modifiers.\n\nPP remaining | Power\n------------ | ----:\n4 or more    |    40\n3            |    50\n2            |    60\n1            |    80\n0            |   200\n\nIf this move is activated by another move, the activating move's PP is used to calculate power."
+  },
+  "flavorTexts": [
+    {
+      "text": "The fewer PP this move has, the greater its power.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The fewer PP this move has, the greater its power.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The fewer PP this move has,\nthe greater its power.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The fewer PP this move has,\nthe greater its power.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The fewer PP this move has, the greater\nits attack power.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The fewer PP this move has, the greater\nits attack power.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The fewer PP this\nmove has, the more\npower it has for\nattack.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The fewer PP this\nmove has, the more\npower it has for\nattack.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The fewer PP this\nmove has, the more\npower it has for\nattack.\n",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

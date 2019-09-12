@@ -1,0 +1,74 @@
+{
+  "id": 51,
+  "name": "acid",
+  "caption": "Acid",
+  "type": "poison",
+  "damageClass": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a $effect_chance% chance to lower the target's Special Defense by one stage.",
+    "full": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The opposing Pokémon are attacked with a spray of\nharsh acid. This may also lower their Sp. Def stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The opposing Pokémon are attacked with a spray of\nharsh acid. This may also lower their Sp. Def stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The opposing Pokémon are attacked\nwith a spray of harsh acid. This may\nalso lower their Sp. Def stats.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The opposing Pokémon are attacked\nwith a spray of harsh acid. This may\nalso lower their Sp. Def stats.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The opposing team is attacked with a spray\nof harsh acid. The acid may also lower\nthe targets’ Sp. Def stats.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The opposing team is attacked with a spray\nof harsh acid. The acid may also lower\nthe targets’ Sp. Def stats.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is attacked\nwith a spray of harsh\nacid. It may also\nlower the target’s\nSp. Def stat.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is attacked\nwith a spray of harsh\nacid. It may also\nlower the target’s\nSp. Def stat.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is attacked\nwith a spray of harsh\nacid. It may also\nlower the target’s\nSp. Def stat.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is sprayed\nwith a harsh, hide-\nmelting acid that\nmay lower DEFENSE.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Sprays a hide-melting acid.\nMay lower DEFENSE.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Sprays a hide-melting acid.\nMay lower DEFENSE.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that may\nlower DEFENSE.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that may\nlower DEFENSE.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

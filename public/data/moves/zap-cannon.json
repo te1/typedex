@@ -1,0 +1,74 @@
+{
+  "id": 192,
+  "name": "zap-cannon",
+  "caption": "Zap Cannon",
+  "type": "electric",
+  "damageClass": "special",
+  "power": 120,
+  "accuracy": 50,
+  "pp": 5,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to paralyze the target.",
+    "full": "Inflicts regular damage.  Has a 100% chance to paralyze the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user fires an electric blast like a cannon to inflict\ndamage and cause paralysis.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user fires an electric blast like a cannon to inflict\ndamage and cause paralysis.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user fires an electric blast like a\ncannon to inflict damage and\ncause paralysis.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user fires an electric blast like a\ncannon to inflict damage and\ncause paralysis.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user fires an electric blast like a\ncannon to inflict damage and\ncause paralysis.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user fires an electric blast like a\ncannon to inflict damage and\ncause paralysis.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user fires an\nelectric blast like a\ncannon to inflict\ndamage and cause\nparalysis.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user fires an\nelectric blast like a\ncannon to inflict\ndamage and cause\nparalysis.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user fires an\nelectric blast like a\ncannon to inflict\ndamage and cause\nparalysis.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "An electric blast is\nfired like a cannon\nto inflict damage\nand paralyze.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Powerful and sure to cause\nparalysis, but inaccurate.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Powerful and sure to cause\nparalysis, but inaccurate.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that\nalways paralyzes.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that\nalways paralyzes.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

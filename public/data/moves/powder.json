@@ -1,0 +1,34 @@
+{
+  "id": 600,
+  "name": "powder",
+  "caption": "Powder",
+  "type": "bug",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 1,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Explodes if the target uses a fire move this turn, damaging it for 1/4 its max HP and preventing the move.",
+    "full": "Explodes if the target uses a fire move this turn, damaging it for 1/4 its max HP and preventing the move."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user covers the target in a combustible powder.\nIf the target uses a Fire-type move, the powder\nexplodes and damages the target.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user covers the target in a combustible powder.\nIf the target uses a Fire-type move, the powder\nexplodes and damages the target.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user covers the target in a powder\nthat explodes and damages the target\nif it uses a Fire-type move.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user covers the target in a powder\nthat explodes and damages the target\nif it uses a Fire-type move.",
+      "versionGroup": "x-y"
+    }
+  ]
+}

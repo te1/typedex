@@ -1,0 +1,26 @@
+{
+  "id": 664,
+  "name": "sparkling-aria",
+  "caption": "Sparkling Aria",
+  "type": "water",
+  "damageClass": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Cures the target of burns.",
+    "full": "Inflicts regular damage.  If the target has a burn and takes damage from this move, its burn is healed."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user bursts into song, emitting many bubbles.\nAny Pokémon suffering from a burn will be healed\nby the touch of these bubbles.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user bursts into song, emitting many bubbles.\nAny Pokémon suffering from a burn will be healed\nby the touch of these bubbles.",
+      "versionGroup": "sun-moon"
+    }
+  ]
+}

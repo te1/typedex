@@ -1,0 +1,74 @@
+{
+  "id": 46,
+  "name": "roar",
+  "caption": "Roar",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "priority": -6,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Immediately ends wild battles.  Forces trainers to switch Pokémon.",
+    "full": "Switches the target out for another of its trainer's Pokémon selected at random.  Wild battles end immediately.\n\nDoesn't affect Pokémon with suction cups or under the effect of ingrain."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is scared off, and a different Pokémon is\ndragged out. In the wild, this ends a battle against a\nsingle Pokémon.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is scared off, and a different Pokémon is\ndragged out. In the wild, this ends a battle against a\nsingle Pokémon.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is scared off, and a different\nPokémon is dragged out. In the wild,\nthis ends a battle against a single Pokémon.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is scared off, and a different\nPokémon is dragged out. In the wild,\nthis ends a battle against a single Pokémon.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is scared off and switched.\nIn the wild, a battle against a single\nPokémon ends.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is scared off and replaced by\nanother Pokémon in its party. In the\nwild, the battle ends.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is scared off,\nto be replaced by\nanother Pokémon in\nits party. In the\nwild, the battle ends.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is scared off,\nto be replaced by\nanother Pokémon in\nits party. In the\nwild, the battle ends.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is scared off,\nto be replaced by\nanother Pokémon in\nits party. In the\nwild, the battle ends.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The foe is made to\nswitch out with an\nally. In the wild,\nthe battle ends.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Makes the foe flee to end\nthe battle.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Makes the foe flee to end\nthe battle.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Scares wild foes\nto end battle.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Scares wild foes\nto end battle.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

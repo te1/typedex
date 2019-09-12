@@ -1,0 +1,54 @@
+{
+  "id": 363,
+  "name": "natural-gift",
+  "caption": "Natural Gift",
+  "type": "normal",
+  "damageClass": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Power and type depend on the held berry.",
+    "full": "Inflicts regular damage.  Power and type are determined by the user's held berry.  The berry is consumed.  If the user is not holding a berry, this move will fail."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user draws power to attack by using its held\nBerry. The Berry determines the move’s type\nand power.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user draws power to attack by using its held\nBerry. The Berry determines the move’s type\nand power.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user draws power to attack by using\nits held Berry.\nThe Berry determines the move’s type and power.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user draws power to attack by using\nits held Berry.\nThe Berry determines the move’s type and power.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user draws power to attack by using\nits held Berry.\nThe Berry determines its type and power.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user draws power to attack by using\nits held Berry.\nThe Berry determines its type and power.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user draws power\nto attack by using\nits held Berry.\nThe Berry determines\nits type and power.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user draws power\nto attack by using\nits held Berry.\nThe Berry determines\nits type and power.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user draws power\nto attack by using\nits held Berry.\nThe Berry determines\nits type and power.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

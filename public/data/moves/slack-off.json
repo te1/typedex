@@ -1,0 +1,66 @@
+{
+  "id": 303,
+  "name": "slack-off",
+  "caption": "Slack Off",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Heals the user by half its max HP.",
+    "full": "Heals the user for half its max HP."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user slacks off, restoring its own HP by up to\nhalf of its max HP.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user slacks off, restoring its own HP by up to\nhalf of its max HP.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user slacks off, restoring its own HP\nby up to half of its max HP.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user slacks off, restoring its own HP\nby up to half of its max HP.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user slacks off, restoring its own HP\nby up to half of its maximum HP.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user slacks off, restoring its own HP\nby up to half of its maximum HP.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user slacks off,\nrestoring its own HP\nby up to half of its\nmaximum HP.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user slacks off,\nrestoring its own HP\nby up to half of its\nmaximum HP.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user slacks off,\nrestoring its own HP\nby up to half of its\nmaximum HP.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user slacks off\nand restores its HP\nby half its full\nHP.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Slacks off and restores\nhalf the maximum HP.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Slacks off and restores\nhalf the maximum HP.",
+      "versionGroup": "ruby-sapphire"
+    }
+  ]
+}

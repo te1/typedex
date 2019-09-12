@@ -1,0 +1,74 @@
+{
+  "id": 66,
+  "name": "submission",
+  "caption": "Submission",
+  "type": "fighting",
+  "damageClass": "physical",
+  "power": 80,
+  "accuracy": 80,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "User receives 1/4 the damage it inflicts in recoil.",
+    "full": "Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user grabs the target and recklessly dives for\nthe ground. This also damages the user a little.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user grabs the target and recklessly dives for\nthe ground. This also damages the user a little.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user grabs the target and recklessly\ndives for the ground. This also damages\nthe user a little.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user grabs the target and recklessly\ndives for the ground. This also damages\nthe user a little.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user grabs the target and recklessly\ndives for the ground. It also hurts the\nuser slightly.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user grabs the target and recklessly\ndives for the ground. It also hurts the\nuser slightly.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user grabs the\nfoe and recklessly\ndives for the ground.\nIt also hurts the\nuser slightly.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user grabs the\nfoe and recklessly\ndives for the ground.\nIt also hurts the\nuser slightly.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user grabs the\nfoe and recklessly\ndives for the ground.\nIt also hurts the\nuser slightly.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A reckless, full-\nbody throw attack\nthat also hurts the\nuser a little.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "A reckless body slam that\nalso hurts the user.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "A reckless body slam that\nalso hurts the user.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An attack that al­\nso hurts the user.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An attack that al­\nso hurts the user.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

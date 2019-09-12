@@ -1,0 +1,54 @@
+{
+  "id": 432,
+  "name": "defog",
+  "caption": "Defog",
+  "type": "flying",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Lowers the target's evasion by one stage.  Removes field effects from the enemy field.",
+    "full": "Lowers the target's evasion by one stage.  Clears away fog.  Removes the effects of mist, light screen, reflect, safeguard, spikes, stealth rock, and toxic spikes from the target's side of the field.\n\nIf the target is protected by mist, it will prevent the evasion change, then be removed by this move."
+  },
+  "flavorTexts": [
+    {
+      "text": "A strong wind blows away the target’s barriers such\nas Reflect or Light Screen. This also lowers the\ntarget’s evasiveness.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "A strong wind blows away the target’s barriers such\nas Reflect or Light Screen. This also lowers the\ntarget’s evasiveness.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "A strong wind blows away the target’s\nbarriers such as Reflect or Light Screen.\nThis also lowers the target’s evasiveness.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "A strong wind blows away the target’s\nbarriers such as Reflect or Light Screen.\nThis also lowers the target’s evasiveness.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "A strong wind blows away the target’s\nobstacles such as Reflect or Light Screen.\nIt also lowers the target’s evasiveness.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "A strong wind blows away the target’s\nobstacles such as Reflect or Light Screen.\nIt also lowers the target’s evasiveness.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "It reduces the foe’s\nevasion stat. It also\nremoves spikes,\nlight screens, etc.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "Obstacles are moved,\nreducing the foe’s\nevasion stat. It can\nalso be used to\nclear deep fog, etc.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "Obstacles are moved,\nreducing the foe’s\nevasion stat. It can\nalso be used to\nclear deep fog, etc.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

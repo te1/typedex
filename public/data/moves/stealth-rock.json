@@ -1,0 +1,54 @@
+{
+  "id": 446,
+  "name": "stealth-rock",
+  "caption": "Stealth Rock",
+  "type": "rock",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Causes damage when opposing Pokémon switch in.",
+    "full": "Spreads sharp rocks around the opposing field, damaging any Pokémon that enters the field for 1/8 its max HP.  This damage is affected by the entering Pokémon's susceptibility to rock moves.\n\nrapid spin removes this effect from its user's side of the field."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user lays a trap of levitating stones around the\nopposing team. The trap hurts opposing Pokémon\nthat switch into battle.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user lays a trap of levitating stones around the\nopposing team. The trap hurts opposing Pokémon\nthat switch into battle.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user lays a trap of levitating stones\naround the opposing team. The trap hurts\nopposing Pokémon that switch into battle.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user lays a trap of levitating stones\naround the opposing team. The trap hurts\nopposing Pokémon that switch into battle.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user lays a trap of levitating stones\naround the opponent’s team. The trap\nhurts opponents that switch into battle.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user lays a trap of levitating stones\naround the opponent’s team. The trap\nhurts opponents that switch into battle.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user lays a trap\nof levitating stones\naround the foe. The\ntrap hurts foes that\nswitch into battle.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user lays a trap\nof levitating stones\naround the foe. The\ntrap hurts foes that\nswitch into battle.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user lays a trap\nof levitating stones\naround the foe. The\ntrap hurts foes that\nswitch into battle.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 152,
+  "name": "crabhammer",
+  "caption": "Crabhammer",
+  "type": "water",
+  "damageClass": "physical",
+  "power": 100,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has an increased chance for a critical hit.",
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+  },
+  "flavorTexts": [
+    {
+      "text": "The target is hammered with a large pincer. Critical\nhits land more easily.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The target is hammered with a large pincer. Critical\nhits land more easily.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The target is hammered with a large pincer.\nCritical hits land more easily.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The target is hammered with a large pincer.\nCritical hits land more easily.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The target is hammered with a large pincer.\nCritical hits land more easily.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The target is hammered with a large pincer.\nCritical hits land more easily.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The foe is hammered\nwith a large pincer.\nThis move has a high\ncritical-hit ratio.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The foe is hammered\nwith a large pincer.\nThis move has a high\ncritical-hit ratio.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The foe is hammered\nwith a large pincer.\nThis move has a high\ncritical-hit ratio.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A large pincer is\nused to hammer the\nfoe. It has a high\ncritical-hit ratio.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Hammers with a pincer. Has a\nhigh critical-hit ratio.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Hammers with a pincer. Has a\nhigh critical-hit ratio.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Has a high criti­\ncal hit ratio.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Has a high criti­\ncal hit ratio.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

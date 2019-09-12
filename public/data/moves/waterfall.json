@@ -1,0 +1,74 @@
+{
+  "id": 127,
+  "name": "waterfall",
+  "caption": "Waterfall",
+  "type": "water",
+  "damageClass": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a $effect_chance% chance to make the target flinch.",
+    "full": "Inflicts regular damage.  Has a 20% chance to make the target flinch."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user charges at the target and may make\nit flinch.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user charges at the target and may make\nit flinch.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user charges at the target and may make it\nflinch. This can also be used to climb a waterfall.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user charges at the target and may make it\nflinch. This can also be used to climb a waterfall.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user charges at the target\nand may make it flinch.\nIt can also be used to climb a waterfall.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user charges at the target\nand may make it flinch.\nIt can also be used to climb a waterfall.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user charges at\nthe foe rapidly, and\nmay make it flinch.\nIt can also be used\nto climb a waterfall.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user charges the\nfoe at an awesome\nspeed.\nIt can also be used\nto climb a waterfall.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user charges the\nfoe at an awesome\nspeed.\nIt can also be used\nto climb a waterfall.",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "A powerful charge\nattack. It can also\nbe used to climb\na waterfall.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Charges the foe with speed\nto climb waterfalls.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Charges the foe with speed\nto climb waterfalls.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "An aquatic charge\nattack.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "An aquatic charge\nattack.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

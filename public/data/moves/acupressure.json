@@ -1,0 +1,54 @@
+{
+  "id": 367,
+  "name": "acupressure",
+  "caption": "Acupressure",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Raises one of a friendly Pokémon's stats at random by two stages.",
+    "full": "Raises one of the target's stats by two stages.  The raised stat is chosen at random from any stats that can be raised by two stages.  If no stat is eligible, this move will fail.\n\nIf the target has a substitute, this move will have no effect, even if the user is the target.\n\nThis move cannot be copied by mirror move."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user applies pressure to stress points, sharply\nboosting one of its or its allies’ stats.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user applies pressure to stress points, sharply\nboosting one of its or its allies’ stats.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user applies pressure to stress\npoints, sharply boosting one of its or\nits allies’ stats.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user applies pressure to stress\npoints, sharply boosting one of its or\nits allies’ stats.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user applies pressure to stress\npoints, sharply boosting one of\nits stats.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user applies pressure to stress\npoints, sharply boosting one of\nits stats.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user applies\npressure to stress\npoints, sharply\nboosting one of its\nstats.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user applies\npressure to stress\npoints, sharply\nboosting one of its\nstats.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user applies\npressure to stress\npoints, sharply\nboosting one of its\nstats.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

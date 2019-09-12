@@ -1,0 +1,26 @@
+{
+  "id": 700,
+  "name": "stoked-sparksurfer",
+  "caption": "Stoked Sparksurfer",
+  "type": "electric",
+  "damageClass": "special",
+  "power": 175,
+  "accuracy": null,
+  "pp": 1,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Has a $effect_chance% chance to paralyze the target.",
+    "full": "Inflicts regular damage.  Has a 100% chance to paralyze the target."
+  },
+  "flavorTexts": [
+    {
+      "text": "After obtaining Z-Power, the user, Alolan Raichu,\nattacks the target with full force. This move leaves\nthe target with paralysis.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "After obtaining Z-Power, the user, Alolan Raichu,\nattacks the target with full force. This move leaves\nthe target with paralysis.",
+      "versionGroup": "sun-moon"
+    }
+  ]
+}

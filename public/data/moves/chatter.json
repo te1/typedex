@@ -1,0 +1,54 @@
+{
+  "id": 448,
+  "name": "chatter",
+  "caption": "Chatter",
+  "type": "flying",
+  "damageClass": "special",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a higher chance to confuse the target when the recorded sound is louder.",
+    "full": "Inflicts regular damage.  Has either a 1%, 11%, or 31% chance to confuse the target, based on the volume of the recording made for this move; louder recordings increase the chance of confusion.  If the user is not a chatot, this move will not cause confusion.\n\nThis move cannot be copied by mimic, mirror move, or sketch, nor selected by assist, metronome, or sleep talk."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user attacks the target with sound waves of\ndeafening chatter. This confuses the target.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user attacks the target with sound waves of\ndeafening chatter. This confuses the target.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user attacks the target with\nsound waves of deafening chatter.\nThis confuses the target.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user attacks using a sound wave\nbased on words it has learned.\nThis confuses the target.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user attacks using a sound wave\nbased on words it has learned.\nIt may also confuse the target.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user attacks using a sound wave\nbased on words it has learned.\nIt may also confuse the target.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user attacks\nusing a sound wave\nbased on words it has\nlearned. It may also\nconfuse the foe.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user attacks\nusing a sound wave\nbased on words it has\nlearned. It may also\nconfuse the foe.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user attacks\nusing a sound wave\nbased on words it has\nlearned. It may also\nconfuse the foe.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}

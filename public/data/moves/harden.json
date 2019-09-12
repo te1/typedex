@@ -1,0 +1,74 @@
+{
+  "id": 106,
+  "name": "harden",
+  "caption": "Harden",
+  "type": "normal",
+  "damageClass": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Raises the user's Defense by one stage.",
+    "full": "Raises the user's Defense by one stage."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user stiffens all the muscles in its\nbody to raise its Defense stat.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user stiffens all the muscles in its\nbody to raise its Defense stat.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "The user stiffens all the muscles in its\nbody to raise its Defense stat.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "The user stiffens all the muscles in its\nbody to raise its Defense stat.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "The user stiffens all\nthe muscles in its\nbody to raise its\nDefense stat.\n",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "The user stiffens all\nthe muscles in its\nbody to raise its\nDefense stat.\n",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "The user stiffens all\nthe muscles in its\nbody to raise its\nDefense stat.\n",
+      "versionGroup": "diamond-pearl"
+    },
+    {
+      "text": "The user stiffens\nall the muscles in\nits body to raise\nits DEFENSE stat.",
+      "versionGroup": "firered-leafgreen"
+    },
+    {
+      "text": "Stiffens the body’s \nmuscles to raise DEFENSE.",
+      "versionGroup": "emerald"
+    },
+    {
+      "text": "Stiffens the body’s \nmuscles to raise DEFENSE.",
+      "versionGroup": "ruby-sapphire"
+    },
+    {
+      "text": "Raises the user's\nDEFENSE.",
+      "versionGroup": "crystal"
+    },
+    {
+      "text": "Raises the user's\nDEFENSE.",
+      "versionGroup": "gold-silver"
+    }
+  ]
+}

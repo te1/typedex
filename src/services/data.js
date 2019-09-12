@@ -8,7 +8,10 @@ export class Data {
     this.typesById = {};
 
     this.pokemon = {};
-    this.moves = {};
+
+    this.moves = [];
+    this.movesByName = {};
+    this.movesById = {};
   }
 
   async loadTypes() {
@@ -32,8 +35,8 @@ export class Data {
 
   async loadMoves() {
     this.moves = await api.loadMoves();
-
-    return this.moves;
+    this.movesByName = _.keyBy(this.moves, 'name');
+    this.movesById = _.keyBy(this.moves, 'id');
   }
 }
 

@@ -1,0 +1,34 @@
+{
+  "id": 566,
+  "name": "phantom-force",
+  "caption": "Phantom Force",
+  "type": "ghost",
+  "damageClass": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "User vanishes, dodging all attacks, and hits next turn.  Hits through Protect and Detect.",
+    "full": "Inflicts regular damage.  User vanishes for one turn, becoming immune to attack, and hits on the second turn.\n\nThis move ignores the effects of detect and protect.\n\nThis move cannot be selected by sleep talk."
+  },
+  "flavorTexts": [
+    {
+      "text": "The user vanishes somewhere, then strikes the\ntarget on the next turn. This move hits even if the\ntarget protects itself.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "The user vanishes somewhere, then strikes the\ntarget on the next turn. This move hits even if the\ntarget protects itself.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "The user vanishes somewhere, then strikes\nthe target on the next turn.\nThis move hits even if the target protects itself.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "The user vanishes somewhere, then strikes\nthe target on the next turn.\nThis move hits even if the target protects itself.",
+      "versionGroup": "x-y"
+    }
+  ]
+}

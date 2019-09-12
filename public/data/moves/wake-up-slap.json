@@ -1,0 +1,54 @@
+{
+  "id": 358,
+  "name": "wake-up-slap",
+  "caption": "Wake-Up Slap",
+  "type": "fighting",
+  "damageClass": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "If the target is asleep, has double power and wakes it up.",
+    "full": "Inflicts regular damage.  If the target is sleeping, this move has double power, and the target wakes up."
+  },
+  "flavorTexts": [
+    {
+      "text": "This attack inflicts big damage on a sleeping target.\nThis also wakes the target up, however.",
+      "versionGroup": "ultra-sun-ultra-moon"
+    },
+    {
+      "text": "This attack inflicts big damage on a sleeping target.\nThis also wakes the target up, however.",
+      "versionGroup": "sun-moon"
+    },
+    {
+      "text": "This attack inflicts big damage on a\nsleeping target. This also wakes the target\nup, however.",
+      "versionGroup": "omega-ruby-alpha-sapphire"
+    },
+    {
+      "text": "This attack inflicts big damage on a\nsleeping target. This also wakes the target\nup, however.",
+      "versionGroup": "x-y"
+    },
+    {
+      "text": "This attack inflicts big damage on a\nsleeping target. It also wakes the target\nup, however.",
+      "versionGroup": "black-2-white-2"
+    },
+    {
+      "text": "This attack inflicts big damage on a\nsleeping target. It also wakes the target\nup, however.",
+      "versionGroup": "black-white"
+    },
+    {
+      "text": "This attack inflicts\nhigh damage on a\nsleeping foe. It\nalso wakes the foe\nup, however.",
+      "versionGroup": "heartgold-soulsilver"
+    },
+    {
+      "text": "This attack inflicts\nhigh damage on a\nsleeping foe. It\nalso wakes the foe\nup, however.",
+      "versionGroup": "platinum"
+    },
+    {
+      "text": "This attack inflicts\nhigh damage on a\nsleeping foe. It\nalso wakes the foe\nup, however.",
+      "versionGroup": "diamond-pearl"
+    }
+  ]
+}
