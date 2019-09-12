@@ -51,13 +51,13 @@
       },
 
       fallback() {
-        let type = this.resolvedType ? this.resolvedType.name : this.type;
+        let type = this.resolvedType;
 
-        if (_.includes(_.map(data.types, 'name'), type)) {
+        if (_.includes(_.map(data.types, 'name'), type.name)) {
           return null;
         }
 
-        switch (type) {
+        switch (type.name) {
           case 'none':
             return 'times';
 
@@ -83,11 +83,11 @@
       svg() {
         let html = this.svgs[this.resolvedType.name];
 
-        if (this.width != null) {
+        if (html && this.width != null) {
           html = html.replace(/^<svg/, `<svg width="${this.width}"`);
         }
 
-        if (this.height != null) {
+        if (html && this.height != null) {
           html = html.replace(/^<svg/, `<svg height="${this.height}"`);
         }
 

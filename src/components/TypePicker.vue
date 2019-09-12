@@ -116,7 +116,7 @@
       },
 
       types() {
-        let result = data.types;
+        let result = _.clone(data.types);
 
         if (this.resolvedExclude) {
           result = _.reject(result, item => item === this.resolvedExclude);

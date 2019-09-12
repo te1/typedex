@@ -1,7 +1,5 @@
 <template>
-  <div class="flex flex-col">
-    <app-heading class="mb-2">Moves</app-heading>
-
+  <div>
     <move-list class="-mx-2" />
   </div>
 </template>

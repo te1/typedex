@@ -7,7 +7,7 @@
     :title="title"
   >
     <type-icon
-      :type="type"
+      :type="resolvedType"
       :width="16"
       :height="16"
       class="p-1"

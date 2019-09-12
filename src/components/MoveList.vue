@@ -1,10 +1,27 @@
 <template>
-  <div>
+  <div class="-mx-2">
+    <div>
+      <div class="box-heading mx-2">Filter</div>
+
+      <div class="box p-2 mb-4">
+        <type-picker
+          v-model="filter.type"
+          :allow-clear="true"
+          :show-none="true"
+        >
+          Type
+        </type-picker>
+      </div>
+    </div>
+
+    <app-heading class="mb-2">Moves</app-heading>
+
     <dynamic-scroller
-      :items="moves"
+      :items="filteredMoves"
       :min-item-size="50"
       key-field="id"
       class="h-full"
+      style="z-index: -1;"
     >
       <template v-slot="{ item, index, active }">
         <dynamic-scroller-item
@@ -43,20 +60,39 @@
 </template>
 
 <script>
+  import _ from 'lodash';
   import data from '../services/data';
+  import TypePicker from './TypePicker';
   import TypeLabel from './TypeLabel';
 
   export default {
     name: 'MoveList',
 
     components: {
+      TypePicker,
       TypeLabel,
     },
 
     data() {
       return {
         moves: data.moves,
+        filter: {
+          type: null,
+        },
       };
+    },
+
+    computed: {
+      filteredMoves() {
+        let filter = this.filter;
+        let result = this.moves;
+
+        if (filter.type != null) {
+          result = _.filter(result, { type: filter.type.name });
+        }
+
+        return result;
+      },
     },
   };
 </script>
