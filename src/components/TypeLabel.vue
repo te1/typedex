@@ -1,5 +1,6 @@
 <template>
   <div
+    v-if="resolvedType"
     class="flex items-center text-white"
     :class="classes"
     :style="styles"
@@ -95,7 +96,7 @@
       styles() {
         let result = {};
 
-        if (!this.active) {
+        if (!this.active && this.resolvedType != null) {
           result.backgroundColor = this.resolvedType.color;
         }
 
@@ -103,7 +104,7 @@
       },
 
       title() {
-        if (this.showText) {
+        if (this.showText || this.resolvedType == null) {
           return;
         }
         return this.resolvedType.caption;
