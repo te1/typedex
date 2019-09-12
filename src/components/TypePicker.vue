@@ -116,7 +116,7 @@
       },
 
       types() {
-        let result = _.values(data.types);
+        let result = data.types;
 
         if (this.resolvedExclude) {
           result = _.reject(result, item => item === this.resolvedExclude);

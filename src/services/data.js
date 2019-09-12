@@ -3,22 +3,23 @@ import api from './api';
 
 export class Data {
   constructor() {
-    this.types = {};
+    this.types = [];
+    this.typesByName = {};
+    this.typesById = {};
+
     this.pokemon = {};
     this.moves = {};
   }
 
   async loadTypes() {
-    let types = await api.loadTypes();
-
-    this.types = _.keyBy(types, 'name');
-
-    return this.types;
+    this.types = await api.loadTypes();
+    this.typesByName = _.keyBy(this.types, 'name');
+    this.typesById = _.keyBy(this.types, 'id');
   }
 
   getType(type) {
     if (typeof type === 'string') {
-      return this.types[type];
+      return this.typesByName[type];
     }
     return type;
   }

@@ -23,7 +23,7 @@
       <type-damage-list
         :data="damageDone.strong"
         heading="It's super effective!"
-        info="strong"
+        info="Strong"
         info-color="green"
         info-icon="arrow-up"
       />
@@ -31,7 +31,7 @@
       <type-damage-list
         :data="damageDone.weak"
         heading="It's not very effective..."
-        info="weak"
+        info="Weak"
         info-color="orange"
         info-icon="arrow-down"
       />
@@ -39,7 +39,7 @@
       <type-damage-list
         :data="damageDone.immune"
         heading="It has no effect"
-        info="immune"
+        info="Immune"
         info-color="red"
         info-icon="ban"
       />

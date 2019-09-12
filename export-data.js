@@ -46,62 +46,60 @@ async function exportTypes() {
   }
 
   function getTypeColor(typeName) {
-    // http://www.epidemicjohto.com/t882-type-colors-hex-colors
-
     switch (typeName) {
       case 'normal':
-        return '#a8a77a';
+        return '#9a9da1';
 
       case 'fire':
-        return '#ee8130';
+        return '#f8a54f';
 
       case 'water':
-        return '#6390f0';
+        return '#559edf';
 
       case 'electric':
-        return '#f7d02c';
+        return '#edd53f';
 
       case 'grass':
-        return '#7ac74c';
+        return '#5dbe62';
 
       case 'ice':
-        return '#96d9d6';
+        return '#7ed4c9';
 
       case 'fighting':
-        return '#c22e28';
+        return '#d94256';
 
       case 'poison':
-        return '#a33ea1';
+        return '#b563ce';
 
       case 'ground':
-        return '#e2bf65';
+        return '#d78555';
 
       case 'flying':
-        return '#a98ff3';
+        return '#9bb4e8';
 
       case 'psychic':
-        return '#f95587';
+        return '#f87c7a';
 
       case 'bug':
-        return '#a6b91a';
+        return '#9dc130';
 
       case 'rock':
-        return '#b6a136';
+        return '#cec18c';
 
       case 'ghost':
-        return '#735797';
+        return '#6970c5';
 
       case 'dragon':
-        return '#6f35fc';
+        return '#0773c7';
 
       case 'dark':
-        return '#705746';
+        return '#5f606d';
 
       case 'steel':
-        return '#b7b7ce';
+        return '#5596a4';
 
       case 'fairy':
-        return '#d685ad';
+        return '#ef97e6';
 
       default:
         return '#999999';
@@ -138,7 +136,7 @@ async function exportTypes() {
     ];
 
     return {
-      // id: type.id,
+      id: type.id,
       name: type.name,
       caption,
       color: getTypeColor(type.name),

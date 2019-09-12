@@ -5,9 +5,12 @@
     :style="styles"
     :title="title"
   >
-    <div class="px-1 w-8 text-center">
-      <fa-icon :icon="icon" />
-    </div>
+    <type-icon
+      :type="type"
+      :width="16"
+      :height="16"
+      class="p-1"
+    />
     <div
       v-if="showText"
       class="-ml-2 px-2 w-24 flex-1 text-center uppercase font-semibold tracking-wider"
@@ -19,9 +22,14 @@
 
 <script>
   import data from '../services/data';
+  import TypeIcon from '../components/TypeIcon';
 
   export default {
     name: 'TypeLabel',
+
+    components: {
+      TypeIcon,
+    },
 
     props: {
       type: {
@@ -99,70 +107,6 @@
           return;
         }
         return this.resolvedType.caption;
-      },
-
-      icon() {
-        switch (this.resolvedType.name) {
-          case 'none':
-            return 'times';
-
-          case 'bug':
-            return 'bug';
-
-          case 'dark':
-            return 'moon';
-
-          case 'dragon':
-            return 'dragon';
-
-          case 'electric':
-            return 'bolt';
-
-          case 'fairy':
-            return 'hat-wizard';
-
-          case 'fighting':
-            return 'fist-raised';
-
-          case 'fire':
-            return 'fire';
-
-          case 'flying':
-            return 'dove';
-
-          case 'ghost':
-            return 'ghost';
-
-          case 'grass':
-            return 'seedling';
-
-          case 'ground':
-            return 'mountain';
-
-          case 'ice':
-            return 'snowflake';
-
-          case 'normal':
-            return 'circle';
-
-          case 'poison':
-            return 'skull';
-
-          case 'psychic':
-            return 'eye';
-
-          case 'rock':
-            return 'gem';
-
-          case 'steel':
-            return 'weight-hanging';
-
-          case 'water':
-            return 'tint';
-
-          default:
-            return 'question';
-        }
       },
     },
   };
