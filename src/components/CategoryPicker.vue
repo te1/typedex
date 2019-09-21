@@ -1,0 +1,149 @@
+<template>
+  <div class="flex items-center justify-between">
+    <div
+      v-if="$slots.default"
+      class="flex-1 cursor-pointer select-none"
+      @click="toggle"
+    >
+      <slot />
+    </div>
+
+    <div
+      class="h-8 flex items-center"
+      @click="toggle"
+    >
+      <category-label
+        v-if="category"
+        :category="category"
+        :interactive="true"
+      />
+      <div v-else>
+        <div v-if="showNone && allowClear">
+          <category-label
+            category="none"
+            :interactive="true"
+          />
+        </div>
+        <div
+          v-else
+          class="cursor-pointer select-none italic text-gray-500"
+        >
+          Select a category...
+        </div>
+      </div>
+    </div>
+
+    <app-modal v-model="open">
+      <div slot="header">
+        Select Category
+      </div>
+
+      <div class="-my-4 overflow-hidden">
+        <category-label
+          v-for="item in categories"
+          :key="item.name"
+          :category="item"
+          :interactive="true"
+          :active="category === item"
+          class="my-4"
+          @click.native="select(item)"
+        />
+      </div>
+
+      <div
+        slot="footer"
+        class="btn-link text-center"
+        @click="close"
+      >
+        Cancel
+      </div>
+    </app-modal>
+  </div>
+</template>
+
+<script>
+  import _ from 'lodash';
+  import data from '../services/data';
+  import AppModal from '../components/AppModal';
+  import CategoryLabel from './CategoryLabel';
+
+  export default {
+    name: 'CategoryPicker',
+
+    components: {
+      AppModal,
+      CategoryLabel,
+    },
+
+    props: {
+      value: {
+        type: Object,
+        default: null,
+      },
+
+      allowClear: {
+        type: Boolean,
+        default: false,
+      },
+
+      showNone: {
+        type: Boolean,
+        default: false,
+      },
+    },
+
+    data() {
+      return {
+        open: false,
+        category: this.value,
+      };
+    },
+
+    computed: {
+      categories() {
+        let result = _.clone(data.categories);
+
+        if (this.showNone) {
+          result.unshift('none');
+        }
+
+        return result;
+      },
+    },
+
+    watch: {
+      value(newValue) {
+        this.category = newValue;
+      },
+
+      category() {
+        this.$emit('input', this.category);
+      },
+    },
+
+    methods: {
+      toggle() {
+        this.open = !this.open;
+      },
+
+      close() {
+        this.open = false;
+      },
+
+      select(category) {
+        this.open = false;
+
+        if (
+          this.allowClear &&
+          (this.category === category || category === 'none')
+        ) {
+          this.category = null;
+        } else {
+          this.category = category;
+        }
+
+        this.$emit('select', this.category);
+      },
+    },
+  };
+</script>

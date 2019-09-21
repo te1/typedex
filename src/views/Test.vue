@@ -157,6 +157,27 @@
         allowClear + showNone
       </type-picker>
     </div>
+
+    CategoryPicker <span v-if="category">{{ category.caption }}</span>
+    <div class="box p-1 mb-2">
+      <category-picker v-model="category" />
+      <category-picker v-model="category">With Label</category-picker>
+      <category-picker
+        v-model="category"
+        allow-clear
+      >allowClear</category-picker>
+      <category-picker
+        v-model="category"
+        show-none
+      >showNone</category-picker>
+      <category-picker
+        v-model="category"
+        allow-clear
+        show-none
+      >
+        allowClear + showNone
+      </category-picker>
+    </div>
   </div>
 </template>
 
@@ -167,6 +188,7 @@
   import TypeLabel from '../components/TypeLabel';
   import CategoryLabel from '../components/CategoryLabel';
   import TypePicker from '../components/TypePicker';
+  import CategoryPicker from '../components/CategoryPicker';
 
   export default {
     components: {
@@ -175,11 +197,13 @@
       TypeLabel,
       CategoryLabel,
       TypePicker,
+      CategoryPicker,
     },
 
     data() {
       return {
         type: null,
+        category: null,
         water: data.getType('water'),
         special: data.getCategory('special'),
       };

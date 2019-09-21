@@ -61,7 +61,13 @@
           return null;
         }
 
-        return 'question';
+        switch (category.name) {
+          case 'none':
+            return 'times';
+
+          default:
+            return 'question';
+        }
       },
 
       fallbackStyles() {
