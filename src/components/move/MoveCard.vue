@@ -25,11 +25,11 @@
         class="flex items-baseline justify-between leading-tight"
       >
         <template v-if="resolvedMove[stat.prop]">
-          <div class="w-16 text-sm">
+          <div class="w-12 mr-1 text-xs">
             {{ stat.caption }}
           </div>
 
-          <div class="w-8 font-semibold tracking-wider">
+          <div class="text-sm font-semibold tracking-wider">
             {{ resolvedMove[stat.prop] }}
           </div>
         </template>
