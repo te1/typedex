@@ -9,6 +9,9 @@ async function exportMoves(source, target) {
 
   console.log(`processing ${moves.length} moves...`);
 
+  // skip Shadow moves
+  moves = _.reject(moves, move => move.type.name === 'shadow');
+
   let caption, isZMove;
 
   moves = _.map(moves, move => {
