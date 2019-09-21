@@ -72,6 +72,22 @@ function getTypeColor(typeName) {
   }
 }
 
+function getCategoryColor(categoryName) {
+  switch (categoryName) {
+    case 'physical':
+      return '#d76753';
+
+    case 'special':
+      return '#6483b6';
+
+    case 'status':
+      return '#b8b1a2';
+
+    default:
+      return '#999999';
+  }
+}
+
 async function exportTypes(source, target) {
   console.log('loading types...');
 
@@ -114,9 +130,42 @@ async function exportTypes(source, target) {
 
   types = _.orderBy(types, 'name');
 
-  console.log(`writing ${types.length} types...`);
+  console.log('loading categories...');
 
-  await utils.exportData(path.join(target, 'types.json'), types);
+  let categories = await utils.loadData(path.join(source, 'move-damage-class'));
+
+  console.log(`processing ${categories.length} categories...`);
+
+  let description;
+
+  categories = _.map(categories, category => {
+    caption = _.find(category.names, { language: { name: 'en' } });
+    caption = caption ? _.upperFirst(caption.name) : null;
+
+    description = _.find(category.descriptions, { language: { name: 'en' } });
+    description = description ? description.description : null;
+
+    return {
+      id: category.id,
+      name: category.name,
+      caption,
+      description,
+      color: getCategoryColor(category.name),
+    };
+  });
+
+  categories = _.orderBy(categories, 'name');
+
+  let data = {
+    types,
+    categories,
+  };
+
+  console.log(
+    `writing ${types.length} types, ${categories.length} categories...`
+  );
+
+  await utils.exportData(path.join(target, 'types.json'), data);
 
   console.log('done\n');
 }
