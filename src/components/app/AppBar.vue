@@ -33,7 +33,7 @@
         -->
 
         <router-link
-          to="/moves"
+          to="/move"
           class="nav-link px-2"
         >
           Moves
