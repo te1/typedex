@@ -7,6 +7,7 @@ export class Data {
     this.typesByName = {};
     this.typesById = {};
     this.typeNone = {};
+    this.typeAll = {};
 
     this.categories = [];
     this.categoriesByName = {};
@@ -33,6 +34,12 @@ export class Data {
       color: '#444',
     };
 
+    this.typeAll = {
+      name: 'all',
+      caption: 'All',
+      color: '#444',
+    };
+
     this.categories = data.categories;
     this.categoriesByName = _.keyBy(this.categories, 'name');
     this.categoriesById = _.keyBy(this.categories, 'id');
@@ -49,6 +56,9 @@ export class Data {
       switch (type) {
         case 'none':
           return this.typeNone;
+
+        case 'all':
+          return this.typeAll;
 
         default:
           return this.typesByName[type];

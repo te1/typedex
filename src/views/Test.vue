@@ -1,5 +1,6 @@
 <template>
   <div>
+    <!-- TypeIcon ------------------------------>
     TypeIcon
     <div class="box flex p-1 mb-2 text-green-600">
       <type-icon
@@ -21,6 +22,12 @@
       />
 
       <type-icon
+        type="all"
+        :width="40"
+        :height="40"
+      />
+
+      <type-icon
         :type="{}"
         :width="40"
         :height="40"
@@ -33,6 +40,7 @@
       />
     </div>
 
+    <!-- CategoryIcon -------------------------->
     CategoryIcon
     <div class="box flex p-1 mb-2 text-purple-600">
       <category-icon
@@ -54,6 +62,12 @@
       />
 
       <category-icon
+        category="all"
+        :width="40"
+        :height="40"
+      />
+
+      <category-icon
         :category="{}"
         :width="40"
         :height="40"
@@ -66,27 +80,37 @@
       />
     </div>
 
+    <!-- TypeLabel ----------------------------->
     TypeLabel
     <div class="box p-1 mb-2">
       <type-label type="fire" />
+
       <type-label :type="water" />
+
       <type-label :type="{}" />
+
       <type-label type="none" />
+
       <type-label
         type="bug"
         interactive
       />
+
       <type-label
         type="grass"
         active
       />
+
       <type-label
         type="dark"
         hide-text
       />
+
       <div class="flex">
         <type-label type="dragon" />
+
         <div class="flex-1" />
+
         <type-label
           type="electric"
           hide-text
@@ -94,26 +118,35 @@
       </div>
     </div>
 
+    <!-- CategoryLabel ------------------------->
     CategoryLabel
     <div class="box p-1 mb-2">
       <category-label category="physical" />
+
       <category-label :category="special" />
+
       <category-label :category="{}" />
+
       <category-label
         category="status"
         interactive
       />
+
       <category-label
         category="status"
         active
       />
+
       <category-label
         category="physical"
         hide-text
       />
+
       <div class="flex">
         <category-label category="physical" />
+
         <div class="flex-1" />
+
         <category-label
           category="special"
           hide-text
@@ -121,46 +154,65 @@
       </div>
     </div>
 
-    TypePicker <span v-if="type">{{ type.caption }}</span>
+    <!-- TypePicker ---------------------------->
+    TypePicker
+
+    <span v-if="type">{{ type.caption }}</span>
+
     <div class="box p-1 mb-2">
       <type-picker v-model="type" />
+
       <type-picker v-model="type">With Label</type-picker>
+
       <type-picker
         v-model="type"
         exclude="fire"
       >
         exclude String
       </type-picker>
+
       <type-picker
         v-model="type"
         :exclude="water"
       >
         exclude Object
       </type-picker>
+
       <type-picker
         v-model="type"
         :exclude="null"
       >
         exclude null
       </type-picker>
+
       <type-picker
         v-model="type"
         exclude="fail"
       >
         exclude fail
       </type-picker>
+
       <type-picker
         v-model="type"
         allow-clear
       >
         allowClear
       </type-picker>
+
       <type-picker
         v-model="type"
         show-none
       >
         showNone
       </type-picker>
+
+      <type-picker
+        v-model="type"
+        show-all
+      >
+        showAll
+      </type-picker>
+
       <type-picker
         v-model="type"
         allow-clear
@@ -168,24 +220,40 @@
       >
         allowClear + showNone
       </type-picker>
+
+      <type-picker
+        v-model="type"
+        allow-clear
+        show-all
+      >
+        allowClear + showAll
+      </type-picker>
     </div>
 
-    CategoryPicker <span v-if="category">{{ category.caption }}</span>
+    <!-- CategoryPicker ------------------------>
+    CategoryPicker
+
+    <span v-if="category">{{ category.caption }}</span>
+
     <div class="box p-1 mb-2">
       <category-picker v-model="category" />
+
       <category-picker v-model="category">With Label</category-picker>
+
       <category-picker
         v-model="category"
         allow-clear
       >
         allowClear
       </category-picker>
+
       <category-picker
         v-model="category"
         show-all
       >
         showAll
       </category-picker>
+
       <category-picker
         v-model="category"
         allow-clear

@@ -24,6 +24,12 @@
             :interactive="true"
           />
         </div>
+        <div v-else-if="showAll && allowClear">
+          <type-label
+            type="all"
+            :interactive="true"
+          />
+        </div>
         <div
           v-else
           class="cursor-pointer select-none italic text-gray-500"
@@ -49,7 +55,7 @@
             :key="item.name"
             :type="item"
             :interactive="true"
-            :active="type === item"
+            :active="isActive(item)"
             class="mr-4 overflow-hidden"
             @click.native="select(item)"
           />
@@ -97,6 +103,11 @@
         default: false,
       },
 
+      showAll: {
+        type: Boolean,
+        default: false,
+      },
+
       exclude: {
         type: [Object, String],
         default: null,
@@ -126,6 +137,10 @@
           result.unshift('none');
         }
 
+        if (this.showAll) {
+          result.unshift('all');
+        }
+
         return result;
       },
 
@@ -153,11 +168,25 @@
         this.open = false;
       },
 
+      isActive(type) {
+        return (
+          this.type === type ||
+          (this.type == null && type === 'none') ||
+          (this.type == null && type === 'all')
+        );
+      },
+
       select(type) {
         this.open = false;
 
-        if (this.allowClear && (this.type === type || type === 'none')) {
-          this.type = null;
+        let shouldClear = this.type === type || type === 'none' || type === 'all';
+
+        if (shouldClear) {
+          if (this.allowClear) {
+            this.type = null;
+          } else {
+            return;
+          }
         } else {
           this.type = type;
         }

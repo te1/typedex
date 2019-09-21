@@ -65,6 +65,9 @@
           case 'none':
             return 'times';
 
+          case 'all':
+            return ['far', 'square'];
+
           default:
             return 'question';
         }

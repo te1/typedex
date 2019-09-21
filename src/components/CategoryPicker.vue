@@ -140,11 +140,14 @@
       select(category) {
         this.open = false;
 
-        if (
-          this.allowClear &&
-          (this.category === category || category === 'all')
-        ) {
-          this.category = null;
+        let shouldClear = this.category === category || category === 'all';
+
+        if (shouldClear) {
+          if (this.allowClear) {
+            this.category = null;
+          } else {
+            return;
+          }
         } else {
           this.category = category;
         }
