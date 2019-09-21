@@ -52,8 +52,8 @@
 <script>
   import _ from 'lodash';
   import data from '../services/data';
-  import PokemonPicker from '../components/PokemonPicker';
-  import TypePicker from '../components/TypePicker';
+  import PokemonPicker from '../components/pokemon/PokemonPicker';
+  import TypePicker from '../components/type/TypePicker';
 
   export default {
     name: 'Pokemon',

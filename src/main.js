@@ -1,7 +1,7 @@
 import Vue from 'vue';
-import VueVirtualScroller from 'vue-virtual-scroller';
+// import VueVirtualScroller from 'vue-virtual-scroller';
 import App from './App';
-import AppHeading from './components/AppHeading';
+import AppHeading from './components/app/AppHeading';
 import router from './router';
 import './fontawesome';
 // import './registerServiceWorker';

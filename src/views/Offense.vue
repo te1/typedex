@@ -25,9 +25,8 @@
 
 <script>
   import data from '../services/data';
-  import TypePicker from '../components/TypePicker';
-  import TypeDamageList from '../components/TypeDamageList';
-  import DamageDone from '../components/DamageDone';
+  import TypePicker from '../components/type/TypePicker';
+  import DamageDone from '../components/damage/DamageDone';
 
   export default {
     name: 'Offense',

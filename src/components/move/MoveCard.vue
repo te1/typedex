@@ -40,9 +40,9 @@
 
 <script>
   import fuzzysort from 'fuzzysort';
-  import data from '../services/data';
-  import TypeLabel from './TypeLabel';
-  import CategoryLabel from './CategoryLabel';
+  import data from '../../services/data';
+  import TypeLabel from '../type/TypeLabel';
+  import CategoryLabel from '../type/CategoryLabel';
 
   export default {
     name: 'MoveCard',
@@ -81,7 +81,7 @@
       },
 
       caption() {
-        if (this.fuzzyResult) {
+        if (this.fuzzyResult && this.fuzzyResult.target) {
           return fuzzysort.highlight(
             this.fuzzyResult,
             '<span class="bg-gray-300 text-gray-600 rounded">',

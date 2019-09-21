@@ -16,7 +16,7 @@
 </template>
 
 <script>
-  import AppBar from './components/AppBar';
+  import AppBar from './components/app/AppBar';
   import cache from './services/cache';
   import api from './services/api';
   import data from './services/data';

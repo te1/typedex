@@ -1,13 +1,13 @@
 <template>
   <div
-    v-if="resolvedType"
+    v-if="resolvedCategory"
     class="flex items-center rounded text-white"
     :class="classes"
     :style="styles"
     :title="title"
   >
-    <type-icon
-      :type="resolvedType"
+    <category-icon
+      :category="resolvedCategory"
       :width="24"
       :height="24"
       class="p-1"
@@ -16,24 +16,24 @@
       v-if="!hideText"
       class="-ml-2 px-2 w-24 flex-1 text-center uppercase font-semibold tracking-wider"
     >
-      {{ resolvedType.caption }}
+      {{ resolvedCategory.caption }}
     </div>
   </div>
 </template>
 
 <script>
-  import data from '../services/data';
-  import TypeIcon from '../components/TypeIcon';
+  import data from '../../services/data';
+  import CategoryIcon from './CategoryIcon';
 
   export default {
-    name: 'TypeLabel',
+    name: 'CategoryLabel',
 
     components: {
-      TypeIcon,
+      CategoryIcon,
     },
 
     props: {
-      type: {
+      category: {
         type: [Object, String],
         required: true,
       },
@@ -55,8 +55,8 @@
     },
 
     computed: {
-      resolvedType() {
-        return data.getType(this.type);
+      resolvedCategory() {
+        return data.getCategory(this.category);
       },
 
       classes() {
@@ -77,18 +77,18 @@
       styles() {
         let result = {};
 
-        if (!this.active && this.resolvedType != null) {
-          result.backgroundColor = this.resolvedType.color;
+        if (!this.active && this.resolvedCategory != null) {
+          result.backgroundColor = this.resolvedCategory.color;
         }
 
         return result;
       },
 
       title() {
-        if (!this.hideText || this.resolvedType == null) {
+        if (!this.hideText || this.resolvedCategory == null) {
           return;
         }
-        return this.resolvedType.caption;
+        return this.resolvedCategory.caption;
       },
     },
   };

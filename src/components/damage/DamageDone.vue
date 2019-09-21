@@ -2,7 +2,7 @@
   <div>
     <app-heading class="mb-2">Damage Done</app-heading>
 
-    <type-damage-list
+    <damage-list
       :data="damageDone.strong"
       heading="It's super effective!"
       info="Strong"
@@ -10,7 +10,7 @@
       info-icon="arrow-up"
     />
 
-    <type-damage-list
+    <damage-list
       :data="damageDone.weak"
       heading="It's not very effective..."
       info="Weak"
@@ -18,7 +18,7 @@
       info-icon="arrow-down"
     />
 
-    <type-damage-list
+    <damage-list
       :data="damageDone.immune"
       heading="It has no effect"
       info="Immune"
@@ -30,14 +30,14 @@
 
 <script>
   import _ from 'lodash';
-  import data from '../services/data';
-  import TypeDamageList from './TypeDamageList';
+  import data from '../../services/data';
+  import DamageList from './DamageList';
 
   export default {
     name: 'DamageDone',
 
     components: {
-      TypeDamageList,
+      DamageList,
     },
 
     props: {

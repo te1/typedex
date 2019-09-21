@@ -15,7 +15,7 @@
 </template>
 
 <script>
-  import data from '../services/data';
+  import data from '../../services/data';
 
   export default {
     name: 'MovePicker',

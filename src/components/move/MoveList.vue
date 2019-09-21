@@ -93,9 +93,9 @@
 <script>
   import _ from 'lodash';
   import fuzzysort from 'fuzzysort';
-  import data from '../services/data';
-  import TypePicker from './TypePicker';
-  import CategoryPicker from './CategoryPicker';
+  import data from '../../services/data';
+  import TypePicker from '../type/TypePicker';
+  import CategoryPicker from '../type/CategoryPicker';
   import MoveCard from './MoveCard';
 
   export default {

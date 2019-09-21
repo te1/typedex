@@ -63,8 +63,8 @@
 
 <script>
   import _ from 'lodash';
-  import data from '../services/data';
-  import AppModal from '../components/AppModal';
+  import data from '../../services/data';
+  import AppModal from '../app/AppModal';
   import CategoryLabel from './CategoryLabel';
 
   export default {

@@ -75,8 +75,8 @@
 
 <script>
   import _ from 'lodash';
-  import data from '../services/data';
-  import AppModal from '../components/AppModal';
+  import data from '../../services/data';
+  import AppModal from '../app/AppModal';
   import TypeLabel from './TypeLabel';
 
   export default {

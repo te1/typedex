@@ -37,8 +37,8 @@
 <script>
   import _ from 'lodash';
   import data from '../services/data';
-  import TypePicker from '../components/TypePicker';
-  import DamageTaken from '../components/DamageTaken';
+  import TypePicker from '../components/type/TypePicker';
+  import DamageTaken from '../components/damage/DamageTaken';
 
   export default {
     name: 'Defense',

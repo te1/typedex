@@ -17,7 +17,7 @@
 
 <script>
   import _ from 'lodash';
-  import data from '../services/data';
+  import data from '../../services/data';
 
   export default {
     name: 'CategoryIcon',
@@ -103,7 +103,7 @@
       _.forEach(data.categories, category => {
         this.svgs[
           category.name
-        ] = require(`!!raw-loader!../assets/categories/${category.name}.svg`).default;
+        ] = require(`!!raw-loader!../../assets/categories/${category.name}.svg`).default;
       });
     },
   };

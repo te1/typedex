@@ -17,7 +17,7 @@
 
 <script>
   import _ from 'lodash';
-  import data from '../services/data';
+  import data from '../../services/data';
 
   export default {
     name: 'TypeIcon',
@@ -106,7 +106,7 @@
       _.forEach(data.types, type => {
         this.svgs[
           type.name
-        ] = require(`!!raw-loader!../assets/types/${type.name}.svg`).default;
+        ] = require(`!!raw-loader!../../assets/types/${type.name}.svg`).default;
       });
     },
   };

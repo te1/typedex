@@ -38,11 +38,11 @@
 </template>
 
 <script>
-  import data from '../services/data';
-  import TypeLabel from './TypeLabel';
+  import data from '../../services/data';
+  import TypeLabel from '../type/TypeLabel';
 
   export default {
-    name: 'TypeDamageList',
+    name: 'DamageList',
 
     components: {
       TypeLabel,

@@ -5,7 +5,7 @@
 </template>
 
 <script>
-  import MoveList from '../components/MoveList';
+  import MoveList from '../components/move/MoveList';
 
   export default {
     name: 'Moves',

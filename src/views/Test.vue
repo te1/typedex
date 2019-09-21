@@ -267,12 +267,12 @@
 
 <script>
   import data from '../services/data';
-  import TypeIcon from '../components/TypeIcon';
-  import CategoryIcon from '../components/CategoryIcon';
-  import TypeLabel from '../components/TypeLabel';
-  import CategoryLabel from '../components/CategoryLabel';
-  import TypePicker from '../components/TypePicker';
-  import CategoryPicker from '../components/CategoryPicker';
+  import TypeIcon from '../components/type/TypeIcon';
+  import CategoryIcon from '../components/type/CategoryIcon';
+  import TypeLabel from '../components/type/TypeLabel';
+  import CategoryLabel from '../components/type/CategoryLabel';
+  import TypePicker from '../components/type/TypePicker';
+  import CategoryPicker from '../components/type/CategoryPicker';
 
   export default {
     components: {
