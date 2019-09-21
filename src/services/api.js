@@ -33,7 +33,7 @@ export class Api {
   async loadMoves() {
     let data = await this._load('moves/index.json', 'moves');
 
-    // to reduce file size falsy values are ommited during export
+    // to reduce file size null/false values are ommited during export
     // to allow easy filtering they are restored here
     data = _.map(data, item => {
       return _.defaults(item, {

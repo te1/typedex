@@ -36,8 +36,7 @@ async function exportMoves(source, target) {
       };
     });
 
-    isZMove =
-      _.endsWith(move.name, '--physical') || _.endsWith(move.name, '--special');
+    isZMove = move.pp === 1;
 
     return {
       id: move.id,
