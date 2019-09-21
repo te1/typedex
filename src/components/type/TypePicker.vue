@@ -17,6 +17,7 @@
         v-if="type"
         :type="type"
         interactive
+        class="w-full"
       />
       <div
         v-else

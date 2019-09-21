@@ -3,6 +3,10 @@ import api from './api';
 
 export class Data {
   constructor() {
+    this.generations = [];
+    this.generationsByName = {};
+    this.generationsById = {};
+
     this.types = [];
     this.typesByName = {};
     this.typesById = {};
@@ -18,7 +22,22 @@ export class Data {
     this.movesByName = {};
     this.movesById = {};
 
+    this.moveDetails = {};
+
     // this.pokemon = {};
+  }
+
+  async loadGenerations() {
+    this.generations = await api.loadGenerations();
+    this.generationsByName = _.keyBy(this.generations, 'name');
+    this.generationsById = _.keyBy(this.generations, 'id');
+  }
+
+  getGeneration(generation) {
+    if (typeof generation === 'string') {
+      return this.generationsByName[generation];
+    }
+    return generation;
   }
 
   async loadTypes() {
@@ -91,6 +110,16 @@ export class Data {
       return this.movesByName[move];
     }
     return move;
+  }
+
+  async getMoveDetails(move) {
+    if (typeof move === 'object') {
+      move = move.name;
+    }
+
+    this.moveDetails[move] = await api.loadMoveDetails(move);
+
+    return this.moveDetails[move];
   }
 
   async loadPokemon() {

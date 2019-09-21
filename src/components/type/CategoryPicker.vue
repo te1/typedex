@@ -17,6 +17,7 @@
         v-if="category"
         :category="category"
         interactive
+        class="w-full"
       />
       <div
         v-else

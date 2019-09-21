@@ -1,7 +1,7 @@
 <template>
   <div
     v-if="resolvedCategory"
-    class="flex w-full items-center rounded text-white"
+    class="flex items-center rounded text-white"
     :class="classes"
     :style="styles"
     :title="title"
