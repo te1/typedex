@@ -6,7 +6,8 @@
     "type": "electric",
     "damageCategory": "special",
     "power": 195,
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 71,
@@ -795,7 +796,8 @@
     "type": "electric",
     "damageCategory": "physical",
     "power": 210,
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 606,
@@ -889,7 +891,8 @@
     "type": "dragon",
     "damageCategory": "special",
     "power": 185,
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 499,
@@ -1738,7 +1741,8 @@
     "caption": "Extreme Evoboost",
     "type": "normal",
     "damageCategory": "status",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 245,
@@ -2301,7 +2305,8 @@
     "type": "psychic",
     "damageCategory": "special",
     "power": 185,
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 601,
@@ -2459,7 +2464,8 @@
     "caption": "Guardian of Alola",
     "type": "fairy",
     "damageCategory": "special",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 12,
@@ -3252,7 +3258,8 @@
     "type": "fairy",
     "damageCategory": "physical",
     "power": 190,
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 122,
@@ -3289,7 +3296,8 @@
     "type": "psychic",
     "damageCategory": "special",
     "power": 200,
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 710,
@@ -3459,7 +3467,8 @@
     "type": "dark",
     "damageCategory": "physical",
     "power": 180,
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 561,
@@ -3549,7 +3558,8 @@
     "type": "ghost",
     "damageCategory": "special",
     "power": 200,
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 368,
@@ -3940,7 +3950,8 @@
     "type": "water",
     "damageCategory": "special",
     "power": 195,
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 190,
@@ -4462,7 +4473,8 @@
     "type": "normal",
     "damageCategory": "physical",
     "power": 210,
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 386,
@@ -4976,7 +4988,8 @@
     "type": "steel",
     "damageCategory": "physical",
     "power": 200,
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 290,
@@ -5219,7 +5232,8 @@
     "type": "ghost",
     "damageCategory": "physical",
     "power": 180,
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 166,
@@ -5227,7 +5241,8 @@
     "caption": "Sketch",
     "type": "normal",
     "damageCategory": "status",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 285,
@@ -5481,7 +5496,8 @@
     "type": "ghost",
     "damageCategory": "physical",
     "power": 195,
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 460,
@@ -5608,7 +5624,8 @@
     "type": "rock",
     "damageCategory": "physical",
     "power": 190,
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 147,
@@ -5688,7 +5705,8 @@
     "type": "electric",
     "damageCategory": "special",
     "power": 175,
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 23,
@@ -5775,7 +5793,8 @@
     "type": "normal",
     "damageCategory": "physical",
     "power": 50,
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 522,
