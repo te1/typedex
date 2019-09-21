@@ -11,7 +11,7 @@ export class Data {
     this.categories = [];
     this.categoriesByName = {};
     this.categoriesById = {};
-    this.categoryNone = {};
+    this.categoryAll = {};
 
     this.moves = [];
     this.movesByName = {};
@@ -37,9 +37,9 @@ export class Data {
     this.categoriesByName = _.keyBy(this.categories, 'name');
     this.categoriesById = _.keyBy(this.categories, 'id');
 
-    this.categoryNone = {
-      name: 'none',
-      caption: 'None',
+    this.categoryAll = {
+      name: 'all',
+      caption: 'All',
       color: '#444',
     };
   }
@@ -60,8 +60,8 @@ export class Data {
   getCategory(category) {
     if (typeof category === 'string') {
       switch (category) {
-        case 'none':
-          return this.categoryNone;
+        case 'all':
+          return this.categoryAll;
 
         default:
           return this.categoriesByName[category];

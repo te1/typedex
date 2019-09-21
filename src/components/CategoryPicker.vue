@@ -18,9 +18,9 @@
         :interactive="true"
       />
       <div v-else>
-        <div v-if="showNone && allowClear">
+        <div v-if="showAll && allowClear">
           <category-label
-            category="none"
+            category="all"
             :interactive="true"
           />
         </div>
@@ -44,7 +44,7 @@
           :key="item.name"
           :category="item"
           :interactive="true"
-          :active="category === item"
+          :active="isActive(item)"
           class="my-4"
           @click.native="select(item)"
         />
@@ -86,7 +86,7 @@
         default: false,
       },
 
-      showNone: {
+      showAll: {
         type: Boolean,
         default: false,
       },
@@ -103,8 +103,8 @@
       categories() {
         let result = _.clone(data.categories);
 
-        if (this.showNone) {
-          result.unshift('none');
+        if (this.showAll) {
+          result.unshift('all');
         }
 
         return result;
@@ -130,12 +130,19 @@
         this.open = false;
       },
 
+      isActive(category) {
+        return (
+          this.category === category ||
+          (this.category == null && category === 'all')
+        );
+      },
+
       select(category) {
         this.open = false;
 
         if (
           this.allowClear &&
-          (this.category === category || category === 'none')
+          (this.category === category || category === 'all')
         ) {
           this.category = null;
         } else {

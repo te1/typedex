@@ -128,27 +128,39 @@
       <type-picker
         v-model="type"
         exclude="fire"
-      >exclude String</type-picker>
+      >
+        exclude String
+      </type-picker>
       <type-picker
         v-model="type"
         :exclude="water"
-      >exclude Object</type-picker>
+      >
+        exclude Object
+      </type-picker>
       <type-picker
         v-model="type"
         :exclude="null"
-      >exclude null</type-picker>
+      >
+        exclude null
+      </type-picker>
       <type-picker
         v-model="type"
         exclude="fail"
-      >exclude fail</type-picker>
+      >
+        exclude fail
+      </type-picker>
       <type-picker
         v-model="type"
         allow-clear
-      >allowClear</type-picker>
+      >
+        allowClear
+      </type-picker>
       <type-picker
         v-model="type"
         show-none
-      >showNone</type-picker>
+      >
+        showNone
+      </type-picker>
       <type-picker
         v-model="type"
         allow-clear
@@ -165,17 +177,21 @@
       <category-picker
         v-model="category"
         allow-clear
-      >allowClear</category-picker>
+      >
+        allowClear
+      </category-picker>
       <category-picker
         v-model="category"
-        show-none
-      >showNone</category-picker>
+        show-all
+      >
+        showAll
+      </category-picker>
       <category-picker
         v-model="category"
         allow-clear
-        show-none
+        show-all
       >
-        allowClear + showNone
+        allowClear + showAll
       </category-picker>
     </div>
   </div>

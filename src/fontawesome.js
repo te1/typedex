@@ -8,7 +8,9 @@ import {
   faArrowDown,
   faBan,
 } from '@fortawesome/free-solid-svg-icons';
+import { faSquare } from '@fortawesome/free-regular-svg-icons';
 
 library.add(faQuestion, faTimes, faArrowUp, faArrowDown, faBan);
+library.add(faSquare);
 
 Vue.component('fa-icon', FontAwesomeIcon);
