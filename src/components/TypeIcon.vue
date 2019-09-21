@@ -53,6 +53,10 @@
       fallback() {
         let type = this.resolvedType;
 
+        if (!type) {
+          return 'question';
+        }
+
         if (_.includes(_.map(data.types, 'name'), type.name)) {
           return null;
         }

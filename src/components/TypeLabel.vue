@@ -1,7 +1,7 @@
 <template>
   <div
     v-if="resolvedType"
-    class="flex items-center text-white"
+    class="flex items-center rounded text-white"
     :class="classes"
     :style="styles"
     :title="title"
@@ -13,7 +13,7 @@
       class="p-1"
     />
     <div
-      v-if="showText"
+      v-if="!hideText"
       class="-ml-2 px-2 w-24 flex-1 text-center uppercase font-semibold tracking-wider"
     >
       {{ resolvedType.caption }}
@@ -48,12 +48,7 @@
         default: false,
       },
 
-      showText: {
-        type: Boolean,
-        default: true,
-      },
-
-      hasFactor: {
+      hideText: {
         type: Boolean,
         default: false,
       },
@@ -66,12 +61,6 @@
 
       classes() {
         let result = [];
-
-        if (this.hasFactor) {
-          result.push('rounded-l');
-        } else {
-          result.push('rounded');
-        }
 
         if (this.active) {
           result.push('shadow bg-gray-300 text-gray-700');
@@ -96,7 +85,7 @@
       },
 
       title() {
-        if (this.showText || this.resolvedType == null) {
+        if (!this.hideText || this.resolvedType == null) {
           return;
         }
         return this.resolvedType.caption;
