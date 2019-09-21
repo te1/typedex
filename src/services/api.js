@@ -7,14 +7,21 @@ const cacheFor = 60 * 60 * 8; // 8 hours in seconds
 export class Api {
   constructor() {
     this.types = [];
-    this.pokemon = {};
+    this.categories = [];
     this.moves = [];
+    // this.pokemon = {};
   }
 
   async loadTypes() {
-    this.types = await this._load('types.json', 'types');
+    let data = await this._load('types.json', 'types');
 
-    return this.types;
+    this.types = data.types;
+    this.categories = data.categories;
+
+    return {
+      types: this.types,
+      categories: this.categories,
+    };
   }
 
   async loadPokemon() {

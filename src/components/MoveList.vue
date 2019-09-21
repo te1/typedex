@@ -40,7 +40,7 @@
               />
               <type-label
                 class="mx-1"
-                :type="item.damageClass"
+                :type="item.damageCategory"
               />
               <div v-if="item.power != null">
                 Pwr {{ item.power }}

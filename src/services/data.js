@@ -7,19 +7,22 @@ export class Data {
     this.typesByName = {};
     this.typesById = {};
     this.typeNone = {};
-    this.typePhysical = {};
-    this.typeSpecial = {};
-    this.typeStatus = {};
 
-    this.pokemon = {};
+    this.categories = [];
+    this.categoriesByName = {};
+    this.categoriesById = {};
 
     this.moves = [];
     this.movesByName = {};
     this.movesById = {};
+
+    // this.pokemon = {};
   }
 
   async loadTypes() {
-    this.types = await api.loadTypes();
+    let data = await api.loadTypes();
+
+    this.types = data.types;
     this.typesByName = _.keyBy(this.types, 'name');
     this.typesById = _.keyBy(this.types, 'id');
 
@@ -29,23 +32,9 @@ export class Data {
       color: '#444',
     };
 
-    this.typePhysical = {
-      name: 'physical',
-      caption: 'Physical',
-      color: '#666',
-    };
-
-    this.typeSpecial = {
-      name: 'special',
-      caption: 'Special',
-      color: '#777',
-    };
-
-    this.typeStatus = {
-      name: 'status',
-      caption: 'Status',
-      color: '#888',
-    };
+    this.categories = data.categories;
+    this.categoriesByName = _.keyBy(this.categories, 'name');
+    this.categoriesById = _.keyBy(this.categories, 'id');
   }
 
   getType(type) {
@@ -54,15 +43,6 @@ export class Data {
         case 'none':
           return this.typeNone;
 
-        case 'physical':
-          return this.typePhysical;
-
-        case 'special':
-          return this.typeSpecial;
-
-        case 'status':
-          return this.typeStatus;
-
         default:
           return this.typesByName[type];
       }
@@ -70,16 +50,23 @@ export class Data {
     return type;
   }
 
-  async loadPokemon() {
-    this.pokemon = await api.loadPokemon();
-
-    return this.pokemon;
+  getCategory(category) {
+    if (typeof category === 'string') {
+      return this.categoriesByName[category];
+    }
+    return category;
   }
 
   async loadMoves() {
     this.moves = await api.loadMoves();
     this.movesByName = _.keyBy(this.moves, 'name');
     this.movesById = _.keyBy(this.moves, 'id');
+  }
+
+  async loadPokemon() {
+    this.pokemon = await api.loadPokemon();
+
+    return this.pokemon;
   }
 }
 
