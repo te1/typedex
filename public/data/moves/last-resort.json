@@ -3,7 +3,7 @@
   "name": "last-resort",
   "caption": "Last Resort",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 140,
   "accuracy": 100,
   "pp": 5,

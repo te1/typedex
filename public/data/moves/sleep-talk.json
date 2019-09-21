@@ -3,7 +3,7 @@
   "name": "sleep-talk",
   "caption": "Sleep Talk",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

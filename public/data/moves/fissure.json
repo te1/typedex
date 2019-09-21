@@ -3,7 +3,7 @@
   "name": "fissure",
   "caption": "Fissure",
   "type": "ground",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": 30,
   "pp": 5,

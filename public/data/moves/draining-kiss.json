@@ -3,7 +3,7 @@
   "name": "draining-kiss",
   "caption": "Draining Kiss",
   "type": "fairy",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 50,
   "accuracy": 100,
   "pp": 10,

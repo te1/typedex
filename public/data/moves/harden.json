@@ -3,7 +3,7 @@
   "name": "harden",
   "caption": "Harden",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 30,

@@ -3,7 +3,7 @@
   "name": "facade",
   "caption": "Facade",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 70,
   "accuracy": 100,
   "pp": 20,

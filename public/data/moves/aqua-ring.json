@@ -3,7 +3,7 @@
   "name": "aqua-ring",
   "caption": "Aqua Ring",
   "type": "water",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

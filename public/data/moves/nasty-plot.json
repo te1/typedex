@@ -3,7 +3,7 @@
   "name": "nasty-plot",
   "caption": "Nasty Plot",
   "type": "dark",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

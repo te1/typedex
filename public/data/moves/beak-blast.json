@@ -3,7 +3,7 @@
   "name": "beak-blast",
   "caption": "Beak Blast",
   "type": "flying",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 100,
   "accuracy": 100,
   "pp": 15,

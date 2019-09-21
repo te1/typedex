@@ -3,7 +3,7 @@
   "name": "malicious-moonsault",
   "caption": "Malicious Moonsault",
   "type": "dark",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 180,
   "accuracy": null,
   "pp": 1,

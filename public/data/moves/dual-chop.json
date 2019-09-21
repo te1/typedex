@@ -3,7 +3,7 @@
   "name": "dual-chop",
   "caption": "Dual Chop",
   "type": "dragon",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 40,
   "accuracy": 90,
   "pp": 15,

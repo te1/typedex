@@ -3,7 +3,7 @@
   "name": "rock-throw",
   "caption": "Rock Throw",
   "type": "rock",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 50,
   "accuracy": 90,
   "pp": 15,

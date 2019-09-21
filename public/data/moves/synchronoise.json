@@ -3,7 +3,7 @@
   "name": "synchronoise",
   "caption": "Synchronoise",
   "type": "psychic",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 120,
   "accuracy": 100,
   "pp": 10,

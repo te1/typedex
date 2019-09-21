@@ -3,7 +3,7 @@
   "name": "meditate",
   "caption": "Meditate",
   "type": "psychic",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 40,

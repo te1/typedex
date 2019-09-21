@@ -3,7 +3,7 @@
   "name": "howl",
   "caption": "Howl",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 40,

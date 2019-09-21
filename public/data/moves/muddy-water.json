@@ -3,7 +3,7 @@
   "name": "muddy-water",
   "caption": "Muddy Water",
   "type": "water",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 90,
   "accuracy": 85,
   "pp": 10,

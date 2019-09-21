@@ -3,7 +3,7 @@
   "name": "odor-sleuth",
   "caption": "Odor Sleuth",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 40,

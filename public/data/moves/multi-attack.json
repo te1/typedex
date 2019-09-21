@@ -3,7 +3,7 @@
   "name": "multi-attack",
   "caption": "Multi-Attack",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 90,
   "accuracy": 100,
   "pp": 10,

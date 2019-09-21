@@ -3,7 +3,7 @@
   "name": "water-pledge",
   "caption": "Water Pledge",
   "type": "water",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 80,
   "accuracy": 100,
   "pp": 10,

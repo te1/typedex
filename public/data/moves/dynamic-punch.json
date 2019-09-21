@@ -3,7 +3,7 @@
   "name": "dynamic-punch",
   "caption": "Dynamic Punch",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 100,
   "accuracy": 50,
   "pp": 5,

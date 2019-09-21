@@ -3,7 +3,7 @@
   "name": "astonish",
   "caption": "Astonish",
   "type": "ghost",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 30,
   "accuracy": 100,
   "pp": 15,

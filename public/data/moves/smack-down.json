@@ -3,7 +3,7 @@
   "name": "smack-down",
   "caption": "Smack Down",
   "type": "rock",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 50,
   "accuracy": 100,
   "pp": 15,

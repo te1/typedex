@@ -3,7 +3,7 @@
   "name": "acrobatics",
   "caption": "Acrobatics",
   "type": "flying",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 55,
   "accuracy": 100,
   "pp": 15,

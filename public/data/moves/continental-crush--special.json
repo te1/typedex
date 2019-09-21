@@ -3,7 +3,7 @@
   "name": "continental-crush--special",
   "caption": "Continental Crush",
   "type": "rock",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": null,
   "pp": 1,

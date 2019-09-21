@@ -3,7 +3,7 @@
   "name": "blue-flare",
   "caption": "Blue Flare",
   "type": "fire",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 130,
   "accuracy": 85,
   "pp": 5,

@@ -3,7 +3,7 @@
   "name": "shadow-sky",
   "caption": "Shadow Sky",
   "type": "shadow",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": null,

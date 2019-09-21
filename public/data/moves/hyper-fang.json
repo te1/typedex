@@ -3,7 +3,7 @@
   "name": "hyper-fang",
   "caption": "Hyper Fang",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 80,
   "accuracy": 90,
   "pp": 15,

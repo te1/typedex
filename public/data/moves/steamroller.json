@@ -3,7 +3,7 @@
   "name": "steamroller",
   "caption": "Steamroller",
   "type": "bug",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 65,
   "accuracy": 100,
   "pp": 20,

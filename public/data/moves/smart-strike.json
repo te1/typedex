@@ -3,7 +3,7 @@
   "name": "smart-strike",
   "caption": "Smart Strike",
   "type": "steel",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 70,
   "accuracy": null,
   "pp": 10,

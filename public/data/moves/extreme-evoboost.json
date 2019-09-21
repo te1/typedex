@@ -3,7 +3,7 @@
   "name": "extreme-evoboost",
   "caption": "Extreme Evoboost",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 1,

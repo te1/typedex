@@ -3,7 +3,7 @@
   "name": "wrap",
   "caption": "Wrap",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 15,
   "accuracy": 90,
   "pp": 20,

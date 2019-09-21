@@ -3,7 +3,7 @@
   "name": "brine",
   "caption": "Brine",
   "type": "water",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 65,
   "accuracy": 100,
   "pp": 10,

@@ -3,7 +3,7 @@
   "name": "power-whip",
   "caption": "Power Whip",
   "type": "grass",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 120,
   "accuracy": 85,
   "pp": 10,

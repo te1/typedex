@@ -3,7 +3,7 @@
   "name": "confusion",
   "caption": "Confusion",
   "type": "psychic",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 50,
   "accuracy": 100,
   "pp": 25,

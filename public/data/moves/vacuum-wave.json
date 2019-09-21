@@ -3,7 +3,7 @@
   "name": "vacuum-wave",
   "caption": "Vacuum Wave",
   "type": "fighting",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 40,
   "accuracy": 100,
   "pp": 30,

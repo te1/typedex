@@ -1,1142 +1,1167 @@
-[
-  {
-    "id": 7,
-    "name": "bug",
-    "caption": "Bug",
-    "color": "#9dc130",
-    "damageTaken": [
-      {
-        "type": "flying",
-        "factor": 2
-      },
-      {
-        "type": "rock",
-        "factor": 2
-      },
-      {
-        "type": "fire",
-        "factor": 2
-      },
-      {
-        "type": "fighting",
-        "factor": 0.5
-      },
-      {
-        "type": "ground",
-        "factor": 0.5
-      },
-      {
-        "type": "grass",
-        "factor": 0.5
-      }
-    ],
-    "damageDone": [
-      {
-        "type": "grass",
-        "factor": 2
-      },
-      {
-        "type": "psychic",
-        "factor": 2
-      },
-      {
-        "type": "dark",
-        "factor": 2
-      },
-      {
-        "type": "fighting",
-        "factor": 0.5
-      },
-      {
-        "type": "flying",
-        "factor": 0.5
-      },
-      {
-        "type": "poison",
-        "factor": 0.5
-      },
-      {
-        "type": "ghost",
-        "factor": 0.5
-      },
-      {
-        "type": "steel",
-        "factor": 0.5
-      },
-      {
-        "type": "fire",
-        "factor": 0.5
-      },
-      {
-        "type": "fairy",
-        "factor": 0.5
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "name": "dark",
-    "caption": "Dark",
-    "color": "#5f606d",
-    "damageTaken": [
-      {
-        "type": "fighting",
-        "factor": 2
-      },
-      {
-        "type": "bug",
-        "factor": 2
-      },
-      {
-        "type": "fairy",
-        "factor": 2
-      },
-      {
-        "type": "ghost",
-        "factor": 0.5
-      },
-      {
-        "type": "dark",
-        "factor": 0.5
-      },
-      {
-        "type": "psychic",
-        "factor": 0
-      }
-    ],
-    "damageDone": [
-      {
-        "type": "ghost",
-        "factor": 2
-      },
-      {
-        "type": "psychic",
-        "factor": 2
-      },
-      {
-        "type": "fighting",
-        "factor": 0.5
-      },
-      {
-        "type": "dark",
-        "factor": 0.5
-      },
-      {
-        "type": "fairy",
-        "factor": 0.5
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "name": "dragon",
-    "caption": "Dragon",
-    "color": "#0773c7",
-    "damageTaken": [
-      {
-        "type": "ice",
-        "factor": 2
-      },
-      {
-        "type": "dragon",
-        "factor": 2
-      },
-      {
-        "type": "fairy",
-        "factor": 2
-      },
-      {
-        "type": "fire",
-        "factor": 0.5
-      },
-      {
-        "type": "water",
-        "factor": 0.5
-      },
-      {
-        "type": "grass",
-        "factor": 0.5
-      },
-      {
-        "type": "electric",
-        "factor": 0.5
-      }
-    ],
-    "damageDone": [
-      {
-        "type": "dragon",
-        "factor": 2
-      },
-      {
-        "type": "steel",
-        "factor": 0.5
-      },
-      {
-        "type": "fairy",
-        "factor": 0
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "name": "electric",
-    "caption": "Electric",
-    "color": "#edd53f",
-    "damageTaken": [
-      {
-        "type": "ground",
-        "factor": 2
-      },
-      {
-        "type": "flying",
-        "factor": 0.5
-      },
-      {
-        "type": "steel",
-        "factor": 0.5
-      },
-      {
-        "type": "electric",
-        "factor": 0.5
-      }
-    ],
-    "damageDone": [
-      {
-        "type": "flying",
-        "factor": 2
-      },
-      {
-        "type": "water",
-        "factor": 2
-      },
-      {
-        "type": "grass",
-        "factor": 0.5
-      },
-      {
-        "type": "electric",
-        "factor": 0.5
-      },
-      {
-        "type": "dragon",
-        "factor": 0.5
-      },
-      {
-        "type": "ground",
-        "factor": 0
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "name": "fairy",
-    "caption": "Fairy",
-    "color": "#ef97e6",
-    "damageTaken": [
-      {
-        "type": "poison",
-        "factor": 2
-      },
-      {
-        "type": "steel",
-        "factor": 2
-      },
-      {
-        "type": "fighting",
-        "factor": 0.5
-      },
-      {
-        "type": "bug",
-        "factor": 0.5
-      },
-      {
-        "type": "dark",
-        "factor": 0.5
-      },
-      {
-        "type": "dragon",
-        "factor": 0
-      }
-    ],
-    "damageDone": [
-      {
-        "type": "fighting",
-        "factor": 2
-      },
-      {
-        "type": "dragon",
-        "factor": 2
-      },
-      {
-        "type": "dark",
-        "factor": 2
-      },
-      {
-        "type": "poison",
-        "factor": 0.5
-      },
-      {
-        "type": "steel",
-        "factor": 0.5
-      },
-      {
-        "type": "fire",
-        "factor": 0.5
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "name": "fighting",
-    "caption": "Fighting",
-    "color": "#d94256",
-    "damageTaken": [
-      {
-        "type": "flying",
-        "factor": 2
-      },
-      {
-        "type": "psychic",
-        "factor": 2
-      },
-      {
-        "type": "fairy",
-        "factor": 2
-      },
-      {
-        "type": "rock",
-        "factor": 0.5
-      },
-      {
-        "type": "bug",
-        "factor": 0.5
-      },
-      {
-        "type": "dark",
-        "factor": 0.5
-      }
-    ],
-    "damageDone": [
-      {
-        "type": "normal",
-        "factor": 2
-      },
-      {
-        "type": "rock",
-        "factor": 2
-      },
-      {
-        "type": "steel",
-        "factor": 2
-      },
-      {
-        "type": "ice",
-        "factor": 2
-      },
-      {
-        "type": "dark",
-        "factor": 2
-      },
-      {
-        "type": "flying",
-        "factor": 0.5
-      },
-      {
-        "type": "poison",
-        "factor": 0.5
-      },
-      {
-        "type": "bug",
-        "factor": 0.5
-      },
-      {
-        "type": "psychic",
-        "factor": 0.5
-      },
-      {
-        "type": "fairy",
-        "factor": 0.5
-      },
-      {
-        "type": "ghost",
-        "factor": 0
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "name": "fire",
-    "caption": "Fire",
-    "color": "#f8a54f",
-    "damageTaken": [
-      {
-        "type": "ground",
-        "factor": 2
-      },
-      {
-        "type": "rock",
-        "factor": 2
-      },
-      {
-        "type": "water",
-        "factor": 2
-      },
-      {
-        "type": "bug",
-        "factor": 0.5
-      },
-      {
-        "type": "steel",
-        "factor": 0.5
-      },
-      {
-        "type": "fire",
-        "factor": 0.5
-      },
-      {
-        "type": "grass",
-        "factor": 0.5
-      },
-      {
-        "type": "ice",
-        "factor": 0.5
-      },
-      {
-        "type": "fairy",
-        "factor": 0.5
-      }
-    ],
-    "damageDone": [
-      {
-        "type": "bug",
-        "factor": 2
-      },
-      {
-        "type": "steel",
-        "factor": 2
-      },
-      {
-        "type": "grass",
-        "factor": 2
-      },
-      {
-        "type": "ice",
-        "factor": 2
-      },
-      {
-        "type": "rock",
-        "factor": 0.5
-      },
-      {
-        "type": "fire",
-        "factor": 0.5
-      },
-      {
-        "type": "water",
-        "factor": 0.5
-      },
-      {
-        "type": "dragon",
-        "factor": 0.5
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "name": "flying",
-    "caption": "Flying",
-    "color": "#9bb4e8",
-    "damageTaken": [
-      {
-        "type": "rock",
-        "factor": 2
-      },
-      {
-        "type": "electric",
-        "factor": 2
-      },
-      {
-        "type": "ice",
-        "factor": 2
-      },
-      {
-        "type": "fighting",
-        "factor": 0.5
-      },
-      {
-        "type": "bug",
-        "factor": 0.5
-      },
-      {
-        "type": "grass",
-        "factor": 0.5
-      },
-      {
-        "type": "ground",
-        "factor": 0
-      }
-    ],
-    "damageDone": [
-      {
-        "type": "fighting",
-        "factor": 2
-      },
-      {
-        "type": "bug",
-        "factor": 2
-      },
-      {
-        "type": "grass",
-        "factor": 2
-      },
-      {
-        "type": "rock",
-        "factor": 0.5
-      },
-      {
-        "type": "steel",
-        "factor": 0.5
-      },
-      {
-        "type": "electric",
-        "factor": 0.5
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "name": "ghost",
-    "caption": "Ghost",
-    "color": "#6970c5",
-    "damageTaken": [
-      {
-        "type": "ghost",
-        "factor": 2
-      },
-      {
-        "type": "dark",
-        "factor": 2
-      },
-      {
-        "type": "poison",
-        "factor": 0.5
-      },
-      {
-        "type": "bug",
-        "factor": 0.5
-      },
-      {
-        "type": "normal",
-        "factor": 0
-      },
-      {
-        "type": "fighting",
-        "factor": 0
-      }
-    ],
-    "damageDone": [
-      {
-        "type": "ghost",
-        "factor": 2
-      },
-      {
-        "type": "psychic",
-        "factor": 2
-      },
-      {
-        "type": "dark",
-        "factor": 0.5
-      },
-      {
-        "type": "normal",
-        "factor": 0
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "name": "grass",
-    "caption": "Grass",
-    "color": "#5dbe62",
-    "damageTaken": [
-      {
-        "type": "flying",
-        "factor": 2
-      },
-      {
-        "type": "poison",
-        "factor": 2
-      },
-      {
-        "type": "bug",
-        "factor": 2
-      },
-      {
-        "type": "fire",
-        "factor": 2
-      },
-      {
-        "type": "ice",
-        "factor": 2
-      },
-      {
-        "type": "ground",
-        "factor": 0.5
-      },
-      {
-        "type": "water",
-        "factor": 0.5
-      },
-      {
-        "type": "grass",
-        "factor": 0.5
-      },
-      {
-        "type": "electric",
-        "factor": 0.5
-      }
-    ],
-    "damageDone": [
-      {
-        "type": "ground",
-        "factor": 2
-      },
-      {
-        "type": "rock",
-        "factor": 2
-      },
-      {
-        "type": "water",
-        "factor": 2
-      },
-      {
-        "type": "flying",
-        "factor": 0.5
-      },
-      {
-        "type": "poison",
-        "factor": 0.5
-      },
-      {
-        "type": "bug",
-        "factor": 0.5
-      },
-      {
-        "type": "steel",
-        "factor": 0.5
-      },
-      {
-        "type": "fire",
-        "factor": 0.5
-      },
-      {
-        "type": "grass",
-        "factor": 0.5
-      },
-      {
-        "type": "dragon",
-        "factor": 0.5
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "name": "ground",
-    "caption": "Ground",
-    "color": "#d78555",
-    "damageTaken": [
-      {
-        "type": "water",
-        "factor": 2
-      },
-      {
-        "type": "grass",
-        "factor": 2
-      },
-      {
-        "type": "ice",
-        "factor": 2
-      },
-      {
-        "type": "poison",
-        "factor": 0.5
-      },
-      {
-        "type": "rock",
-        "factor": 0.5
-      },
-      {
-        "type": "electric",
-        "factor": 0
-      }
-    ],
-    "damageDone": [
-      {
-        "type": "poison",
-        "factor": 2
-      },
-      {
-        "type": "rock",
-        "factor": 2
-      },
-      {
-        "type": "steel",
-        "factor": 2
-      },
-      {
-        "type": "fire",
-        "factor": 2
-      },
-      {
-        "type": "electric",
-        "factor": 2
-      },
-      {
-        "type": "bug",
-        "factor": 0.5
-      },
-      {
-        "type": "grass",
-        "factor": 0.5
-      },
-      {
-        "type": "flying",
-        "factor": 0
-      }
-    ]
-  },
-  {
-    "id": 15,
-    "name": "ice",
-    "caption": "Ice",
-    "color": "#7ed4c9",
-    "damageTaken": [
-      {
-        "type": "fighting",
-        "factor": 2
-      },
-      {
-        "type": "rock",
-        "factor": 2
-      },
-      {
-        "type": "steel",
-        "factor": 2
-      },
-      {
-        "type": "fire",
-        "factor": 2
-      },
-      {
-        "type": "ice",
-        "factor": 0.5
-      }
-    ],
-    "damageDone": [
-      {
-        "type": "flying",
-        "factor": 2
-      },
-      {
-        "type": "ground",
-        "factor": 2
-      },
-      {
-        "type": "grass",
-        "factor": 2
-      },
-      {
-        "type": "dragon",
-        "factor": 2
-      },
-      {
-        "type": "steel",
-        "factor": 0.5
-      },
-      {
-        "type": "fire",
-        "factor": 0.5
-      },
-      {
-        "type": "water",
-        "factor": 0.5
-      },
-      {
-        "type": "ice",
-        "factor": 0.5
-      }
-    ]
-  },
-  {
-    "id": 1,
-    "name": "normal",
-    "caption": "Normal",
-    "color": "#9a9da1",
-    "damageTaken": [
-      {
-        "type": "fighting",
-        "factor": 2
-      },
-      {
-        "type": "ghost",
-        "factor": 0
-      }
-    ],
-    "damageDone": [
-      {
-        "type": "rock",
-        "factor": 0.5
-      },
-      {
-        "type": "steel",
-        "factor": 0.5
-      },
-      {
-        "type": "ghost",
-        "factor": 0
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "name": "poison",
-    "caption": "Poison",
-    "color": "#b563ce",
-    "damageTaken": [
-      {
-        "type": "ground",
-        "factor": 2
-      },
-      {
-        "type": "psychic",
-        "factor": 2
-      },
-      {
-        "type": "fighting",
-        "factor": 0.5
-      },
-      {
-        "type": "poison",
-        "factor": 0.5
-      },
-      {
-        "type": "bug",
-        "factor": 0.5
-      },
-      {
-        "type": "grass",
-        "factor": 0.5
-      },
-      {
-        "type": "fairy",
-        "factor": 0.5
-      }
-    ],
-    "damageDone": [
-      {
-        "type": "grass",
-        "factor": 2
-      },
-      {
-        "type": "fairy",
-        "factor": 2
-      },
-      {
-        "type": "poison",
-        "factor": 0.5
-      },
-      {
-        "type": "ground",
-        "factor": 0.5
-      },
-      {
-        "type": "rock",
-        "factor": 0.5
-      },
-      {
-        "type": "ghost",
-        "factor": 0.5
-      },
-      {
-        "type": "steel",
-        "factor": 0
-      }
-    ]
-  },
-  {
-    "id": 14,
-    "name": "psychic",
-    "caption": "Psychic",
-    "color": "#f87c7a",
-    "damageTaken": [
-      {
-        "type": "bug",
-        "factor": 2
-      },
-      {
-        "type": "ghost",
-        "factor": 2
-      },
-      {
-        "type": "dark",
-        "factor": 2
-      },
-      {
-        "type": "fighting",
-        "factor": 0.5
-      },
-      {
-        "type": "psychic",
-        "factor": 0.5
-      }
-    ],
-    "damageDone": [
-      {
-        "type": "fighting",
-        "factor": 2
-      },
-      {
-        "type": "poison",
-        "factor": 2
-      },
-      {
-        "type": "steel",
-        "factor": 0.5
-      },
-      {
-        "type": "psychic",
-        "factor": 0.5
-      },
-      {
-        "type": "dark",
-        "factor": 0
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "name": "rock",
-    "caption": "Rock",
-    "color": "#cec18c",
-    "damageTaken": [
-      {
-        "type": "fighting",
-        "factor": 2
-      },
-      {
-        "type": "ground",
-        "factor": 2
-      },
-      {
-        "type": "steel",
-        "factor": 2
-      },
-      {
-        "type": "water",
-        "factor": 2
-      },
-      {
-        "type": "grass",
-        "factor": 2
-      },
-      {
-        "type": "normal",
-        "factor": 0.5
-      },
-      {
-        "type": "flying",
-        "factor": 0.5
-      },
-      {
-        "type": "poison",
-        "factor": 0.5
-      },
-      {
-        "type": "fire",
-        "factor": 0.5
-      }
-    ],
-    "damageDone": [
-      {
-        "type": "flying",
-        "factor": 2
-      },
-      {
-        "type": "bug",
-        "factor": 2
-      },
-      {
-        "type": "fire",
-        "factor": 2
-      },
-      {
-        "type": "ice",
-        "factor": 2
-      },
-      {
-        "type": "fighting",
-        "factor": 0.5
-      },
-      {
-        "type": "ground",
-        "factor": 0.5
-      },
-      {
-        "type": "steel",
-        "factor": 0.5
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "name": "steel",
-    "caption": "Steel",
-    "color": "#5596a4",
-    "damageTaken": [
-      {
-        "type": "fighting",
-        "factor": 2
-      },
-      {
-        "type": "ground",
-        "factor": 2
-      },
-      {
-        "type": "fire",
-        "factor": 2
-      },
-      {
-        "type": "normal",
-        "factor": 0.5
-      },
-      {
-        "type": "flying",
-        "factor": 0.5
-      },
-      {
-        "type": "rock",
-        "factor": 0.5
-      },
-      {
-        "type": "bug",
-        "factor": 0.5
-      },
-      {
-        "type": "steel",
-        "factor": 0.5
-      },
-      {
-        "type": "grass",
-        "factor": 0.5
-      },
-      {
-        "type": "psychic",
-        "factor": 0.5
-      },
-      {
-        "type": "ice",
-        "factor": 0.5
-      },
-      {
-        "type": "dragon",
-        "factor": 0.5
-      },
-      {
-        "type": "fairy",
-        "factor": 0.5
-      },
-      {
-        "type": "poison",
-        "factor": 0
-      }
-    ],
-    "damageDone": [
-      {
-        "type": "rock",
-        "factor": 2
-      },
-      {
-        "type": "ice",
-        "factor": 2
-      },
-      {
-        "type": "fairy",
-        "factor": 2
-      },
-      {
-        "type": "steel",
-        "factor": 0.5
-      },
-      {
-        "type": "fire",
-        "factor": 0.5
-      },
-      {
-        "type": "water",
-        "factor": 0.5
-      },
-      {
-        "type": "electric",
-        "factor": 0.5
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "name": "water",
-    "caption": "Water",
-    "color": "#559edf",
-    "damageTaken": [
-      {
-        "type": "grass",
-        "factor": 2
-      },
-      {
-        "type": "electric",
-        "factor": 2
-      },
-      {
-        "type": "steel",
-        "factor": 0.5
-      },
-      {
-        "type": "fire",
-        "factor": 0.5
-      },
-      {
-        "type": "water",
-        "factor": 0.5
-      },
-      {
-        "type": "ice",
-        "factor": 0.5
-      }
-    ],
-    "damageDone": [
-      {
-        "type": "ground",
-        "factor": 2
-      },
-      {
-        "type": "rock",
-        "factor": 2
-      },
-      {
-        "type": "fire",
-        "factor": 2
-      },
-      {
-        "type": "water",
-        "factor": 0.5
-      },
-      {
-        "type": "grass",
-        "factor": 0.5
-      },
-      {
-        "type": "dragon",
-        "factor": 0.5
-      }
-    ]
-  }
-]
+{
+  "types": [
+    {
+      "id": 7,
+      "name": "bug",
+      "caption": "Bug",
+      "color": "#9dc130",
+      "damageTaken": [
+        {
+          "type": "flying",
+          "factor": 2
+        },
+        {
+          "type": "rock",
+          "factor": 2
+        },
+        {
+          "type": "fire",
+          "factor": 2
+        },
+        {
+          "type": "fighting",
+          "factor": 0.5
+        },
+        {
+          "type": "ground",
+          "factor": 0.5
+        },
+        {
+          "type": "grass",
+          "factor": 0.5
+        }
+      ],
+      "damageDone": [
+        {
+          "type": "grass",
+          "factor": 2
+        },
+        {
+          "type": "psychic",
+          "factor": 2
+        },
+        {
+          "type": "dark",
+          "factor": 2
+        },
+        {
+          "type": "fighting",
+          "factor": 0.5
+        },
+        {
+          "type": "flying",
+          "factor": 0.5
+        },
+        {
+          "type": "poison",
+          "factor": 0.5
+        },
+        {
+          "type": "ghost",
+          "factor": 0.5
+        },
+        {
+          "type": "steel",
+          "factor": 0.5
+        },
+        {
+          "type": "fire",
+          "factor": 0.5
+        },
+        {
+          "type": "fairy",
+          "factor": 0.5
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "dark",
+      "caption": "Dark",
+      "color": "#5f606d",
+      "damageTaken": [
+        {
+          "type": "fighting",
+          "factor": 2
+        },
+        {
+          "type": "bug",
+          "factor": 2
+        },
+        {
+          "type": "fairy",
+          "factor": 2
+        },
+        {
+          "type": "ghost",
+          "factor": 0.5
+        },
+        {
+          "type": "dark",
+          "factor": 0.5
+        },
+        {
+          "type": "psychic",
+          "factor": 0
+        }
+      ],
+      "damageDone": [
+        {
+          "type": "ghost",
+          "factor": 2
+        },
+        {
+          "type": "psychic",
+          "factor": 2
+        },
+        {
+          "type": "fighting",
+          "factor": 0.5
+        },
+        {
+          "type": "dark",
+          "factor": 0.5
+        },
+        {
+          "type": "fairy",
+          "factor": 0.5
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "dragon",
+      "caption": "Dragon",
+      "color": "#0773c7",
+      "damageTaken": [
+        {
+          "type": "ice",
+          "factor": 2
+        },
+        {
+          "type": "dragon",
+          "factor": 2
+        },
+        {
+          "type": "fairy",
+          "factor": 2
+        },
+        {
+          "type": "fire",
+          "factor": 0.5
+        },
+        {
+          "type": "water",
+          "factor": 0.5
+        },
+        {
+          "type": "grass",
+          "factor": 0.5
+        },
+        {
+          "type": "electric",
+          "factor": 0.5
+        }
+      ],
+      "damageDone": [
+        {
+          "type": "dragon",
+          "factor": 2
+        },
+        {
+          "type": "steel",
+          "factor": 0.5
+        },
+        {
+          "type": "fairy",
+          "factor": 0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "electric",
+      "caption": "Electric",
+      "color": "#edd53f",
+      "damageTaken": [
+        {
+          "type": "ground",
+          "factor": 2
+        },
+        {
+          "type": "flying",
+          "factor": 0.5
+        },
+        {
+          "type": "steel",
+          "factor": 0.5
+        },
+        {
+          "type": "electric",
+          "factor": 0.5
+        }
+      ],
+      "damageDone": [
+        {
+          "type": "flying",
+          "factor": 2
+        },
+        {
+          "type": "water",
+          "factor": 2
+        },
+        {
+          "type": "grass",
+          "factor": 0.5
+        },
+        {
+          "type": "electric",
+          "factor": 0.5
+        },
+        {
+          "type": "dragon",
+          "factor": 0.5
+        },
+        {
+          "type": "ground",
+          "factor": 0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "fairy",
+      "caption": "Fairy",
+      "color": "#ef97e6",
+      "damageTaken": [
+        {
+          "type": "poison",
+          "factor": 2
+        },
+        {
+          "type": "steel",
+          "factor": 2
+        },
+        {
+          "type": "fighting",
+          "factor": 0.5
+        },
+        {
+          "type": "bug",
+          "factor": 0.5
+        },
+        {
+          "type": "dark",
+          "factor": 0.5
+        },
+        {
+          "type": "dragon",
+          "factor": 0
+        }
+      ],
+      "damageDone": [
+        {
+          "type": "fighting",
+          "factor": 2
+        },
+        {
+          "type": "dragon",
+          "factor": 2
+        },
+        {
+          "type": "dark",
+          "factor": 2
+        },
+        {
+          "type": "poison",
+          "factor": 0.5
+        },
+        {
+          "type": "steel",
+          "factor": 0.5
+        },
+        {
+          "type": "fire",
+          "factor": 0.5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "fighting",
+      "caption": "Fighting",
+      "color": "#d94256",
+      "damageTaken": [
+        {
+          "type": "flying",
+          "factor": 2
+        },
+        {
+          "type": "psychic",
+          "factor": 2
+        },
+        {
+          "type": "fairy",
+          "factor": 2
+        },
+        {
+          "type": "rock",
+          "factor": 0.5
+        },
+        {
+          "type": "bug",
+          "factor": 0.5
+        },
+        {
+          "type": "dark",
+          "factor": 0.5
+        }
+      ],
+      "damageDone": [
+        {
+          "type": "normal",
+          "factor": 2
+        },
+        {
+          "type": "rock",
+          "factor": 2
+        },
+        {
+          "type": "steel",
+          "factor": 2
+        },
+        {
+          "type": "ice",
+          "factor": 2
+        },
+        {
+          "type": "dark",
+          "factor": 2
+        },
+        {
+          "type": "flying",
+          "factor": 0.5
+        },
+        {
+          "type": "poison",
+          "factor": 0.5
+        },
+        {
+          "type": "bug",
+          "factor": 0.5
+        },
+        {
+          "type": "psychic",
+          "factor": 0.5
+        },
+        {
+          "type": "fairy",
+          "factor": 0.5
+        },
+        {
+          "type": "ghost",
+          "factor": 0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "fire",
+      "caption": "Fire",
+      "color": "#f8a54f",
+      "damageTaken": [
+        {
+          "type": "ground",
+          "factor": 2
+        },
+        {
+          "type": "rock",
+          "factor": 2
+        },
+        {
+          "type": "water",
+          "factor": 2
+        },
+        {
+          "type": "bug",
+          "factor": 0.5
+        },
+        {
+          "type": "steel",
+          "factor": 0.5
+        },
+        {
+          "type": "fire",
+          "factor": 0.5
+        },
+        {
+          "type": "grass",
+          "factor": 0.5
+        },
+        {
+          "type": "ice",
+          "factor": 0.5
+        },
+        {
+          "type": "fairy",
+          "factor": 0.5
+        }
+      ],
+      "damageDone": [
+        {
+          "type": "bug",
+          "factor": 2
+        },
+        {
+          "type": "steel",
+          "factor": 2
+        },
+        {
+          "type": "grass",
+          "factor": 2
+        },
+        {
+          "type": "ice",
+          "factor": 2
+        },
+        {
+          "type": "rock",
+          "factor": 0.5
+        },
+        {
+          "type": "fire",
+          "factor": 0.5
+        },
+        {
+          "type": "water",
+          "factor": 0.5
+        },
+        {
+          "type": "dragon",
+          "factor": 0.5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "flying",
+      "caption": "Flying",
+      "color": "#9bb4e8",
+      "damageTaken": [
+        {
+          "type": "rock",
+          "factor": 2
+        },
+        {
+          "type": "electric",
+          "factor": 2
+        },
+        {
+          "type": "ice",
+          "factor": 2
+        },
+        {
+          "type": "fighting",
+          "factor": 0.5
+        },
+        {
+          "type": "bug",
+          "factor": 0.5
+        },
+        {
+          "type": "grass",
+          "factor": 0.5
+        },
+        {
+          "type": "ground",
+          "factor": 0
+        }
+      ],
+      "damageDone": [
+        {
+          "type": "fighting",
+          "factor": 2
+        },
+        {
+          "type": "bug",
+          "factor": 2
+        },
+        {
+          "type": "grass",
+          "factor": 2
+        },
+        {
+          "type": "rock",
+          "factor": 0.5
+        },
+        {
+          "type": "steel",
+          "factor": 0.5
+        },
+        {
+          "type": "electric",
+          "factor": 0.5
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "ghost",
+      "caption": "Ghost",
+      "color": "#6970c5",
+      "damageTaken": [
+        {
+          "type": "ghost",
+          "factor": 2
+        },
+        {
+          "type": "dark",
+          "factor": 2
+        },
+        {
+          "type": "poison",
+          "factor": 0.5
+        },
+        {
+          "type": "bug",
+          "factor": 0.5
+        },
+        {
+          "type": "normal",
+          "factor": 0
+        },
+        {
+          "type": "fighting",
+          "factor": 0
+        }
+      ],
+      "damageDone": [
+        {
+          "type": "ghost",
+          "factor": 2
+        },
+        {
+          "type": "psychic",
+          "factor": 2
+        },
+        {
+          "type": "dark",
+          "factor": 0.5
+        },
+        {
+          "type": "normal",
+          "factor": 0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "grass",
+      "caption": "Grass",
+      "color": "#5dbe62",
+      "damageTaken": [
+        {
+          "type": "flying",
+          "factor": 2
+        },
+        {
+          "type": "poison",
+          "factor": 2
+        },
+        {
+          "type": "bug",
+          "factor": 2
+        },
+        {
+          "type": "fire",
+          "factor": 2
+        },
+        {
+          "type": "ice",
+          "factor": 2
+        },
+        {
+          "type": "ground",
+          "factor": 0.5
+        },
+        {
+          "type": "water",
+          "factor": 0.5
+        },
+        {
+          "type": "grass",
+          "factor": 0.5
+        },
+        {
+          "type": "electric",
+          "factor": 0.5
+        }
+      ],
+      "damageDone": [
+        {
+          "type": "ground",
+          "factor": 2
+        },
+        {
+          "type": "rock",
+          "factor": 2
+        },
+        {
+          "type": "water",
+          "factor": 2
+        },
+        {
+          "type": "flying",
+          "factor": 0.5
+        },
+        {
+          "type": "poison",
+          "factor": 0.5
+        },
+        {
+          "type": "bug",
+          "factor": 0.5
+        },
+        {
+          "type": "steel",
+          "factor": 0.5
+        },
+        {
+          "type": "fire",
+          "factor": 0.5
+        },
+        {
+          "type": "grass",
+          "factor": 0.5
+        },
+        {
+          "type": "dragon",
+          "factor": 0.5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "ground",
+      "caption": "Ground",
+      "color": "#d78555",
+      "damageTaken": [
+        {
+          "type": "water",
+          "factor": 2
+        },
+        {
+          "type": "grass",
+          "factor": 2
+        },
+        {
+          "type": "ice",
+          "factor": 2
+        },
+        {
+          "type": "poison",
+          "factor": 0.5
+        },
+        {
+          "type": "rock",
+          "factor": 0.5
+        },
+        {
+          "type": "electric",
+          "factor": 0
+        }
+      ],
+      "damageDone": [
+        {
+          "type": "poison",
+          "factor": 2
+        },
+        {
+          "type": "rock",
+          "factor": 2
+        },
+        {
+          "type": "steel",
+          "factor": 2
+        },
+        {
+          "type": "fire",
+          "factor": 2
+        },
+        {
+          "type": "electric",
+          "factor": 2
+        },
+        {
+          "type": "bug",
+          "factor": 0.5
+        },
+        {
+          "type": "grass",
+          "factor": 0.5
+        },
+        {
+          "type": "flying",
+          "factor": 0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "ice",
+      "caption": "Ice",
+      "color": "#7ed4c9",
+      "damageTaken": [
+        {
+          "type": "fighting",
+          "factor": 2
+        },
+        {
+          "type": "rock",
+          "factor": 2
+        },
+        {
+          "type": "steel",
+          "factor": 2
+        },
+        {
+          "type": "fire",
+          "factor": 2
+        },
+        {
+          "type": "ice",
+          "factor": 0.5
+        }
+      ],
+      "damageDone": [
+        {
+          "type": "flying",
+          "factor": 2
+        },
+        {
+          "type": "ground",
+          "factor": 2
+        },
+        {
+          "type": "grass",
+          "factor": 2
+        },
+        {
+          "type": "dragon",
+          "factor": 2
+        },
+        {
+          "type": "steel",
+          "factor": 0.5
+        },
+        {
+          "type": "fire",
+          "factor": 0.5
+        },
+        {
+          "type": "water",
+          "factor": 0.5
+        },
+        {
+          "type": "ice",
+          "factor": 0.5
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "normal",
+      "caption": "Normal",
+      "color": "#9a9da1",
+      "damageTaken": [
+        {
+          "type": "fighting",
+          "factor": 2
+        },
+        {
+          "type": "ghost",
+          "factor": 0
+        }
+      ],
+      "damageDone": [
+        {
+          "type": "rock",
+          "factor": 0.5
+        },
+        {
+          "type": "steel",
+          "factor": 0.5
+        },
+        {
+          "type": "ghost",
+          "factor": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "poison",
+      "caption": "Poison",
+      "color": "#b563ce",
+      "damageTaken": [
+        {
+          "type": "ground",
+          "factor": 2
+        },
+        {
+          "type": "psychic",
+          "factor": 2
+        },
+        {
+          "type": "fighting",
+          "factor": 0.5
+        },
+        {
+          "type": "poison",
+          "factor": 0.5
+        },
+        {
+          "type": "bug",
+          "factor": 0.5
+        },
+        {
+          "type": "grass",
+          "factor": 0.5
+        },
+        {
+          "type": "fairy",
+          "factor": 0.5
+        }
+      ],
+      "damageDone": [
+        {
+          "type": "grass",
+          "factor": 2
+        },
+        {
+          "type": "fairy",
+          "factor": 2
+        },
+        {
+          "type": "poison",
+          "factor": 0.5
+        },
+        {
+          "type": "ground",
+          "factor": 0.5
+        },
+        {
+          "type": "rock",
+          "factor": 0.5
+        },
+        {
+          "type": "ghost",
+          "factor": 0.5
+        },
+        {
+          "type": "steel",
+          "factor": 0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "psychic",
+      "caption": "Psychic",
+      "color": "#f87c7a",
+      "damageTaken": [
+        {
+          "type": "bug",
+          "factor": 2
+        },
+        {
+          "type": "ghost",
+          "factor": 2
+        },
+        {
+          "type": "dark",
+          "factor": 2
+        },
+        {
+          "type": "fighting",
+          "factor": 0.5
+        },
+        {
+          "type": "psychic",
+          "factor": 0.5
+        }
+      ],
+      "damageDone": [
+        {
+          "type": "fighting",
+          "factor": 2
+        },
+        {
+          "type": "poison",
+          "factor": 2
+        },
+        {
+          "type": "steel",
+          "factor": 0.5
+        },
+        {
+          "type": "psychic",
+          "factor": 0.5
+        },
+        {
+          "type": "dark",
+          "factor": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "rock",
+      "caption": "Rock",
+      "color": "#cec18c",
+      "damageTaken": [
+        {
+          "type": "fighting",
+          "factor": 2
+        },
+        {
+          "type": "ground",
+          "factor": 2
+        },
+        {
+          "type": "steel",
+          "factor": 2
+        },
+        {
+          "type": "water",
+          "factor": 2
+        },
+        {
+          "type": "grass",
+          "factor": 2
+        },
+        {
+          "type": "normal",
+          "factor": 0.5
+        },
+        {
+          "type": "flying",
+          "factor": 0.5
+        },
+        {
+          "type": "poison",
+          "factor": 0.5
+        },
+        {
+          "type": "fire",
+          "factor": 0.5
+        }
+      ],
+      "damageDone": [
+        {
+          "type": "flying",
+          "factor": 2
+        },
+        {
+          "type": "bug",
+          "factor": 2
+        },
+        {
+          "type": "fire",
+          "factor": 2
+        },
+        {
+          "type": "ice",
+          "factor": 2
+        },
+        {
+          "type": "fighting",
+          "factor": 0.5
+        },
+        {
+          "type": "ground",
+          "factor": 0.5
+        },
+        {
+          "type": "steel",
+          "factor": 0.5
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "steel",
+      "caption": "Steel",
+      "color": "#5596a4",
+      "damageTaken": [
+        {
+          "type": "fighting",
+          "factor": 2
+        },
+        {
+          "type": "ground",
+          "factor": 2
+        },
+        {
+          "type": "fire",
+          "factor": 2
+        },
+        {
+          "type": "normal",
+          "factor": 0.5
+        },
+        {
+          "type": "flying",
+          "factor": 0.5
+        },
+        {
+          "type": "rock",
+          "factor": 0.5
+        },
+        {
+          "type": "bug",
+          "factor": 0.5
+        },
+        {
+          "type": "steel",
+          "factor": 0.5
+        },
+        {
+          "type": "grass",
+          "factor": 0.5
+        },
+        {
+          "type": "psychic",
+          "factor": 0.5
+        },
+        {
+          "type": "ice",
+          "factor": 0.5
+        },
+        {
+          "type": "dragon",
+          "factor": 0.5
+        },
+        {
+          "type": "fairy",
+          "factor": 0.5
+        },
+        {
+          "type": "poison",
+          "factor": 0
+        }
+      ],
+      "damageDone": [
+        {
+          "type": "rock",
+          "factor": 2
+        },
+        {
+          "type": "ice",
+          "factor": 2
+        },
+        {
+          "type": "fairy",
+          "factor": 2
+        },
+        {
+          "type": "steel",
+          "factor": 0.5
+        },
+        {
+          "type": "fire",
+          "factor": 0.5
+        },
+        {
+          "type": "water",
+          "factor": 0.5
+        },
+        {
+          "type": "electric",
+          "factor": 0.5
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "water",
+      "caption": "Water",
+      "color": "#559edf",
+      "damageTaken": [
+        {
+          "type": "grass",
+          "factor": 2
+        },
+        {
+          "type": "electric",
+          "factor": 2
+        },
+        {
+          "type": "steel",
+          "factor": 0.5
+        },
+        {
+          "type": "fire",
+          "factor": 0.5
+        },
+        {
+          "type": "water",
+          "factor": 0.5
+        },
+        {
+          "type": "ice",
+          "factor": 0.5
+        }
+      ],
+      "damageDone": [
+        {
+          "type": "ground",
+          "factor": 2
+        },
+        {
+          "type": "rock",
+          "factor": 2
+        },
+        {
+          "type": "fire",
+          "factor": 2
+        },
+        {
+          "type": "water",
+          "factor": 0.5
+        },
+        {
+          "type": "grass",
+          "factor": 0.5
+        },
+        {
+          "type": "dragon",
+          "factor": 0.5
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "physical",
+      "caption": "Physical",
+      "description": "Physical damage, controlled by Attack and Defense",
+      "color": "#d76753"
+    },
+    {
+      "id": 3,
+      "name": "special",
+      "caption": "Special",
+      "description": "Special damage, controlled by Special Attack and Special Defense",
+      "color": "#6483b6"
+    },
+    {
+      "id": 1,
+      "name": "status",
+      "caption": "Status",
+      "description": "No damage",
+      "color": "#b8b1a2"
+    }
+  ]
+}

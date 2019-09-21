@@ -3,7 +3,7 @@
   "name": "psychic-terrain",
   "caption": "Psychic Terrain",
   "type": "psychic",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

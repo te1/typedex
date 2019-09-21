@@ -3,7 +3,7 @@
   "name": "nightmare",
   "caption": "Nightmare",
   "type": "ghost",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 15,

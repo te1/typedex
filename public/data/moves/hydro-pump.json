@@ -3,7 +3,7 @@
   "name": "hydro-pump",
   "caption": "Hydro Pump",
   "type": "water",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 110,
   "accuracy": 80,
   "pp": 5,

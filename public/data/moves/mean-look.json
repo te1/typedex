@@ -3,7 +3,7 @@
   "name": "mean-look",
   "caption": "Mean Look",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 5,

@@ -3,7 +3,7 @@
   "name": "vice-grip",
   "caption": "Vice Grip",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 55,
   "accuracy": 100,
   "pp": 30,

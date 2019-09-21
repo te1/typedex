@@ -3,7 +3,7 @@
   "name": "roar-of-time",
   "caption": "Roar of Time",
   "type": "dragon",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 150,
   "accuracy": 90,
   "pp": 5,

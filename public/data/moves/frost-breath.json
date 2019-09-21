@@ -3,7 +3,7 @@
   "name": "frost-breath",
   "caption": "Frost Breath",
   "type": "ice",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 60,
   "accuracy": 90,
   "pp": 10,

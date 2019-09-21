@@ -3,7 +3,7 @@
   "name": "shadow-rush",
   "caption": "Shadow Rush",
   "type": "shadow",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 55,
   "accuracy": 100,
   "pp": null,

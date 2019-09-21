@@ -3,7 +3,7 @@
   "name": "hyperspace-fury",
   "caption": "Hyperspace Fury",
   "type": "dark",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 100,
   "accuracy": null,
   "pp": 5,

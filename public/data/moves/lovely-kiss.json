@@ -3,7 +3,7 @@
   "name": "lovely-kiss",
   "caption": "Lovely Kiss",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 75,
   "pp": 10,

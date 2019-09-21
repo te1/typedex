@@ -3,7 +3,7 @@
   "name": "gear-grind",
   "caption": "Gear Grind",
   "type": "steel",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 50,
   "accuracy": 85,
   "pp": 15,

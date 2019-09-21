@@ -3,7 +3,7 @@
   "name": "ice-fang",
   "caption": "Ice Fang",
   "type": "ice",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 65,
   "accuracy": 95,
   "pp": 15,

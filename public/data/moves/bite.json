@@ -3,7 +3,7 @@
   "name": "bite",
   "caption": "Bite",
   "type": "dark",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 60,
   "accuracy": 100,
   "pp": 25,

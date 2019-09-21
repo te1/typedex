@@ -3,7 +3,7 @@
   "name": "venoshock",
   "caption": "Venoshock",
   "type": "poison",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 65,
   "accuracy": 100,
   "pp": 10,

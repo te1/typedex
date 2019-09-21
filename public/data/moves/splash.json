@@ -3,7 +3,7 @@
   "name": "splash",
   "caption": "Splash",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 40,

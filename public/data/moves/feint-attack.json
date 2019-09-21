@@ -3,7 +3,7 @@
   "name": "feint-attack",
   "caption": "Feint Attack",
   "type": "dark",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 60,
   "accuracy": null,
   "pp": 20,

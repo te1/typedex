@@ -3,7 +3,7 @@
   "name": "psyshock",
   "caption": "Psyshock",
   "type": "psychic",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 80,
   "accuracy": 100,
   "pp": 10,

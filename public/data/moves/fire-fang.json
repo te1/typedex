@@ -3,7 +3,7 @@
   "name": "fire-fang",
   "caption": "Fire Fang",
   "type": "fire",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 65,
   "accuracy": 95,
   "pp": 15,

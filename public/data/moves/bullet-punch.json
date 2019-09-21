@@ -3,7 +3,7 @@
   "name": "bullet-punch",
   "caption": "Bullet Punch",
   "type": "steel",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 40,
   "accuracy": 100,
   "pp": 30,

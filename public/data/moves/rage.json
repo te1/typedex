@@ -3,7 +3,7 @@
   "name": "rage",
   "caption": "Rage",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 20,
   "accuracy": 100,
   "pp": 20,

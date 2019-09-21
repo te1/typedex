@@ -3,7 +3,7 @@
   "name": "sunsteel-strike",
   "caption": "Sunsteel Strike",
   "type": "steel",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 100,
   "accuracy": 100,
   "pp": 5,

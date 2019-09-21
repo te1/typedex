@@ -3,7 +3,7 @@
   "name": "first-impression",
   "caption": "First Impression",
   "type": "bug",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 90,
   "accuracy": 100,
   "pp": 10,

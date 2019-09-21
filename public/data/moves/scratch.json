@@ -3,7 +3,7 @@
   "name": "scratch",
   "caption": "Scratch",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 40,
   "accuracy": 100,
   "pp": 35,

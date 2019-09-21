@@ -3,7 +3,7 @@
   "name": "flame-burst",
   "caption": "Flame Burst",
   "type": "fire",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 70,
   "accuracy": 100,
   "pp": 15,

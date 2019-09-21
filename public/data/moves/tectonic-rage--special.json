@@ -3,7 +3,7 @@
   "name": "tectonic-rage--special",
   "caption": "Tectonic Rage",
   "type": "ground",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": null,
   "pp": 1,

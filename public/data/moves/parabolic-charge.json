@@ -3,7 +3,7 @@
   "name": "parabolic-charge",
   "caption": "Parabolic Charge",
   "type": "electric",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 65,
   "accuracy": 100,
   "pp": 20,

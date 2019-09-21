@@ -3,7 +3,7 @@
   "name": "gigavolt-havoc--special",
   "caption": "Gigavolt Havoc",
   "type": "electric",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": null,
   "pp": 1,

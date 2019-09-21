@@ -3,7 +3,7 @@
   "name": "hurricane",
   "caption": "Hurricane",
   "type": "flying",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 110,
   "accuracy": 70,
   "pp": 10,

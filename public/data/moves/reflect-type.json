@@ -3,7 +3,7 @@
   "name": "reflect-type",
   "caption": "Reflect Type",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 15,

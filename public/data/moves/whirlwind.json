@@ -3,7 +3,7 @@
   "name": "whirlwind",
   "caption": "Whirlwind",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

@@ -3,7 +3,7 @@
   "name": "fly",
   "caption": "Fly",
   "type": "flying",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 90,
   "accuracy": 95,
   "pp": 15,

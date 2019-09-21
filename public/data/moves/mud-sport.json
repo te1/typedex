@@ -3,7 +3,7 @@
   "name": "mud-sport",
   "caption": "Mud Sport",
   "type": "ground",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 15,

@@ -3,7 +3,7 @@
   "name": "water-gun",
   "caption": "Water Gun",
   "type": "water",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 40,
   "accuracy": 100,
   "pp": 25,

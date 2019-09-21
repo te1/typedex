@@ -3,7 +3,7 @@
   "name": "volt-switch",
   "caption": "Volt Switch",
   "type": "electric",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 70,
   "accuracy": 100,
   "pp": 20,

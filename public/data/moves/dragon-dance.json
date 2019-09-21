@@ -3,7 +3,7 @@
   "name": "dragon-dance",
   "caption": "Dragon Dance",
   "type": "dragon",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

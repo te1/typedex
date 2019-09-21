@@ -3,7 +3,7 @@
   "name": "thunder-punch",
   "caption": "Thunder Punch",
   "type": "electric",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 75,
   "accuracy": 100,
   "pp": 15,

@@ -3,7 +3,7 @@
   "name": "shadow-hold",
   "caption": "Shadow Hold",
   "type": "shadow",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": null,

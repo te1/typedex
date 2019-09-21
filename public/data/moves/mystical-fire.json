@@ -3,7 +3,7 @@
   "name": "mystical-fire",
   "caption": "Mystical Fire",
   "type": "fire",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 75,
   "accuracy": 100,
   "pp": 10,

@@ -3,7 +3,7 @@
   "name": "fiery-dance",
   "caption": "Fiery Dance",
   "type": "fire",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 80,
   "accuracy": 100,
   "pp": 10,

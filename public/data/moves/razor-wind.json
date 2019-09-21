@@ -3,7 +3,7 @@
   "name": "razor-wind",
   "caption": "Razor Wind",
   "type": "normal",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 80,
   "accuracy": 100,
   "pp": 10,

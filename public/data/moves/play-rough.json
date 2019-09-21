@@ -3,7 +3,7 @@
   "name": "play-rough",
   "caption": "Play Rough",
   "type": "fairy",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 90,
   "accuracy": 90,
   "pp": 10,

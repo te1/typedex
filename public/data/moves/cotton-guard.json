@@ -3,7 +3,7 @@
   "name": "cotton-guard",
   "caption": "Cotton Guard",
   "type": "grass",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

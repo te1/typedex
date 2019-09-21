@@ -3,7 +3,7 @@
   "name": "fire-spin",
   "caption": "Fire Spin",
   "type": "fire",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 35,
   "accuracy": 85,
   "pp": 15,

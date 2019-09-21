@@ -3,7 +3,7 @@
   "name": "mud-bomb",
   "caption": "Mud Bomb",
   "type": "ground",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 65,
   "accuracy": 85,
   "pp": 10,

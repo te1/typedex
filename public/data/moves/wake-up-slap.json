@@ -3,7 +3,7 @@
   "name": "wake-up-slap",
   "caption": "Wake-Up Slap",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 70,
   "accuracy": 100,
   "pp": 10,

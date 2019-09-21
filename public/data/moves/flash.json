@@ -3,7 +3,7 @@
   "name": "flash",
   "caption": "Flash",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 20,

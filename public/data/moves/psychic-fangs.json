@@ -3,7 +3,7 @@
   "name": "psychic-fangs",
   "caption": "Psychic Fangs",
   "type": "psychic",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 85,
   "accuracy": 100,
   "pp": 10,

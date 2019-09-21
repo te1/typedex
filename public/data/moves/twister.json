@@ -3,7 +3,7 @@
   "name": "twister",
   "caption": "Twister",
   "type": "dragon",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 40,
   "accuracy": 100,
   "pp": 20,

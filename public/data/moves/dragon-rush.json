@@ -3,7 +3,7 @@
   "name": "dragon-rush",
   "caption": "Dragon Rush",
   "type": "dragon",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 100,
   "accuracy": 75,
   "pp": 10,

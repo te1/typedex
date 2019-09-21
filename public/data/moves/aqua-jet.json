@@ -3,7 +3,7 @@
   "name": "aqua-jet",
   "caption": "Aqua Jet",
   "type": "water",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 40,
   "accuracy": 100,
   "pp": 20,

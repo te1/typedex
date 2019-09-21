@@ -3,7 +3,7 @@
   "name": "attack-order",
   "caption": "Attack Order",
   "type": "bug",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 90,
   "accuracy": 100,
   "pp": 15,

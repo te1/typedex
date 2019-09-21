@@ -3,7 +3,7 @@
   "name": "mega-kick",
   "caption": "Mega Kick",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 120,
   "accuracy": 75,
   "pp": 5,

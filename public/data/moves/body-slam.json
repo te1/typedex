@@ -3,7 +3,7 @@
   "name": "body-slam",
   "caption": "Body Slam",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 85,
   "accuracy": 100,
   "pp": 15,

@@ -3,7 +3,7 @@
   "name": "laser-focus",
   "caption": "Laser Focus",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 30,

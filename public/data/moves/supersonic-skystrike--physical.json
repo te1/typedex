@@ -3,7 +3,7 @@
   "name": "supersonic-skystrike--physical",
   "caption": "Supersonic Skystrike",
   "type": "flying",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": null,
   "pp": 1,

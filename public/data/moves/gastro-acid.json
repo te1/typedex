@@ -3,7 +3,7 @@
   "name": "gastro-acid",
   "caption": "Gastro Acid",
   "type": "poison",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 10,

@@ -3,7 +3,7 @@
   "name": "black-hole-eclipse--physical",
   "caption": "Black Hole Eclipse",
   "type": "dark",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": null,
   "pp": 1,

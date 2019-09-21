@@ -3,7 +3,7 @@
   "name": "heal-block",
   "caption": "Heal Block",
   "type": "psychic",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 15,

@@ -3,7 +3,7 @@
   "name": "misty-terrain",
   "caption": "Misty Terrain",
   "type": "fairy",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

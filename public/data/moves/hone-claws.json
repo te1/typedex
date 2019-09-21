@@ -3,7 +3,7 @@
   "name": "hone-claws",
   "caption": "Hone Claws",
   "type": "dark",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 15,

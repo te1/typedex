@@ -3,7 +3,7 @@
   "name": "sticky-web",
   "caption": "Sticky Web",
   "type": "bug",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

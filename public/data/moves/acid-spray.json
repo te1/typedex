@@ -3,7 +3,7 @@
   "name": "acid-spray",
   "caption": "Acid Spray",
   "type": "poison",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 40,
   "accuracy": 100,
   "pp": 20,

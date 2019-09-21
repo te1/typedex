@@ -3,7 +3,7 @@
   "name": "dragon-breath",
   "caption": "Dragon Breath",
   "type": "dragon",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 60,
   "accuracy": 100,
   "pp": 20,

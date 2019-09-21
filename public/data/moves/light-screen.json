@@ -3,7 +3,7 @@
   "name": "light-screen",
   "caption": "Light Screen",
   "type": "psychic",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 30,

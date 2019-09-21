@@ -3,7 +3,7 @@
   "name": "luster-purge",
   "caption": "Luster Purge",
   "type": "psychic",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 70,
   "accuracy": 100,
   "pp": 5,

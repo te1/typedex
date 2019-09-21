@@ -3,7 +3,7 @@
   "name": "shadow-blast",
   "caption": "Shadow Blast",
   "type": "shadow",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 80,
   "accuracy": 100,
   "pp": null,

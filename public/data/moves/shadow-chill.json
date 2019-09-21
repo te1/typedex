@@ -3,7 +3,7 @@
   "name": "shadow-chill",
   "caption": "Shadow Chill",
   "type": "shadow",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 75,
   "accuracy": 100,
   "pp": null,

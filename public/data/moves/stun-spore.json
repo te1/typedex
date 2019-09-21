@@ -3,7 +3,7 @@
   "name": "stun-spore",
   "caption": "Stun Spore",
   "type": "grass",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 75,
   "pp": 30,

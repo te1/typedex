@@ -3,7 +3,7 @@
   "name": "bloom-doom--physical",
   "caption": "Bloom Doom",
   "type": "grass",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": null,
   "pp": 1,

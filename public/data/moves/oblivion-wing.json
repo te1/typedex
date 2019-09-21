@@ -3,7 +3,7 @@
   "name": "oblivion-wing",
   "caption": "Oblivion Wing",
   "type": "flying",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 80,
   "accuracy": 100,
   "pp": 10,

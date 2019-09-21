@@ -3,7 +3,7 @@
   "name": "surf",
   "caption": "Surf",
   "type": "water",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 90,
   "accuracy": 100,
   "pp": 15,

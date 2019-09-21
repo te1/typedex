@@ -3,7 +3,7 @@
   "name": "parting-shot",
   "caption": "Parting Shot",
   "type": "dark",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 20,

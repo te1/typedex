@@ -3,7 +3,7 @@
   "name": "return",
   "caption": "Return",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": 100,
   "pp": 20,

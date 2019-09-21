@@ -3,7 +3,7 @@
   "name": "lands-wrath",
   "caption": "Land’s Wrath",
   "type": "ground",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 90,
   "accuracy": 100,
   "pp": 10,

@@ -3,7 +3,7 @@
   "name": "icicle-crash",
   "caption": "Icicle Crash",
   "type": "ice",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 85,
   "accuracy": 90,
   "pp": 10,

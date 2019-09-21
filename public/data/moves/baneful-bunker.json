@@ -3,7 +3,7 @@
   "name": "baneful-bunker",
   "caption": "Baneful Bunker",
   "type": "poison",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

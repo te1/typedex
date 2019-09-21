@@ -3,7 +3,7 @@
   "name": "stoked-sparksurfer",
   "caption": "Stoked Sparksurfer",
   "type": "electric",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 175,
   "accuracy": null,
   "pp": 1,

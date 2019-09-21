@@ -3,7 +3,7 @@
   "name": "gunk-shot",
   "caption": "Gunk Shot",
   "type": "poison",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 120,
   "accuracy": 80,
   "pp": 5,

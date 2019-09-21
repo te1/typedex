@@ -3,7 +3,7 @@
   "name": "purify",
   "caption": "Purify",
   "type": "poison",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

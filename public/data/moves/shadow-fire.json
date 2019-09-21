@@ -3,7 +3,7 @@
   "name": "shadow-fire",
   "caption": "Shadow Fire",
   "type": "shadow",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 75,
   "accuracy": 100,
   "pp": null,

@@ -3,7 +3,7 @@
   "name": "scary-face",
   "caption": "Scary Face",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 10,

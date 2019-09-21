@@ -3,7 +3,7 @@
   "name": "acid-downpour--special",
   "caption": "Acid Downpour",
   "type": "poison",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": null,
   "pp": 1,

@@ -3,7 +3,7 @@
   "name": "stealth-rock",
   "caption": "Stealth Rock",
   "type": "rock",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

@@ -3,7 +3,7 @@
   "name": "shadow-shed",
   "caption": "Shadow Shed",
   "type": "shadow",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": null,

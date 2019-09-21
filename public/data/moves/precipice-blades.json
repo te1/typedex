@@ -3,7 +3,7 @@
   "name": "precipice-blades",
   "caption": "Precipice Blades",
   "type": "ground",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 120,
   "accuracy": 85,
   "pp": 10,

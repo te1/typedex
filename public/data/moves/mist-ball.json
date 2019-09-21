@@ -3,7 +3,7 @@
   "name": "mist-ball",
   "caption": "Mist Ball",
   "type": "psychic",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 70,
   "accuracy": 100,
   "pp": 5,

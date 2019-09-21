@@ -3,7 +3,7 @@
   "name": "mist",
   "caption": "Mist",
   "type": "ice",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 30,

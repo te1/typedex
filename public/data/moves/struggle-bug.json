@@ -3,7 +3,7 @@
   "name": "struggle-bug",
   "caption": "Struggle Bug",
   "type": "bug",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 50,
   "accuracy": 100,
   "pp": 20,

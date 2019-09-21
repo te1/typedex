@@ -3,7 +3,7 @@
   "name": "aromatic-mist",
   "caption": "Aromatic Mist",
   "type": "fairy",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

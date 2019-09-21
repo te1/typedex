@@ -3,7 +3,7 @@
   "name": "earth-power",
   "caption": "Earth Power",
   "type": "ground",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 90,
   "accuracy": 100,
   "pp": 10,

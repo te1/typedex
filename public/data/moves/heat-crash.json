@@ -3,7 +3,7 @@
   "name": "heat-crash",
   "caption": "Heat Crash",
   "type": "fire",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": 100,
   "pp": 10,

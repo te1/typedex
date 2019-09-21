@@ -3,7 +3,7 @@
   "name": "sweet-kiss",
   "caption": "Sweet Kiss",
   "type": "fairy",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 75,
   "pp": 10,

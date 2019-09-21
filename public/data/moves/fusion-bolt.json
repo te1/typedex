@@ -3,7 +3,7 @@
   "name": "fusion-bolt",
   "caption": "Fusion Bolt",
   "type": "electric",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 100,
   "accuracy": 100,
   "pp": 5,

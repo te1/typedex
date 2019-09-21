@@ -3,7 +3,7 @@
   "name": "thousand-waves",
   "caption": "Thousand Waves",
   "type": "ground",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 90,
   "accuracy": 100,
   "pp": 10,

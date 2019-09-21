@@ -3,7 +3,7 @@
   "name": "mega-punch",
   "caption": "Mega Punch",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 80,
   "accuracy": 85,
   "pp": 20,

@@ -3,7 +3,7 @@
   "name": "bone-club",
   "caption": "Bone Club",
   "type": "ground",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 65,
   "accuracy": 85,
   "pp": 20,

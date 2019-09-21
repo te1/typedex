@@ -3,7 +3,7 @@
   "name": "rolling-kick",
   "caption": "Rolling Kick",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 60,
   "accuracy": 85,
   "pp": 15,

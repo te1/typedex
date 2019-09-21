@@ -3,7 +3,7 @@
   "name": "dark-void",
   "caption": "Dark Void",
   "type": "dark",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 50,
   "pp": 10,

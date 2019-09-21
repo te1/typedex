@@ -3,7 +3,7 @@
   "name": "megahorn",
   "caption": "Megahorn",
   "type": "bug",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 120,
   "accuracy": 85,
   "pp": 10,

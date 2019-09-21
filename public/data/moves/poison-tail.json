@@ -3,7 +3,7 @@
   "name": "poison-tail",
   "caption": "Poison Tail",
   "type": "poison",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 50,
   "accuracy": 100,
   "pp": 25,

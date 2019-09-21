@@ -3,7 +3,7 @@
   "name": "kinesis",
   "caption": "Kinesis",
   "type": "psychic",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 80,
   "pp": 15,

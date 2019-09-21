@@ -3,7 +3,7 @@
   "name": "diamond-storm",
   "caption": "Diamond Storm",
   "type": "rock",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 100,
   "accuracy": 95,
   "pp": 5,

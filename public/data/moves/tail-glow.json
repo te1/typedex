@@ -3,7 +3,7 @@
   "name": "tail-glow",
   "caption": "Tail Glow",
   "type": "bug",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

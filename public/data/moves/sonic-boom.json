@@ -3,7 +3,7 @@
   "name": "sonic-boom",
   "caption": "Sonic Boom",
   "type": "normal",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": 90,
   "pp": 20,

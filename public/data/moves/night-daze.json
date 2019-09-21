@@ -3,7 +3,7 @@
   "name": "night-daze",
   "caption": "Night Daze",
   "type": "dark",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 85,
   "accuracy": 95,
   "pp": 10,

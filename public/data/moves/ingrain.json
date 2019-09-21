@@ -3,7 +3,7 @@
   "name": "ingrain",
   "caption": "Ingrain",
   "type": "grass",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

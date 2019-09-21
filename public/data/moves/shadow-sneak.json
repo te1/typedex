@@ -3,7 +3,7 @@
   "name": "shadow-sneak",
   "caption": "Shadow Sneak",
   "type": "ghost",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 40,
   "accuracy": 100,
   "pp": 30,

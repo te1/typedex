@@ -3,7 +3,7 @@
   "name": "sludge-wave",
   "caption": "Sludge Wave",
   "type": "poison",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 95,
   "accuracy": 100,
   "pp": 10,

@@ -3,7 +3,7 @@
   "name": "tail-slap",
   "caption": "Tail Slap",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 25,
   "accuracy": 85,
   "pp": 10,

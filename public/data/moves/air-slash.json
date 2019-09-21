@@ -3,7 +3,7 @@
   "name": "air-slash",
   "caption": "Air Slash",
   "type": "flying",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 75,
   "accuracy": 95,
   "pp": 15,

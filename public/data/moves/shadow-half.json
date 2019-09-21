@@ -3,7 +3,7 @@
   "name": "shadow-half",
   "caption": "Shadow Half",
   "type": "shadow",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": 100,
   "pp": null,

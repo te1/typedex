@@ -3,7 +3,7 @@
   "name": "light-that-burns-the-sky",
   "caption": "Light That Burns the Sky",
   "type": "psychic",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 200,
   "accuracy": null,
   "pp": 1,

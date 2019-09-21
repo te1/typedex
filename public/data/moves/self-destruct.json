@@ -3,7 +3,7 @@
   "name": "self-destruct",
   "caption": "Self-Destruct",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 200,
   "accuracy": 100,
   "pp": 5,

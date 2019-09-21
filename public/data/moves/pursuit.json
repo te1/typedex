@@ -3,7 +3,7 @@
   "name": "pursuit",
   "caption": "Pursuit",
   "type": "dark",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 40,
   "accuracy": 100,
   "pp": 20,

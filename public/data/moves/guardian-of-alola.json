@@ -3,7 +3,7 @@
   "name": "guardian-of-alola",
   "caption": "Guardian of Alola",
   "type": "fairy",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": null,
   "pp": 1,

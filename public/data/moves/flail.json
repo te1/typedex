@@ -3,7 +3,7 @@
   "name": "flail",
   "caption": "Flail",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": 100,
   "pp": 15,

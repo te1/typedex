@@ -3,7 +3,7 @@
   "name": "protect",
   "caption": "Protect",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

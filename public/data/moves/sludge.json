@@ -3,7 +3,7 @@
   "name": "sludge",
   "caption": "Sludge",
   "type": "poison",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 65,
   "accuracy": 100,
   "pp": 20,

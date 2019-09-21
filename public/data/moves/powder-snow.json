@@ -3,7 +3,7 @@
   "name": "powder-snow",
   "caption": "Powder Snow",
   "type": "ice",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 40,
   "accuracy": 100,
   "pp": 25,

@@ -3,7 +3,7 @@
   "name": "poison-jab",
   "caption": "Poison Jab",
   "type": "poison",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 80,
   "accuracy": 100,
   "pp": 20,

@@ -3,7 +3,7 @@
   "name": "mind-blown",
   "caption": "Mind Blown",
   "type": "fire",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 150,
   "accuracy": 100,
   "pp": 5,

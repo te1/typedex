@@ -3,7 +3,7 @@
   "name": "shell-trap",
   "caption": "Shell Trap",
   "type": "fire",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 150,
   "accuracy": 100,
   "pp": 5,

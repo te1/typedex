@@ -3,7 +3,7 @@
   "name": "gigavolt-havoc--physical",
   "caption": "Gigavolt Havoc",
   "type": "electric",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": null,
   "pp": 1,

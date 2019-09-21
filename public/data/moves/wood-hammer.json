@@ -3,7 +3,7 @@
   "name": "wood-hammer",
   "caption": "Wood Hammer",
   "type": "grass",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 120,
   "accuracy": 100,
   "pp": 15,

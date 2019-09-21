@@ -3,7 +3,7 @@
   "name": "poison-powder",
   "caption": "Poison Powder",
   "type": "poison",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 75,
   "pp": 35,

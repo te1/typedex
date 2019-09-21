@@ -3,7 +3,7 @@
   "name": "low-sweep",
   "caption": "Low Sweep",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 65,
   "accuracy": 100,
   "pp": 20,

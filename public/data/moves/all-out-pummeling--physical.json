@@ -3,7 +3,7 @@
   "name": "all-out-pummeling--physical",
   "caption": "All-Out Pummeling",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": null,
   "pp": 1,

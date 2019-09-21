@@ -3,7 +3,7 @@
   "name": "genesis-supernova",
   "caption": "Genesis Supernova",
   "type": "psychic",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 185,
   "accuracy": null,
   "pp": 1,

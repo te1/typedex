@@ -3,7 +3,7 @@
   "name": "freeze-dry",
   "caption": "Freeze-Dry",
   "type": "ice",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 70,
   "accuracy": 100,
   "pp": 20,

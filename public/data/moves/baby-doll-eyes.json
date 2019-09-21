@@ -3,7 +3,7 @@
   "name": "baby-doll-eyes",
   "caption": "Baby-Doll Eyes",
   "type": "fairy",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 30,

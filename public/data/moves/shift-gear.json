@@ -3,7 +3,7 @@
   "name": "shift-gear",
   "caption": "Shift Gear",
   "type": "steel",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

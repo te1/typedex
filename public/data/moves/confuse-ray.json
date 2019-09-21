@@ -3,7 +3,7 @@
   "name": "confuse-ray",
   "caption": "Confuse Ray",
   "type": "ghost",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 10,

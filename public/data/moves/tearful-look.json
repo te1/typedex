@@ -3,7 +3,7 @@
   "name": "tearful-look",
   "caption": "Tearful Look",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

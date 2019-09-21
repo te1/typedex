@@ -3,7 +3,7 @@
   "name": "sleep-powder",
   "caption": "Sleep Powder",
   "type": "grass",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 75,
   "pp": 15,

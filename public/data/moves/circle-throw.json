@@ -3,7 +3,7 @@
   "name": "circle-throw",
   "caption": "Circle Throw",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 60,
   "accuracy": 90,
   "pp": 10,

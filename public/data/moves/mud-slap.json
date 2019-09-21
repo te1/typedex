@@ -3,7 +3,7 @@
   "name": "mud-slap",
   "caption": "Mud-Slap",
   "type": "ground",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 20,
   "accuracy": 100,
   "pp": 10,

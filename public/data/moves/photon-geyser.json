@@ -3,7 +3,7 @@
   "name": "photon-geyser",
   "caption": "Photon Geyser",
   "type": "psychic",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 100,
   "accuracy": 100,
   "pp": 5,

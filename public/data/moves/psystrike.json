@@ -3,7 +3,7 @@
   "name": "psystrike",
   "caption": "Psystrike",
   "type": "psychic",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 100,
   "accuracy": 100,
   "pp": 10,

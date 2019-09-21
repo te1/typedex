@@ -3,7 +3,7 @@
   "name": "shadow-mist",
   "caption": "Shadow Mist",
   "type": "shadow",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": null,

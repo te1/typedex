@@ -3,7 +3,7 @@
   "name": "iron-tail",
   "caption": "Iron Tail",
   "type": "steel",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 100,
   "accuracy": 75,
   "pp": 15,

@@ -3,7 +3,7 @@
   "name": "cross-chop",
   "caption": "Cross Chop",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 100,
   "accuracy": 80,
   "pp": 5,

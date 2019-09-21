@@ -3,7 +3,7 @@
   "name": "wide-guard",
   "caption": "Wide Guard",
   "type": "rock",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

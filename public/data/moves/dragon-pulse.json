@@ -3,7 +3,7 @@
   "name": "dragon-pulse",
   "caption": "Dragon Pulse",
   "type": "dragon",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 85,
   "accuracy": 100,
   "pp": 10,

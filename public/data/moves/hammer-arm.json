@@ -3,7 +3,7 @@
   "name": "hammer-arm",
   "caption": "Hammer Arm",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 100,
   "accuracy": 90,
   "pp": 10,

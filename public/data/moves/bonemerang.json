@@ -3,7 +3,7 @@
   "name": "bonemerang",
   "caption": "Bonemerang",
   "type": "ground",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 50,
   "accuracy": 90,
   "pp": 10,

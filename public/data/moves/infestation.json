@@ -3,7 +3,7 @@
   "name": "infestation",
   "caption": "Infestation",
   "type": "bug",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 20,
   "accuracy": 100,
   "pp": 20,

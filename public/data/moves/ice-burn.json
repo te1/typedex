@@ -3,7 +3,7 @@
   "name": "ice-burn",
   "caption": "Ice Burn",
   "type": "ice",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 140,
   "accuracy": 90,
   "pp": 5,

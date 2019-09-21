@@ -3,7 +3,7 @@
   "name": "corkscrew-crash--physical",
   "caption": "Corkscrew Crash",
   "type": "steel",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": null,
   "pp": 1,

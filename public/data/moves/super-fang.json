@@ -3,7 +3,7 @@
   "name": "super-fang",
   "caption": "Super Fang",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": 90,
   "pp": 10,

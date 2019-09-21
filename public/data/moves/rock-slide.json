@@ -3,7 +3,7 @@
   "name": "rock-slide",
   "caption": "Rock Slide",
   "type": "rock",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 75,
   "accuracy": 90,
   "pp": 10,

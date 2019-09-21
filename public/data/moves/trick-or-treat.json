@@ -3,7 +3,7 @@
   "name": "trick-or-treat",
   "caption": "Trick-or-Treat",
   "type": "ghost",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 20,

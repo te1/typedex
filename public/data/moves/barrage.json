@@ -3,7 +3,7 @@
   "name": "barrage",
   "caption": "Barrage",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 15,
   "accuracy": 85,
   "pp": 20,

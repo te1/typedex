@@ -3,7 +3,7 @@
   "name": "substitute",
   "caption": "Substitute",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

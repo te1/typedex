@@ -3,7 +3,7 @@
   "name": "noble-roar",
   "caption": "Noble Roar",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 30,

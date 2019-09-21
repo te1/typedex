@@ -3,7 +3,7 @@
   "name": "solar-blade",
   "caption": "Solar Blade",
   "type": "grass",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 125,
   "accuracy": 100,
   "pp": 10,

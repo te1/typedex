@@ -3,7 +3,7 @@
   "name": "icicle-spear",
   "caption": "Icicle Spear",
   "type": "ice",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 25,
   "accuracy": 100,
   "pp": 30,

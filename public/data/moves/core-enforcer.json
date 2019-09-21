@@ -3,7 +3,7 @@
   "name": "core-enforcer",
   "caption": "Core Enforcer",
   "type": "dragon",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 100,
   "accuracy": 100,
   "pp": 10,

@@ -3,7 +3,7 @@
   "name": "prismatic-laser",
   "caption": "Prismatic Laser",
   "type": "psychic",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 160,
   "accuracy": 100,
   "pp": 10,

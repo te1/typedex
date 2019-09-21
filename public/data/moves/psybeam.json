@@ -3,7 +3,7 @@
   "name": "psybeam",
   "caption": "Psybeam",
   "type": "psychic",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 65,
   "accuracy": 100,
   "pp": 20,

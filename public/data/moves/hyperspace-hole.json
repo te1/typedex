@@ -3,7 +3,7 @@
   "name": "hyperspace-hole",
   "caption": "Hyperspace Hole",
   "type": "psychic",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 80,
   "accuracy": null,
   "pp": 5,

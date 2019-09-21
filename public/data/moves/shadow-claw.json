@@ -3,7 +3,7 @@
   "name": "shadow-claw",
   "caption": "Shadow Claw",
   "type": "ghost",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 70,
   "accuracy": 100,
   "pp": 15,

@@ -3,7 +3,7 @@
   "name": "eruption",
   "caption": "Eruption",
   "type": "fire",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 150,
   "accuracy": 100,
   "pp": 5,

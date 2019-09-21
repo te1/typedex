@@ -3,7 +3,7 @@
   "name": "false-swipe",
   "caption": "False Swipe",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 40,
   "accuracy": 100,
   "pp": 40,

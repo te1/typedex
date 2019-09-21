@@ -3,7 +3,7 @@
   "name": "rock-climb",
   "caption": "Rock Climb",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 90,
   "accuracy": 85,
   "pp": 20,

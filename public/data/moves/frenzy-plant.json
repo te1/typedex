@@ -3,7 +3,7 @@
   "name": "frenzy-plant",
   "caption": "Frenzy Plant",
   "type": "grass",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 150,
   "accuracy": 90,
   "pp": 5,

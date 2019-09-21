@@ -3,7 +3,7 @@
   "name": "sing",
   "caption": "Sing",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 55,
   "pp": 15,

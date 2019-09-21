@@ -3,7 +3,7 @@
   "name": "arm-thrust",
   "caption": "Arm Thrust",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 15,
   "accuracy": 100,
   "pp": 20,

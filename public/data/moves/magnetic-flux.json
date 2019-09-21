@@ -3,7 +3,7 @@
   "name": "magnetic-flux",
   "caption": "Magnetic Flux",
   "type": "electric",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

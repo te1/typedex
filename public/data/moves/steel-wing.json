@@ -3,7 +3,7 @@
   "name": "steel-wing",
   "caption": "Steel Wing",
   "type": "steel",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 70,
   "accuracy": 90,
   "pp": 25,

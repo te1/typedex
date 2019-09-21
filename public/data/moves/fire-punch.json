@@ -3,7 +3,7 @@
   "name": "fire-punch",
   "caption": "Fire Punch",
   "type": "fire",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 75,
   "accuracy": 100,
   "pp": 15,

@@ -3,7 +3,7 @@
   "name": "aerial-ace",
   "caption": "Aerial Ace",
   "type": "flying",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 60,
   "accuracy": null,
   "pp": 20,

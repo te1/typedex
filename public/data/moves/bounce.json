@@ -3,7 +3,7 @@
   "name": "bounce",
   "caption": "Bounce",
   "type": "flying",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 85,
   "accuracy": 85,
   "pp": 5,

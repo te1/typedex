@@ -3,7 +3,7 @@
   "name": "mirror-coat",
   "caption": "Mirror Coat",
   "type": "psychic",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": 100,
   "pp": 20,

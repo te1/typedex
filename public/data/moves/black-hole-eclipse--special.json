@@ -3,7 +3,7 @@
   "name": "black-hole-eclipse--special",
   "caption": "Black Hole Eclipse",
   "type": "dark",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": null,
   "pp": 1,

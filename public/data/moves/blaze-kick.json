@@ -3,7 +3,7 @@
   "name": "blaze-kick",
   "caption": "Blaze Kick",
   "type": "fire",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 85,
   "accuracy": 90,
   "pp": 10,

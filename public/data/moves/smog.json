@@ -3,7 +3,7 @@
   "name": "smog",
   "caption": "Smog",
   "type": "poison",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 30,
   "accuracy": 70,
   "pp": 20,

@@ -3,7 +3,7 @@
   "name": "sparkling-aria",
   "caption": "Sparkling Aria",
   "type": "water",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 90,
   "accuracy": 100,
   "pp": 10,

@@ -3,7 +3,7 @@
   "name": "aurora-beam",
   "caption": "Aurora Beam",
   "type": "ice",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 65,
   "accuracy": 100,
   "pp": 20,

@@ -3,7 +3,7 @@
   "name": "sunny-day",
   "caption": "Sunny Day",
   "type": "fire",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 5,

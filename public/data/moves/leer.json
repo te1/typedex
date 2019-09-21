@@ -3,7 +3,7 @@
   "name": "leer",
   "caption": "Leer",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 30,

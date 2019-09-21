@@ -3,7 +3,7 @@
   "name": "supersonic-skystrike--special",
   "caption": "Supersonic Skystrike",
   "type": "flying",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": null,
   "pp": 1,

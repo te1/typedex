@@ -3,7 +3,7 @@
   "name": "sky-uppercut",
   "caption": "Sky Uppercut",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 85,
   "accuracy": 90,
   "pp": 15,

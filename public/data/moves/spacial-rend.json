@@ -3,7 +3,7 @@
   "name": "spacial-rend",
   "caption": "Spacial Rend",
   "type": "dragon",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 100,
   "accuracy": 95,
   "pp": 5,

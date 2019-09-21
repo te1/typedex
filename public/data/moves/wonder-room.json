@@ -3,7 +3,7 @@
   "name": "wonder-room",
   "caption": "Wonder Room",
   "type": "psychic",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

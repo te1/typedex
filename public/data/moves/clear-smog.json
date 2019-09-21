@@ -3,7 +3,7 @@
   "name": "clear-smog",
   "caption": "Clear Smog",
   "type": "poison",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 50,
   "accuracy": null,
   "pp": 15,

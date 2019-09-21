@@ -3,7 +3,7 @@
   "name": "giga-drain",
   "caption": "Giga Drain",
   "type": "grass",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 75,
   "accuracy": 100,
   "pp": 10,

@@ -3,7 +3,7 @@
   "name": "calm-mind",
   "caption": "Calm Mind",
   "type": "psychic",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

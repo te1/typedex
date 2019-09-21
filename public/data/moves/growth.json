@@ -3,7 +3,7 @@
   "name": "growth",
   "caption": "Growth",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

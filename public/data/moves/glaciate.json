@@ -3,7 +3,7 @@
   "name": "glaciate",
   "caption": "Glaciate",
   "type": "ice",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 65,
   "accuracy": 95,
   "pp": 10,

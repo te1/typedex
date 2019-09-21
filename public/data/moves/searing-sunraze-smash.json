@@ -3,7 +3,7 @@
   "name": "searing-sunraze-smash",
   "caption": "Searing Sunraze Smash",
   "type": "steel",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 200,
   "accuracy": null,
   "pp": 1,

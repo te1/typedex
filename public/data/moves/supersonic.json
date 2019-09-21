@@ -3,7 +3,7 @@
   "name": "supersonic",
   "caption": "Supersonic",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 55,
   "pp": 20,

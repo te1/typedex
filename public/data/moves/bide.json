@@ -3,7 +3,7 @@
   "name": "bide",
   "caption": "Bide",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": null,
   "pp": 10,

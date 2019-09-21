@@ -3,7 +3,7 @@
   "name": "cut",
   "caption": "Cut",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 50,
   "accuracy": 95,
   "pp": 30,

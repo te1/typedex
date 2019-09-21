@@ -3,7 +3,7 @@
   "name": "string-shot",
   "caption": "String Shot",
   "type": "bug",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 95,
   "pp": 40,

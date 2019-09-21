@@ -3,7 +3,7 @@
   "name": "dragon-rage",
   "caption": "Dragon Rage",
   "type": "dragon",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": 100,
   "pp": 10,

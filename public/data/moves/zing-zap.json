@@ -3,7 +3,7 @@
   "name": "zing-zap",
   "caption": "Zing Zap",
   "type": "electric",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 80,
   "accuracy": 100,
   "pp": 10,

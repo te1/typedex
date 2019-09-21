@@ -3,7 +3,7 @@
   "name": "pin-missile",
   "caption": "Pin Missile",
   "type": "bug",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 25,
   "accuracy": 95,
   "pp": 20,

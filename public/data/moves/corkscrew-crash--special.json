@@ -3,7 +3,7 @@
   "name": "corkscrew-crash--special",
   "caption": "Corkscrew Crash",
   "type": "steel",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": null,
   "pp": 1,

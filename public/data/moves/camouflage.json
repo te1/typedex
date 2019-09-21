@@ -3,7 +3,7 @@
   "name": "camouflage",
   "caption": "Camouflage",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

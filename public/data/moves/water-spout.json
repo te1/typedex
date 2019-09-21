@@ -3,7 +3,7 @@
   "name": "water-spout",
   "caption": "Water Spout",
   "type": "water",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 150,
   "accuracy": 100,
   "pp": 5,

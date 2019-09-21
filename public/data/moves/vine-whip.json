@@ -3,7 +3,7 @@
   "name": "vine-whip",
   "caption": "Vine Whip",
   "type": "grass",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 45,
   "accuracy": 100,
   "pp": 25,

@@ -3,7 +3,7 @@
   "name": "waterfall",
   "caption": "Waterfall",
   "type": "water",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 80,
   "accuracy": 100,
   "pp": 15,

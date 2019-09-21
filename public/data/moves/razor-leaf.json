@@ -3,7 +3,7 @@
   "name": "razor-leaf",
   "caption": "Razor Leaf",
   "type": "grass",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 55,
   "accuracy": 95,
   "pp": 25,

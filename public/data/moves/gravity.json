@@ -3,7 +3,7 @@
   "name": "gravity",
   "caption": "Gravity",
   "type": "psychic",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 5,

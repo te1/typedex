@@ -3,7 +3,7 @@
   "name": "simple-beam",
   "caption": "Simple Beam",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 15,

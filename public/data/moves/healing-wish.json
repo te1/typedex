@@ -3,7 +3,7 @@
   "name": "healing-wish",
   "caption": "Healing Wish",
   "type": "psychic",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

@@ -3,7 +3,7 @@
   "name": "heart-swap",
   "caption": "Heart Swap",
   "type": "psychic",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

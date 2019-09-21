@@ -3,7 +3,7 @@
   "name": "round",
   "caption": "Round",
   "type": "normal",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 60,
   "accuracy": 100,
   "pp": 15,

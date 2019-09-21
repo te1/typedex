@@ -3,7 +3,7 @@
   "name": "power-trip",
   "caption": "Power Trip",
   "type": "dark",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 20,
   "accuracy": 100,
   "pp": 10,

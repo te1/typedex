@@ -3,7 +3,7 @@
   "name": "fury-cutter",
   "caption": "Fury Cutter",
   "type": "bug",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 40,
   "accuracy": 95,
   "pp": 20,

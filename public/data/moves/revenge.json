@@ -3,7 +3,7 @@
   "name": "revenge",
   "caption": "Revenge",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 60,
   "accuracy": 100,
   "pp": 10,

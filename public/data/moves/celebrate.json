@@ -3,7 +3,7 @@
   "name": "celebrate",
   "caption": "Celebrate",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 40,

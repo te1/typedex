@@ -3,7 +3,7 @@
   "name": "blast-burn",
   "caption": "Blast Burn",
   "type": "fire",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 150,
   "accuracy": 90,
   "pp": 5,

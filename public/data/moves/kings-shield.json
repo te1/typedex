@@ -3,7 +3,7 @@
   "name": "kings-shield",
   "caption": "King’s Shield",
   "type": "steel",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

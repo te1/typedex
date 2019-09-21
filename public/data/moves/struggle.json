@@ -3,7 +3,7 @@
   "name": "struggle",
   "caption": "Struggle",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 50,
   "accuracy": null,
   "pp": 1,

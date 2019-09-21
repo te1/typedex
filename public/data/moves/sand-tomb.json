@@ -3,7 +3,7 @@
   "name": "sand-tomb",
   "caption": "Sand Tomb",
   "type": "ground",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 35,
   "accuracy": 85,
   "pp": 15,

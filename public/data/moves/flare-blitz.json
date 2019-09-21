@@ -3,7 +3,7 @@
   "name": "flare-blitz",
   "caption": "Flare Blitz",
   "type": "fire",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 120,
   "accuracy": 100,
   "pp": 15,

@@ -3,7 +3,7 @@
   "name": "giga-impact",
   "caption": "Giga Impact",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 150,
   "accuracy": 90,
   "pp": 5,

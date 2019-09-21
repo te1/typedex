@@ -3,7 +3,7 @@
   "name": "shadow-down",
   "caption": "Shadow Down",
   "type": "shadow",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": null,

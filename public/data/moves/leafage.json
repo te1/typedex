@@ -3,7 +3,7 @@
   "name": "leafage",
   "caption": "Leafage",
   "type": "grass",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 40,
   "accuracy": 100,
   "pp": 40,

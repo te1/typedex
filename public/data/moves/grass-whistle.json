@@ -3,7 +3,7 @@
   "name": "grass-whistle",
   "caption": "Grass Whistle",
   "type": "grass",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 55,
   "pp": 15,

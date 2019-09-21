@@ -3,7 +3,7 @@
   "name": "snatch",
   "caption": "Snatch",
   "type": "dark",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

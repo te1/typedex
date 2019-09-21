@@ -3,7 +3,7 @@
   "name": "toxic",
   "caption": "Toxic",
   "type": "poison",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 90,
   "pp": 10,

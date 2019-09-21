@@ -3,7 +3,7 @@
   "name": "bulk-up",
   "caption": "Bulk Up",
   "type": "fighting",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

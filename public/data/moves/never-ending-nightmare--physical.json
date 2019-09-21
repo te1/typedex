@@ -3,7 +3,7 @@
   "name": "never-ending-nightmare--physical",
   "caption": "Never-Ending Nightmare",
   "type": "ghost",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": null,
   "pp": 1,

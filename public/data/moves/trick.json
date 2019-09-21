@@ -3,7 +3,7 @@
   "name": "trick",
   "caption": "Trick",
   "type": "psychic",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 10,

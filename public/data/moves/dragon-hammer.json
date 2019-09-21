@@ -3,7 +3,7 @@
   "name": "dragon-hammer",
   "caption": "Dragon Hammer",
   "type": "dragon",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 90,
   "accuracy": 100,
   "pp": 15,

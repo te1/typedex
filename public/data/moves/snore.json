@@ -3,7 +3,7 @@
   "name": "snore",
   "caption": "Snore",
   "type": "normal",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 50,
   "accuracy": 100,
   "pp": 15,

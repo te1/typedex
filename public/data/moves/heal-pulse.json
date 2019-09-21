@@ -3,7 +3,7 @@
   "name": "heal-pulse",
   "caption": "Heal Pulse",
   "type": "psychic",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

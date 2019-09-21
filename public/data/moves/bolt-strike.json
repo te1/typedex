@@ -3,7 +3,7 @@
   "name": "bolt-strike",
   "caption": "Bolt Strike",
   "type": "electric",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 130,
   "accuracy": 85,
   "pp": 5,

@@ -3,7 +3,7 @@
   "name": "grassy-terrain",
   "caption": "Grassy Terrain",
   "type": "grass",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

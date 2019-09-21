@@ -3,7 +3,7 @@
   "name": "sacred-fire",
   "caption": "Sacred Fire",
   "type": "fire",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 100,
   "accuracy": 95,
   "pp": 5,

@@ -3,7 +3,7 @@
   "name": "rock-tomb",
   "caption": "Rock Tomb",
   "type": "rock",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 60,
   "accuracy": 95,
   "pp": 15,

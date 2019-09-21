@@ -3,7 +3,7 @@
   "name": "flower-shield",
   "caption": "Flower Shield",
   "type": "fairy",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

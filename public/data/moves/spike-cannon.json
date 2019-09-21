@@ -3,7 +3,7 @@
   "name": "spike-cannon",
   "caption": "Spike Cannon",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 20,
   "accuracy": 100,
   "pp": 15,

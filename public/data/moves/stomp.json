@@ -3,7 +3,7 @@
   "name": "stomp",
   "caption": "Stomp",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 65,
   "accuracy": 100,
   "pp": 20,

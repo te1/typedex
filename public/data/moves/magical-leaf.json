@@ -3,7 +3,7 @@
   "name": "magical-leaf",
   "caption": "Magical Leaf",
   "type": "grass",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 60,
   "accuracy": null,
   "pp": 20,

@@ -3,7 +3,7 @@
   "name": "roost",
   "caption": "Roost",
   "type": "flying",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

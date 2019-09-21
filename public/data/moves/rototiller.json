@@ -3,7 +3,7 @@
   "name": "rototiller",
   "caption": "Rototiller",
   "type": "ground",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

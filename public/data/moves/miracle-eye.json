@@ -3,7 +3,7 @@
   "name": "miracle-eye",
   "caption": "Miracle Eye",
   "type": "psychic",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 40,

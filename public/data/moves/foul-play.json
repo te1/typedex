@@ -3,7 +3,7 @@
   "name": "foul-play",
   "caption": "Foul Play",
   "type": "dark",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 95,
   "accuracy": 100,
   "pp": 15,

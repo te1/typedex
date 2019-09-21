@@ -3,7 +3,7 @@
   "name": "nature-power",
   "caption": "Nature Power",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

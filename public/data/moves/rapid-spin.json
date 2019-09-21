@@ -3,7 +3,7 @@
   "name": "rapid-spin",
   "caption": "Rapid Spin",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 20,
   "accuracy": 100,
   "pp": 40,

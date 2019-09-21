@@ -3,7 +3,7 @@
   "name": "icy-wind",
   "caption": "Icy Wind",
   "type": "ice",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 55,
   "accuracy": 95,
   "pp": 15,

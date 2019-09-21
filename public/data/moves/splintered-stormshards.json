@@ -3,7 +3,7 @@
   "name": "splintered-stormshards",
   "caption": "Splintered Stormshards",
   "type": "rock",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 190,
   "accuracy": null,
   "pp": 1,

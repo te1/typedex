@@ -3,7 +3,7 @@
   "name": "dragon-tail",
   "caption": "Dragon Tail",
   "type": "dragon",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 60,
   "accuracy": 90,
   "pp": 10,

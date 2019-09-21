@@ -3,7 +3,7 @@
   "name": "rock-smash",
   "caption": "Rock Smash",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 40,
   "accuracy": 100,
   "pp": 15,

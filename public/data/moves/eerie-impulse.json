@@ -3,7 +3,7 @@
   "name": "eerie-impulse",
   "caption": "Eerie Impulse",
   "type": "electric",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 15,

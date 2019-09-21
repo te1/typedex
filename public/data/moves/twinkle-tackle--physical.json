@@ -3,7 +3,7 @@
   "name": "twinkle-tackle--physical",
   "caption": "Twinkle Tackle",
   "type": "fairy",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": null,
   "pp": 1,

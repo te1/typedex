@@ -3,7 +3,7 @@
   "name": "rage-powder",
   "caption": "Rage Powder",
   "type": "bug",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

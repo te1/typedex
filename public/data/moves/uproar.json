@@ -3,7 +3,7 @@
   "name": "uproar",
   "caption": "Uproar",
   "type": "normal",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 90,
   "accuracy": 100,
   "pp": 10,

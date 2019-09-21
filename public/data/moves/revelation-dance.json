@@ -3,7 +3,7 @@
   "name": "revelation-dance",
   "caption": "Revelation Dance",
   "type": "normal",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 90,
   "accuracy": 100,
   "pp": 15,

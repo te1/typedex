@@ -3,7 +3,7 @@
   "name": "electroweb",
   "caption": "Electroweb",
   "type": "electric",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 55,
   "accuracy": 95,
   "pp": 15,

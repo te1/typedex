@@ -3,7 +3,7 @@
   "name": "steam-eruption",
   "caption": "Steam Eruption",
   "type": "water",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 110,
   "accuracy": 95,
   "pp": 5,

@@ -3,7 +3,7 @@
   "name": "dark-pulse",
   "caption": "Dark Pulse",
   "type": "dark",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 80,
   "accuracy": 100,
   "pp": 15,

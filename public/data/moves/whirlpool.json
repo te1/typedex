@@ -3,7 +3,7 @@
   "name": "whirlpool",
   "caption": "Whirlpool",
   "type": "water",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 35,
   "accuracy": 85,
   "pp": 15,

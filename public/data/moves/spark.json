@@ -3,7 +3,7 @@
   "name": "spark",
   "caption": "Spark",
   "type": "electric",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 65,
   "accuracy": 100,
   "pp": 20,

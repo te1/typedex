@@ -3,7 +3,7 @@
   "name": "shadow-storm",
   "caption": "Shadow Storm",
   "type": "shadow",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 95,
   "accuracy": 100,
   "pp": null,

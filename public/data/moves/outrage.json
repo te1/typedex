@@ -3,7 +3,7 @@
   "name": "outrage",
   "caption": "Outrage",
   "type": "dragon",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 120,
   "accuracy": 100,
   "pp": 10,

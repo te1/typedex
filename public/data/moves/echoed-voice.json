@@ -3,7 +3,7 @@
   "name": "echoed-voice",
   "caption": "Echoed Voice",
   "type": "normal",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 40,
   "accuracy": 100,
   "pp": 15,

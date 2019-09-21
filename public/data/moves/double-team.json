@@ -3,7 +3,7 @@
   "name": "double-team",
   "caption": "Double Team",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 15,

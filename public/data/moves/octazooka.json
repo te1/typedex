@@ -3,7 +3,7 @@
   "name": "octazooka",
   "caption": "Octazooka",
   "type": "water",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 65,
   "accuracy": 85,
   "pp": 10,

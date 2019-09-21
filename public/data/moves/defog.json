@@ -3,7 +3,7 @@
   "name": "defog",
   "caption": "Defog",
   "type": "flying",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 15,

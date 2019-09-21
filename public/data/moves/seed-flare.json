@@ -3,7 +3,7 @@
   "name": "seed-flare",
   "caption": "Seed Flare",
   "type": "grass",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 120,
   "accuracy": 85,
   "pp": 5,

@@ -3,7 +3,7 @@
   "name": "energy-ball",
   "caption": "Energy Ball",
   "type": "grass",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 90,
   "accuracy": 100,
   "pp": 10,

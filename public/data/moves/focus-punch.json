@@ -3,7 +3,7 @@
   "name": "focus-punch",
   "caption": "Focus Punch",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 150,
   "accuracy": 100,
   "pp": 20,

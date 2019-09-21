@@ -3,7 +3,7 @@
   "name": "moonlight",
   "caption": "Moonlight",
   "type": "fairy",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 5,

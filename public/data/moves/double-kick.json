@@ -3,7 +3,7 @@
   "name": "double-kick",
   "caption": "Double Kick",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 30,
   "accuracy": 100,
   "pp": 30,

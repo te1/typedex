@@ -3,7 +3,7 @@
   "name": "bubble",
   "caption": "Bubble",
   "type": "water",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 40,
   "accuracy": 100,
   "pp": 30,

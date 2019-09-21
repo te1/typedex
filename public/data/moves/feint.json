@@ -3,7 +3,7 @@
   "name": "feint",
   "caption": "Feint",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 30,
   "accuracy": 100,
   "pp": 10,

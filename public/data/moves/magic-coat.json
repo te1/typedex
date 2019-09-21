@@ -3,7 +3,7 @@
   "name": "magic-coat",
   "caption": "Magic Coat",
   "type": "psychic",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 15,

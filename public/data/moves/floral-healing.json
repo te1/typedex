@@ -3,7 +3,7 @@
   "name": "floral-healing",
   "caption": "Floral Healing",
   "type": "fairy",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

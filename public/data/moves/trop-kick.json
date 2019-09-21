@@ -3,7 +3,7 @@
   "name": "trop-kick",
   "caption": "Trop Kick",
   "type": "grass",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 70,
   "accuracy": 100,
   "pp": 15,

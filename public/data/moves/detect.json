@@ -3,7 +3,7 @@
   "name": "detect",
   "caption": "Detect",
   "type": "fighting",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 5,

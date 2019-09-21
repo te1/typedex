@@ -3,7 +3,7 @@
   "name": "magnet-bomb",
   "caption": "Magnet Bomb",
   "type": "steel",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 60,
   "accuracy": null,
   "pp": 20,

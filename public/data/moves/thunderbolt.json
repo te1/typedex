@@ -3,7 +3,7 @@
   "name": "thunderbolt",
   "caption": "Thunderbolt",
   "type": "electric",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 90,
   "accuracy": 100,
   "pp": 15,

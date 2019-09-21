@@ -3,7 +3,7 @@
   "name": "ice-ball",
   "caption": "Ice Ball",
   "type": "ice",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 30,
   "accuracy": 90,
   "pp": 20,

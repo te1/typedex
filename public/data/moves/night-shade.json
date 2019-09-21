@@ -3,7 +3,7 @@
   "name": "night-shade",
   "caption": "Night Shade",
   "type": "ghost",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": 100,
   "pp": 15,

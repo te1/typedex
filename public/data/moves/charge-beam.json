@@ -3,7 +3,7 @@
   "name": "charge-beam",
   "caption": "Charge Beam",
   "type": "electric",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 50,
   "accuracy": 90,
   "pp": 10,

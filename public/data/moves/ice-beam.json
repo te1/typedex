@@ -3,7 +3,7 @@
   "name": "ice-beam",
   "caption": "Ice Beam",
   "type": "ice",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 90,
   "accuracy": 100,
   "pp": 10,

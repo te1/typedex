@@ -3,7 +3,7 @@
   "name": "horn-leech",
   "caption": "Horn Leech",
   "type": "grass",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 75,
   "accuracy": 100,
   "pp": 10,

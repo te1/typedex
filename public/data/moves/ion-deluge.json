@@ -3,7 +3,7 @@
   "name": "ion-deluge",
   "caption": "Ion Deluge",
   "type": "electric",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 25,

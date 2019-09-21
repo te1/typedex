@@ -3,7 +3,7 @@
   "name": "drain-punch",
   "caption": "Drain Punch",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 75,
   "accuracy": 100,
   "pp": 10,

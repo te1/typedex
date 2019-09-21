@@ -3,7 +3,7 @@
   "name": "thousand-arrows",
   "caption": "Thousand Arrows",
   "type": "ground",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 90,
   "accuracy": 100,
   "pp": 10,

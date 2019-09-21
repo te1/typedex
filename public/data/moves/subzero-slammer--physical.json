@@ -3,7 +3,7 @@
   "name": "subzero-slammer--physical",
   "caption": "Subzero Slammer",
   "type": "ice",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": null,
   "pp": 1,

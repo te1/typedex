@@ -3,7 +3,7 @@
   "name": "water-pulse",
   "caption": "Water Pulse",
   "type": "water",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 60,
   "accuracy": 100,
   "pp": 20,

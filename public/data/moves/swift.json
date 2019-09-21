@@ -3,7 +3,7 @@
   "name": "swift",
   "caption": "Swift",
   "type": "normal",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 60,
   "accuracy": null,
   "pp": 20,

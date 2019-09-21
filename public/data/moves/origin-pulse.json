@@ -3,7 +3,7 @@
   "name": "origin-pulse",
   "caption": "Origin Pulse",
   "type": "water",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 110,
   "accuracy": 85,
   "pp": 10,

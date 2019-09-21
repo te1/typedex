@@ -3,7 +3,7 @@
   "name": "twinkle-tackle--special",
   "caption": "Twinkle Tackle",
   "type": "fairy",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": null,
   "pp": 1,

@@ -3,7 +3,7 @@
   "name": "hypnosis",
   "caption": "Hypnosis",
   "type": "psychic",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 60,
   "pp": 20,

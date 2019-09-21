@@ -3,7 +3,7 @@
   "name": "flying-press",
   "caption": "Flying Press",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 100,
   "accuracy": 95,
   "pp": 10,

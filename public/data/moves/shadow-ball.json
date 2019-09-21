@@ -3,7 +3,7 @@
   "name": "shadow-ball",
   "caption": "Shadow Ball",
   "type": "ghost",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 80,
   "accuracy": 100,
   "pp": 15,

@@ -3,7 +3,7 @@
   "name": "ally-switch",
   "caption": "Ally Switch",
   "type": "psychic",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 15,

@@ -3,7 +3,7 @@
   "name": "aura-sphere",
   "caption": "Aura Sphere",
   "type": "fighting",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 80,
   "accuracy": null,
   "pp": 20,

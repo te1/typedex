@@ -3,7 +3,7 @@
   "name": "shadow-panic",
   "caption": "Shadow Panic",
   "type": "shadow",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 90,
   "pp": null,

@@ -3,7 +3,7 @@
   "name": "savage-spin-out--physical",
   "caption": "Savage Spin-Out",
   "type": "bug",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": null,
   "pp": 1,

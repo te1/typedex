@@ -3,7 +3,7 @@
   "name": "topsy-turvy",
   "caption": "Topsy-Turvy",
   "type": "dark",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

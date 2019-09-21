@@ -3,7 +3,7 @@
   "name": "nuzzle",
   "caption": "Nuzzle",
   "type": "electric",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 20,
   "accuracy": 100,
   "pp": 20,

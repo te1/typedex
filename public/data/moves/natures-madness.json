@@ -3,7 +3,7 @@
   "name": "natures-madness",
   "caption": "Nature’s Madness",
   "type": "fairy",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": 90,
   "pp": 10,

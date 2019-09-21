@@ -3,7 +3,7 @@
   "name": "leech-seed",
   "caption": "Leech Seed",
   "type": "grass",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 90,
   "pp": 10,

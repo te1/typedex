@@ -3,7 +3,7 @@
   "name": "brutal-swing",
   "caption": "Brutal Swing",
   "type": "dark",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 60,
   "accuracy": 100,
   "pp": 20,

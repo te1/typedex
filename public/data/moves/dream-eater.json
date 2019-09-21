@@ -3,7 +3,7 @@
   "name": "dream-eater",
   "caption": "Dream Eater",
   "type": "psychic",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 100,
   "accuracy": 100,
   "pp": 15,

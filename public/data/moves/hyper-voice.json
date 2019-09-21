@@ -3,7 +3,7 @@
   "name": "hyper-voice",
   "caption": "Hyper Voice",
   "type": "normal",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 90,
   "accuracy": 100,
   "pp": 10,

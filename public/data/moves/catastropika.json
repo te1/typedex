@@ -3,7 +3,7 @@
   "name": "catastropika",
   "caption": "Catastropika",
   "type": "electric",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 210,
   "accuracy": null,
   "pp": 1,

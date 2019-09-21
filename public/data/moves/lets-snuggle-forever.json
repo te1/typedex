@@ -3,7 +3,7 @@
   "name": "lets-snuggle-forever",
   "caption": "Let’s Snuggle Forever",
   "type": "fairy",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 190,
   "accuracy": null,
   "pp": 1,

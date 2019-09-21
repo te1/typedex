@@ -3,7 +3,7 @@
   "name": "karate-chop",
   "caption": "Karate Chop",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 50,
   "accuracy": 100,
   "pp": 25,

@@ -3,7 +3,7 @@
   "name": "spore",
   "caption": "Spore",
   "type": "grass",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 15,

@@ -3,7 +3,7 @@
   "name": "magma-storm",
   "caption": "Magma Storm",
   "type": "fire",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 100,
   "accuracy": 75,
   "pp": 5,

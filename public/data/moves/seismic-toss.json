@@ -3,7 +3,7 @@
   "name": "seismic-toss",
   "caption": "Seismic Toss",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": 100,
   "pp": 20,

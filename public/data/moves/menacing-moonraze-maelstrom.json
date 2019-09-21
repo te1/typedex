@@ -3,7 +3,7 @@
   "name": "menacing-moonraze-maelstrom",
   "caption": "Menacing Moonraze Maelstrom",
   "type": "ghost",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 200,
   "accuracy": null,
   "pp": 1,

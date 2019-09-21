@@ -3,7 +3,7 @@
   "name": "wring-out",
   "caption": "Wring Out",
   "type": "normal",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": 100,
   "pp": 5,

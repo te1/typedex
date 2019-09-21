@@ -3,7 +3,7 @@
   "name": "spit-up",
   "caption": "Spit Up",
   "type": "normal",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": 100,
   "pp": 10,

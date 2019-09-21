@@ -3,7 +3,7 @@
   "name": "metal-burst",
   "caption": "Metal Burst",
   "type": "steel",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": 100,
   "pp": 10,

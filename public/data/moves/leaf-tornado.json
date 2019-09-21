@@ -3,7 +3,7 @@
   "name": "leaf-tornado",
   "caption": "Leaf Tornado",
   "type": "grass",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 65,
   "accuracy": 90,
   "pp": 10,

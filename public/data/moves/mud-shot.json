@@ -3,7 +3,7 @@
   "name": "mud-shot",
   "caption": "Mud Shot",
   "type": "ground",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 55,
   "accuracy": 95,
   "pp": 15,

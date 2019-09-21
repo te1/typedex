@@ -3,7 +3,7 @@
   "name": "dragon-claw",
   "caption": "Dragon Claw",
   "type": "dragon",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 80,
   "accuracy": 100,
   "pp": 15,

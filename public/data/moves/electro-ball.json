@@ -3,7 +3,7 @@
   "name": "electro-ball",
   "caption": "Electro Ball",
   "type": "electric",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": 100,
   "pp": 10,

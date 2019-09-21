@@ -3,7 +3,7 @@
   "name": "air-cutter",
   "caption": "Air Cutter",
   "type": "flying",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 60,
   "accuracy": 95,
   "pp": 25,

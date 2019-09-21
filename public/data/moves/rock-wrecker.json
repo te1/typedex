@@ -3,7 +3,7 @@
   "name": "rock-wrecker",
   "caption": "Rock Wrecker",
   "type": "rock",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 150,
   "accuracy": 90,
   "pp": 5,

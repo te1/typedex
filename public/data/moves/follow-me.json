@@ -3,7 +3,7 @@
   "name": "follow-me",
   "caption": "Follow Me",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

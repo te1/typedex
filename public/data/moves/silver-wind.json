@@ -3,7 +3,7 @@
   "name": "silver-wind",
   "caption": "Silver Wind",
   "type": "bug",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 60,
   "accuracy": 100,
   "pp": 5,

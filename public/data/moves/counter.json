@@ -3,7 +3,7 @@
   "name": "counter",
   "caption": "Counter",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": 100,
   "pp": 20,

@@ -3,7 +3,7 @@
   "name": "shadow-bone",
   "caption": "Shadow Bone",
   "type": "ghost",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 85,
   "accuracy": 100,
   "pp": 10,

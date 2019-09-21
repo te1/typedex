@@ -3,7 +3,7 @@
   "name": "fury-attack",
   "caption": "Fury Attack",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 15,
   "accuracy": 85,
   "pp": 20,

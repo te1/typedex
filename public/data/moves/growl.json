@@ -3,7 +3,7 @@
   "name": "growl",
   "caption": "Growl",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 40,

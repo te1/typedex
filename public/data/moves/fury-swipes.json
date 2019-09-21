@@ -3,7 +3,7 @@
   "name": "fury-swipes",
   "caption": "Fury Swipes",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 18,
   "accuracy": 80,
   "pp": 15,

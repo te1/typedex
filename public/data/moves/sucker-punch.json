@@ -3,7 +3,7 @@
   "name": "sucker-punch",
   "caption": "Sucker Punch",
   "type": "dark",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 70,
   "accuracy": 100,
   "pp": 5,

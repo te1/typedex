@@ -3,7 +3,7 @@
   "name": "milk-drink",
   "caption": "Milk Drink",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

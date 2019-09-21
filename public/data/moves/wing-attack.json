@@ -3,7 +3,7 @@
   "name": "wing-attack",
   "caption": "Wing Attack",
   "type": "flying",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 60,
   "accuracy": 100,
   "pp": 35,

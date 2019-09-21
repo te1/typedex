@@ -3,7 +3,7 @@
   "name": "fairy-wind",
   "caption": "Fairy Wind",
   "type": "fairy",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 40,
   "accuracy": 100,
   "pp": 30,

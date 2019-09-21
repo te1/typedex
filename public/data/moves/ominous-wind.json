@@ -3,7 +3,7 @@
   "name": "ominous-wind",
   "caption": "Ominous Wind",
   "type": "ghost",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 60,
   "accuracy": 100,
   "pp": 5,

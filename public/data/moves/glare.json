@@ -3,7 +3,7 @@
   "name": "glare",
   "caption": "Glare",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 30,

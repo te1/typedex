@@ -3,7 +3,7 @@
   "name": "tectonic-rage--physical",
   "caption": "Tectonic Rage",
   "type": "ground",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": null,
   "pp": 1,

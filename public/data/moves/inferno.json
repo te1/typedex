@@ -3,7 +3,7 @@
   "name": "inferno",
   "caption": "Inferno",
   "type": "fire",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 100,
   "accuracy": 50,
   "pp": 5,

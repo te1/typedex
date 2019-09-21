@@ -3,7 +3,7 @@
   "name": "chatter",
   "caption": "Chatter",
   "type": "flying",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 65,
   "accuracy": 100,
   "pp": 20,

@@ -3,7 +3,7 @@
   "name": "sheer-cold",
   "caption": "Sheer Cold",
   "type": "ice",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": 30,
   "pp": 5,

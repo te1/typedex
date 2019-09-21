@@ -3,7 +3,7 @@
   "name": "present",
   "caption": "Present",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": 90,
   "pp": 15,

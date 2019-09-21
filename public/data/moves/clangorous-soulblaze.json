@@ -3,7 +3,7 @@
   "name": "clangorous-soulblaze",
   "caption": "Clangorous Soulblaze",
   "type": "dragon",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 185,
   "accuracy": null,
   "pp": 1,

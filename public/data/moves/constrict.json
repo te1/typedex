@@ -3,7 +3,7 @@
   "name": "constrict",
   "caption": "Constrict",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 10,
   "accuracy": 100,
   "pp": 35,

@@ -3,7 +3,7 @@
   "name": "hex",
   "caption": "Hex",
   "type": "ghost",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 65,
   "accuracy": 100,
   "pp": 10,

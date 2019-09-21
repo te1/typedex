@@ -3,7 +3,7 @@
   "name": "will-o-wisp",
   "caption": "Will-O-Wisp",
   "type": "fire",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 85,
   "pp": 15,

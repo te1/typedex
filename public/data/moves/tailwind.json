@@ -3,7 +3,7 @@
   "name": "tailwind",
   "caption": "Tailwind",
   "type": "flying",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 15,

@@ -3,7 +3,7 @@
   "name": "quick-guard",
   "caption": "Quick Guard",
   "type": "fighting",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 15,

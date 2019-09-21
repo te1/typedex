@@ -3,7 +3,7 @@
   "name": "hydro-vortex--special",
   "caption": "Hydro Vortex",
   "type": "water",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": null,
   "pp": 1,

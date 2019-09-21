@@ -3,7 +3,7 @@
   "name": "flame-wheel",
   "caption": "Flame Wheel",
   "type": "fire",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 60,
   "accuracy": 100,
   "pp": 25,

@@ -3,7 +3,7 @@
   "name": "explosion",
   "caption": "Explosion",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 250,
   "accuracy": 100,
   "pp": 5,

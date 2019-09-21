@@ -3,7 +3,7 @@
   "name": "yawn",
   "caption": "Yawn",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

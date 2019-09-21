@@ -3,7 +3,7 @@
   "name": "cotton-spore",
   "caption": "Cotton Spore",
   "type": "grass",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 40,

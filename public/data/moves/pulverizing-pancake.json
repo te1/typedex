@@ -3,7 +3,7 @@
   "name": "pulverizing-pancake",
   "caption": "Pulverizing Pancake",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 210,
   "accuracy": null,
   "pp": 1,

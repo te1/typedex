@@ -3,7 +3,7 @@
   "name": "focus-blast",
   "caption": "Focus Blast",
   "type": "fighting",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 120,
   "accuracy": 70,
   "pp": 5,

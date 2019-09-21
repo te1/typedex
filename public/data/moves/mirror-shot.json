@@ -3,7 +3,7 @@
   "name": "mirror-shot",
   "caption": "Mirror Shot",
   "type": "steel",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 65,
   "accuracy": 85,
   "pp": 10,

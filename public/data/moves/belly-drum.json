@@ -3,7 +3,7 @@
   "name": "belly-drum",
   "caption": "Belly Drum",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

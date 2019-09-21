@@ -3,7 +3,7 @@
   "name": "covet",
   "caption": "Covet",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 60,
   "accuracy": 100,
   "pp": 25,

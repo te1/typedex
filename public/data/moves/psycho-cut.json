@@ -3,7 +3,7 @@
   "name": "psycho-cut",
   "caption": "Psycho Cut",
   "type": "psychic",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 70,
   "accuracy": 100,
   "pp": 20,

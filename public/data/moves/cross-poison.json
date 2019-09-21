@@ -3,7 +3,7 @@
   "name": "cross-poison",
   "caption": "Cross Poison",
   "type": "poison",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 70,
   "accuracy": 100,
   "pp": 20,

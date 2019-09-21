@@ -3,7 +3,7 @@
   "name": "stockpile",
   "caption": "Stockpile",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

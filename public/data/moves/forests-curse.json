@@ -3,7 +3,7 @@
   "name": "forests-curse",
   "caption": "Forest’s Curse",
   "type": "grass",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 20,

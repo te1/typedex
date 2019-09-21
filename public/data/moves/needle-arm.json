@@ -3,7 +3,7 @@
   "name": "needle-arm",
   "caption": "Needle Arm",
   "type": "grass",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 60,
   "accuracy": 100,
   "pp": 15,

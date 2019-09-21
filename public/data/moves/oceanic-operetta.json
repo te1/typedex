@@ -3,7 +3,7 @@
   "name": "oceanic-operetta",
   "caption": "Oceanic Operetta",
   "type": "water",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 195,
   "accuracy": null,
   "pp": 1,

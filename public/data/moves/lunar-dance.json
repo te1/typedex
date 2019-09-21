@@ -3,7 +3,7 @@
   "name": "lunar-dance",
   "caption": "Lunar Dance",
   "type": "psychic",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

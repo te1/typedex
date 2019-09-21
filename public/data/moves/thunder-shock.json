@@ -3,7 +3,7 @@
   "name": "thunder-shock",
   "caption": "Thunder Shock",
   "type": "electric",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 40,
   "accuracy": 100,
   "pp": 30,

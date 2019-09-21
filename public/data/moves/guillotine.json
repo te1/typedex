@@ -3,7 +3,7 @@
   "name": "guillotine",
   "caption": "Guillotine",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": null,
   "accuracy": 30,
   "pp": 5,

@@ -3,7 +3,7 @@
   "name": "burn-up",
   "caption": "Burn Up",
   "type": "fire",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 130,
   "accuracy": 100,
   "pp": 5,

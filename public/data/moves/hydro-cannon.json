@@ -3,7 +3,7 @@
   "name": "hydro-cannon",
   "caption": "Hydro Cannon",
   "type": "water",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 150,
   "accuracy": 90,
   "pp": 5,

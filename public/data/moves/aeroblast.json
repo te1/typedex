@@ -3,7 +3,7 @@
   "name": "aeroblast",
   "caption": "Aeroblast",
   "type": "flying",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 100,
   "accuracy": 95,
   "pp": 5,

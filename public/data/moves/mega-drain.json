@@ -3,7 +3,7 @@
   "name": "mega-drain",
   "caption": "Mega Drain",
   "type": "grass",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 40,
   "accuracy": 100,
   "pp": 15,

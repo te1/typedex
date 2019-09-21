@@ -3,7 +3,7 @@
   "name": "iron-defense",
   "caption": "Iron Defense",
   "type": "steel",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 15,

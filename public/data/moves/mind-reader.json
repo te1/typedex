@@ -3,7 +3,7 @@
   "name": "mind-reader",
   "caption": "Mind Reader",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 5,

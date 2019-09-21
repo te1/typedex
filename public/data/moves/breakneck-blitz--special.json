@@ -3,7 +3,7 @@
   "name": "breakneck-blitz--special",
   "caption": "Breakneck Blitz",
   "type": "normal",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": null,
   "pp": 1,

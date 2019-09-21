@@ -3,7 +3,7 @@
   "name": "triple-kick",
   "caption": "Triple Kick",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 10,
   "accuracy": 90,
   "pp": 10,

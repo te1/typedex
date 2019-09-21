@@ -3,7 +3,7 @@
   "name": "spotlight",
   "caption": "Spotlight",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 15,

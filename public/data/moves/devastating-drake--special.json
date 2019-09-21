@@ -3,7 +3,7 @@
   "name": "devastating-drake--special",
   "caption": "Devastating Drake",
   "type": "dragon",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": null,
   "pp": 1,

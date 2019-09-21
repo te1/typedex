@@ -3,7 +3,7 @@
   "name": "comet-punch",
   "caption": "Comet Punch",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 18,
   "accuracy": 85,
   "pp": 15,

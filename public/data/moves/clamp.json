@@ -3,7 +3,7 @@
   "name": "clamp",
   "caption": "Clamp",
   "type": "water",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 35,
   "accuracy": 85,
   "pp": 15,

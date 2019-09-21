@@ -3,7 +3,7 @@
   "name": "thunder-fang",
   "caption": "Thunder Fang",
   "type": "electric",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 65,
   "accuracy": 95,
   "pp": 15,

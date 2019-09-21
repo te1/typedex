@@ -3,7 +3,7 @@
   "name": "fell-stinger",
   "caption": "Fell Stinger",
   "type": "bug",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 50,
   "accuracy": 100,
   "pp": 25,

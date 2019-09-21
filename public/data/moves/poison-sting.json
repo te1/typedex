@@ -3,7 +3,7 @@
   "name": "poison-sting",
   "caption": "Poison Sting",
   "type": "poison",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 15,
   "accuracy": 100,
   "pp": 35,

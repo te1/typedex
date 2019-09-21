@@ -3,7 +3,7 @@
   "name": "high-jump-kick",
   "caption": "High Jump Kick",
   "type": "fighting",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 130,
   "accuracy": 90,
   "pp": 10,

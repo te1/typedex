@@ -3,7 +3,7 @@
   "name": "acid-armor",
   "caption": "Acid Armor",
   "type": "poison",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

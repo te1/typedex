@@ -3,7 +3,7 @@
   "name": "shadow-punch",
   "caption": "Shadow Punch",
   "type": "ghost",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 60,
   "accuracy": null,
   "pp": 20,

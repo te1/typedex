@@ -3,7 +3,7 @@
   "name": "cosmic-power",
   "caption": "Cosmic Power",
   "type": "psychic",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

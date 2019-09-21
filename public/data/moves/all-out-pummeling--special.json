@@ -3,7 +3,7 @@
   "name": "all-out-pummeling--special",
   "caption": "All-Out Pummeling",
   "type": "fighting",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": null,
   "pp": 1,

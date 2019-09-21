@@ -3,7 +3,7 @@
   "name": "bone-rush",
   "caption": "Bone Rush",
   "type": "ground",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 25,
   "accuracy": 90,
   "pp": 10,

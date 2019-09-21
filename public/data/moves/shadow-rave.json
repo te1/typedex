@@ -3,7 +3,7 @@
   "name": "shadow-rave",
   "caption": "Shadow Rave",
   "type": "shadow",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 70,
   "accuracy": 100,
   "pp": null,

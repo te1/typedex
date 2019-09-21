@@ -3,7 +3,7 @@
   "name": "moonblast",
   "caption": "Moonblast",
   "type": "fairy",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 95,
   "accuracy": 100,
   "pp": 15,

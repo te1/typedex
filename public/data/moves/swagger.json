@@ -3,7 +3,7 @@
   "name": "swagger",
   "caption": "Swagger",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 85,
   "pp": 15,

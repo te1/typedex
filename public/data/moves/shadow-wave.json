@@ -3,7 +3,7 @@
   "name": "shadow-wave",
   "caption": "Shadow Wave",
   "type": "shadow",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 50,
   "accuracy": 100,
   "pp": null,

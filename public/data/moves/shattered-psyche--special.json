@@ -3,7 +3,7 @@
   "name": "shattered-psyche--special",
   "caption": "Shattered Psyche",
   "type": "psychic",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": null,
   "pp": 1,

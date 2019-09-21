@@ -3,7 +3,7 @@
   "name": "inferno-overdrive--special",
   "caption": "Inferno Overdrive",
   "type": "fire",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": null,
   "pp": 1,

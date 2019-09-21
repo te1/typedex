@@ -3,7 +3,7 @@
   "name": "double-hit",
   "caption": "Double Hit",
   "type": "normal",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 35,
   "accuracy": 90,
   "pp": 10,

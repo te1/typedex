@@ -3,7 +3,7 @@
   "name": "discharge",
   "caption": "Discharge",
   "type": "electric",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 80,
   "accuracy": 100,
   "pp": 15,

@@ -3,7 +3,7 @@
   "name": "trump-card",
   "caption": "Trump Card",
   "type": "normal",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": null,
   "pp": 5,

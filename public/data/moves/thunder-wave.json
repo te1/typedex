@@ -3,7 +3,7 @@
   "name": "thunder-wave",
   "caption": "Thunder Wave",
   "type": "electric",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 90,
   "pp": 20,

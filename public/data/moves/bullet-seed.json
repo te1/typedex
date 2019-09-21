@@ -3,7 +3,7 @@
   "name": "bullet-seed",
   "caption": "Bullet Seed",
   "type": "grass",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 25,
   "accuracy": 100,
   "pp": 30,

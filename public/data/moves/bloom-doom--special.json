@@ -3,7 +3,7 @@
   "name": "bloom-doom--special",
   "caption": "Bloom Doom",
   "type": "grass",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": null,
   "pp": 1,

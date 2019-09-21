@@ -3,7 +3,7 @@
   "name": "shadow-blitz",
   "caption": "Shadow Blitz",
   "type": "shadow",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 40,
   "accuracy": 100,
   "pp": null,

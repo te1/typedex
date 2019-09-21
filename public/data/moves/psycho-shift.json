@@ -3,7 +3,7 @@
   "name": "psycho-shift",
   "caption": "Psycho Shift",
   "type": "psychic",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 10,

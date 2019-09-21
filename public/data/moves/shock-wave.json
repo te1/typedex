@@ -3,7 +3,7 @@
   "name": "shock-wave",
   "caption": "Shock Wave",
   "type": "electric",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 60,
   "accuracy": null,
   "pp": 20,

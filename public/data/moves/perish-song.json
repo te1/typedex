@@ -3,7 +3,7 @@
   "name": "perish-song",
   "caption": "Perish Song",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 5,

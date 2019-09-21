@@ -3,7 +3,7 @@
   "name": "heat-wave",
   "caption": "Heat Wave",
   "type": "fire",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 95,
   "accuracy": 90,
   "pp": 10,

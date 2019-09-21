@@ -3,7 +3,7 @@
   "name": "gust",
   "caption": "Gust",
   "type": "flying",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 40,
   "accuracy": 100,
   "pp": 35,

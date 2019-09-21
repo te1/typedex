@@ -3,7 +3,7 @@
   "name": "never-ending-nightmare--special",
   "caption": "Never-Ending Nightmare",
   "type": "ghost",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": null,
   "accuracy": null,
   "pp": 1,

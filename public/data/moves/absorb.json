@@ -3,7 +3,7 @@
   "name": "absorb",
   "caption": "Absorb",
   "type": "grass",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 20,
   "accuracy": 100,
   "pp": 25,

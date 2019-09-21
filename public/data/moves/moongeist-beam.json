@@ -3,7 +3,7 @@
   "name": "moongeist-beam",
   "caption": "Moongeist Beam",
   "type": "ghost",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 100,
   "accuracy": 100,
   "pp": 5,

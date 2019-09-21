@@ -3,7 +3,7 @@
   "name": "spectral-thief",
   "caption": "Spectral Thief",
   "type": "ghost",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 90,
   "accuracy": 100,
   "pp": 10,

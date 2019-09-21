@@ -3,7 +3,7 @@
   "name": "fire-blast",
   "caption": "Fire Blast",
   "type": "fire",
-  "damageClass": "special",
+  "damageCategory": "special",
   "power": 110,
   "accuracy": 85,
   "pp": 5,

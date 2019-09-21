@@ -3,7 +3,7 @@
   "name": "electrify",
   "caption": "Electrify",
   "type": "electric",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 20,

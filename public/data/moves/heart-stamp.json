@@ -3,7 +3,7 @@
   "name": "heart-stamp",
   "caption": "Heart Stamp",
   "type": "psychic",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 60,
   "accuracy": 100,
   "pp": 25,

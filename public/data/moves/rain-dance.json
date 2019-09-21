@@ -3,7 +3,7 @@
   "name": "rain-dance",
   "caption": "Rain Dance",
   "type": "water",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 5,

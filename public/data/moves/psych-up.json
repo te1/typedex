@@ -3,7 +3,7 @@
   "name": "psych-up",
   "caption": "Psych Up",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 10,

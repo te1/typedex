@@ -3,7 +3,7 @@
   "name": "freeze-shock",
   "caption": "Freeze Shock",
   "type": "ice",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 140,
   "accuracy": 90,
   "pp": 5,

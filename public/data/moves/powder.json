@@ -3,7 +3,7 @@
   "name": "powder",
   "caption": "Powder",
   "type": "bug",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 20,

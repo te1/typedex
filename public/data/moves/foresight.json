@@ -3,7 +3,7 @@
   "name": "foresight",
   "caption": "Foresight",
   "type": "normal",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": null,
   "pp": 40,

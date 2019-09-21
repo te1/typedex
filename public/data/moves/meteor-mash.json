@@ -3,7 +3,7 @@
   "name": "meteor-mash",
   "caption": "Meteor Mash",
   "type": "steel",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 90,
   "accuracy": 90,
   "pp": 10,

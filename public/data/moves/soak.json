@@ -3,7 +3,7 @@
   "name": "soak",
   "caption": "Soak",
   "type": "water",
-  "damageClass": "status",
+  "damageCategory": "status",
   "power": null,
   "accuracy": 100,
   "pp": 20,

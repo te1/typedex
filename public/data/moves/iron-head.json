@@ -3,7 +3,7 @@
   "name": "iron-head",
   "caption": "Iron Head",
   "type": "steel",
-  "damageClass": "physical",
+  "damageCategory": "physical",
   "power": 80,
   "accuracy": 100,
   "pp": 15,
