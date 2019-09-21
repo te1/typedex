@@ -9,28 +9,10 @@
             Name
           </div>
 
-          <div class="flex items-center bg-gray-300 rounded">
-            <div class="w-5 ml-2 text-center text-lg text-gray-600">
-              <fa-icon
-                v-if="filter.name"
-                icon="times"
-                class="hover:text-gray-700 cursor-pointer"
-                title="Clear"
-                @click="filter.name = ''"
-              />
-              <fa-icon
-                v-else
-                icon="search"
-              />
-            </div>
-
-            <input
-              v-model="filter.name"
-              type="text"
-              placeholder="Enter name here..."
-              class="w-48 px-2 py-1 text-right bg-transparent focus:outline-none font-semibold tracking-wider placeholder-gray-500 placeholder-italic placeholder-normal"
-            >
-          </div>
+          <input-search
+            v-model="filter.name"
+            placeholder="Enter name here..."
+          />
         </div>
 
         <type-picker
@@ -94,6 +76,7 @@
   import _ from 'lodash';
   import fuzzysort from 'fuzzysort';
   import data from '../../services/data';
+  import InputSearch from '../app/InputSearch';
   import TypePicker from '../type/TypePicker';
   import CategoryPicker from '../type/CategoryPicker';
   import MoveCard from './MoveCard';
@@ -102,6 +85,7 @@
     name: 'MoveList',
 
     components: {
+      InputSearch,
       TypePicker,
       CategoryPicker,
       MoveCard,
@@ -111,7 +95,7 @@
       return {
         moves: data.moves,
         filter: {
-          name: '',
+          name: 'water',
           type: null,
           category: null,
           z: false,

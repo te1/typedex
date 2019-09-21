@@ -1,7 +1,7 @@
 <template>
   <div
     v-if="value"
-    class="fixed inset-0 flex items-center md:items-start justify-center"
+    class="fixed inset-0 z-20 flex items-center md:items-start justify-center"
   >
     <div
       class="absolute inset-0 bg-gray-300 opacity-50"
