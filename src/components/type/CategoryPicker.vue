@@ -10,6 +10,7 @@
 
     <div
       class="h-8 flex items-center"
+      :class="triggerClasses"
       @click="toggle"
     >
       <category-label
@@ -17,7 +18,10 @@
         :category="category"
         interactive
       />
-      <div v-else>
+      <div
+        v-else
+        class="w-full"
+      >
         <div v-if="showAll && allowClear">
           <category-label
             category="all"
@@ -89,6 +93,12 @@
       showAll: {
         type: Boolean,
         default: false,
+      },
+
+      triggerClasses: {
+        type: String,
+        required: false,
+        default: '',
       },
     },
 

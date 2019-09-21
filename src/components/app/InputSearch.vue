@@ -18,7 +18,7 @@
       v-model="text"
       type="text"
       :placeholder="placeholder"
-      class="w-48 px-2 py-1 text-right bg-transparent focus:outline-none font-semibold tracking-wider placeholder-gray-500 placeholder-italic placeholder-normal"
+      class="w-full px-2 py-1 text-right bg-transparent focus:outline-none font-semibold tracking-wider placeholder-gray-500 placeholder-italic placeholder-normal"
     >
   </div>
 </template>

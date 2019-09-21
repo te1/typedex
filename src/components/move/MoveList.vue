@@ -12,6 +12,7 @@
           <input-search
             v-model="filter.name"
             placeholder="Enter name here..."
+            class="w-48"
           />
         </div>
 
@@ -20,6 +21,7 @@
           allow-clear
           show-all
           class="mb-2"
+          trigger-classes="w-48"
         >
           Type
         </type-picker>
@@ -29,6 +31,7 @@
           allow-clear
           show-all
           class="mb-2"
+          trigger-classes="w-48"
         >
           Category
         </category-picker>
@@ -53,6 +56,7 @@
       :move="item.obj"
       :fuzzy-result="item"
       class="cursor-pointer hover:opacity-75"
+      @click.native="select(item.obj)"
     />
 
     <div
@@ -95,7 +99,7 @@
       return {
         moves: data.moves,
         filter: {
-          name: 'water',
+          name: '',
           type: null,
           category: null,
           z: false,
@@ -140,6 +144,12 @@
         }
 
         return result;
+      },
+    },
+
+    methods: {
+      select(move) {
+        this.$router.push('/move/' + move.name);
       },
     },
   };

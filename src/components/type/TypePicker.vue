@@ -10,6 +10,7 @@
 
     <div
       class="h-8 flex items-center"
+      :class="triggerClasses"
       @click="toggle"
     >
       <type-label
@@ -17,7 +18,10 @@
         :type="type"
         interactive
       />
-      <div v-else>
+      <div
+        v-else
+        class="w-full"
+      >
         <div v-if="showNone && allowClear">
           <type-label
             type="none"
@@ -111,6 +115,12 @@
       exclude: {
         type: [Object, String],
         default: null,
+      },
+
+      triggerClasses: {
+        type: String,
+        required: false,
+        default: '',
       },
     },
 
