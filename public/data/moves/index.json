@@ -5048,33 +5048,6 @@
     "pp": 15
   },
   {
-    "id": 10002,
-    "name": "shadow-blast",
-    "caption": "Shadow Blast",
-    "type": "shadow",
-    "damageCategory": "physical",
-    "power": 80,
-    "accuracy": 100
-  },
-  {
-    "id": 10003,
-    "name": "shadow-blitz",
-    "caption": "Shadow Blitz",
-    "type": "shadow",
-    "damageCategory": "physical",
-    "power": 40,
-    "accuracy": 100
-  },
-  {
-    "id": 10004,
-    "name": "shadow-bolt",
-    "caption": "Shadow Bolt",
-    "type": "shadow",
-    "damageCategory": "special",
-    "power": 75,
-    "accuracy": 100
-  },
-  {
     "id": 708,
     "name": "shadow-bone",
     "caption": "Shadow Bone",
@@ -5083,24 +5056,6 @@
     "power": 85,
     "accuracy": 100,
     "pp": 10
-  },
-  {
-    "id": 10005,
-    "name": "shadow-break",
-    "caption": "Shadow Break",
-    "type": "shadow",
-    "damageCategory": "physical",
-    "power": 75,
-    "accuracy": 100
-  },
-  {
-    "id": 10006,
-    "name": "shadow-chill",
-    "caption": "Shadow Chill",
-    "type": "shadow",
-    "damageCategory": "special",
-    "power": 75,
-    "accuracy": 100
   },
   {
     "id": 421,
@@ -5113,32 +5068,6 @@
     "pp": 15
   },
   {
-    "id": 10012,
-    "name": "shadow-down",
-    "caption": "Shadow Down",
-    "type": "shadow",
-    "damageCategory": "status",
-    "accuracy": 100
-  },
-  {
-    "id": 10007,
-    "name": "shadow-end",
-    "caption": "Shadow End",
-    "type": "shadow",
-    "damageCategory": "physical",
-    "power": 120,
-    "accuracy": 60
-  },
-  {
-    "id": 10008,
-    "name": "shadow-fire",
-    "caption": "Shadow Fire",
-    "type": "shadow",
-    "damageCategory": "special",
-    "power": 75,
-    "accuracy": 100
-  },
-  {
     "id": 467,
     "name": "shadow-force",
     "caption": "Shadow Force",
@@ -5147,37 +5076,6 @@
     "power": 120,
     "accuracy": 100,
     "pp": 5
-  },
-  {
-    "id": 10013,
-    "name": "shadow-half",
-    "caption": "Shadow Half",
-    "type": "shadow",
-    "damageCategory": "special",
-    "accuracy": 100
-  },
-  {
-    "id": 10014,
-    "name": "shadow-hold",
-    "caption": "Shadow Hold",
-    "type": "shadow",
-    "damageCategory": "status"
-  },
-  {
-    "id": 10015,
-    "name": "shadow-mist",
-    "caption": "Shadow Mist",
-    "type": "shadow",
-    "damageCategory": "status",
-    "accuracy": 100
-  },
-  {
-    "id": 10016,
-    "name": "shadow-panic",
-    "caption": "Shadow Panic",
-    "type": "shadow",
-    "damageCategory": "status",
-    "accuracy": 90
   },
   {
     "id": 325,
@@ -5189,38 +5087,6 @@
     "pp": 20
   },
   {
-    "id": 10009,
-    "name": "shadow-rave",
-    "caption": "Shadow Rave",
-    "type": "shadow",
-    "damageCategory": "special",
-    "power": 70,
-    "accuracy": 100
-  },
-  {
-    "id": 10001,
-    "name": "shadow-rush",
-    "caption": "Shadow Rush",
-    "type": "shadow",
-    "damageCategory": "physical",
-    "power": 55,
-    "accuracy": 100
-  },
-  {
-    "id": 10017,
-    "name": "shadow-shed",
-    "caption": "Shadow Shed",
-    "type": "shadow",
-    "damageCategory": "status"
-  },
-  {
-    "id": 10018,
-    "name": "shadow-sky",
-    "caption": "Shadow Sky",
-    "type": "shadow",
-    "damageCategory": "status"
-  },
-  {
     "id": 425,
     "name": "shadow-sneak",
     "caption": "Shadow Sneak",
@@ -5229,24 +5095,6 @@
     "power": 40,
     "accuracy": 100,
     "pp": 30
-  },
-  {
-    "id": 10010,
-    "name": "shadow-storm",
-    "caption": "Shadow Storm",
-    "type": "shadow",
-    "damageCategory": "special",
-    "power": 95,
-    "accuracy": 100
-  },
-  {
-    "id": 10011,
-    "name": "shadow-wave",
-    "caption": "Shadow Wave",
-    "type": "shadow",
-    "damageCategory": "special",
-    "power": 50,
-    "accuracy": 100
   },
   {
     "id": 159,
