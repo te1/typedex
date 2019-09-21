@@ -1,7 +1,7 @@
 <template>
   <div>
     TypeIcon
-    <div class="box flex p-1 mb-2 text-yellow-700">
+    <div class="box flex p-1 mb-2 text-green-600">
       <type-icon
         type="fire"
         :width="40"
@@ -34,7 +34,7 @@
     </div>
 
     CategoryIcon
-    <div class="box flex p-1 mb-2 text-yellow-700">
+    <div class="box flex p-1 mb-2 text-purple-600">
       <category-icon
         category="physical"
         :width="40"
@@ -78,6 +78,41 @@
         type="dark"
         hide-text
       />
+      <div class="flex">
+        <type-label type="dragon" />
+        <div class="flex-1" />
+        <type-label
+          type="electric"
+          hide-text
+        />
+      </div>
+    </div>
+
+    CategoryLabel
+    <div class="box p-1 mb-2">
+      <category-label category="physical" />
+      <category-label :category="special" />
+      <category-label :category="{}" />
+      <category-label
+        category="status"
+        interactive
+      />
+      <category-label
+        category="status"
+        active
+      />
+      <category-label
+        category="physical"
+        hide-text
+      />
+      <div class="flex">
+        <category-label category="physical" />
+        <div class="flex-1" />
+        <category-label
+          category="special"
+          hide-text
+        />
+      </div>
     </div>
   </div>
 </template>
@@ -87,12 +122,14 @@
   import TypeIcon from '../components/TypeIcon';
   import CategoryIcon from '../components/CategoryIcon';
   import TypeLabel from '../components/TypeLabel';
+  import CategoryLabel from '../components/CategoryLabel';
 
   export default {
     components: {
       TypeIcon,
       CategoryIcon,
       TypeLabel,
+      CategoryLabel,
     },
 
     data() {
