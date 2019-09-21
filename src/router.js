@@ -7,6 +7,7 @@ import Offense from './views/Offense';
 import Defense from './views/Defense';
 import Pokemon from './views/Pokemon';
 import Moves from './views/Moves';
+import Test from './views/Test';
 
 Vue.use(Router);
 
@@ -20,6 +21,7 @@ export default new Router({
     { path: '/defense/:type1?/:type2?', name: 'defense', component: Defense },
     { path: '/pokemon', name: 'pokemon', component: Pokemon },
     { path: '/moves', name: 'moves', component: Moves },
+    { path: '/test', name: 'test', component: Test },
     { path: '*', redirect: '/' },
   ],
 });
