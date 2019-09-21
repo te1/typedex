@@ -14,6 +14,14 @@
   @apply mb-1 font-semibold;
 }
 
+.placeholder-italic::placeholder {
+  font-style: italic;
+}
+
+.placeholder-normal::placeholder {
+  font-weight: 400;
+}
+
 .nav-link.router-link-active {
   @apply rounded bg-gray-300;
 }
