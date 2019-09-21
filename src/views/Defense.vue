@@ -16,8 +16,8 @@
         <type-picker
           v-model="type2"
           :exclude="type1"
-          :show-none="true"
-          :allow-clear="true"
+          show-none
+          allow-clear
           @select="type2Selected"
         >
           Secondary Type

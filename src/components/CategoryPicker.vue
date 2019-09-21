@@ -15,13 +15,13 @@
       <category-label
         v-if="category"
         :category="category"
-        :interactive="true"
+        interactive
       />
       <div v-else>
         <div v-if="showAll && allowClear">
           <category-label
             category="all"
-            :interactive="true"
+            interactive
           />
         </div>
         <div
@@ -43,8 +43,8 @@
           v-for="item in categories"
           :key="item.name"
           :category="item"
-          :interactive="true"
           :active="isActive(item)"
+          interactive
           class="my-4"
           @click.native="select(item)"
         />

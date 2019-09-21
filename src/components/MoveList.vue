@@ -6,56 +6,56 @@
       <div class="box p-2 mb-4">
         <type-picker
           v-model="filter.type"
-          :allow-clear="true"
-          :show-none="true"
+          allow-clear
+          show-all
+          class="mb-2"
         >
           Type
         </type-picker>
+
+        <category-picker
+          v-model="filter.category"
+          allow-clear
+          show-all
+        >
+          Category
+        </category-picker>
       </div>
     </div>
 
     <app-heading class="mb-2">Moves</app-heading>
 
-    <dynamic-scroller
-      :items="filteredMoves"
-      :min-item-size="50"
-      key-field="id"
-      class="h-full"
-      style="z-index: -1;"
+    <div
+      v-for="item in filteredMoves"
+      :key="item.name"
+      class="box mb-4"
     >
-      <template v-slot="{ item, index, active }">
-        <dynamic-scroller-item
-          :item="item"
-          :active="active"
-          :data-index="index"
-          class="pb-4"
-        >
-          <div class="box">
-            <div class="box-heading mx-2">{{ item.caption }}</div>
+      <div class="box-heading mx-2">{{ item.caption }}</div>
 
-            <div class="-mx-1 px-2 pb-2 flex items-center">
-              <type-label
-                class="mx-1"
-                :type="item.type"
-              />
-              <type-label
-                class="mx-1"
-                :type="item.damageCategory"
-              />
-              <div v-if="item.power != null">
-                Pwr {{ item.power }}
-              </div>
-              <div v-if="item.accuracy != null">
-                Acc {{ item.accuracy }}
-              </div>
-              <div v-if="item.pp != null">
-                PP {{ item.pp }}
-              </div>
-            </div>
-          </div>
-        </dynamic-scroller-item>
-      </template>
-    </dynamic-scroller>
+      <div class="-mx-1 px-2 pb-2 flex items-center">
+        <type-label
+          class="mx-1"
+          :type="item.type"
+        />
+
+        <category-label
+          class="mx-1"
+          :category="item.damageCategory"
+        />
+
+        <div v-if="item.power != null">
+          Pwr {{ item.power }}
+        </div>
+
+        <div v-if="item.accuracy != null">
+          Acc {{ item.accuracy }}
+        </div>
+
+        <div v-if="item.pp != null">
+          PP {{ item.pp }}
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -63,14 +63,18 @@
   import _ from 'lodash';
   import data from '../services/data';
   import TypePicker from './TypePicker';
+  import CategoryPicker from './CategoryPicker';
   import TypeLabel from './TypeLabel';
+  import CategoryLabel from './CategoryLabel';
 
   export default {
     name: 'MoveList',
 
     components: {
       TypePicker,
+      CategoryPicker,
       TypeLabel,
+      CategoryLabel,
     },
 
     data() {
@@ -78,6 +82,7 @@
         moves: data.moves,
         filter: {
           type: null,
+          category: null,
         },
       };
     },
@@ -89,6 +94,10 @@
 
         if (filter.type != null) {
           result = _.filter(result, { type: filter.type.name });
+        }
+
+        if (filter.category != null) {
+          result = _.filter(result, { damageCategory: filter.category.name });
         }
 
         return result;

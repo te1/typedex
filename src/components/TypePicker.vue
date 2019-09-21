@@ -15,19 +15,19 @@
       <type-label
         v-if="type"
         :type="type"
-        :interactive="true"
+        interactive
       />
       <div v-else>
         <div v-if="showNone && allowClear">
           <type-label
             type="none"
-            :interactive="true"
+            interactive
           />
         </div>
         <div v-else-if="showAll && allowClear">
           <type-label
             type="all"
-            :interactive="true"
+            interactive
           />
         </div>
         <div
@@ -54,8 +54,8 @@
             v-for="item in group"
             :key="item.name"
             :type="item"
-            :interactive="true"
             :active="isActive(item)"
+            interactive
             class="mr-4 overflow-hidden"
             @click.native="select(item)"
           />

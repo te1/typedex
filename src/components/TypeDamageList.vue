@@ -27,10 +27,7 @@
           :title="getTitle(item)"
           class="flex items-center px-2 pb-4"
         >
-          <type-label
-            :type="item.type"
-            :has-factor="true"
-          />
+          <type-label :type="item.type" />
           <div class="w-12 h-8 ml-1 flex items-center justify-center font-semibold tracking-wider text-white bg-gray-700 rounded">
             {{ item.factor }}x
           </div>
