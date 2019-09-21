@@ -29,34 +29,7 @@
       v-if="types.length"
       class="mt-6 w-full sm:flex-1 sm:mt-0 sm:pl-4"
     >
-      <app-heading class="mb-2">Damage Taken</app-heading>
-
-      <type-damage-list
-        :data="damageTaken.weak"
-        :attack="false"
-        heading="It's super effective!"
-        info="weak"
-        info-color="red"
-        info-icon="arrow-up"
-      />
-
-      <type-damage-list
-        :data="damageTaken.resistant"
-        :attack="false"
-        heading="It's not very effective..."
-        info="resistant"
-        info-color="green"
-        info-icon="arrow-down"
-      />
-
-      <type-damage-list
-        :data="damageTaken.immune"
-        :attack="false"
-        heading="It has no effect"
-        info="immune"
-        info-color="green"
-        info-icon="ban"
-      />
+      <damage-taken :types="types" />
     </div>
   </div>
 </template>
@@ -65,14 +38,14 @@
   import _ from 'lodash';
   import data from '../services/data';
   import TypePicker from '../components/TypePicker';
-  import TypeDamageList from '../components/TypeDamageList';
+  import DamageTaken from '../components/DamageTaken';
 
   export default {
     name: 'Defense',
 
     components: {
       TypePicker,
-      TypeDamageList,
+      DamageTaken,
     },
 
     data() {
@@ -93,40 +66,6 @@
         if (this.type2) {
           result.push(this.type2);
         }
-
-        return result;
-      },
-
-      damageTaken() {
-        let data = {};
-
-        _.forEach(this.types, type => {
-          _.forEach(type.damageTaken, damage => {
-            if (data[damage.type] == null) {
-              data[damage.type] = damage.factor;
-            } else {
-              data[damage.type] *= damage.factor;
-            }
-          });
-        });
-
-        data = _.map(data, (value, key) => {
-          return {
-            type: key,
-            factor: value,
-          };
-        });
-
-        data = _.orderBy(data, ['factor', 'type'], ['desc', 'asc']);
-
-        let result = {};
-
-        result.weak = _.filter(data, item => item.factor > 1);
-        result.resistant = _.filter(
-          data,
-          item => item.factor > 0 && item.factor < 1
-        );
-        result.immune = _.filter(data, item => item.factor <= 0);
 
         return result;
       },

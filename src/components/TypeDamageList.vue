@@ -19,20 +19,20 @@
       </div>
     </div>
 
-    <div class="box -mx-2 mb-4 px-2 py-1">
-      <div class="-mx-2 -mb-1 flex flex-wrap">
+    <div class="box -mx-2 mb-4 p-2">
+      <div class="-mx-2 -mb-4 flex flex-wrap">
         <div
           v-for="item in data"
           :key="item.type"
           :title="getTitle(item)"
-          class="flex items-center px-2 pb-1"
+          class="flex items-center px-2 pb-4"
         >
           <type-label
             :type="item.type"
             :has-factor="true"
           />
-          <div class="w-10 h-10 -ml-1 flex items-center justify-center text-2xl text-white font-light rounded-full border-4 border-white bg-gray-700">
-            {{ getPrettyFactor(item) }}
+          <div class="w-12 h-8 ml-1 flex items-center justify-center font-semibold tracking-wider text-white bg-gray-700 rounded">
+            {{ item.factor }}x
           </div>
         </div>
       </div>

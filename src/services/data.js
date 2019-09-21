@@ -31,13 +31,13 @@ export class Data {
     this.typeNone = {
       name: 'none',
       caption: 'None',
-      color: '#444',
+      color: '#4a5568',
     };
 
     this.typeAll = {
       name: 'all',
       caption: 'All',
-      color: '#444',
+      color: '#4a5568',
     };
 
     this.categories = data.categories;
@@ -47,7 +47,7 @@ export class Data {
     this.categoryAll = {
       name: 'all',
       caption: 'All',
-      color: '#444',
+      color: '#4a5568',
     };
   }
 
