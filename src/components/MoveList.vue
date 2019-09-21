@@ -1,5 +1,3 @@
-<!-- eslint-disable vue/no-v-html -->
-
 <template>
   <div class="-mx-2">
     <div>
@@ -12,14 +10,7 @@
           </div>
 
           <div class="flex items-center bg-gray-300 rounded">
-            <input
-              v-model="filter.name"
-              type="text"
-              placeholder="Type here..."
-              class="w-48 px-2 py-1 bg-transparent focus:outline-none font-semibold tracking-wider placeholder-gray-500 placeholder-italic placeholder-normal"
-            >
-
-            <div class="w-5 mr-2 text-center text-lg text-gray-600">
+            <div class="w-5 ml-2 text-center text-lg text-gray-600">
               <fa-icon
                 v-if="filter.name"
                 icon="times"
@@ -32,6 +23,13 @@
                 icon="search"
               />
             </div>
+
+            <input
+              v-model="filter.name"
+              type="text"
+              placeholder="Enter name here..."
+              class="w-48 px-2 py-1 text-right bg-transparent focus:outline-none font-semibold tracking-wider placeholder-gray-500 placeholder-italic placeholder-normal"
+            >
           </div>
         </div>
 
@@ -67,45 +65,13 @@
 
     <app-heading class="mb-2">Moves</app-heading>
 
-    <div
+    <move-card
       v-for="item in filteredMoves"
       :key="item.obj.name"
-      class="box flex justify-between mb-4 px-2 pt-1 pb-2 cursor-pointer hover:opacity-75"
-    >
-      <div>
-        <div
-          class="box-heading"
-          v-html="getCaption(item)"
-        />
-
-        <div class="flex items-center">
-          <type-label
-            class="mr-2"
-            :type="item.obj.type"
-          />
-
-          <category-label :category="item.obj.damageCategory" />
-        </div>
-      </div>
-
-      <div class="self-center">
-        <div
-          v-for="stat in stats"
-          :key="stat.prop"
-          class="flex items-baseline justify-between leading-tight"
-        >
-          <template v-if="item.obj[stat.prop]">
-            <div class="w-16 text-sm">
-              {{ stat.caption }}
-            </div>
-
-            <div class="w-8 font-semibold tracking-wider">
-              {{ item.obj[stat.prop] }}
-            </div>
-          </template>
-        </div>
-      </div>
-    </div>
+      :move="item.obj"
+      :fuzzy-result="item"
+      class="cursor-pointer hover:opacity-75"
+    />
 
     <div
       v-if="!filteredMoves.length"
@@ -130,8 +96,7 @@
   import data from '../services/data';
   import TypePicker from './TypePicker';
   import CategoryPicker from './CategoryPicker';
-  import TypeLabel from './TypeLabel';
-  import CategoryLabel from './CategoryLabel';
+  import MoveCard from './MoveCard';
 
   export default {
     name: 'MoveList',
@@ -139,8 +104,7 @@
     components: {
       TypePicker,
       CategoryPicker,
-      TypeLabel,
-      CategoryLabel,
+      MoveCard,
     },
 
     data() {
@@ -152,11 +116,6 @@
           category: null,
           z: false,
         },
-        stats: [
-          { prop: 'power', caption: 'Power' },
-          { prop: 'accuracy', caption: 'Accuracy' },
-          { prop: 'pp', caption: 'PP' },
-        ],
       };
     },
 
@@ -197,19 +156,6 @@
         }
 
         return result;
-      },
-    },
-
-    methods: {
-      getCaption(item) {
-        if (this.filterName) {
-          return fuzzysort.highlight(
-            item,
-            '<span class="bg-gray-300 text-gray-600 rounded">',
-            '</span>'
-          );
-        }
-        return item.obj.caption;
       },
     },
   };

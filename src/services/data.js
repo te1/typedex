@@ -86,6 +86,13 @@ export class Data {
     this.movesById = _.keyBy(this.moves, 'id');
   }
 
+  getMove(move) {
+    if (typeof move === 'string') {
+      return this.movesByName[move];
+    }
+    return move;
+  }
+
   async loadPokemon() {
     this.pokemon = await api.loadPokemon();
 

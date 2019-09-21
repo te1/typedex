@@ -20,6 +20,7 @@
 
 .placeholder-normal::placeholder {
   font-weight: 400;
+  letter-spacing: 0;
 }
 
 .nav-link.router-link-active {
