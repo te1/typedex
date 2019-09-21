@@ -1,3 +1,4 @@
+import _ from 'lodash';
 import axios from 'axios';
 import cache from './cache';
 
@@ -30,7 +31,17 @@ export class Api {
   }
 
   async loadMoves() {
-    this.moves = await this._load('moves/index.json', 'moves');
+    let data = await this._load('moves/index.json', 'moves');
+
+    // to reduce file size falsy values are ommited during export
+    // to allow easy filtering they are restored here
+    data = _.map(data, item => {
+      return _.defaults(item, {
+        z: false,
+      });
+    });
+
+    this.moves = data;
 
     return this.moves;
   }

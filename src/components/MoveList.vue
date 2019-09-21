@@ -88,6 +88,7 @@
         filter: {
           type: null,
           category: null,
+          z: false,
         },
         stats: [
           { prop: 'power', caption: 'Power' },
@@ -101,6 +102,10 @@
       filteredMoves() {
         let filter = this.filter;
         let result = this.moves;
+
+        if (filter.z != null) {
+          result = _.filter(result, { z: filter.z });
+        }
 
         if (filter.type != null) {
           result = _.filter(result, { type: filter.type.name });
