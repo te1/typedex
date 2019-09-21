@@ -7,6 +7,7 @@
   "power": null,
   "accuracy": null,
   "pp": 20,
+  "z": false,
   "priority": 2,
   "gen": "generation-iii",
   "effect": {

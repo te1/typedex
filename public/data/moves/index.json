@@ -52,7 +52,8 @@
     "caption": "Acid Downpour",
     "type": "poison",
     "damageCategory": "physical",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 629,
@@ -60,7 +61,8 @@
     "caption": "Acid Downpour",
     "type": "poison",
     "damageCategory": "special",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 491,
@@ -151,7 +153,8 @@
     "caption": "All-Out Pummeling",
     "type": "fighting",
     "damageCategory": "physical",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 625,
@@ -159,7 +162,8 @@
     "caption": "All-Out Pummeling",
     "type": "fighting",
     "damageCategory": "special",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 502,
@@ -465,7 +469,8 @@
     "caption": "Black Hole Eclipse",
     "type": "dark",
     "damageCategory": "physical",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 655,
@@ -473,7 +478,8 @@
     "caption": "Black Hole Eclipse",
     "type": "dark",
     "damageCategory": "special",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 307,
@@ -519,7 +525,8 @@
     "caption": "Bloom Doom",
     "type": "grass",
     "damageCategory": "physical",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 645,
@@ -527,7 +534,8 @@
     "caption": "Bloom Doom",
     "type": "grass",
     "damageCategory": "special",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 551,
@@ -625,7 +633,8 @@
     "caption": "Breakneck Blitz",
     "type": "normal",
     "damageCategory": "physical",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 623,
@@ -633,7 +642,8 @@
     "caption": "Breakneck Blitz",
     "type": "normal",
     "damageCategory": "special",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 280,
@@ -961,7 +971,8 @@
     "caption": "Continental Crush",
     "type": "rock",
     "damageCategory": "physical",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 633,
@@ -969,7 +980,8 @@
     "caption": "Continental Crush",
     "type": "rock",
     "damageCategory": "special",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 160,
@@ -1011,7 +1023,8 @@
     "caption": "Corkscrew Crash",
     "type": "steel",
     "damageCategory": "physical",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 639,
@@ -1019,7 +1032,8 @@
     "caption": "Corkscrew Crash",
     "type": "steel",
     "damageCategory": "special",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 322,
@@ -1235,7 +1249,8 @@
     "caption": "Devastating Drake",
     "type": "dragon",
     "damageCategory": "physical",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 653,
@@ -1243,7 +1258,8 @@
     "caption": "Devastating Drake",
     "type": "dragon",
     "damageCategory": "special",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 591,
@@ -2321,7 +2337,8 @@
     "caption": "Gigavolt Havoc",
     "type": "electric",
     "damageCategory": "physical",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 647,
@@ -2329,7 +2346,8 @@
     "caption": "Gigavolt Havoc",
     "type": "electric",
     "damageCategory": "special",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 549,
@@ -2787,7 +2805,8 @@
     "caption": "Hydro Vortex",
     "type": "water",
     "damageCategory": "physical",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 643,
@@ -2795,7 +2814,8 @@
     "caption": "Hydro Vortex",
     "type": "water",
     "damageCategory": "special",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 63,
@@ -2988,7 +3008,8 @@
     "caption": "Inferno Overdrive",
     "type": "fire",
     "damageCategory": "physical",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 641,
@@ -2996,7 +3017,8 @@
     "caption": "Inferno Overdrive",
     "type": "fire",
     "damageCategory": "special",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 611,
@@ -3832,7 +3854,8 @@
     "caption": "Never-Ending Nightmare",
     "type": "ghost",
     "damageCategory": "physical",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 637,
@@ -3840,7 +3863,8 @@
     "caption": "Never-Ending Nightmare",
     "type": "ghost",
     "damageCategory": "special",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 539,
@@ -4885,7 +4909,8 @@
     "caption": "Savage Spin-Out",
     "type": "bug",
     "damageCategory": "physical",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 635,
@@ -4893,7 +4918,8 @@
     "caption": "Savage Spin-Out",
     "type": "bug",
     "damageCategory": "special",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 503,
@@ -5236,7 +5262,8 @@
     "caption": "Shattered Psyche",
     "type": "psychic",
     "damageCategory": "physical",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 649,
@@ -5244,7 +5271,8 @@
     "caption": "Shattered Psyche",
     "type": "psychic",
     "damageCategory": "special",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 329,
@@ -5944,7 +5972,8 @@
     "caption": "Subzero Slammer",
     "type": "ice",
     "damageCategory": "physical",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 651,
@@ -5952,7 +5981,8 @@
     "caption": "Subzero Slammer",
     "type": "ice",
     "damageCategory": "special",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 389,
@@ -6016,7 +6046,8 @@
     "caption": "Supersonic Skystrike",
     "type": "flying",
     "damageCategory": "physical",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 627,
@@ -6024,7 +6055,8 @@
     "caption": "Supersonic Skystrike",
     "type": "flying",
     "damageCategory": "special",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 57,
@@ -6203,7 +6235,8 @@
     "caption": "Tectonic Rage",
     "type": "ground",
     "damageCategory": "physical",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 631,
@@ -6211,7 +6244,8 @@
     "caption": "Tectonic Rage",
     "type": "ground",
     "damageCategory": "special",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 298,
@@ -6487,7 +6521,8 @@
     "caption": "Twinkle Tackle",
     "type": "fairy",
     "damageCategory": "physical",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 657,
@@ -6495,7 +6530,8 @@
     "caption": "Twinkle Tackle",
     "type": "fairy",
     "damageCategory": "special",
-    "pp": 1
+    "pp": 1,
+    "z": true
   },
   {
     "id": 239,

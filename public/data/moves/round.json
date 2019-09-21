@@ -7,6 +7,7 @@
   "power": 60,
   "accuracy": 100,
   "pp": 15,
+  "z": false,
   "priority": 0,
   "gen": "generation-v",
   "effect": {
