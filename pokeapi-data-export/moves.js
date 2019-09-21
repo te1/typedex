@@ -9,7 +9,7 @@ async function exportMoves(source, target) {
 
   console.log(`processing ${moves.length} moves...`);
 
-  let caption;
+  let caption, isZMove;
 
   moves = _.map(moves, move => {
     caption = _.find(move.names, { language: { name: 'en' } });
@@ -33,6 +33,9 @@ async function exportMoves(source, target) {
       };
     });
 
+    isZMove =
+      _.endsWith(move.name, '--physical') || _.endsWith(move.name, '--special');
+
     return {
       id: move.id,
       name: move.name,
@@ -42,6 +45,7 @@ async function exportMoves(source, target) {
       power: move.power,
       accuracy: move.accuracy,
       pp: move.pp,
+      z: isZMove,
       priority: move.priority,
       gen: move.generation.name,
       effect,
@@ -63,6 +67,7 @@ async function exportMoves(source, target) {
       'power',
       'accuracy',
       'pp',
+      'z',
     ]);
 
     // drop undefined, null and false values
