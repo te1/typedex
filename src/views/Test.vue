@@ -48,6 +48,12 @@
       />
 
       <category-icon
+        category="status"
+        :width="40"
+        :height="40"
+      />
+
+      <category-icon
         :category="{}"
         :width="40"
         :height="40"
