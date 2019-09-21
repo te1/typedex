@@ -9,7 +9,7 @@
     </div>
 
     <div
-      class="h-6 flex items-center"
+      class="h-8 flex items-center"
       @click="toggle"
     >
       <type-label

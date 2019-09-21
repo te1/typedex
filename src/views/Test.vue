@@ -120,6 +120,43 @@
         />
       </div>
     </div>
+
+    TypePicker <span v-if="type">{{ type.caption }}</span>
+    <div class="box p-1 mb-2">
+      <type-picker v-model="type" />
+      <type-picker v-model="type">With Label</type-picker>
+      <type-picker
+        v-model="type"
+        exclude="fire"
+      >exclude String</type-picker>
+      <type-picker
+        v-model="type"
+        :exclude="water"
+      >exclude Object</type-picker>
+      <type-picker
+        v-model="type"
+        :exclude="null"
+      >exclude null</type-picker>
+      <type-picker
+        v-model="type"
+        exclude="fail"
+      >exclude fail</type-picker>
+      <type-picker
+        v-model="type"
+        allow-clear
+      >allowClear</type-picker>
+      <type-picker
+        v-model="type"
+        show-none
+      >showNone</type-picker>
+      <type-picker
+        v-model="type"
+        allow-clear
+        show-none
+      >
+        allowClear + showNone
+      </type-picker>
+    </div>
   </div>
 </template>
 
@@ -129,6 +166,7 @@
   import CategoryIcon from '../components/CategoryIcon';
   import TypeLabel from '../components/TypeLabel';
   import CategoryLabel from '../components/CategoryLabel';
+  import TypePicker from '../components/TypePicker';
 
   export default {
     components: {
@@ -136,10 +174,12 @@
       CategoryIcon,
       TypeLabel,
       CategoryLabel,
+      TypePicker,
     },
 
     data() {
       return {
+        type: null,
         water: data.getType('water'),
         special: data.getCategory('special'),
       };
