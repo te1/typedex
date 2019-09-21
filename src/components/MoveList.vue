@@ -28,31 +28,36 @@
     <div
       v-for="item in filteredMoves"
       :key="item.name"
-      class="box mb-4"
+      class="box flex justify-between mb-4 px-2 pt-1 pb-2 cursor-pointer hover:opacity-75"
     >
-      <div class="box-heading mx-2">{{ item.caption }}</div>
+      <div>
+        <div class="box-heading">{{ item.caption }}</div>
 
-      <div class="-mx-1 px-2 pb-2 flex items-center">
-        <type-label
-          class="mx-1"
-          :type="item.type"
-        />
+        <div class="flex items-center">
+          <type-label
+            class="mr-2"
+            :type="item.type"
+          />
 
-        <category-label
-          class="mx-1"
-          :category="item.damageCategory"
-        />
-
-        <div v-if="item.power != null">
-          Pwr {{ item.power }}
+          <category-label :category="item.damageCategory" />
         </div>
+      </div>
 
-        <div v-if="item.accuracy != null">
-          Acc {{ item.accuracy }}
-        </div>
+      <div class="self-center">
+        <div
+          v-for="stat in stats"
+          :key="stat.prop"
+          class="flex items-baseline justify-between leading-tight"
+        >
+          <template v-if="item[stat.prop]">
+            <div class="w-16 text-sm">
+              {{ stat.caption }}
+            </div>
 
-        <div v-if="item.pp != null">
-          PP {{ item.pp }}
+            <div class="w-8 font-semibold tracking-wider">
+              {{ item[stat.prop] }}
+            </div>
+          </template>
         </div>
       </div>
     </div>
@@ -84,6 +89,11 @@
           type: null,
           category: null,
         },
+        stats: [
+          { prop: 'power', caption: 'Power' },
+          { prop: 'accuracy', caption: 'Accuracy' },
+          { prop: 'pp', caption: 'PP' },
+        ],
       };
     },
 
