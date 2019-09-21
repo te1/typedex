@@ -17,9 +17,20 @@
           v-model="filter.category"
           allow-clear
           show-all
+          class="mb-2"
         >
           Category
         </category-picker>
+
+        <div class="flex justify-between items-baseline">
+          <div>
+            Results
+          </div>
+
+          <div class="font-semibold tracking-wider">
+            {{ filteredMoves.length }}
+          </div>
+        </div>
       </div>
     </div>
 
