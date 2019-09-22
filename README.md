@@ -6,8 +6,8 @@
 - [ ] Animations / transitions for modal dialogs
 - [ ] Animations / transitions for route changes
 - [ ] Transitions for hover states
-- [ ] Move picker / move list
-- [ ] Move details page
+- [x] Move picker / move list
+- [x] Move details page
 - [ ] Pokemon picker / Pokemon list
 - [ ] Pokemon details page
 - [ ] Add move picker to offense page
