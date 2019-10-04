@@ -53,9 +53,12 @@
       },
 
       damageDone() {
-        let data = _.map(this.resolvedType.damageDone, item =>
-          _.pick(item, ['type', 'factor'])
-        );
+        let data = _.map(this.resolvedType.damageDone, item => {
+          return {
+            type: item[0],
+            factor: item[1],
+          };
+        });
 
         data = _.orderBy(data, ['factor', 'type'], ['desc', 'asc']);
 

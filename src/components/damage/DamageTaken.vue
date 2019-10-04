@@ -57,9 +57,9 @@
         _.forEach(this.types, type => {
           _.forEach(type.damageTaken, damage => {
             if (data[damage.type] == null) {
-              data[damage.type] = damage.factor;
+              data[damage[0]] = damage[1];
             } else {
-              data[damage.type] *= damage.factor;
+              data[damage[0]] *= damage[1];
             }
           });
         });
