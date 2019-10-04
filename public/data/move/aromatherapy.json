@@ -1,0 +1,130 @@
+{
+  "name": "aromatherapy",
+  "caption": "Aromatherapy",
+  "type": "grass",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Cures the entire party of major status effects.",
+    "full": "Removes [major status effects]{mechanic:major-status-effects} and [confusion]{mechanic:confusion} from every Pokémon in the user's party."
+  },
+  "flavorText": "The user releases a soothing scent that heals all\nstatus conditions affecting the user’s party.",
+  "flags": [
+    "snatch",
+    "distance"
+  ],
+  "target": "user-and-allies",
+  "pokemon": {
+    "vileplume": [
+      "level-up"
+    ],
+    "paras": [
+      "level-up"
+    ],
+    "parasect": [
+      "level-up"
+    ],
+    "chansey": [
+      "egg"
+    ],
+    "chikorita": [
+      "level-up",
+      "egg"
+    ],
+    "bayleef": [
+      "level-up"
+    ],
+    "meganium": [
+      "level-up"
+    ],
+    "cleffa": [
+      "egg"
+    ],
+    "hoppip": [
+      "egg"
+    ],
+    "illumise": [
+      "egg"
+    ],
+    "roselia": [
+      "level-up"
+    ],
+    "cherubi": [
+      "egg"
+    ],
+    "happiny": [
+      "egg"
+    ],
+    "shaymin-land": [
+      "level-up"
+    ],
+    "petilil": [
+      "level-up"
+    ],
+    "deerling": [
+      "level-up"
+    ],
+    "sawsbuck": [
+      "level-up"
+    ],
+    "vivillon": [
+      "level-up"
+    ],
+    "flabebe": [
+      "level-up"
+    ],
+    "floette": [
+      "level-up"
+    ],
+    "florges": [
+      "level-up"
+    ],
+    "spritzee": [
+      "level-up"
+    ],
+    "aromatisse": [
+      "level-up"
+    ],
+    "swirlix": [
+      "level-up"
+    ],
+    "slurpuff": [
+      "level-up"
+    ],
+    "xerneas": [
+      "level-up"
+    ],
+    "cutiefly": [
+      "level-up"
+    ],
+    "ribombee": [
+      "level-up"
+    ],
+    "fomantis": [
+      "egg"
+    ],
+    "steenee": [
+      "level-up"
+    ],
+    "tsareena": [
+      "level-up"
+    ],
+    "comfey": [
+      "level-up"
+    ],
+    "tapu-lele": [
+      "level-up"
+    ],
+    "floette-eternal": [
+      "level-up"
+    ],
+    "ribombee-totem": [
+      "level-up"
+    ]
+  }
+}

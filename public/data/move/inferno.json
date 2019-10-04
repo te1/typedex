@@ -1,0 +1,84 @@
+{
+  "name": "inferno",
+  "caption": "Inferno",
+  "type": "fire",
+  "damageCategory": "special",
+  "power": 100,
+  "accuracy": 50,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Has a 100% chance to [burn]{mechanic:burn} the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 100% chance to [burn]{mechanic:burn} the target."
+  },
+  "flavorText": "The user attacks by engulfing the target in an\nintense fire. This leaves the target with a burn.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "charmander": [
+      "level-up"
+    ],
+    "charmeleon": [
+      "level-up"
+    ],
+    "charizard": [
+      "level-up"
+    ],
+    "vulpix": [
+      "level-up"
+    ],
+    "ponyta": [
+      "level-up"
+    ],
+    "rapidash": [
+      "level-up"
+    ],
+    "cyndaquil": [
+      "level-up"
+    ],
+    "quilava": [
+      "level-up"
+    ],
+    "typhlosion": [
+      "level-up"
+    ],
+    "slugma": [
+      "egg"
+    ],
+    "houndour": [
+      "level-up"
+    ],
+    "houndoom": [
+      "level-up"
+    ],
+    "torkoal": [
+      "level-up"
+    ],
+    "victini": [
+      "level-up"
+    ],
+    "litwick": [
+      "level-up"
+    ],
+    "lampent": [
+      "level-up"
+    ],
+    "heatmor": [
+      "level-up"
+    ],
+    "charizard-mega-x": [
+      "level-up"
+    ],
+    "charizard-mega-y": [
+      "level-up"
+    ],
+    "houndoom-mega": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "victory-star",
+  "caption": "Victory Star",
+  "gen": "generation-v",
+  "effect": {
+    "short": "Increases moves' accuracy to 1.1× for friendly Pokémon.",
+    "full": "All friendly Pokémon's moves, including this Pokémon's own moves, have 1.1× their usual accuracy while this Pokémon is in battle."
+  },
+  "flavorText": "Boosts the accuracy of its allies and itself.",
+  "pokemon": {
+    "victini": 1
+  }
+}

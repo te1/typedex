@@ -1,0 +1,439 @@
+{
+  "name": "agility",
+  "caption": "Agility",
+  "type": "psychic",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Raises the user's Speed by two stages.",
+    "full": "Raises the user's [Speed]{mechanic:speed} by two [stages]{mechanic:stage}."
+  },
+  "flavorText": "The user relaxes and lightens its body to move\nfaster. This sharply raises the Speed stat.",
+  "flags": [
+    "snatch"
+  ],
+  "target": "user",
+  "pokemon": {
+    "beedrill": [
+      "level-up"
+    ],
+    "pidgey": [
+      "level-up"
+    ],
+    "pidgeotto": [
+      "level-up"
+    ],
+    "pidgeot": [
+      "level-up"
+    ],
+    "spearow": [
+      "level-up"
+    ],
+    "fearow": [
+      "level-up"
+    ],
+    "pikachu": [
+      "level-up"
+    ],
+    "paras": [
+      "egg"
+    ],
+    "venonat": [
+      "egg"
+    ],
+    "growlithe": [
+      "level-up"
+    ],
+    "ponyta": [
+      "level-up"
+    ],
+    "rapidash": [
+      "level-up"
+    ],
+    "farfetchd": [
+      "level-up"
+    ],
+    "doduo": [
+      "level-up"
+    ],
+    "dodrio": [
+      "level-up"
+    ],
+    "krabby": [
+      "egg"
+    ],
+    "hitmonchan": [
+      "level-up"
+    ],
+    "horsea": [
+      "level-up"
+    ],
+    "seadra": [
+      "level-up"
+    ],
+    "goldeen": [
+      "level-up"
+    ],
+    "seaking": [
+      "level-up"
+    ],
+    "scyther": [
+      "level-up"
+    ],
+    "jolteon": [
+      "level-up"
+    ],
+    "porygon": [
+      "level-up"
+    ],
+    "aerodactyl": [
+      "level-up"
+    ],
+    "articuno": [
+      "level-up"
+    ],
+    "zapdos": [
+      "level-up"
+    ],
+    "moltres": [
+      "level-up"
+    ],
+    "dratini": [
+      "level-up"
+    ],
+    "dragonair": [
+      "level-up"
+    ],
+    "dragonite": [
+      "level-up"
+    ],
+    "feraligatr": [
+      "level-up"
+    ],
+    "furret": [
+      "level-up"
+    ],
+    "hoothoot": [
+      "egg"
+    ],
+    "ledyba": [
+      "level-up"
+    ],
+    "ledian": [
+      "level-up"
+    ],
+    "spinarak": [
+      "level-up"
+    ],
+    "ariados": [
+      "level-up"
+    ],
+    "chinchou": [
+      "egg"
+    ],
+    "mareep": [
+      "egg"
+    ],
+    "aipom": [
+      "level-up",
+      "egg"
+    ],
+    "girafarig": [
+      "level-up"
+    ],
+    "dunsparce": [
+      "egg"
+    ],
+    "gligar": [
+      "egg"
+    ],
+    "scizor": [
+      "level-up"
+    ],
+    "sneasel": [
+      "level-up"
+    ],
+    "mantine": [
+      "level-up"
+    ],
+    "skarmory": [
+      "level-up"
+    ],
+    "kingdra": [
+      "level-up"
+    ],
+    "porygon2": [
+      "level-up"
+    ],
+    "hitmontop": [
+      "level-up"
+    ],
+    "treecko": [
+      "level-up"
+    ],
+    "grovyle": [
+      "level-up"
+    ],
+    "sceptile": [
+      "level-up"
+    ],
+    "torchic": [
+      "egg"
+    ],
+    "taillow": [
+      "level-up"
+    ],
+    "swellow": [
+      "level-up"
+    ],
+    "wingull": [
+      "level-up",
+      "egg"
+    ],
+    "surskit": [
+      "level-up"
+    ],
+    "ninjask": [
+      "level-up"
+    ],
+    "plusle": [
+      "level-up"
+    ],
+    "minun": [
+      "level-up"
+    ],
+    "carvanha": [
+      "level-up"
+    ],
+    "sharpedo": [
+      "level-up"
+    ],
+    "swablu": [
+      "egg"
+    ],
+    "gorebyss": [
+      "level-up"
+    ],
+    "luvdisc": [
+      "level-up"
+    ],
+    "metang": [
+      "level-up"
+    ],
+    "metagross": [
+      "level-up"
+    ],
+    "piplup": [
+      "egg"
+    ],
+    "starly": [
+      "level-up"
+    ],
+    "staravia": [
+      "level-up"
+    ],
+    "staraptor": [
+      "level-up"
+    ],
+    "buizel": [
+      "level-up"
+    ],
+    "floatzel": [
+      "level-up"
+    ],
+    "ambipom": [
+      "level-up"
+    ],
+    "buneary": [
+      "level-up"
+    ],
+    "lopunny": [
+      "level-up"
+    ],
+    "chatot": [
+      "egg"
+    ],
+    "riolu": [
+      "egg"
+    ],
+    "skorupi": [
+      "egg"
+    ],
+    "finneon": [
+      "egg"
+    ],
+    "mantyke": [
+      "level-up"
+    ],
+    "porygon-z": [
+      "level-up"
+    ],
+    "blitzle": [
+      "level-up"
+    ],
+    "zebstrika": [
+      "level-up"
+    ],
+    "sewaddle": [
+      "egg"
+    ],
+    "venipede": [
+      "level-up"
+    ],
+    "whirlipede": [
+      "level-up"
+    ],
+    "scolipede": [
+      "level-up"
+    ],
+    "basculin-red-striped": [
+      "egg"
+    ],
+    "archen": [
+      "level-up"
+    ],
+    "archeops": [
+      "level-up"
+    ],
+    "zorua": [
+      "level-up"
+    ],
+    "zoroark": [
+      "level-up"
+    ],
+    "deerling": [
+      "egg"
+    ],
+    "emolga": [
+      "level-up"
+    ],
+    "joltik": [
+      "level-up"
+    ],
+    "galvantula": [
+      "level-up"
+    ],
+    "accelgor": [
+      "level-up"
+    ],
+    "durant": [
+      "level-up"
+    ],
+    "tornadus-incarnate": [
+      "level-up"
+    ],
+    "thundurus-incarnate": [
+      "level-up"
+    ],
+    "bunnelby": [
+      "level-up"
+    ],
+    "diggersby": [
+      "level-up"
+    ],
+    "fletchling": [
+      "level-up"
+    ],
+    "fletchinder": [
+      "level-up"
+    ],
+    "talonflame": [
+      "level-up"
+    ],
+    "helioptile": [
+      "egg"
+    ],
+    "hawlucha": [
+      "egg"
+    ],
+    "noibat": [
+      "level-up"
+    ],
+    "noivern": [
+      "level-up"
+    ],
+    "vikavolt": [
+      "level-up"
+    ],
+    "oricorio-baile": [
+      "level-up"
+    ],
+    "tapu-koko": [
+      "level-up"
+    ],
+    "pheromosa": [
+      "level-up"
+    ],
+    "deoxys-speed": [
+      "level-up"
+    ],
+    "tornadus-therian": [
+      "level-up"
+    ],
+    "thundurus-therian": [
+      "level-up"
+    ],
+    "aerodactyl-mega": [
+      "level-up"
+    ],
+    "scizor-mega": [
+      "level-up"
+    ],
+    "sceptile-mega": [
+      "level-up"
+    ],
+    "sharpedo-mega": [
+      "level-up"
+    ],
+    "pidgeot-mega": [
+      "level-up"
+    ],
+    "metagross-mega": [
+      "level-up"
+    ],
+    "lopunny-mega": [
+      "level-up"
+    ],
+    "beedrill-mega": [
+      "level-up"
+    ],
+    "pikachu-original-cap": [
+      "level-up"
+    ],
+    "pikachu-hoenn-cap": [
+      "level-up"
+    ],
+    "pikachu-sinnoh-cap": [
+      "level-up"
+    ],
+    "pikachu-unova-cap": [
+      "level-up"
+    ],
+    "pikachu-kalos-cap": [
+      "level-up"
+    ],
+    "pikachu-alola-cap": [
+      "level-up"
+    ],
+    "vikavolt-totem": [
+      "level-up"
+    ],
+    "oricorio-pom-pom": [
+      "level-up"
+    ],
+    "oricorio-pau": [
+      "level-up"
+    ],
+    "oricorio-sensu": [
+      "level-up"
+    ],
+    "pikachu-partner-cap": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "name": "foongus",
+  "caption": "Foongus",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "species": "foongus",
+  "gen": "generation-v",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.2,
+  "weight": 1,
+  "baseStats": {
+    "hp": 69,
+    "attack": 55,
+    "defense": 45,
+    "special-attack": 55,
+    "special-defense": 55,
+    "speed": 15
+  },
+  "evolutionChain": {
+    "species": "foongus",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "amoonguss",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It lures people in with its Poké Ball pattern, then\nreleases poison spores. Why it resembles a\nPoké Ball is unknown.",
+  "moves": {
+    "body-slam": [
+      "egg"
+    ],
+    "absorb": [
+      "level-up"
+    ],
+    "mega-drain": [
+      "level-up"
+    ],
+    "growth": [
+      "level-up",
+      "egg"
+    ],
+    "solar-beam": [
+      "level-up",
+      "machine"
+    ],
+    "poison-powder": [
+      "egg"
+    ],
+    "stun-spore": [
+      "egg"
+    ],
+    "toxic": [
+      "level-up",
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "defense-curl": [
+      "egg"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "spore": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "giga-drain": [
+      "level-up"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "rollout": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "synthesis": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "ingrain": [
+      "level-up"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "gastro-acid": [
+      "egg"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "rage-powder": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "clear-smog": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "effect-spore": 1,
+    "regenerator": "hidden"
+  }
+}

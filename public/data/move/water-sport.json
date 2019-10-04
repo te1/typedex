@@ -1,0 +1,179 @@
+{
+  "name": "water-sport",
+  "caption": "Water Sport",
+  "type": "water",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Halves all Fire-type damage.",
+    "full": "[]{type:fire} moves inflict half damage, regardless of target.  If the user leaves the [field]{mechanic:field}, this effect ends."
+  },
+  "flavorText": "The user soaks the battlefield with water. This\nweakens Fire-type moves for five turns.",
+  "flags": [
+    "non-sky-battle"
+  ],
+  "target": "entire-field",
+  "pokemon": {
+    "psyduck": [
+      "level-up"
+    ],
+    "golduck": [
+      "level-up"
+    ],
+    "poliwag": [
+      "level-up",
+      "egg"
+    ],
+    "poliwhirl": [
+      "level-up"
+    ],
+    "seel": [
+      "level-up"
+    ],
+    "goldeen": [
+      "level-up"
+    ],
+    "seaking": [
+      "level-up"
+    ],
+    "totodile": [
+      "egg"
+    ],
+    "marill": [
+      "level-up",
+      "egg"
+    ],
+    "azumarill": [
+      "level-up"
+    ],
+    "mantine": [
+      "egg"
+    ],
+    "lombre": [
+      "level-up"
+    ],
+    "wingull": [
+      "egg"
+    ],
+    "pelipper": [
+      "level-up"
+    ],
+    "surskit": [
+      "level-up"
+    ],
+    "masquerain": [
+      "level-up"
+    ],
+    "azurill": [
+      "level-up",
+      "egg"
+    ],
+    "barboach": [
+      "level-up"
+    ],
+    "whiscash": [
+      "level-up"
+    ],
+    "milotic": [
+      "level-up"
+    ],
+    "spheal": [
+      "egg"
+    ],
+    "gorebyss": [
+      "level-up"
+    ],
+    "relicanth": [
+      "egg"
+    ],
+    "luvdisc": [
+      "egg"
+    ],
+    "latias": [
+      "level-up"
+    ],
+    "piplup": [
+      "level-up"
+    ],
+    "prinplup": [
+      "level-up"
+    ],
+    "bidoof": [
+      "egg"
+    ],
+    "budew": [
+      "level-up"
+    ],
+    "buizel": [
+      "level-up"
+    ],
+    "floatzel": [
+      "level-up"
+    ],
+    "mantyke": [
+      "egg"
+    ],
+    "phione": [
+      "level-up"
+    ],
+    "manaphy": [
+      "level-up"
+    ],
+    "oshawott": [
+      "level-up"
+    ],
+    "dewott": [
+      "level-up"
+    ],
+    "samurott": [
+      "level-up"
+    ],
+    "panpour": [
+      "level-up"
+    ],
+    "ducklett": [
+      "level-up"
+    ],
+    "swanna": [
+      "level-up"
+    ],
+    "frillish": [
+      "level-up"
+    ],
+    "jellicent": [
+      "level-up"
+    ],
+    "alomomola": [
+      "level-up"
+    ],
+    "froakie": [
+      "egg"
+    ],
+    "binacle": [
+      "egg"
+    ],
+    "clauncher": [
+      "level-up"
+    ],
+    "clawitzer": [
+      "level-up"
+    ],
+    "wishiwashi-solo": [
+      "egg"
+    ],
+    "dewpider": [
+      "level-up"
+    ],
+    "pyukumuku": [
+      "level-up"
+    ],
+    "latias-mega": [
+      "level-up"
+    ]
+  }
+}

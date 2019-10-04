@@ -1,0 +1,45 @@
+{
+  "name": "spotlight",
+  "caption": "Spotlight",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "z": false,
+  "priority": 3,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Forces the target's opponents to aim at the target for the rest of the turn.",
+    "full": "For the duration of the turn, if the target is also a valid target for a move used by one of its opponents, that move will target it instead."
+  },
+  "flavorText": "The user shines a spotlight on the target so that\nonly the target will be attacked during the turn.",
+  "flags": [
+    "protect",
+    "reflectable"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "clefairy": [
+      "level-up"
+    ],
+    "clefable": [
+      "level-up"
+    ],
+    "starmie": [
+      "level-up"
+    ],
+    "lanturn": [
+      "level-up"
+    ],
+    "spinda": [
+      "egg"
+    ],
+    "morelull": [
+      "level-up"
+    ],
+    "shiinotic": [
+      "level-up"
+    ]
+  }
+}

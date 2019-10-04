@@ -1,0 +1,220 @@
+{
+  "name": "primeape",
+  "caption": "Primeape",
+  "types": [
+    "fighting"
+  ],
+  "species": "primeape",
+  "gen": "generation-i",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1,
+  "weight": 32,
+  "baseStats": {
+    "hp": 65,
+    "attack": 105,
+    "defense": 60,
+    "special-attack": 60,
+    "special-defense": 70,
+    "speed": 95
+  },
+  "evolutionChain": {
+    "species": "mankey",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "primeape",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It will never forgive opponents who have\nangered it. Even after it has beaten them down\nuntil they can’t move, it never ever forgives.",
+  "moves": {
+    "karate-chop": [
+      "level-up"
+    ],
+    "scratch": [
+      "level-up"
+    ],
+    "thrash": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "seismic-toss": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "rage": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "low-kick": [
+      "level-up"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "level-up",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "cross-chop": [
+      "level-up"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "close-combat": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "assurance": [
+      "level-up"
+    ],
+    "fling": [
+      "level-up",
+      "machine"
+    ],
+    "punishment": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "outrage": [
+      "level-up"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "final-gambit": [
+      "level-up"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "stomping-tantrum": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "vital-spirit": 1,
+    "anger-point": 2,
+    "defiant": "hidden"
+  }
+}

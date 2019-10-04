@@ -1,0 +1,196 @@
+{
+  "name": "phantump",
+  "caption": "Phantump",
+  "types": [
+    "ghost",
+    "grass"
+  ],
+  "species": "phantump",
+  "gen": "generation-vi",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 7,
+  "baseStats": {
+    "hp": 43,
+    "attack": 70,
+    "defense": 48,
+    "special-attack": 50,
+    "special-defense": 60,
+    "speed": 38
+  },
+  "evolutionChain": {
+    "species": "phantump",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "trevenant",
+        "triggers": [
+          "trade"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "By imitating the voice of a child, it causes\npeople to get hopelessly lost deep in the forest.\nIt’s trying to make friends with them.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "leech-seed": [
+      "level-up"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "curse": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "destiny-bond": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "level-up",
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "ingrain": [
+      "level-up"
+    ],
+    "imprison": [
+      "egg"
+    ],
+    "grudge": [
+      "egg"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "wood-hammer": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bestow": [
+      "egg"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "horn-leech": [
+      "level-up"
+    ],
+    "phantom-force": [
+      "level-up"
+    ],
+    "forests-curse": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "venom-drench": [
+      "egg"
+    ],
+    "power-up-punch": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "natural-cure": 1,
+    "frisk": 2,
+    "harvest": "hidden"
+  }
+}

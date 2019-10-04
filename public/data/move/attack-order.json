@@ -1,0 +1,27 @@
+{
+  "name": "attack-order",
+  "caption": "Attack Order",
+  "type": "bug",
+  "damageCategory": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has an increased chance for a critical hit.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User's [critical hit]{mechanic:critical-hit} rate is one level higher when using this move."
+  },
+  "flavorText": "The user calls out its underlings to pummel the\ntarget. Critical hits land more easily.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "vespiquen": [
+      "level-up"
+    ]
+  }
+}

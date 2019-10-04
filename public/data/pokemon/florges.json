@@ -1,0 +1,170 @@
+{
+  "name": "florges",
+  "caption": "Florges",
+  "types": [
+    "fairy"
+  ],
+  "species": "florges",
+  "gen": "generation-vi",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": "Red Flower",
+  "height": 1.1,
+  "weight": 10,
+  "baseStats": {
+    "hp": 78,
+    "attack": 65,
+    "defense": 68,
+    "special-attack": 112,
+    "special-defense": 154,
+    "speed": 75
+  },
+  "evolutionChain": {
+    "species": "flabebe",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "floette",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "florges",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It controls the flowers it grows. The petal\nblizzards that Florges triggers are overwhelming\nin their beauty and power.",
+  "moves": {
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "petal-dance": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "wish": [
+      "level-up"
+    ],
+    "aromatherapy": [
+      "level-up"
+    ],
+    "magical-leaf": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "lucky-chant": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "level-up",
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "petal-blizzard": [
+      "level-up"
+    ],
+    "disarming-voice": [
+      "level-up"
+    ],
+    "flower-shield": [
+      "level-up"
+    ],
+    "grassy-terrain": [
+      "level-up"
+    ],
+    "misty-terrain": [
+      "level-up"
+    ],
+    "moonblast": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "flower-veil": 1,
+    "symbiosis": "hidden"
+  }
+}

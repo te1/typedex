@@ -1,0 +1,204 @@
+{
+  "name": "swablu",
+  "caption": "Swablu",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "species": "swablu",
+  "gen": "generation-iii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 1.2,
+  "baseStats": {
+    "hp": 45,
+    "attack": 40,
+    "defense": 60,
+    "special-attack": 40,
+    "special-defense": 75,
+    "speed": 50
+  },
+  "evolutionChain": {
+    "species": "swablu",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "altaria",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Swablu has light and fluffy wings that are like cottony clouds.\nThis Pokémon is not frightened of people. It lands on the\nheads of people and sits there like a cotton-fluff hat.",
+  "moves": {
+    "fly": [
+      "machine"
+    ],
+    "fury-attack": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "sing": [
+      "level-up"
+    ],
+    "mist": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "egg"
+    ],
+    "rage": [
+      "egg"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "haze": [
+      "egg"
+    ],
+    "mirror-move": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "perish-song": [
+      "level-up"
+    ],
+    "steel-wing": [
+      "egg",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "level-up",
+      "machine"
+    ],
+    "pursuit": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "refresh": [
+      "level-up"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "feather-dance": [
+      "egg"
+    ],
+    "roost": [
+      "egg",
+      "machine"
+    ],
+    "natural-gift": [
+      "level-up"
+    ],
+    "dragon-pulse": [
+      "level-up"
+    ],
+    "dragon-rush": [
+      "egg"
+    ],
+    "power-swap": [
+      "egg"
+    ],
+    "hyper-voice": [
+      "egg"
+    ],
+    "round": [
+      "level-up",
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "cotton-guard": [
+      "level-up"
+    ],
+    "moonblast": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "disarming-voice": [
+      "level-up"
+    ],
+    "play-rough": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "natural-cure": 1,
+    "cloud-nine": "hidden"
+  }
+}

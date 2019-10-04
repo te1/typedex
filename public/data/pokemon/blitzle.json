@@ -1,0 +1,177 @@
+{
+  "name": "blitzle",
+  "caption": "Blitzle",
+  "types": [
+    "electric"
+  ],
+  "species": "blitzle",
+  "gen": "generation-v",
+  "color": "black",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.8,
+  "weight": 29.8,
+  "baseStats": {
+    "hp": 45,
+    "attack": 60,
+    "defense": 32,
+    "special-attack": 50,
+    "special-defense": 32,
+    "speed": 76
+  },
+  "evolutionChain": {
+    "species": "blitzle",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "zebstrika",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "When thunderclouds cover the sky, it will appear.\nIt can catch lightning with its mane and store\nthe electricity.",
+  "moves": {
+    "stomp": [
+      "level-up"
+    ],
+    "double-kick": [
+      "egg"
+    ],
+    "sand-attack": [
+      "egg"
+    ],
+    "take-down": [
+      "egg"
+    ],
+    "thrash": [
+      "level-up"
+    ],
+    "double-edge": [
+      "egg"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "level-up",
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "rage": [
+      "egg"
+    ],
+    "screech": [
+      "egg"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "spark": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "charge": [
+      "level-up"
+    ],
+    "shock-wave": [
+      "level-up",
+      "egg"
+    ],
+    "me-first": [
+      "egg"
+    ],
+    "discharge": [
+      "level-up"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "flame-charge": [
+      "level-up",
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "volt-switch": [
+      "machine"
+    ],
+    "wild-charge": [
+      "level-up",
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "snatch": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "feint": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "lightning-rod": 1,
+    "motor-drive": 2,
+    "sap-sipper": "hidden"
+  }
+}

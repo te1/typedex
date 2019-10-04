@@ -1,0 +1,170 @@
+{
+  "name": "huntail",
+  "caption": "Huntail",
+  "types": [
+    "water"
+  ],
+  "species": "huntail",
+  "gen": "generation-iii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.7,
+  "weight": 27,
+  "baseStats": {
+    "hp": 55,
+    "attack": 104,
+    "defense": 105,
+    "special-attack": 94,
+    "special-defense": 75,
+    "speed": 52
+  },
+  "evolutionChain": {
+    "species": "clamperl",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "huntail",
+        "triggers": [
+          "trade"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "gorebyss",
+        "triggers": [
+          "trade"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It’s not the strongest swimmer. It wags its tail to\nlure in its prey and then gulps them down as\nsoon as they get close.",
+  "moves": {
+    "bite": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "baton-pass": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "whirlpool": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "dive": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "brine": [
+      "level-up"
+    ],
+    "aqua-tail": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "ice-fang": [
+      "level-up"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "coil": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "swift-swim": 1,
+    "water-veil": "hidden"
+  }
+}

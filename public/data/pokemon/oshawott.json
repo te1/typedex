@@ -1,0 +1,211 @@
+{
+  "name": "oshawott",
+  "caption": "Oshawott",
+  "types": [
+    "water"
+  ],
+  "species": "oshawott",
+  "gen": "generation-v",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 5.9,
+  "baseStats": {
+    "hp": 55,
+    "attack": 55,
+    "defense": 45,
+    "special-attack": 63,
+    "special-defense": 45,
+    "speed": 45
+  },
+  "evolutionChain": {
+    "species": "oshawott",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "dewott",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "samurott",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "The scalchop on its stomach isn’t just used for\nbattle—it can be used to break open hard berries\nas well.",
+  "moves": {
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "screech": [
+      "egg"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "detect": [
+      "egg"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "fury-cutter": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "encore": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "revenge": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "water-sport": [
+      "level-up"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "brine": [
+      "egg"
+    ],
+    "assurance": [
+      "egg"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "trump-card": [
+      "egg"
+    ],
+    "copycat": [
+      "egg"
+    ],
+    "night-slash": [
+      "egg"
+    ],
+    "aqua-tail": [
+      "level-up"
+    ],
+    "air-slash": [
+      "egg"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "aqua-jet": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "retaliate": [
+      "level-up"
+    ],
+    "water-pledge": [
+      "tutor"
+    ],
+    "razor-shell": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "sacred-sword": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "torrent": 1,
+    "shell-armor": "hidden"
+  }
+}

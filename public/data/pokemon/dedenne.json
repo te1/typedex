@@ -1,0 +1,169 @@
+{
+  "name": "dedenne",
+  "caption": "Dedenne",
+  "types": [
+    "electric",
+    "fairy"
+  ],
+  "species": "dedenne",
+  "gen": "generation-vi",
+  "color": "yellow",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.2,
+  "weight": 2.2,
+  "baseStats": {
+    "hp": 67,
+    "attack": 58,
+    "defense": 57,
+    "special-attack": 81,
+    "special-defense": 67,
+    "speed": 101
+  },
+  "flavorText": "It sneaks into people’s homes and steals\nelectricity from their outlets. When your electric\nbill seems off, it’s the handiwork of this rascal.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "thunder-shock": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "level-up",
+      "machine"
+    ],
+    "thunder": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "level-up",
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "snore": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "charm": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "charge": [
+      "level-up"
+    ],
+    "helping-hand": [
+      "egg"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "covet": [
+      "egg"
+    ],
+    "natural-gift": [
+      "egg"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "discharge": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "level-up",
+      "machine"
+    ],
+    "entrainment": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "volt-switch": [
+      "level-up",
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "parabolic-charge": [
+      "level-up"
+    ],
+    "play-rough": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "eerie-impulse": [
+      "egg"
+    ],
+    "nuzzle": [
+      "level-up"
+    ],
+    "tearful-look": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "cheek-pouch": 1,
+    "pickup": 2,
+    "plus": "hidden"
+  }
+}

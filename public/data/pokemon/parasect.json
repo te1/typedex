@@ -1,0 +1,175 @@
+{
+  "name": "parasect",
+  "caption": "Parasect",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "species": "parasect",
+  "gen": "generation-i",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1,
+  "weight": 29.5,
+  "baseStats": {
+    "hp": 60,
+    "attack": 95,
+    "defense": 80,
+    "special-attack": 60,
+    "special-defense": 80,
+    "speed": 30
+  },
+  "evolutionChain": {
+    "species": "paras",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "parasect",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "The bug is mostly dead, with the mushroom on\nits back having become the main body. If the\nmushroom comes off, the bug stops moving.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "stun-spore": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "leech-life": [
+      "machine"
+    ],
+    "spore": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "poison-powder": [
+      "level-up"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "giga-drain": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "fury-cutter": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "aromatherapy": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "x-scissor": [
+      "level-up",
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "cross-poison": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "rage-powder": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "absorb": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "effect-spore": 1,
+    "dry-skin": 2,
+    "damp": "hidden"
+  }
+}

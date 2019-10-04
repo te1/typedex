@@ -1,0 +1,288 @@
+{
+  "name": "dragon-claw",
+  "caption": "Dragon Claw",
+  "type": "dragon",
+  "damageCategory": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The user slashes the target with huge sharp claws.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "charmander": [
+      "machine"
+    ],
+    "charmeleon": [
+      "machine"
+    ],
+    "charizard": [
+      "level-up",
+      "machine"
+    ],
+    "aerodactyl": [
+      "machine"
+    ],
+    "dragonite": [
+      "machine"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "totodile": [
+      "machine"
+    ],
+    "croconaw": [
+      "machine"
+    ],
+    "feraligatr": [
+      "machine"
+    ],
+    "tyranitar": [
+      "machine"
+    ],
+    "sceptile": [
+      "machine"
+    ],
+    "aggron": [
+      "machine"
+    ],
+    "flygon": [
+      "level-up",
+      "machine"
+    ],
+    "altaria": [
+      "machine"
+    ],
+    "bagon": [
+      "level-up",
+      "machine"
+    ],
+    "shelgon": [
+      "level-up",
+      "machine"
+    ],
+    "salamence": [
+      "level-up",
+      "machine"
+    ],
+    "latias": [
+      "machine"
+    ],
+    "latios": [
+      "machine"
+    ],
+    "groudon": [
+      "machine"
+    ],
+    "rayquaza": [
+      "machine"
+    ],
+    "gible": [
+      "level-up",
+      "machine"
+    ],
+    "gabite": [
+      "level-up",
+      "machine"
+    ],
+    "garchomp": [
+      "level-up",
+      "machine"
+    ],
+    "dialga": [
+      "level-up",
+      "machine"
+    ],
+    "palkia": [
+      "level-up",
+      "machine"
+    ],
+    "giratina-altered": [
+      "level-up",
+      "machine"
+    ],
+    "arceus": [
+      "machine"
+    ],
+    "krookodile": [
+      "machine"
+    ],
+    "scraggy": [
+      "machine"
+    ],
+    "scrafty": [
+      "machine"
+    ],
+    "archen": [
+      "level-up",
+      "machine"
+    ],
+    "archeops": [
+      "level-up",
+      "machine"
+    ],
+    "eelektross": [
+      "machine"
+    ],
+    "axew": [
+      "level-up",
+      "machine"
+    ],
+    "fraxure": [
+      "level-up",
+      "machine"
+    ],
+    "haxorus": [
+      "level-up",
+      "machine"
+    ],
+    "druddigon": [
+      "level-up",
+      "machine"
+    ],
+    "reshiram": [
+      "machine"
+    ],
+    "zekrom": [
+      "level-up",
+      "machine"
+    ],
+    "kyurem": [
+      "machine"
+    ],
+    "chesnaught": [
+      "machine"
+    ],
+    "pangoro": [
+      "machine"
+    ],
+    "barbaracle": [
+      "machine"
+    ],
+    "tyrunt": [
+      "level-up",
+      "machine"
+    ],
+    "tyrantrum": [
+      "level-up",
+      "machine"
+    ],
+    "noivern": [
+      "machine"
+    ],
+    "yveltal": [
+      "machine"
+    ],
+    "salandit": [
+      "machine"
+    ],
+    "salazzle": [
+      "machine"
+    ],
+    "bewear": [
+      "machine"
+    ],
+    "type-null": [
+      "machine"
+    ],
+    "silvally": [
+      "machine"
+    ],
+    "turtonator": [
+      "machine"
+    ],
+    "drampa": [
+      "machine"
+    ],
+    "jangmo-o": [
+      "level-up",
+      "machine"
+    ],
+    "hakamo-o": [
+      "level-up",
+      "machine"
+    ],
+    "kommo-o": [
+      "level-up",
+      "machine"
+    ],
+    "guzzlord": [
+      "machine"
+    ],
+    "naganadel": [
+      "machine"
+    ],
+    "giratina-origin": [
+      "level-up",
+      "machine"
+    ],
+    "kyurem-black": [
+      "machine"
+    ],
+    "kyurem-white": [
+      "machine"
+    ],
+    "charizard-mega-x": [
+      "level-up",
+      "machine"
+    ],
+    "charizard-mega-y": [
+      "level-up",
+      "machine"
+    ],
+    "aerodactyl-mega": [
+      "machine"
+    ],
+    "tyranitar-mega": [
+      "machine"
+    ],
+    "aggron-mega": [
+      "machine"
+    ],
+    "garchomp-mega": [
+      "level-up",
+      "machine"
+    ],
+    "latias-mega": [
+      "machine"
+    ],
+    "latios-mega": [
+      "machine"
+    ],
+    "sceptile-mega": [
+      "machine"
+    ],
+    "altaria-mega": [
+      "machine"
+    ],
+    "groudon-primal": [
+      "machine"
+    ],
+    "rayquaza-mega": [
+      "machine"
+    ],
+    "salamence-mega": [
+      "level-up",
+      "machine"
+    ],
+    "salazzle-totem": [
+      "machine"
+    ],
+    "kommo-o-totem": [
+      "level-up",
+      "machine"
+    ]
+  }
+}

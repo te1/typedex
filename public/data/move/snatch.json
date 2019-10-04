@@ -1,0 +1,104 @@
+{
+  "name": "snatch",
+  "caption": "Snatch",
+  "type": "dark",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 4,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Steals the target's move, if it's self-targeted.",
+    "full": "The next time a Pokémon uses a beneficial move on itself or itself and its ally this turn, the user of this move will steal the move and use it itself.  Moves which may be stolen by this move are identified by the \"snatchable\" flag.\n\nIf two Pokémon use this move on the same turn, the faster Pokémon will steal the first beneficial move, and the slower Pokémon will then steal it again—thus, only the slowest Pokémon using this move ultimately gains a stolen move's effect.\n\nIf the user steals []{move:psych-up}, it will target the Pokémon that used []{move:psych-up}.  If the user was the original target of []{move:psych-up}, and the Pokémon that originally used it's affected by []{ability:pressure}, it will only lose 1 [PP]{mechanic:pp}.\n\nThis move cannot be copied by []{move:mirror-move}, nor selected by []{move:assist} or []{move:metronome}."
+  },
+  "flavorText": "The user steals the effects of any attempts to use a\nhealing or stat-changing move.",
+  "flags": [
+    "authentic"
+  ],
+  "target": "user",
+  "pokemon": {
+    "ekans": [
+      "egg"
+    ],
+    "meowth": [
+      "egg"
+    ],
+    "sneasel": [
+      "level-up"
+    ],
+    "poochyena": [
+      "egg"
+    ],
+    "kecleon": [
+      "egg"
+    ],
+    "shuppet": [
+      "level-up"
+    ],
+    "banette": [
+      "level-up"
+    ],
+    "deoxys-normal": [
+      "level-up"
+    ],
+    "glameow": [
+      "egg"
+    ],
+    "munchlax": [
+      "level-up"
+    ],
+    "weavile": [
+      "level-up"
+    ],
+    "purrloin": [
+      "level-up"
+    ],
+    "liepard": [
+      "level-up"
+    ],
+    "blitzle": [
+      "egg"
+    ],
+    "darumaka": [
+      "egg"
+    ],
+    "zorua": [
+      "egg"
+    ],
+    "solosis": [
+      "level-up"
+    ],
+    "duosion": [
+      "level-up"
+    ],
+    "reuniclus": [
+      "level-up"
+    ],
+    "druddigon": [
+      "egg"
+    ],
+    "heatmor": [
+      "level-up"
+    ],
+    "fletchling": [
+      "egg"
+    ],
+    "litleo": [
+      "egg"
+    ],
+    "noibat": [
+      "egg"
+    ],
+    "salandit": [
+      "egg"
+    ],
+    "deoxys-defense": [
+      "level-up"
+    ],
+    "banette-mega": [
+      "level-up"
+    ]
+  }
+}

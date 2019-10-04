@@ -1,0 +1,92 @@
+{
+  "name": "misty-terrain",
+  "caption": "Misty Terrain",
+  "type": "fairy",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "For five turns, protects all Pokémon on the ground from major status ailments and confusion, and halves the power of incoming []{type:dragon} moves.",
+    "full": "For five turns, protects all Pokémon on the ground from major status ailments and confusion and weakens []{type:dragon} moves used against them to 0.5× their power.\n\nChanges []{move:nature-power} to []{move:moonblast}."
+  },
+  "flavorText": "This protects Pokémon on the ground from status\nconditions and halves damage from Dragon-type\nmoves for five turns.",
+  "flags": [
+    "non-sky-battle"
+  ],
+  "target": "entire-field",
+  "pokemon": {
+    "mr-mime": [
+      "level-up"
+    ],
+    "cleffa": [
+      "egg"
+    ],
+    "igglybuff": [
+      "egg"
+    ],
+    "ralts": [
+      "egg"
+    ],
+    "gardevoir": [
+      "level-up"
+    ],
+    "mawile": [
+      "egg"
+    ],
+    "audino": [
+      "level-up"
+    ],
+    "cottonee": [
+      "egg"
+    ],
+    "flabebe": [
+      "level-up"
+    ],
+    "floette": [
+      "level-up"
+    ],
+    "florges": [
+      "level-up"
+    ],
+    "meowstic-male": [
+      "level-up"
+    ],
+    "spritzee": [
+      "level-up"
+    ],
+    "aromatisse": [
+      "level-up"
+    ],
+    "sylveon": [
+      "level-up"
+    ],
+    "xerneas": [
+      "level-up"
+    ],
+    "popplio": [
+      "level-up"
+    ],
+    "brionne": [
+      "level-up"
+    ],
+    "primarina": [
+      "level-up"
+    ],
+    "tapu-fini": [
+      "level-up"
+    ],
+    "gardevoir-mega": [
+      "level-up"
+    ],
+    "floette-eternal": [
+      "level-up"
+    ],
+    "audino-mega": [
+      "level-up"
+    ]
+  }
+}

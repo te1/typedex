@@ -1,0 +1,24 @@
+{
+  "name": "unburden",
+  "caption": "Unburden",
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Doubles [Speed]{mechanic:speed} upon using or losing a held item.",
+    "full": "When this Pokémon uses or loses its held item, its [Speed]{mechanic:speed} is doubled.  If it gains another item or leaves battle, this bonus is lost.\n\nThis includes when the Pokémon drops its item because of []{move:knock-off}.  This bonus does not count as a [stat modifier]{mechanic:stat-modifier}.  There is no notification when this ability takes effect."
+  },
+  "flavorText": "Boosts the Speed stat if the Pokémon’s held item is \nused or lost.",
+  "pokemon": {
+    "hitmonlee": "hidden",
+    "treecko": "hidden",
+    "grovyle": "hidden",
+    "sceptile": "hidden",
+    "drifloon": 2,
+    "drifblim": 2,
+    "purrloin": 2,
+    "liepard": 2,
+    "accelgor": "hidden",
+    "swirlix": "hidden",
+    "slurpuff": "hidden",
+    "hawlucha": 2
+  }
+}

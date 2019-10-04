@@ -1,0 +1,181 @@
+{
+  "name": "golett",
+  "caption": "Golett",
+  "types": [
+    "ground",
+    "ghost"
+  ],
+  "species": "golett",
+  "gen": "generation-v",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1,
+  "weight": 92,
+  "baseStats": {
+    "hp": 59,
+    "attack": 74,
+    "defense": 50,
+    "special-attack": 35,
+    "special-defense": 50,
+    "speed": 35
+  },
+  "evolutionChain": {
+    "species": "golett",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "golurk",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Its movements are powered by a mysterious\nenergy. It has continued to move since ancient\ntimes, so its power may soon run out.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "mega-punch": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "night-shade": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "curse": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "rollout": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "magnitude": [
+      "level-up"
+    ],
+    "dynamic-punch": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "focus-punch": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "shadow-punch": [
+      "level-up"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "hammer-arm": [
+      "level-up"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "stomping-tantrum": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "iron-fist": 1,
+    "klutz": 2,
+    "no-guard": "hidden"
+  }
+}

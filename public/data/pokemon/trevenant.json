@@ -1,0 +1,203 @@
+{
+  "name": "trevenant",
+  "caption": "Trevenant",
+  "types": [
+    "ghost",
+    "grass"
+  ],
+  "species": "trevenant",
+  "gen": "generation-vi",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.5,
+  "weight": 71,
+  "baseStats": {
+    "hp": 85,
+    "attack": 110,
+    "defense": 76,
+    "special-attack": 65,
+    "special-defense": 82,
+    "speed": 56
+  },
+  "evolutionChain": {
+    "species": "phantump",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "trevenant",
+        "triggers": [
+          "trade"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It’s feared as a ghost of the forest.\nLumberjacks bring along Fire types, which\nTrevenant hates, when they enter the forest.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "leech-seed": [
+      "level-up"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "curse": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "destiny-bond": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "level-up",
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "ingrain": [
+      "level-up"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "level-up",
+      "machine"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "wood-hammer": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "horn-leech": [
+      "level-up"
+    ],
+    "phantom-force": [
+      "level-up"
+    ],
+    "forests-curse": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "natural-cure": 1,
+    "frisk": 2,
+    "harvest": "hidden"
+  }
+}

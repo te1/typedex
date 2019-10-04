@@ -1,0 +1,196 @@
+{
+  "name": "scizor-mega",
+  "caption": "Mega Scizor",
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "species": "scizor",
+  "gen": "generation-ii",
+  "color": "red",
+  "default": false,
+  "alternate": false,
+  "mega": true,
+  "height": 2,
+  "weight": 125,
+  "baseStats": {
+    "hp": 70,
+    "attack": 150,
+    "defense": 140,
+    "special-attack": 65,
+    "special-defense": 100,
+    "speed": 75
+  },
+  "evolutionChain": {
+    "species": "scyther",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "scizor",
+        "triggers": [
+          "trade"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Its body is like steel. Its tough, heavy pincers\nare more suited to smashing enemies than\ngrabbing them.",
+  "moves": {
+    "razor-wind": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "false-swipe": [
+      "level-up",
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "fury-cutter": [
+      "level-up"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "metal-claw": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "feint": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "x-scissor": [
+      "level-up",
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "bullet-punch": [
+      "level-up"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "iron-head": [
+      "level-up"
+    ],
+    "double-hit": [
+      "level-up"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "technician": 1
+  }
+}

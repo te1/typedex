@@ -1,0 +1,199 @@
+{
+  "name": "porygon-z",
+  "caption": "Porygon-Z",
+  "types": [
+    "normal"
+  ],
+  "species": "porygon-z",
+  "gen": "generation-iv",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.9,
+  "weight": 34,
+  "baseStats": {
+    "hp": 85,
+    "attack": 80,
+    "defense": 70,
+    "special-attack": 135,
+    "special-defense": 75,
+    "speed": 90
+  },
+  "evolutionChain": {
+    "species": "porygon",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "porygon2",
+        "triggers": [
+          "trade"
+        ],
+        "evolvesTo": [
+          {
+            "species": "porygon-z",
+            "triggers": [
+              "trade"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Its behavior is noticeably unstable, which is\napparently due to the incompetence of the\nengineer who updated its programming.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "psybeam": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "level-up",
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "recover": [
+      "level-up"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "conversion": [
+      "level-up"
+    ],
+    "tri-attack": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "conversion-2": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "zap-cannon": [
+      "level-up"
+    ],
+    "lock-on": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "magic-coat": [
+      "level-up"
+    ],
+    "signal-beam": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "embargo": [
+      "level-up",
+      "machine"
+    ],
+    "magnet-rise": [
+      "level-up"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "nasty-plot": [
+      "level-up"
+    ],
+    "trick-room": [
+      "level-up",
+      "machine"
+    ],
+    "discharge": [
+      "level-up"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "adaptability": 1,
+    "download": 2,
+    "analytic": "hidden"
+  }
+}

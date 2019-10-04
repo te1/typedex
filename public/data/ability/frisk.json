@@ -1,0 +1,39 @@
+{
+  "name": "frisk",
+  "caption": "Frisk",
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Reveals an opponent's held item upon entering battle.",
+    "full": "When this Pokémon enters battle, it reveals an opposing Pokémon's held item to all participating trainers.\n\nIn a double battle, if one opponent has an item, this Pokémon will Frisk that Pokémon; if both have an item, it will Frisk one at random."
+  },
+  "flavorText": "When it enters a battle, the Pokémon can check an\nopposing Pokémon’s held item.",
+  "pokemon": {
+    "wigglytuff": "hidden",
+    "sentret": "hidden",
+    "furret": "hidden",
+    "yanma": "hidden",
+    "stantler": 2,
+    "shuppet": 2,
+    "banette": 2,
+    "duskull": "hidden",
+    "dusclops": "hidden",
+    "yanmega": "hidden",
+    "dusknoir": "hidden",
+    "gothita": 1,
+    "gothorita": 1,
+    "gothitelle": 1,
+    "phantump": 2,
+    "trevenant": 2,
+    "pumpkaboo-average": 2,
+    "gourgeist-average": 2,
+    "noibat": 1,
+    "noivern": 1,
+    "pumpkaboo-small": 2,
+    "pumpkaboo-large": 2,
+    "pumpkaboo-super": 2,
+    "gourgeist-small": 2,
+    "gourgeist-large": 2,
+    "gourgeist-super": 2,
+    "exeggutor-alola": 1
+  }
+}

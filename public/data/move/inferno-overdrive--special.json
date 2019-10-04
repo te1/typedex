@@ -1,0 +1,20 @@
+{
+  "name": "inferno-overdrive--special",
+  "caption": "Inferno Overdrive",
+  "type": "fire",
+  "damageCategory": "special",
+  "power": null,
+  "accuracy": null,
+  "pp": 1,
+  "z": true,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "Dummy Data",
+  "flags": [],
+  "target": "selected-pokemon",
+  "pokemon": {}
+}

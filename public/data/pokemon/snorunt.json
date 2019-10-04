@@ -1,0 +1,176 @@
+{
+  "name": "snorunt",
+  "caption": "Snorunt",
+  "types": [
+    "ice"
+  ],
+  "species": "snorunt",
+  "gen": "generation-iii",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.7,
+  "weight": 16.8,
+  "baseStats": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 50,
+    "special-attack": 50,
+    "special-defense": 50,
+    "speed": 50
+  },
+  "evolutionChain": {
+    "species": "snorunt",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "glalie",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "froslass",
+        "triggers": [
+          "use-item"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It feeds mainly on ice and snow. It’s only able to\nsurvive in a limited number of places in the\nwarm Alola region.",
+  "moves": {
+    "headbutt": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "level-up",
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "powder-snow": [
+      "level-up"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "spikes": [
+      "egg"
+    ],
+    "icy-wind": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "hail": [
+      "level-up",
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "block": [
+      "egg"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "disable": [
+      "egg"
+    ],
+    "bide": [
+      "egg"
+    ],
+    "rollout": [
+      "egg"
+    ],
+    "avalanche": [
+      "egg"
+    ],
+    "ice-shard": [
+      "level-up"
+    ],
+    "ice-fang": [
+      "level-up"
+    ],
+    "weather-ball": [
+      "egg"
+    ],
+    "fake-tears": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "hex": [
+      "egg"
+    ],
+    "frost-breath": [
+      "level-up",
+      "machine"
+    ],
+    "switcheroo": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "inner-focus": 1,
+    "ice-body": 2,
+    "moody": "hidden"
+  }
+}

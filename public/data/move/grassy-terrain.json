@@ -1,0 +1,98 @@
+{
+  "name": "grassy-terrain",
+  "caption": "Grassy Terrain",
+  "type": "grass",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "For five turns, heals all Pokémon on the ground for 1/16 max HP each turn and strengthens their []{type:grass} moves to 1.5× their power.",
+    "full": "For five turns, heals all Pokémon on the ground for 1/16 their max HP each turn and strengthens their []{type:grass} moves to 1.5× their power.\n\nChanges []{move:nature-power} to []{move:energy-ball}."
+  },
+  "flavorText": "The user turns the ground to grass for five turns.\nThis restores the HP of Pokémon on the ground a\nlittle every turn and powers up Grass type-moves.",
+  "flags": [
+    "non-sky-battle"
+  ],
+  "target": "entire-field",
+  "pokemon": {
+    "bulbasaur": [
+      "egg"
+    ],
+    "oddish": [
+      "level-up"
+    ],
+    "gloom": [
+      "level-up"
+    ],
+    "paras": [
+      "egg"
+    ],
+    "exeggcute": [
+      "egg"
+    ],
+    "tangela": [
+      "level-up"
+    ],
+    "chikorita": [
+      "egg"
+    ],
+    "hoppip": [
+      "egg"
+    ],
+    "sunkern": [
+      "egg"
+    ],
+    "treecko": [
+      "egg"
+    ],
+    "seedot": [
+      "egg"
+    ],
+    "turtwig": [
+      "egg"
+    ],
+    "roserade": [
+      "level-up"
+    ],
+    "cherubi": [
+      "egg"
+    ],
+    "tangrowth": [
+      "level-up"
+    ],
+    "snivy": [
+      "egg"
+    ],
+    "sewaddle": [
+      "egg"
+    ],
+    "maractus": [
+      "egg"
+    ],
+    "flabebe": [
+      "level-up"
+    ],
+    "floette": [
+      "level-up"
+    ],
+    "florges": [
+      "level-up"
+    ],
+    "skiddo": [
+      "egg"
+    ],
+    "comfey": [
+      "level-up"
+    ],
+    "tapu-bulu": [
+      "level-up"
+    ],
+    "floette-eternal": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "name": "superpower",
+  "caption": "Superpower",
+  "type": "fighting",
+  "damageCategory": "physical",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Lowers the user's Attack and Defense by one stage after inflicting damage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}, then lowers the user's [Attack]{mechanic:attack} and [Defense]{mechanic:defense} by one [stage]{mechanic:stage} each."
+  },
+  "flavorText": "The user attacks the target with great power.\nHowever, this also lowers the user’s Attack and\nDefense stats.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "nidoqueen": [
+      "level-up"
+    ],
+    "pinsir": [
+      "level-up",
+      "egg"
+    ],
+    "totodile": [
+      "level-up"
+    ],
+    "croconaw": [
+      "level-up"
+    ],
+    "feraligatr": [
+      "level-up"
+    ],
+    "marill": [
+      "level-up",
+      "egg"
+    ],
+    "azumarill": [
+      "level-up"
+    ],
+    "aron": [
+      "egg"
+    ],
+    "torkoal": [
+      "egg"
+    ],
+    "trapinch": [
+      "level-up"
+    ],
+    "corphish": [
+      "egg"
+    ],
+    "regirock": [
+      "level-up"
+    ],
+    "regice": [
+      "level-up"
+    ],
+    "registeel": [
+      "level-up"
+    ],
+    "turtwig": [
+      "egg"
+    ],
+    "bidoof": [
+      "level-up"
+    ],
+    "bibarel": [
+      "level-up"
+    ],
+    "tepig": [
+      "egg"
+    ],
+    "timburr": [
+      "level-up"
+    ],
+    "gurdurr": [
+      "level-up"
+    ],
+    "conkeldurr": [
+      "level-up"
+    ],
+    "throh": [
+      "level-up"
+    ],
+    "darumaka": [
+      "level-up"
+    ],
+    "darmanitan-standard": [
+      "level-up"
+    ],
+    "beartic": [
+      "level-up"
+    ],
+    "druddigon": [
+      "level-up"
+    ],
+    "braviary": [
+      "level-up"
+    ],
+    "inkay": [
+      "level-up"
+    ],
+    "malamar": [
+      "level-up"
+    ],
+    "crabrawler": [
+      "egg"
+    ],
+    "mudbray": [
+      "level-up"
+    ],
+    "mudsdale": [
+      "level-up"
+    ],
+    "stufful": [
+      "level-up"
+    ],
+    "bewear": [
+      "level-up"
+    ],
+    "tapu-bulu": [
+      "level-up"
+    ],
+    "buzzwole": [
+      "level-up"
+    ],
+    "deoxys-attack": [
+      "level-up"
+    ],
+    "darmanitan-zen": [
+      "level-up"
+    ],
+    "pinsir-mega": [
+      "level-up"
+    ]
+  }
+}

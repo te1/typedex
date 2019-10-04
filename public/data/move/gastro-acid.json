@@ -1,0 +1,85 @@
+{
+  "name": "gastro-acid",
+  "caption": "Gastro Acid",
+  "type": "poison",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Nullifies target's ability until it leaves battle.",
+    "full": "The target's ability is disabled as long as it remains on the [field]{mechanic:field}.\n\nThis effect is passed on by []{move:baton-pass}."
+  },
+  "flavorText": "The user hurls up its stomach acids on the target.\nThe fluid eliminates the effect of the target’s Ability.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "ekans": [
+      "level-up"
+    ],
+    "arbok": [
+      "level-up"
+    ],
+    "bellsprout": [
+      "level-up"
+    ],
+    "weepinbell": [
+      "level-up"
+    ],
+    "shuckle": [
+      "level-up"
+    ],
+    "gulpin": [
+      "level-up"
+    ],
+    "swalot": [
+      "level-up"
+    ],
+    "seviper": [
+      "level-up"
+    ],
+    "lileep": [
+      "level-up"
+    ],
+    "cradily": [
+      "level-up"
+    ],
+    "snivy": [
+      "level-up"
+    ],
+    "servine": [
+      "level-up"
+    ],
+    "serperior": [
+      "level-up"
+    ],
+    "foongus": [
+      "egg"
+    ],
+    "joltik": [
+      "level-up"
+    ],
+    "galvantula": [
+      "level-up"
+    ],
+    "eelektrik": [
+      "level-up"
+    ],
+    "eelektross": [
+      "level-up"
+    ],
+    "pyukumuku": [
+      "level-up"
+    ],
+    "guzzlord": [
+      "level-up"
+    ]
+  }
+}

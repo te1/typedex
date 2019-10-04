@@ -1,0 +1,236 @@
+{
+  "name": "gardevoir",
+  "caption": "Gardevoir",
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "species": "gardevoir",
+  "gen": "generation-iii",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 1.6,
+  "weight": 48.4,
+  "baseStats": {
+    "hp": 68,
+    "attack": 65,
+    "defense": 65,
+    "special-attack": 125,
+    "special-defense": 115,
+    "speed": 80
+  },
+  "evolutionChain": {
+    "species": "ralts",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "kirlia",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "gardevoir",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          },
+          {
+            "species": "gallade",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Gardevoir has the ability to read the future. If it senses\nimpending danger to its Trainer, this Pokémon is said\nto unleash its psychokinetic energy at full power.",
+  "moves": {
+    "growl": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "confusion": [
+      "level-up"
+    ],
+    "psychic": [
+      "level-up",
+      "machine"
+    ],
+    "hypnosis": [
+      "level-up"
+    ],
+    "teleport": [
+      "level-up"
+    ],
+    "double-team": [
+      "level-up",
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "dream-eater": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "future-sight": [
+      "level-up"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "imprison": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "level-up",
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "wish": [
+      "level-up"
+    ],
+    "magical-leaf": [
+      "level-up"
+    ],
+    "healing-wish": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "captivate": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "stored-power": [
+      "level-up"
+    ],
+    "heal-pulse": [
+      "level-up"
+    ],
+    "misty-terrain": [
+      "level-up"
+    ],
+    "moonblast": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "disarming-voice": [
+      "level-up"
+    ],
+    "draining-kiss": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "synchronize": 1,
+    "trace": 2,
+    "telepathy": "hidden"
+  }
+}

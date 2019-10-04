@@ -1,0 +1,205 @@
+{
+  "name": "haunter",
+  "caption": "Haunter",
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "species": "haunter",
+  "gen": "generation-i",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.6,
+  "weight": 0.1,
+  "baseStats": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 45,
+    "special-attack": 115,
+    "special-defense": 55,
+    "speed": 95
+  },
+  "evolutionChain": {
+    "species": "gastly",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "haunter",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "gengar",
+            "triggers": [
+              "trade"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "On moonless nights, Haunter searches for\nsomeone to curse, so it’s best not to go out\nwalking around.",
+  "moves": {
+    "thunderbolt": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "hypnosis": [
+      "level-up"
+    ],
+    "night-shade": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "lick": [
+      "level-up"
+    ],
+    "dream-eater": [
+      "level-up",
+      "machine"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "nightmare": [
+      "level-up"
+    ],
+    "curse": [
+      "level-up"
+    ],
+    "spite": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "destiny-bond": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "mean-look": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "level-up",
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "shadow-punch": [
+      "level-up"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "payback": [
+      "level-up",
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "level-up",
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "hex": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "levitate": 1
+  }
+}

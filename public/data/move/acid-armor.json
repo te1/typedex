@@ -1,0 +1,83 @@
+{
+  "name": "acid-armor",
+  "caption": "Acid Armor",
+  "type": "poison",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Raises the user's Defense by two stages.",
+    "full": "Raises the user's [Defense]{mechanic:defense} by two [stages]{mechanic:stage}."
+  },
+  "flavorText": "The user alters its cellular structure to liquefy itself,\nsharply raising its Defense stat.",
+  "flags": [
+    "snatch"
+  ],
+  "target": "user",
+  "pokemon": {
+    "grimer": [
+      "level-up"
+    ],
+    "muk": [
+      "level-up"
+    ],
+    "vaporeon": [
+      "level-up"
+    ],
+    "slugma": [
+      "egg"
+    ],
+    "gulpin": [
+      "egg"
+    ],
+    "shellos": [
+      "egg"
+    ],
+    "phione": [
+      "level-up"
+    ],
+    "manaphy": [
+      "level-up"
+    ],
+    "solosis": [
+      "egg"
+    ],
+    "vanillite": [
+      "level-up"
+    ],
+    "vanillish": [
+      "level-up"
+    ],
+    "vanilluxe": [
+      "level-up"
+    ],
+    "frillish": [
+      "egg"
+    ],
+    "litwick": [
+      "egg"
+    ],
+    "cryogonal": [
+      "level-up"
+    ],
+    "shelmet": [
+      "level-up"
+    ],
+    "skrelp": [
+      "egg"
+    ],
+    "goomy": [
+      "egg"
+    ],
+    "grimer-alola": [
+      "level-up"
+    ],
+    "muk-alola": [
+      "level-up"
+    ]
+  }
+}

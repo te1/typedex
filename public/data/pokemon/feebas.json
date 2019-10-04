@@ -1,0 +1,157 @@
+{
+  "name": "feebas",
+  "caption": "Feebas",
+  "types": [
+    "water"
+  ],
+  "species": "feebas",
+  "gen": "generation-iii",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 7.4,
+  "baseStats": {
+    "hp": 20,
+    "attack": 15,
+    "defense": 20,
+    "special-attack": 10,
+    "special-defense": 55,
+    "speed": 80
+  },
+  "evolutionChain": {
+    "species": "feebas",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "milotic",
+        "triggers": [
+          "level-up",
+          "trade",
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "They look ragged, so no one catches them. They\nlook like they’d taste bad, so predators won’t\neat them. And their numbers continue to grow.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "hypnosis": [
+      "egg"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "egg"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "splash": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "dragon-breath": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "mirror-coat": [
+      "egg"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "mud-sport": [
+      "egg"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "mist": [
+      "egg"
+    ],
+    "haze": [
+      "egg"
+    ],
+    "tickle": [
+      "egg"
+    ],
+    "captivate": [
+      "egg"
+    ],
+    "iron-tail": [
+      "egg"
+    ],
+    "brine": [
+      "egg"
+    ],
+    "dragon-pulse": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "swift-swim": 1,
+    "oblivious": 2,
+    "adaptability": "hidden"
+  }
+}

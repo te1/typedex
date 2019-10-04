@@ -1,0 +1,182 @@
+{
+  "name": "ferroseed",
+  "caption": "Ferroseed",
+  "types": [
+    "grass",
+    "steel"
+  ],
+  "species": "ferroseed",
+  "gen": "generation-v",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 18.8,
+  "baseStats": {
+    "hp": 44,
+    "attack": 50,
+    "defense": 91,
+    "special-attack": 24,
+    "special-defense": 86,
+    "speed": 10
+  },
+  "evolutionChain": {
+    "species": "ferroseed",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "ferrothorn",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "When threatened, it attacks by shooting a barrage\nof spikes, which gives it a chance to escape by\nrolling away.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "pin-missile": [
+      "level-up"
+    ],
+    "leech-seed": [
+      "egg"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "self-destruct": [
+      "level-up"
+    ],
+    "explosion": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "curse": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "spikes": [
+      "egg"
+    ],
+    "rollout": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "metal-claw": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "ingrain": [
+      "level-up"
+    ],
+    "bullet-seed": [
+      "egg"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "gravity": [
+      "egg"
+    ],
+    "gyro-ball": [
+      "level-up",
+      "machine"
+    ],
+    "payback": [
+      "level-up",
+      "machine"
+    ],
+    "worry-seed": [
+      "egg"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "seed-bomb": [
+      "egg"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "mirror-shot": [
+      "level-up"
+    ],
+    "flash-cannon": [
+      "level-up",
+      "machine"
+    ],
+    "rock-climb": [
+      "egg"
+    ],
+    "iron-head": [
+      "level-up"
+    ],
+    "stealth-rock": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "acid-spray": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "iron-barbs": 1
+  }
+}

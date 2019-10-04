@@ -1,0 +1,31 @@
+{
+  "name": "accelerock",
+  "caption": "Accelerock",
+  "type": "rock",
+  "damageCategory": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 1,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The user smashes into the target at high speed.\nThis move always goes first.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "lycanroc-midday": [
+      "level-up"
+    ],
+    "lycanroc-dusk": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "name": "sand-tomb",
+  "caption": "Sand Tomb",
+  "type": "ground",
+  "damageCategory": "physical",
+  "power": 35,
+  "accuracy": 85,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  For the next 2–5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the [field]{mechanic:field}, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.\n\n[]{move:rapid-spin} cancels this effect."
+  },
+  "flavorText": "The user traps the target inside a harshly raging\nsandstorm for four to five turns.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "sandshrew": [
+      "level-up"
+    ],
+    "sandslash": [
+      "level-up"
+    ],
+    "dugtrio": [
+      "level-up"
+    ],
+    "onix": [
+      "level-up"
+    ],
+    "sudowoodo": [
+      "egg"
+    ],
+    "pineco": [
+      "egg"
+    ],
+    "gligar": [
+      "egg"
+    ],
+    "shuckle": [
+      "egg"
+    ],
+    "trapinch": [
+      "level-up"
+    ],
+    "vibrava": [
+      "level-up"
+    ],
+    "flygon": [
+      "level-up"
+    ],
+    "turtwig": [
+      "egg"
+    ],
+    "bonsly": [
+      "egg"
+    ],
+    "gible": [
+      "level-up",
+      "egg"
+    ],
+    "gabite": [
+      "level-up"
+    ],
+    "garchomp": [
+      "level-up"
+    ],
+    "hippopotas": [
+      "level-up",
+      "egg"
+    ],
+    "hippowdon": [
+      "level-up"
+    ],
+    "sandile": [
+      "level-up"
+    ],
+    "krokorok": [
+      "level-up"
+    ],
+    "krookodile": [
+      "level-up"
+    ],
+    "dwebble": [
+      "egg"
+    ],
+    "sandygast": [
+      "level-up"
+    ],
+    "palossand": [
+      "level-up"
+    ],
+    "garchomp-mega": [
+      "level-up"
+    ],
+    "dugtrio-alola": [
+      "level-up"
+    ]
+  }
+}

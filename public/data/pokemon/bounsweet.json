@@ -1,0 +1,166 @@
+{
+  "name": "bounsweet",
+  "caption": "Bounsweet",
+  "types": [
+    "grass"
+  ],
+  "species": "bounsweet",
+  "gen": "generation-vii",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.3,
+  "weight": 3.2,
+  "baseStats": {
+    "hp": 42,
+    "attack": 30,
+    "defense": 38,
+    "special-attack": 30,
+    "special-defense": 38,
+    "speed": 32
+  },
+  "evolutionChain": {
+    "species": "bounsweet",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "steenee",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "tsareena",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Because of its sweet, delicious aroma, bird\nPokémon are always after it, but it’s not\nintelligent enough to care.",
+  "moves": {
+    "razor-leaf": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "splash": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "charm": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "rapid-spin": [
+      "level-up"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "synthesis": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "teeter-dance": [
+      "level-up"
+    ],
+    "grass-whistle": [
+      "egg"
+    ],
+    "magical-leaf": [
+      "level-up"
+    ],
+    "feint": [
+      "egg"
+    ],
+    "acupressure": [
+      "egg"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "play-rough": [
+      "egg"
+    ],
+    "play-nice": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "aromatic-mist": [
+      "level-up"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "leaf-guard": 1,
+    "oblivious": 2,
+    "sweet-veil": "hidden"
+  }
+}

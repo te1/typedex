@@ -1,0 +1,169 @@
+{
+  "name": "trumbeak",
+  "caption": "Trumbeak",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "species": "trumbeak",
+  "gen": "generation-vii",
+  "color": "black",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 14.8,
+  "baseStats": {
+    "hp": 55,
+    "attack": 85,
+    "defense": 50,
+    "special-attack": 40,
+    "special-defense": 50,
+    "speed": 75
+  },
+  "evolutionChain": {
+    "species": "pikipek",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "trumbeak",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "toucannon",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It can bend the tip of its beak to produce over\na hundred different cries at will.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "fly": [
+      "machine"
+    ],
+    "fury-attack": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "supersonic": [
+      "level-up"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "drill-peck": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "rock-smash": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "feather-dance": [
+      "level-up"
+    ],
+    "hyper-voice": [
+      "level-up"
+    ],
+    "bullet-seed": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "rock-blast": [
+      "level-up"
+    ],
+    "roost": [
+      "level-up",
+      "machine"
+    ],
+    "pluck": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "level-up",
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "keen-eye": 1,
+    "skill-link": 2,
+    "pickup": "hidden"
+  }
+}

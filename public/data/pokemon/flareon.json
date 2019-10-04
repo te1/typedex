@@ -1,0 +1,224 @@
+{
+  "name": "flareon",
+  "caption": "Flareon",
+  "types": [
+    "fire"
+  ],
+  "species": "flareon",
+  "gen": "generation-i",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.9,
+  "weight": 25,
+  "baseStats": {
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "special-attack": 95,
+    "special-defense": 110,
+    "speed": 65
+  },
+  "evolutionChain": {
+    "species": "eevee",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "vaporeon",
+        "triggers": [
+          "use-item"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "jolteon",
+        "triggers": [
+          "use-item"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "flareon",
+        "triggers": [
+          "use-item"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "espeon",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "umbreon",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "leafeon",
+        "triggers": [
+          "level-up",
+          "level-up",
+          "level-up",
+          "level-up"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "glaceon",
+        "triggers": [
+          "level-up",
+          "level-up",
+          "level-up",
+          "level-up"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "sylveon",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "If it inhales deeply, that’s a sign it’s about to\nattack. Prepare to be hit by flames of over\n3,000 degrees Fahrenheit!",
+  "moves": {
+    "sand-attack": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "ember": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "fire-spin": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "smog": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "helping-hand": [
+      "level-up"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "last-resort": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "fire-fang": [
+      "level-up"
+    ],
+    "lava-plume": [
+      "level-up"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "flare-blitz": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "baby-doll-eyes": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "flash-fire": 1,
+    "guts": "hidden"
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "name": "gible",
+  "caption": "Gible",
+  "types": [
+    "dragon",
+    "ground"
+  ],
+  "species": "gible",
+  "gen": "generation-iv",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.7,
+  "weight": 20.5,
+  "baseStats": {
+    "hp": 58,
+    "attack": 70,
+    "defense": 45,
+    "special-attack": 40,
+    "special-defense": 45,
+    "speed": 42
+  },
+  "evolutionChain": {
+    "species": "gible",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "gabite",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "garchomp",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It reacts to anything that moves—flies right at it\nand bites it. Sometimes it injures itself, but it\ndoesn’t care too much.",
+  "moves": {
+    "sand-attack": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "body-slam": [
+      "egg"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "thrash": [
+      "egg"
+    ],
+    "double-edge": [
+      "egg"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "dragon-rage": [
+      "level-up"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "dig": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "egg"
+    ],
+    "outrage": [
+      "egg"
+    ],
+    "sandstorm": [
+      "level-up",
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "dragon-breath": [
+      "egg"
+    ],
+    "metal-claw": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "twister": [
+      "egg"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "sand-tomb": [
+      "level-up",
+      "egg"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "dragon-claw": [
+      "level-up",
+      "machine"
+    ],
+    "dragon-rush": [
+      "level-up"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "rock-climb": [
+      "egg"
+    ],
+    "draco-meteor": [
+      "tutor"
+    ],
+    "iron-head": [
+      "egg"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "mud-shot": [
+      "egg"
+    ],
+    "iron-tail": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "sand-veil": 1,
+    "rough-skin": "hidden"
+  }
+}

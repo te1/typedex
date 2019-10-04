@@ -1,0 +1,185 @@
+{
+  "name": "eelektross",
+  "caption": "Eelektross",
+  "types": [
+    "electric"
+  ],
+  "species": "eelektross",
+  "gen": "generation-v",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 2.1,
+  "weight": 80.5,
+  "baseStats": {
+    "hp": 85,
+    "attack": 115,
+    "defense": 80,
+    "special-attack": 105,
+    "special-defense": 80,
+    "speed": 50
+  },
+  "evolutionChain": {
+    "species": "tynamo",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "eelektrik",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "eelektross",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "With their sucker mouths, they suck in prey.\nThen they use their fangs to shock the prey\nwith electricity.",
+  "moves": {
+    "headbutt": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "acid": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "crush-claw": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "dragon-claw": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "discharge": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "volt-switch": [
+      "machine"
+    ],
+    "dragon-tail": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "gastro-acid": [
+      "level-up"
+    ],
+    "thrash": [
+      "level-up"
+    ],
+    "zap-cannon": [
+      "level-up"
+    ],
+    "coil": [
+      "level-up"
+    ],
+    "ion-deluge": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "levitate": 1
+  }
+}

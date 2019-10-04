@@ -1,0 +1,30 @@
+{
+  "name": "technician",
+  "caption": "Technician",
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Strengthens moves of 60 base power or less to 1.5× their power.",
+    "full": "This Pokémon's moves have 1.5× their power if their base power is 60 or less.\n\nThis includes moves of variable power, such as []{move:hidden-power} and []{move:magnitude}, when their power is 60 or less.  []{move:helping-hand}'s power boost is taken into account for any move, as is []{move:defense-curl}'s power boost for []{move:rollout}."
+  },
+  "flavorText": "Powers up the Pokémon’s weaker moves.",
+  "pokemon": {
+    "meowth": 2,
+    "persian": 2,
+    "mr-mime": "hidden",
+    "scyther": 2,
+    "scizor": 2,
+    "smeargle": 2,
+    "hitmontop": 2,
+    "breloom": "hidden",
+    "kricketune": "hidden",
+    "roserade": "hidden",
+    "ambipom": 1,
+    "mime-jr": "hidden",
+    "minccino": 2,
+    "cinccino": 2,
+    "marshadow": 1,
+    "scizor-mega": 1,
+    "meowth-alola": 2,
+    "persian-alola": 2
+  }
+}

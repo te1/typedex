@@ -1,0 +1,230 @@
+{
+  "name": "chespin",
+  "caption": "Chespin",
+  "types": [
+    "grass"
+  ],
+  "species": "chespin",
+  "gen": "generation-vi",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 9,
+  "baseStats": {
+    "hp": 56,
+    "attack": 61,
+    "defense": 65,
+    "special-attack": 48,
+    "special-defense": 45,
+    "speed": 38
+  },
+  "evolutionChain": {
+    "species": "chespin",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "quilladin",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "chesnaught",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "The quills on its head are usually soft.\nWhen it flexes them, the points become\nso hard and sharp that they can pierce rock.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "vine-whip": [
+      "level-up"
+    ],
+    "body-slam": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "pin-missile": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "leech-seed": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "defense-curl": [
+      "egg"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "belly-drum": [
+      "egg"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "spikes": [
+      "egg"
+    ],
+    "rollout": [
+      "level-up",
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pain-split": [
+      "level-up"
+    ],
+    "synthesis": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "bulk-up": [
+      "level-up",
+      "machine"
+    ],
+    "mud-shot": [
+      "level-up"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "seed-bomb": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "wood-hammer": [
+      "level-up"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "quick-guard": [
+      "egg"
+    ],
+    "grass-pledge": [
+      "tutor"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "power-up-punch": [
+      "egg"
+    ],
+    "work-up": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "overgrow": 1,
+    "bulletproof": "hidden"
+  }
+}

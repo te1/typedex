@@ -1,0 +1,10 @@
+{
+  "name": "neuroforce",
+  "caption": "Neuroforce",
+  "gen": "generation-vii",
+  "effect": {},
+  "flavorText": "Powers up moves that are super effective.",
+  "pokemon": {
+    "necrozma-ultra": 1
+  }
+}

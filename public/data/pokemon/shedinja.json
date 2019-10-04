@@ -1,0 +1,168 @@
+{
+  "name": "shedinja",
+  "caption": "Shedinja",
+  "types": [
+    "bug",
+    "ghost"
+  ],
+  "species": "shedinja",
+  "gen": "generation-iii",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.8,
+  "weight": 1.2,
+  "baseStats": {
+    "hp": 1,
+    "attack": 90,
+    "defense": 45,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 40
+  },
+  "evolutionChain": {
+    "species": "nincada",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "ninjask",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "shedinja",
+        "triggers": [
+          "shed"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Shedinja’s hard body doesn’t move—not even a twitch. In fact,\nits body appears to be merely a hollow shell. It is believed that\nthis Pokémon will steal the spirit of anyone peering into its\nhollow body from its back.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "sand-attack": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "leech-life": [
+      "machine"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "mind-reader": [
+      "level-up"
+    ],
+    "spite": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "level-up",
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "grudge": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "heal-block": [
+      "level-up"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "shadow-sneak": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "phantom-force": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "absorb": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "wonder-guard": 1
+  }
+}

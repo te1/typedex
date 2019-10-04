@@ -1,0 +1,223 @@
+{
+  "name": "cacnea",
+  "caption": "Cacnea",
+  "types": [
+    "grass"
+  ],
+  "species": "cacnea",
+  "gen": "generation-iii",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 51.3,
+  "baseStats": {
+    "hp": 50,
+    "attack": 85,
+    "defense": 40,
+    "special-attack": 85,
+    "special-defense": 40,
+    "speed": 35
+  },
+  "evolutionChain": {
+    "species": "cacnea",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "cacturne",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Cacnea lives in arid locations such as deserts. It releases a\nstrong aroma from its flower to attract prey. When prey comes\nnear, this Pokémon shoots sharp thorns from its body to bring\nthe victim down.",
+  "moves": {
+    "sand-attack": [
+      "level-up"
+    ],
+    "poison-sting": [
+      "level-up"
+    ],
+    "pin-missile": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "acid": [
+      "egg"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "absorb": [
+      "level-up"
+    ],
+    "leech-seed": [
+      "level-up"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "cotton-spore": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "spikes": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "level-up",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "dynamic-punch": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "ingrain": [
+      "level-up"
+    ],
+    "teeter-dance": [
+      "egg"
+    ],
+    "needle-arm": [
+      "level-up"
+    ],
+    "grass-whistle": [
+      "egg"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "destiny-bond": [
+      "level-up"
+    ],
+    "low-kick": [
+      "egg"
+    ],
+    "smelling-salts": [
+      "egg"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "magical-leaf": [
+      "egg"
+    ],
+    "payback": [
+      "level-up",
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "seed-bomb": [
+      "egg"
+    ],
+    "energy-ball": [
+      "level-up",
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "worry-seed": [
+      "egg"
+    ],
+    "nasty-plot": [
+      "egg"
+    ],
+    "disable": [
+      "egg"
+    ],
+    "block": [
+      "egg"
+    ],
+    "switcheroo": [
+      "egg"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "belch": [
+      "egg"
+    ],
+    "rototiller": [
+      "egg"
+    ],
+    "fell-stinger": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "power-up-punch": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "sand-veil": 1,
+    "water-absorb": "hidden"
+  }
+}

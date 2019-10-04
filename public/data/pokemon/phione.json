@@ -1,0 +1,138 @@
+{
+  "name": "phione",
+  "caption": "Phione",
+  "types": [
+    "water"
+  ],
+  "species": "phione",
+  "gen": "generation-iv",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 3.1,
+  "baseStats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "special-attack": 80,
+    "special-defense": 80,
+    "speed": 80
+  },
+  "flavorText": "When the water warms, they inflate the flotation sac\non their heads and drift languidly on the sea\nin packs.",
+  "moves": {
+    "supersonic": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "bubble": [
+      "level-up"
+    ],
+    "acid-armor": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "charm": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "level-up",
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "whirlpool": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "dive": [
+      "level-up"
+    ],
+    "water-sport": [
+      "level-up"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "aqua-ring": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "hydration": 1
+  }
+}

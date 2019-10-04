@@ -1,0 +1,90 @@
+{
+  "name": "clear-smog",
+  "caption": "Clear Smog",
+  "type": "poison",
+  "damageCategory": "special",
+  "power": 50,
+  "accuracy": null,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Removes all of the target's stat modifiers.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  All of the target's [stat modifiers]{mechanic:stat-modifiers} are reset to zero."
+  },
+  "flavorText": "The user attacks by throwing a clump of special\nmud. All stat changes are returned to normal.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "psyduck": [
+      "egg"
+    ],
+    "bellsprout": [
+      "egg"
+    ],
+    "gastly": [
+      "egg"
+    ],
+    "koffing": [
+      "level-up"
+    ],
+    "weezing": [
+      "level-up"
+    ],
+    "horsea": [
+      "egg"
+    ],
+    "magmar": [
+      "level-up"
+    ],
+    "slugma": [
+      "level-up"
+    ],
+    "magcargo": [
+      "level-up"
+    ],
+    "magby": [
+      "level-up"
+    ],
+    "wailmer": [
+      "egg"
+    ],
+    "torkoal": [
+      "egg"
+    ],
+    "castform": [
+      "egg"
+    ],
+    "shellos": [
+      "egg"
+    ],
+    "drifloon": [
+      "egg"
+    ],
+    "magmortar": [
+      "level-up"
+    ],
+    "trubbish": [
+      "level-up"
+    ],
+    "garbodor": [
+      "level-up"
+    ],
+    "foongus": [
+      "level-up"
+    ],
+    "amoonguss": [
+      "level-up"
+    ],
+    "litwick": [
+      "egg"
+    ],
+    "nihilego": [
+      "level-up"
+    ]
+  }
+}

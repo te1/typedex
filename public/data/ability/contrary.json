@@ -1,0 +1,22 @@
+{
+  "name": "contrary",
+  "caption": "Contrary",
+  "gen": "generation-v",
+  "effect": {
+    "short": "Inverts [stat changes]{mechanic:stat-modifiers}.",
+    "full": "Whenever this Pokémon's stats would be [raised]{mechanic:stat-modifiers}, they are instead lowered by the same amount, and vice versa."
+  },
+  "flavorText": "Makes stat changes have an opposite effect.",
+  "pokemon": {
+    "shuckle": "hidden",
+    "spinda": "hidden",
+    "snivy": "hidden",
+    "servine": "hidden",
+    "serperior": "hidden",
+    "inkay": 1,
+    "malamar": 1,
+    "fomantis": "hidden",
+    "lurantis": "hidden",
+    "lurantis-totem": "hidden"
+  }
+}

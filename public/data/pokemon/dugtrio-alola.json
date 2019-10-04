@@ -1,0 +1,189 @@
+{
+  "name": "dugtrio-alola",
+  "caption": "Alolan Dugtrio",
+  "types": [
+    "ground",
+    "steel"
+  ],
+  "species": "dugtrio",
+  "gen": "generation-i",
+  "color": "brown",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": "Alola Form",
+  "height": 0.7,
+  "weight": 66.6,
+  "baseStats": {
+    "hp": 35,
+    "attack": 100,
+    "defense": 60,
+    "special-attack": 50,
+    "special-defense": 70,
+    "speed": 110
+  },
+  "evolutionChain": {
+    "species": "diglett",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "dugtrio",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "While the three of them normally get along\nsplendidly, on rare occasions a huge fight will\nbreak out over which head gets to eat first.",
+  "moves": {
+    "sand-attack": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "fissure": [
+      "level-up"
+    ],
+    "dig": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "tri-attack": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "magnitude": [
+      "level-up"
+    ],
+    "metal-claw": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "sand-tomb": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "earth-power": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "mud-bomb": [
+      "level-up"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "iron-head": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "bulldoze": [
+      "level-up",
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "rototiller": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "sand-veil": 1,
+    "tangling-hair": 2,
+    "sand-force": "hidden"
+  }
+}

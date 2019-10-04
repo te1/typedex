@@ -1,0 +1,200 @@
+{
+  "name": "lampent",
+  "caption": "Lampent",
+  "types": [
+    "ghost",
+    "fire"
+  ],
+  "species": "lampent",
+  "gen": "generation-v",
+  "color": "black",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 13,
+  "baseStats": {
+    "hp": 60,
+    "attack": 40,
+    "defense": 60,
+    "special-attack": 95,
+    "special-defense": 60,
+    "speed": 55
+  },
+  "evolutionChain": {
+    "species": "litwick",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "lampent",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "chandelure",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "The spirits it absorbs fuel its baleful fire. It hangs\naround hospitals waiting for people to pass on.",
+  "moves": {
+    "ember": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "fire-spin": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "night-shade": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "minimize": [
+      "level-up"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "smog": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "curse": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "pain-split": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "level-up",
+      "machine"
+    ],
+    "will-o-wisp": [
+      "level-up",
+      "machine"
+    ],
+    "memento": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "imprison": [
+      "level-up"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "overheat": [
+      "level-up",
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "flame-burst": [
+      "level-up"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "hex": [
+      "level-up"
+    ],
+    "inferno": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "flash-fire": 1,
+    "flame-body": 2,
+    "infiltrator": "hidden"
+  }
+}

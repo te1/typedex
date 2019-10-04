@@ -1,0 +1,81 @@
+{
+  "name": "magnet-rise",
+  "caption": "Magnet Rise",
+  "type": "electric",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "User is immune to Ground moves and effects for five turns.",
+    "full": "For five turns, the user is immune to []{type:ground} moves.\n\nIf the user is under the effect of []{move:ingrain} or has []{ability:levitate}, this move will [fail]{mechanic:fail}.\n\nThis effect is temporarily disabled by and cannot be used during []{move:gravity}.\n\nThis effect is passed on by []{move:baton-pass}."
+  },
+  "flavorText": "The user levitates using electrically generated\nmagnetism for five turns.",
+  "flags": [
+    "snatch",
+    "gravity"
+  ],
+  "target": "user",
+  "pokemon": {
+    "magnemite": [
+      "level-up"
+    ],
+    "magneton": [
+      "level-up"
+    ],
+    "voltorb": [
+      "level-up"
+    ],
+    "electrode": [
+      "level-up"
+    ],
+    "porygon": [
+      "level-up"
+    ],
+    "forretress": [
+      "level-up"
+    ],
+    "porygon2": [
+      "level-up"
+    ],
+    "metang": [
+      "level-up"
+    ],
+    "metagross": [
+      "level-up"
+    ],
+    "magnezone": [
+      "level-up"
+    ],
+    "porygon-z": [
+      "level-up"
+    ],
+    "probopass": [
+      "level-up"
+    ],
+    "vanillite": [
+      "egg"
+    ],
+    "larvesta": [
+      "egg"
+    ],
+    "genesect": [
+      "level-up"
+    ],
+    "amaura": [
+      "egg"
+    ],
+    "togedemaru": [
+      "level-up"
+    ],
+    "metagross-mega": [
+      "level-up"
+    ],
+    "togedemaru-totem": [
+      "level-up"
+    ]
+  }
+}

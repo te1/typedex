@@ -1,0 +1,235 @@
+{
+  "name": "kommo-o",
+  "caption": "Kommo-o",
+  "types": [
+    "dragon",
+    "fighting"
+  ],
+  "species": "kommo-o",
+  "gen": "generation-vii",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 1.6,
+  "weight": 78.2,
+  "baseStats": {
+    "hp": 75,
+    "attack": 110,
+    "defense": 125,
+    "special-attack": 100,
+    "special-defense": 105,
+    "speed": 85
+  },
+  "evolutionChain": {
+    "species": "jangmo-o",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "hakamo-o",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "kommo-o",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "When it howls after finishing off its prey, the\nmetallic sounds of its celebrating comrades can\nbe heard from all around.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "headbutt": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "belly-drum": [
+      "level-up"
+    ],
+    "outrage": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "sky-uppercut": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "dragon-claw": [
+      "level-up",
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "dragon-dance": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "draco-meteor": [
+      "tutor"
+    ],
+    "autotomize": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "dragon-tail": [
+      "level-up",
+      "machine"
+    ],
+    "work-up": [
+      "level-up",
+      "machine"
+    ],
+    "noble-roar": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "clanging-scales": [
+      "level-up"
+    ],
+    "brutal-swing": [
+      "machine"
+    ],
+    "close-combat": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "bulletproof": 1,
+    "soundproof": 2,
+    "overcoat": "hidden"
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "name": "bunnelby",
+  "caption": "Bunnelby",
+  "types": [
+    "normal"
+  ],
+  "species": "bunnelby",
+  "gen": "generation-vi",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 5,
+  "baseStats": {
+    "hp": 38,
+    "attack": 36,
+    "defense": 38,
+    "special-attack": 32,
+    "special-defense": 36,
+    "speed": 57
+  },
+  "evolutionChain": {
+    "species": "bunnelby",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "diggersby",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "They use their large ears to dig burrows.\nThey will dig the whole night through.",
+  "moves": {
+    "double-slap": [
+      "level-up"
+    ],
+    "double-kick": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "dig": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "defense-curl": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "super-fang": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "spikes": [
+      "egg"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "rollout": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "level-up",
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "odor-sleuth": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "bounce": [
+      "level-up"
+    ],
+    "mud-shot": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "pickup": 1,
+    "cheek-pouch": 2,
+    "huge-power": "hidden"
+  }
+}

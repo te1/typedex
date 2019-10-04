@@ -1,0 +1,189 @@
+{
+  "name": "pineco",
+  "caption": "Pineco",
+  "types": [
+    "bug"
+  ],
+  "species": "pineco",
+  "gen": "generation-ii",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 7.2,
+  "baseStats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 90,
+    "special-attack": 35,
+    "special-defense": 35,
+    "speed": 15
+  },
+  "evolutionChain": {
+    "species": "pineco",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "forretress",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Motionless, it hangs from trees, waiting for\nits bug Pokémon prey to come to it. Its favorite\nin Alola is Cutiefly.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up",
+      "egg"
+    ],
+    "pin-missile": [
+      "egg"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "self-destruct": [
+      "level-up"
+    ],
+    "swift": [
+      "egg"
+    ],
+    "explosion": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "flail": [
+      "egg"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "spikes": [
+      "level-up"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "rapid-spin": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "sand-tomb": [
+      "egg"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "revenge": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "gyro-ball": [
+      "level-up",
+      "machine"
+    ],
+    "natural-gift": [
+      "level-up"
+    ],
+    "payback": [
+      "level-up",
+      "machine"
+    ],
+    "toxic-spikes": [
+      "egg"
+    ],
+    "stealth-rock": [
+      "egg"
+    ],
+    "bug-bite": [
+      "level-up"
+    ],
+    "power-trick": [
+      "egg"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "sturdy": 1,
+    "overcoat": "hidden"
+  }
+}

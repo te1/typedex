@@ -1,0 +1,97 @@
+{
+  "name": "magnitude",
+  "caption": "Magnitude",
+  "type": "ground",
+  "damageCategory": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 30,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Power varies randomly from 10 to 150.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Power is selected at random between 10 and 150, with an average of 71:\n\nMagnitude | Power | Chance\n--------: | ----: | -----:\n        4 |    10 |     5%\n        5 |    30 |    10%\n        6 |    50 |    20%\n        7 |    70 |    30%\n        8 |    90 |    20%\n        9 |   110 |    10%\n       10 |   150 |     5%\n\nThis move has double power against Pokémon currently underground due to []{move:dig}."
+  },
+  "flavorText": "The user attacks everything around it with a\nground-shaking quake. Its power varies.",
+  "flags": [
+    "protect",
+    "mirror",
+    "non-sky-battle"
+  ],
+  "target": "all-other-pokemon",
+  "pokemon": {
+    "sandshrew": [
+      "level-up"
+    ],
+    "sandslash": [
+      "level-up"
+    ],
+    "diglett": [
+      "level-up"
+    ],
+    "dugtrio": [
+      "level-up"
+    ],
+    "geodude": [
+      "level-up"
+    ],
+    "graveler": [
+      "level-up"
+    ],
+    "golem": [
+      "level-up"
+    ],
+    "lickitung": [
+      "egg"
+    ],
+    "rhyhorn": [
+      "egg"
+    ],
+    "donphan": [
+      "level-up"
+    ],
+    "nosepass": [
+      "egg"
+    ],
+    "numel": [
+      "level-up"
+    ],
+    "camerupt": [
+      "level-up"
+    ],
+    "barboach": [
+      "level-up"
+    ],
+    "whiscash": [
+      "level-up"
+    ],
+    "relicanth": [
+      "egg"
+    ],
+    "tepig": [
+      "egg"
+    ],
+    "roggenrola": [
+      "egg"
+    ],
+    "golett": [
+      "level-up"
+    ],
+    "golurk": [
+      "level-up"
+    ],
+    "mudbray": [
+      "egg"
+    ],
+    "camerupt-mega": [
+      "level-up"
+    ],
+    "diglett-alola": [
+      "level-up"
+    ],
+    "dugtrio-alola": [
+      "level-up"
+    ]
+  }
+}

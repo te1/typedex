@@ -1,0 +1,43 @@
+{
+  "name": "burn-up",
+  "caption": "Burn Up",
+  "type": "fire",
+  "damageCategory": "special",
+  "power": 130,
+  "accuracy": 100,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Removes the user's []{type:fire} type after inflicting damage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Removes the user's []{type:fire} type after damage calculation.  If the user is not []{type:fire}-type, this move will fail."
+  },
+  "flavorText": "To inflict massive damage, the user burns itself out.\nAfter using this move, the user will no longer be\nFire type.",
+  "flags": [
+    "protect",
+    "mirror",
+    "defrost"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "growlithe": [
+      "egg"
+    ],
+    "moltres": [
+      "level-up"
+    ],
+    "cyndaquil": [
+      "level-up"
+    ],
+    "quilava": [
+      "level-up"
+    ],
+    "typhlosion": [
+      "level-up"
+    ],
+    "tepig": [
+      "egg"
+    ]
+  }
+}

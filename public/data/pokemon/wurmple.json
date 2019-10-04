@@ -1,0 +1,78 @@
+{
+  "name": "wurmple",
+  "caption": "Wurmple",
+  "types": [
+    "bug"
+  ],
+  "species": "wurmple",
+  "gen": "generation-iii",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.3,
+  "weight": 3.6,
+  "baseStats": {
+    "hp": 45,
+    "attack": 45,
+    "defense": 35,
+    "special-attack": 20,
+    "special-defense": 30,
+    "speed": 20
+  },
+  "evolutionChain": {
+    "species": "wurmple",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "silcoon",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "beautifly",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      },
+      {
+        "species": "cascoon",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "dustox",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Using the spikes on its rear end, Wurmple peels the bark off\ntrees and feeds on the sap that oozes out. This Pokémon’s\nfeet are tipped with suction pads that allow it to cling to glass\nwithout slipping.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "poison-sting": [
+      "level-up"
+    ],
+    "string-shot": [
+      "level-up"
+    ],
+    "bug-bite": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "shield-dust": 1,
+    "run-away": "hidden"
+  }
+}

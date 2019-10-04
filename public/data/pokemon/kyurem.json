@@ -1,0 +1,195 @@
+{
+  "name": "kyurem",
+  "caption": "Kyurem",
+  "types": [
+    "dragon",
+    "ice"
+  ],
+  "species": "kyurem",
+  "gen": "generation-v",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": "Kyurem",
+  "height": 3,
+  "weight": 325,
+  "baseStats": {
+    "hp": 125,
+    "attack": 130,
+    "defense": 90,
+    "special-attack": 130,
+    "special-defense": 90,
+    "speed": 95
+  },
+  "flavorText": "This legendary ice Pokémon waits for a hero to fill\nin the missing parts of its body with truth or ideals.",
+  "moves": {
+    "fly": [
+      "machine"
+    ],
+    "ice-beam": [
+      "level-up",
+      "machine"
+    ],
+    "blizzard": [
+      "level-up",
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "dragon-rage": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "icy-wind": [
+      "level-up"
+    ],
+    "outrage": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "dragon-breath": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "endeavor": [
+      "level-up"
+    ],
+    "imprison": [
+      "level-up"
+    ],
+    "hyper-voice": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "dragon-claw": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "dragon-pulse": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "draco-meteor": [
+      "tutor"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "dragon-tail": [
+      "machine"
+    ],
+    "glaciate": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ],
+    "noble-roar": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "pressure": 1
+  }
+}

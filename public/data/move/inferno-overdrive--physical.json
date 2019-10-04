@@ -1,0 +1,20 @@
+{
+  "name": "inferno-overdrive--physical",
+  "caption": "Inferno Overdrive",
+  "type": "fire",
+  "damageCategory": "physical",
+  "power": null,
+  "accuracy": null,
+  "pp": 1,
+  "z": true,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The user breathes a stream of intense fire toward\nthe target with the full force of its Z-Power.\nThe power varies depending on the original move.",
+  "flags": [],
+  "target": "selected-pokemon",
+  "pokemon": {}
+}

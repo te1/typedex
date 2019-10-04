@@ -1,0 +1,235 @@
+{
+  "name": "lunala",
+  "caption": "Lunala",
+  "types": [
+    "psychic",
+    "ghost"
+  ],
+  "species": "lunala",
+  "gen": "generation-vii",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 4,
+  "weight": 120,
+  "baseStats": {
+    "hp": 137,
+    "attack": 113,
+    "defense": 89,
+    "special-attack": 137,
+    "special-defense": 107,
+    "speed": 97
+  },
+  "evolutionChain": {
+    "species": "cosmog",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "cosmoem",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "solgaleo",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          },
+          {
+            "species": "lunala",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Records of it exist in writings from long, long\nago, where it was known by the name\n“the beast that calls the moon.”",
+  "moves": {
+    "fly": [
+      "machine"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "level-up",
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "confusion": [
+      "level-up"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "hypnosis": [
+      "level-up"
+    ],
+    "teleport": [
+      "level-up"
+    ],
+    "night-shade": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "dream-eater": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "moonlight": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "level-up",
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "magic-coat": [
+      "level-up"
+    ],
+    "cosmic-power": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "wide-guard": [
+      "level-up"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "sky-drop": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "night-daze": [
+      "level-up"
+    ],
+    "phantom-force": [
+      "level-up"
+    ],
+    "moonblast": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "moongeist-beam": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "shadow-shield": 1
+  }
+}

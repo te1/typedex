@@ -1,0 +1,169 @@
+{
+  "name": "exeggutor",
+  "caption": "Exeggutor",
+  "types": [
+    "grass",
+    "psychic"
+  ],
+  "species": "exeggutor",
+  "gen": "generation-i",
+  "color": "yellow",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 2,
+  "weight": 120,
+  "baseStats": {
+    "hp": 95,
+    "attack": 95,
+    "defense": 85,
+    "special-attack": 125,
+    "special-defense": 75,
+    "speed": 55
+  },
+  "evolutionChain": {
+    "species": "exeggcute",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "exeggutor",
+        "triggers": [
+          "use-item"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It engages its enemies using psychic powers.\nEach of its three heads fires off psychokinetic\nenergy, tripling its power.",
+  "moves": {
+    "stomp": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "hypnosis": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "egg-bomb": [
+      "level-up"
+    ],
+    "barrage": [
+      "level-up"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "confusion": [
+      "level-up"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "seed-bomb": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "leaf-storm": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "wood-hammer": [
+      "level-up"
+    ],
+    "psyshock": [
+      "level-up",
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "chlorophyll": 1,
+    "harvest": "hidden"
+  }
+}

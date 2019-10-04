@@ -1,0 +1,124 @@
+{
+  "name": "hurricane",
+  "caption": "Hurricane",
+  "type": "flying",
+  "damageCategory": "special",
+  "power": 110,
+  "accuracy": 70,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Has a 30% chance to confuse the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 30% chance to [confuse]{mechanic:confuse} the target.\n\nThis move can hit Pokémon under the effect of []{move:bounce}, []{move:fly}, or []{move:sky-drop}.\n\nDuring []{move:rain-dance}, this move has 100% accuracy.  During []{move:sunny-day}, this move has 50% accuracy."
+  },
+  "flavorText": "The user attacks by wrapping its opponent in a\nfierce wind that flies up into the sky. This may also\nconfuse the target.",
+  "flags": [
+    "protect",
+    "mirror",
+    "distance"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "pidgey": [
+      "level-up"
+    ],
+    "pidgeotto": [
+      "level-up"
+    ],
+    "pidgeot": [
+      "level-up"
+    ],
+    "gyarados": [
+      "level-up"
+    ],
+    "articuno": [
+      "level-up"
+    ],
+    "moltres": [
+      "level-up"
+    ],
+    "dragonite": [
+      "level-up"
+    ],
+    "hoothoot": [
+      "egg"
+    ],
+    "shiftry": [
+      "level-up"
+    ],
+    "taillow": [
+      "egg"
+    ],
+    "wingull": [
+      "level-up"
+    ],
+    "pelipper": [
+      "level-up"
+    ],
+    "castform": [
+      "level-up"
+    ],
+    "whimsicott": [
+      "level-up"
+    ],
+    "ducklett": [
+      "level-up"
+    ],
+    "swanna": [
+      "level-up"
+    ],
+    "volcarona": [
+      "level-up"
+    ],
+    "tornadus-incarnate": [
+      "level-up"
+    ],
+    "vivillon": [
+      "level-up"
+    ],
+    "noibat": [
+      "level-up"
+    ],
+    "noivern": [
+      "level-up"
+    ],
+    "yveltal": [
+      "level-up"
+    ],
+    "oricorio-baile": [
+      "level-up"
+    ],
+    "drampa": [
+      "egg"
+    ],
+    "castform-sunny": [
+      "level-up"
+    ],
+    "castform-rainy": [
+      "level-up"
+    ],
+    "castform-snowy": [
+      "level-up"
+    ],
+    "tornadus-therian": [
+      "level-up"
+    ],
+    "gyarados-mega": [
+      "level-up"
+    ],
+    "pidgeot-mega": [
+      "level-up"
+    ],
+    "oricorio-pom-pom": [
+      "level-up"
+    ],
+    "oricorio-pau": [
+      "level-up"
+    ],
+    "oricorio-sensu": [
+      "level-up"
+    ]
+  }
+}

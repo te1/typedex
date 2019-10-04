@@ -1,0 +1,167 @@
+{
+  "name": "simipour",
+  "caption": "Simipour",
+  "types": [
+    "water"
+  ],
+  "species": "simipour",
+  "gen": "generation-v",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1,
+  "weight": 29,
+  "baseStats": {
+    "hp": 75,
+    "attack": 98,
+    "defense": 63,
+    "special-attack": 98,
+    "special-defense": 63,
+    "speed": 101
+  },
+  "evolutionChain": {
+    "species": "panpour",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "simipour",
+        "triggers": [
+          "use-item"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "The high-pressure water expelled from its tail is so\npowerful, it can destroy a concrete wall.",
+  "moves": {
+    "leer": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "lick": [
+      "level-up"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "level-up",
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "water-pledge": [
+      "tutor"
+    ]
+  },
+  "abilities": {
+    "gluttony": 1,
+    "torrent": "hidden"
+  }
+}

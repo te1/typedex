@@ -1,0 +1,198 @@
+{
+  "name": "lotad",
+  "caption": "Lotad",
+  "types": [
+    "water",
+    "grass"
+  ],
+  "species": "lotad",
+  "gen": "generation-iii",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 2.6,
+  "baseStats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 30,
+    "special-attack": 40,
+    "special-defense": 50,
+    "speed": 30
+  },
+  "evolutionChain": {
+    "species": "lotad",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "lombre",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "ludicolo",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Lotad live in ponds and lakes, where they float on the surface.\nIt grows weak if its broad leaf dies. On rare occasions, this\nPokémon travels on land in search of clean water.",
+  "moves": {
+    "growl": [
+      "level-up"
+    ],
+    "mist": [
+      "level-up"
+    ],
+    "water-gun": [
+      "egg"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "absorb": [
+      "level-up"
+    ],
+    "mega-drain": [
+      "level-up"
+    ],
+    "leech-seed": [
+      "egg"
+    ],
+    "razor-leaf": [
+      "egg"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "flail": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "giga-drain": [
+      "level-up",
+      "egg"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "sweet-scent": [
+      "egg"
+    ],
+    "synthesis": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "level-up",
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "level-up",
+      "machine"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "tickle": [
+      "egg"
+    ],
+    "natural-gift": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "level-up",
+      "machine"
+    ],
+    "zen-headbutt": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "teeter-dance": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "bubble": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "swift-swim": 1,
+    "rain-dish": 2,
+    "own-tempo": "hidden"
+  }
+}

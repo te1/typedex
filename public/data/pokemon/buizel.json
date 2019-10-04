@@ -1,0 +1,203 @@
+{
+  "name": "buizel",
+  "caption": "Buizel",
+  "types": [
+    "water"
+  ],
+  "species": "buizel",
+  "gen": "generation-iv",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.7,
+  "weight": 29.5,
+  "baseStats": {
+    "hp": 55,
+    "attack": 65,
+    "defense": 35,
+    "special-attack": 60,
+    "special-defense": 30,
+    "speed": 85
+  },
+  "evolutionChain": {
+    "species": "buizel",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "floatzel",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It swims by rotating its two tails like a screw.\nWhen it dives, its flotation sac collapses.",
+  "moves": {
+    "double-slap": [
+      "egg"
+    ],
+    "razor-wind": [
+      "level-up"
+    ],
+    "headbutt": [
+      "egg"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "sonic-boom": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "swift": [
+      "level-up"
+    ],
+    "fury-swipes": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "egg"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "mud-slap": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "fury-cutter": [
+      "egg"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "baton-pass": [
+      "egg"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "whirlpool": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "odor-sleuth": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "water-sport": [
+      "level-up"
+    ],
+    "aqua-jet": [
+      "level-up"
+    ],
+    "me-first": [
+      "egg"
+    ],
+    "aqua-ring": [
+      "egg"
+    ],
+    "aqua-tail": [
+      "level-up",
+      "egg"
+    ],
+    "switcheroo": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "tail-slap": [
+      "egg"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "double-hit": [
+      "level-up"
+    ],
+    "soak": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "helping-hand": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "swift-swim": 1,
+    "water-veil": "hidden"
+  }
+}

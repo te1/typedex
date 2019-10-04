@@ -1,0 +1,20 @@
+{
+  "name": "friend-guard",
+  "caption": "Friend Guard",
+  "gen": "generation-v",
+  "effect": {
+    "short": "Decreases all direct damage taken by friendly Pokémon to 0.75×.",
+    "full": "All friendly Pokémon take 0.75× as much direct damage from moves while this Pokémon is in battle.\n\nThis effect stacks if multiple allied Pokémon have it."
+  },
+  "flavorText": "Reduces damage done to allies.",
+  "pokemon": {
+    "clefairy": "hidden",
+    "jigglypuff": "hidden",
+    "cleffa": "hidden",
+    "igglybuff": "hidden",
+    "happiny": "hidden",
+    "scatterbug": "hidden",
+    "spewpa": "hidden",
+    "vivillon": "hidden"
+  }
+}

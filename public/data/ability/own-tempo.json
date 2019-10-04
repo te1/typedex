@@ -1,0 +1,35 @@
+{
+  "name": "own-tempo",
+  "caption": "Own Tempo",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Prevents [confusion]{mechanic:confusion}.",
+    "full": "This Pokémon cannot be [confused]{mechanic:confusion}.\n\nIf a Pokémon is confused and acquires this ability, its confusion will immediately be healed."
+  },
+  "flavorText": "This Pokémon has its own tempo, and that prevents\nit from becoming confused.",
+  "pokemon": {
+    "slowpoke": 2,
+    "slowbro": 2,
+    "lickitung": 1,
+    "slowking": 2,
+    "smeargle": 1,
+    "lotad": "hidden",
+    "lombre": "hidden",
+    "ludicolo": "hidden",
+    "numel": "hidden",
+    "spoink": 2,
+    "grumpig": 2,
+    "spinda": 1,
+    "glameow": 2,
+    "purugly": 2,
+    "lickilicky": 1,
+    "petilil": 2,
+    "lilligant": 2,
+    "espurr": "hidden",
+    "bergmite": 1,
+    "avalugg": 1,
+    "mudbray": 1,
+    "mudsdale": 1,
+    "rockruff-own-tempo": 1
+  }
+}

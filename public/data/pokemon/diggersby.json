@@ -1,0 +1,211 @@
+{
+  "name": "diggersby",
+  "caption": "Diggersby",
+  "types": [
+    "normal",
+    "ground"
+  ],
+  "species": "diggersby",
+  "gen": "generation-vi",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1,
+  "weight": 42.4,
+  "baseStats": {
+    "hp": 85,
+    "attack": 56,
+    "defense": 77,
+    "special-attack": 50,
+    "special-defense": 77,
+    "speed": 78
+  },
+  "evolutionChain": {
+    "species": "bunnelby",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "diggersby",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "With their powerful ears, they can heft\nboulders of a ton or more with ease.\nThey can be a big help at construction sites.",
+  "moves": {
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "double-kick": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "dig": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "super-fang": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "level-up",
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "odor-sleuth": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "bounce": [
+      "level-up"
+    ],
+    "mud-shot": [
+      "level-up"
+    ],
+    "hammer-arm": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "level-up",
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "rototiller": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "double-slap": [
+      "level-up"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "pickup": 1,
+    "cheek-pouch": 2,
+    "huge-power": "hidden"
+  }
+}

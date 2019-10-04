@@ -1,0 +1,188 @@
+{
+  "name": "gogoat",
+  "caption": "Gogoat",
+  "types": [
+    "grass"
+  ],
+  "species": "gogoat",
+  "gen": "generation-vi",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.7,
+  "weight": 91,
+  "baseStats": {
+    "hp": 123,
+    "attack": 100,
+    "defense": 62,
+    "special-attack": 97,
+    "special-defense": 81,
+    "speed": 68
+  },
+  "evolutionChain": {
+    "species": "skiddo",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "gogoat",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It can tell how its Trainer is feeling by\nsubtle shifts in the grip on its horns.\nThis empathic sense lets them run as if one being.",
+  "moves": {
+    "vine-whip": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "leech-seed": [
+      "level-up"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "razor-leaf": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "milk-drink": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "synthesis": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "level-up",
+      "machine"
+    ],
+    "bulk-up": [
+      "level-up",
+      "machine"
+    ],
+    "leaf-blade": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "worry-seed": [
+      "level-up"
+    ],
+    "seed-bomb": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "level-up",
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "horn-leech": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "sap-sipper": 1,
+    "grass-pelt": "hidden"
+  }
+}

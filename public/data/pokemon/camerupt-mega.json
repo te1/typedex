@@ -1,0 +1,192 @@
+{
+  "name": "camerupt-mega",
+  "caption": "Mega Camerupt",
+  "types": [
+    "fire",
+    "ground"
+  ],
+  "species": "camerupt",
+  "gen": "generation-iii",
+  "color": "red",
+  "default": false,
+  "alternate": false,
+  "mega": true,
+  "height": 2.5,
+  "weight": 320.5,
+  "baseStats": {
+    "hp": 70,
+    "attack": 120,
+    "defense": 100,
+    "special-attack": 145,
+    "special-defense": 105,
+    "speed": 20
+  },
+  "evolutionChain": {
+    "species": "numel",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "camerupt",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Camerupt has a volcano inside its body. Magma of\n18,000 degrees Fahrenheit courses through its body.\nOccasionally, the humps on this Pokémon’s back erupt,\nspewing the superheated magma.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "ember": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "fissure": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "amnesia": [
+      "level-up"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "level-up",
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "curse": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "magnitude": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "yawn": [
+      "level-up"
+    ],
+    "eruption": [
+      "level-up"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "earth-power": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "lava-plume": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "flame-burst": [
+      "level-up"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "sheer-force": 1
+  }
+}

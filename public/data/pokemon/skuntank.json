@@ -1,0 +1,192 @@
+{
+  "name": "skuntank",
+  "caption": "Skuntank",
+  "types": [
+    "poison",
+    "dark"
+  ],
+  "species": "skuntank",
+  "gen": "generation-iv",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1,
+  "weight": 38,
+  "baseStats": {
+    "hp": 103,
+    "attack": 93,
+    "defense": 67,
+    "special-attack": 71,
+    "special-defense": 61,
+    "speed": 84
+  },
+  "evolutionChain": {
+    "species": "stunky",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "skuntank",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It sprays a vile-smelling fluid from the tip of its tail\nto attack. Its range is over 160 feet.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "flamethrower": [
+      "level-up",
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "level-up",
+      "machine"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "smokescreen": [
+      "level-up"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "poison-gas": [
+      "level-up"
+    ],
+    "explosion": [
+      "level-up",
+      "machine"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "memento": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "feint": [
+      "level-up"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "acid-spray": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "belch": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "venom-drench": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "stench": 1,
+    "aftermath": 2,
+    "keen-eye": "hidden"
+  }
+}

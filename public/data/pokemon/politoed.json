@@ -1,0 +1,174 @@
+{
+  "name": "politoed",
+  "caption": "Politoed",
+  "types": [
+    "water"
+  ],
+  "species": "politoed",
+  "gen": "generation-ii",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.1,
+  "weight": 33.9,
+  "baseStats": {
+    "hp": 90,
+    "attack": 75,
+    "defense": 75,
+    "special-attack": 90,
+    "special-defense": 100,
+    "speed": 70
+  },
+  "evolutionChain": {
+    "species": "poliwag",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "poliwhirl",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "poliwrath",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          },
+          {
+            "species": "politoed",
+            "triggers": [
+              "trade"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Although its cries sound like screams, a\ncomposer created a beautiful ballad that was\ninfluenced by the sounds.",
+  "moves": {
+    "double-slap": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "hypnosis": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "perish-song": [
+      "level-up"
+    ],
+    "swagger": [
+      "level-up",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "bounce": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "hyper-voice": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "water-absorb": 1,
+    "damp": 2,
+    "drizzle": "hidden"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "name": "mud-bomb",
+  "caption": "Mud Bomb",
+  "type": "ground",
+  "damageCategory": "special",
+  "power": 65,
+  "accuracy": 85,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a 30% chance to lower the target's accuracy by one stage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 30% chance to lower the target's [accuracy]{mechanic:accuracy} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user launches a hard-packed mud ball to attack.\nThis may also lower the target’s accuracy.",
+  "flags": [
+    "protect",
+    "mirror",
+    "ballistics"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "ekans": [
+      "level-up"
+    ],
+    "arbok": [
+      "level-up"
+    ],
+    "diglett": [
+      "level-up",
+      "egg"
+    ],
+    "dugtrio": [
+      "level-up"
+    ],
+    "psyduck": [
+      "egg"
+    ],
+    "poliwag": [
+      "level-up"
+    ],
+    "poliwhirl": [
+      "level-up"
+    ],
+    "grimer": [
+      "level-up"
+    ],
+    "muk": [
+      "level-up"
+    ],
+    "chansey": [
+      "egg"
+    ],
+    "wooper": [
+      "level-up"
+    ],
+    "quagsire": [
+      "level-up"
+    ],
+    "swinub": [
+      "level-up"
+    ],
+    "piloswine": [
+      "level-up"
+    ],
+    "mudkip": [
+      "egg"
+    ],
+    "marshtomp": [
+      "level-up"
+    ],
+    "swampert": [
+      "level-up"
+    ],
+    "skitty": [
+      "egg"
+    ],
+    "numel": [
+      "egg"
+    ],
+    "barboach": [
+      "level-up"
+    ],
+    "whiscash": [
+      "level-up"
+    ],
+    "shellos": [
+      "level-up"
+    ],
+    "gastrodon": [
+      "level-up"
+    ],
+    "happiny": [
+      "egg"
+    ],
+    "croagunk": [
+      "level-up"
+    ],
+    "toxicroak": [
+      "level-up"
+    ],
+    "mamoswine": [
+      "level-up"
+    ],
+    "tympole": [
+      "egg"
+    ],
+    "stunfisk": [
+      "level-up"
+    ],
+    "mudbray": [
+      "egg"
+    ],
+    "swampert-mega": [
+      "level-up"
+    ],
+    "diglett-alola": [
+      "level-up"
+    ],
+    "dugtrio-alola": [
+      "level-up"
+    ]
+  }
+}

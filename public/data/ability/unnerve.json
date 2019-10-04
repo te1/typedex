@@ -1,0 +1,32 @@
+{
+  "name": "unnerve",
+  "caption": "Unnerve",
+  "gen": "generation-v",
+  "effect": {
+    "short": "Prevents opposing Pokémon from eating held Berries.",
+    "full": "Opposing Pokémon cannot eat held Berries while this Pokémon is in battle.\n\nAffected Pokémon can still use []{move:bug-bite} or []{move:pluck} to eat a target's Berry."
+  },
+  "flavorText": "Unnerves opposing Pokémon and makes them unable\nto eat Berries.",
+  "pokemon": {
+    "ekans": "hidden",
+    "arbok": "hidden",
+    "meowth": "hidden",
+    "persian": "hidden",
+    "aerodactyl": "hidden",
+    "mewtwo": "hidden",
+    "ursaring": "hidden",
+    "houndour": "hidden",
+    "houndoom": "hidden",
+    "tyranitar": "hidden",
+    "masquerain": "hidden",
+    "vespiquen": "hidden",
+    "joltik": 2,
+    "galvantula": 2,
+    "axew": "hidden",
+    "fraxure": "hidden",
+    "haxorus": "hidden",
+    "litleo": 2,
+    "pyroar": 2,
+    "bewear": "hidden"
+  }
+}

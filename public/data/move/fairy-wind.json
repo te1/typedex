@@ -1,0 +1,81 @@
+{
+  "name": "fairy-wind",
+  "caption": "Fairy Wind",
+  "type": "fairy",
+  "damageCategory": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The user stirs up a fairy wind and strikes the target\nwith it.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "togetic": [
+      "level-up"
+    ],
+    "hoppip": [
+      "level-up"
+    ],
+    "skiploom": [
+      "level-up"
+    ],
+    "jumpluff": [
+      "level-up"
+    ],
+    "mawile": [
+      "level-up"
+    ],
+    "cottonee": [
+      "level-up"
+    ],
+    "flabebe": [
+      "level-up"
+    ],
+    "floette": [
+      "level-up"
+    ],
+    "spritzee": [
+      "level-up"
+    ],
+    "aromatisse": [
+      "level-up"
+    ],
+    "swirlix": [
+      "level-up"
+    ],
+    "slurpuff": [
+      "level-up"
+    ],
+    "sylveon": [
+      "level-up"
+    ],
+    "klefki": [
+      "level-up"
+    ],
+    "cutiefly": [
+      "level-up"
+    ],
+    "ribombee": [
+      "level-up"
+    ],
+    "mawile-mega": [
+      "level-up"
+    ],
+    "floette-eternal": [
+      "level-up"
+    ],
+    "ribombee-totem": [
+      "level-up"
+    ]
+  }
+}

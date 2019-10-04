@@ -1,0 +1,58 @@
+{
+  "name": "trump-card",
+  "caption": "Trump Card",
+  "type": "normal",
+  "damageCategory": "special",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Power increases when this move has less PP, up to a maximum of 200.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Power is determined by the [PP]{mechanic:pp} remaining for this move, after its [PP]{mechanic:pp} cost is deducted.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers.\n\nPP remaining | Power\n------------ | ----:\n4 or more    |    40\n3            |    50\n2            |    60\n1            |    80\n0            |   200\n\nIf this move is activated by another move, the activating move's [PP]{mechanic:pp} is used to calculate power."
+  },
+  "flavorText": "The fewer PP this move has, the greater its power.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "farfetchd": [
+      "egg"
+    ],
+    "kangaskhan": [
+      "egg"
+    ],
+    "eevee": [
+      "level-up"
+    ],
+    "slowking": [
+      "level-up"
+    ],
+    "dunsparce": [
+      "egg"
+    ],
+    "minun": [
+      "level-up"
+    ],
+    "corphish": [
+      "egg"
+    ],
+    "shellos": [
+      "egg"
+    ],
+    "oshawott": [
+      "egg"
+    ],
+    "magearna": [
+      "level-up"
+    ],
+    "magearna-original": [
+      "level-up"
+    ]
+  }
+}

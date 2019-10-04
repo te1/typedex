@@ -1,0 +1,156 @@
+{
+  "name": "frost-breath",
+  "caption": "Frost Breath",
+  "type": "ice",
+  "damageCategory": "special",
+  "power": 60,
+  "accuracy": 90,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Always scores a critical hit.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Always scores a [critical hit]{mechanic:critical-hit}."
+  },
+  "flavorText": "The user blows its cold breath on the target. This\nattack always results in a critical hit.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "dewgong": [
+      "machine"
+    ],
+    "cloyster": [
+      "machine"
+    ],
+    "jynx": [
+      "machine"
+    ],
+    "lapras": [
+      "machine"
+    ],
+    "articuno": [
+      "machine"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "delibird": [
+      "machine"
+    ],
+    "smoochum": [
+      "machine"
+    ],
+    "snorunt": [
+      "level-up",
+      "machine"
+    ],
+    "glalie": [
+      "level-up",
+      "machine"
+    ],
+    "spheal": [
+      "machine"
+    ],
+    "sealeo": [
+      "machine"
+    ],
+    "walrein": [
+      "machine"
+    ],
+    "regice": [
+      "machine"
+    ],
+    "snover": [
+      "machine"
+    ],
+    "abomasnow": [
+      "machine"
+    ],
+    "glaceon": [
+      "machine"
+    ],
+    "froslass": [
+      "machine"
+    ],
+    "vanillite": [
+      "machine"
+    ],
+    "vanillish": [
+      "machine"
+    ],
+    "vanilluxe": [
+      "machine"
+    ],
+    "cubchoo": [
+      "machine"
+    ],
+    "beartic": [
+      "machine"
+    ],
+    "cryogonal": [
+      "machine"
+    ],
+    "amaura": [
+      "machine"
+    ],
+    "aurorus": [
+      "machine"
+    ],
+    "bergmite": [
+      "machine"
+    ],
+    "avalugg": [
+      "machine"
+    ],
+    "crabrawler": [
+      "machine"
+    ],
+    "crabominable": [
+      "machine"
+    ],
+    "mareanie": [
+      "machine"
+    ],
+    "toxapex": [
+      "machine"
+    ],
+    "dewpider": [
+      "machine"
+    ],
+    "araquanid": [
+      "machine"
+    ],
+    "golisopod": [
+      "machine"
+    ],
+    "bruxish": [
+      "machine"
+    ],
+    "abomasnow-mega": [
+      "machine"
+    ],
+    "glalie-mega": [
+      "level-up",
+      "machine"
+    ],
+    "sandshrew-alola": [
+      "machine"
+    ],
+    "sandslash-alola": [
+      "machine"
+    ],
+    "vulpix-alola": [
+      "machine"
+    ],
+    "ninetales-alola": [
+      "machine"
+    ],
+    "araquanid-totem": [
+      "machine"
+    ]
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "name": "will-o-wisp",
+  "caption": "Will-O-Wisp",
+  "type": "fire",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 85,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Burns the target.",
+    "full": "[Burns]{mechanic:burns} the target."
+  },
+  "flavorText": "The user shoots a sinister, bluish-white flame at the\ntarget to inflict a burn.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "charmander": [
+      "machine"
+    ],
+    "charmeleon": [
+      "machine"
+    ],
+    "charizard": [
+      "machine"
+    ],
+    "vulpix": [
+      "level-up",
+      "machine"
+    ],
+    "ninetales": [
+      "machine"
+    ],
+    "growlithe": [
+      "machine"
+    ],
+    "arcanine": [
+      "machine"
+    ],
+    "ponyta": [
+      "machine"
+    ],
+    "rapidash": [
+      "machine"
+    ],
+    "gastly": [
+      "machine"
+    ],
+    "haunter": [
+      "machine"
+    ],
+    "gengar": [
+      "machine"
+    ],
+    "koffing": [
+      "machine"
+    ],
+    "weezing": [
+      "machine"
+    ],
+    "magmar": [
+      "machine"
+    ],
+    "flareon": [
+      "machine"
+    ],
+    "moltres": [
+      "machine"
+    ],
+    "mewtwo": [
+      "machine"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "cyndaquil": [
+      "machine"
+    ],
+    "quilava": [
+      "machine"
+    ],
+    "typhlosion": [
+      "machine"
+    ],
+    "misdreavus": [
+      "machine"
+    ],
+    "slugma": [
+      "machine"
+    ],
+    "magcargo": [
+      "machine"
+    ],
+    "houndour": [
+      "machine"
+    ],
+    "houndoom": [
+      "machine"
+    ],
+    "magby": [
+      "machine"
+    ],
+    "entei": [
+      "machine"
+    ],
+    "ho-oh": [
+      "machine"
+    ],
+    "torchic": [
+      "machine"
+    ],
+    "combusken": [
+      "machine"
+    ],
+    "blaziken": [
+      "machine"
+    ],
+    "ralts": [
+      "machine"
+    ],
+    "kirlia": [
+      "machine"
+    ],
+    "gardevoir": [
+      "machine"
+    ],
+    "shedinja": [
+      "machine"
+    ],
+    "sableye": [
+      "machine"
+    ],
+    "numel": [
+      "machine"
+    ],
+    "camerupt": [
+      "machine"
+    ],
+    "torkoal": [
+      "machine"
+    ],
+    "solrock": [
+      "machine"
+    ],
+    "shuppet": [
+      "level-up",
+      "machine"
+    ],
+    "banette": [
+      "level-up",
+      "machine"
+    ],
+    "duskull": [
+      "level-up",
+      "machine"
+    ],
+    "dusclops": [
+      "level-up",
+      "machine"
+    ],
+    "absol": [
+      "machine"
+    ],
+    "chimchar": [
+      "machine"
+    ],
+    "monferno": [
+      "machine"
+    ],
+    "infernape": [
+      "machine"
+    ],
+    "drifloon": [
+      "machine"
+    ],
+    "drifblim": [
+      "machine"
+    ],
+    "mismagius": [
+      "machine"
+    ],
+    "spiritomb": [
+      "machine"
+    ],
+    "magmortar": [
+      "machine"
+    ],
+    "gallade": [
+      "machine"
+    ],
+    "dusknoir": [
+      "level-up",
+      "machine"
+    ],
+    "froslass": [
+      "level-up",
+      "machine"
+    ],
+    "rotom": [
+      "machine"
+    ],
+    "heatran": [
+      "machine"
+    ],
+    "giratina-altered": [
+      "machine"
+    ],
+    "darkrai": [
+      "machine"
+    ],
+    "arceus": [
+      "machine"
+    ],
+    "victini": [
+      "machine"
+    ],
+    "tepig": [
+      "machine"
+    ],
+    "pignite": [
+      "machine"
+    ],
+    "emboar": [
+      "machine"
+    ],
+    "pansear": [
+      "machine"
+    ],
+    "simisear": [
+      "machine"
+    ],
+    "darumaka": [
+      "machine"
+    ],
+    "darmanitan-standard": [
+      "machine"
+    ],
+    "yamask": [
+      "level-up",
+      "machine"
+    ],
+    "cofagrigus": [
+      "level-up",
+      "machine"
+    ],
+    "frillish": [
+      "machine"
+    ],
+    "jellicent": [
+      "machine"
+    ],
+    "litwick": [
+      "level-up",
+      "machine"
+    ],
+    "lampent": [
+      "level-up",
+      "machine"
+    ],
+    "chandelure": [
+      "machine"
+    ],
+    "heatmor": [
+      "machine"
+    ],
+    "larvesta": [
+      "machine"
+    ],
+    "volcarona": [
+      "machine"
+    ],
+    "reshiram": [
+      "machine"
+    ],
+    "fennekin": [
+      "level-up",
+      "machine"
+    ],
+    "braixen": [
+      "level-up",
+      "machine"
+    ],
+    "delphox": [
+      "level-up",
+      "machine"
+    ],
+    "fletchinder": [
+      "machine"
+    ],
+    "talonflame": [
+      "machine"
+    ],
+    "litleo": [
+      "machine"
+    ],
+    "pyroar": [
+      "machine"
+    ],
+    "phantump": [
+      "level-up",
+      "machine"
+    ],
+    "trevenant": [
+      "level-up",
+      "machine"
+    ],
+    "pumpkaboo-average": [
+      "machine"
+    ],
+    "gourgeist-average": [
+      "machine"
+    ],
+    "volcanion": [
+      "machine"
+    ],
+    "litten": [
+      "machine"
+    ],
+    "torracat": [
+      "machine"
+    ],
+    "incineroar": [
+      "machine"
+    ],
+    "salandit": [
+      "machine"
+    ],
+    "salazzle": [
+      "machine"
+    ],
+    "turtonator": [
+      "machine"
+    ],
+    "mimikyu-disguised": [
+      "machine"
+    ],
+    "lunala": [
+      "machine"
+    ],
+    "marshadow": [
+      "machine"
+    ],
+    "blacephalon": [
+      "machine"
+    ],
+    "giratina-origin": [
+      "machine"
+    ],
+    "rotom-heat": [
+      "machine"
+    ],
+    "rotom-wash": [
+      "machine"
+    ],
+    "rotom-frost": [
+      "machine"
+    ],
+    "rotom-fan": [
+      "machine"
+    ],
+    "rotom-mow": [
+      "machine"
+    ],
+    "darmanitan-zen": [
+      "machine"
+    ],
+    "pumpkaboo-small": [
+      "machine"
+    ],
+    "pumpkaboo-large": [
+      "machine"
+    ],
+    "pumpkaboo-super": [
+      "machine"
+    ],
+    "gourgeist-small": [
+      "machine"
+    ],
+    "gourgeist-large": [
+      "machine"
+    ],
+    "gourgeist-super": [
+      "machine"
+    ],
+    "charizard-mega-x": [
+      "machine"
+    ],
+    "charizard-mega-y": [
+      "machine"
+    ],
+    "gengar-mega": [
+      "machine"
+    ],
+    "mewtwo-mega-x": [
+      "machine"
+    ],
+    "mewtwo-mega-y": [
+      "machine"
+    ],
+    "houndoom-mega": [
+      "machine"
+    ],
+    "blaziken-mega": [
+      "machine"
+    ],
+    "gardevoir-mega": [
+      "machine"
+    ],
+    "banette-mega": [
+      "level-up",
+      "machine"
+    ],
+    "absol-mega": [
+      "machine"
+    ],
+    "sableye-mega": [
+      "machine"
+    ],
+    "gallade-mega": [
+      "machine"
+    ],
+    "camerupt-mega": [
+      "machine"
+    ],
+    "marowak-alola": [
+      "level-up",
+      "machine"
+    ],
+    "salazzle-totem": [
+      "machine"
+    ],
+    "mimikyu-busted": [
+      "machine"
+    ],
+    "mimikyu-totem-disguised": [
+      "machine"
+    ],
+    "mimikyu-totem-busted": [
+      "machine"
+    ],
+    "marowak-totem": [
+      "level-up",
+      "machine"
+    ]
+  }
+}

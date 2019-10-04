@@ -1,0 +1,204 @@
+{
+  "name": "magnezone",
+  "caption": "Magnezone",
+  "types": [
+    "electric",
+    "steel"
+  ],
+  "species": "magnezone",
+  "gen": "generation-iv",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.2,
+  "weight": 180,
+  "baseStats": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 115,
+    "special-attack": 130,
+    "special-defense": 90,
+    "speed": 60
+  },
+  "evolutionChain": {
+    "species": "magnemite",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "magneton",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "magnezone",
+            "triggers": [
+              "level-up",
+              "level-up",
+              "level-up",
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It uses radar to monitor its territory. Intruders\nare quickly disposed of with a hyper beam.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "supersonic": [
+      "level-up"
+    ],
+    "sonic-boom": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunder-shock": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "level-up",
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "barrier": [
+      "level-up"
+    ],
+    "light-screen": [
+      "level-up",
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "zap-cannon": [
+      "level-up"
+    ],
+    "lock-on": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "spark": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "mirror-coat": [
+      "level-up"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "metal-sound": [
+      "level-up"
+    ],
+    "gyro-ball": [
+      "level-up",
+      "machine"
+    ],
+    "magnet-rise": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "mirror-shot": [
+      "level-up"
+    ],
+    "flash-cannon": [
+      "level-up",
+      "machine"
+    ],
+    "discharge": [
+      "level-up"
+    ],
+    "magnet-bomb": [
+      "level-up"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "electro-ball": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "volt-switch": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "magnetic-flux": [
+      "level-up"
+    ],
+    "electric-terrain": [
+      "level-up"
+    ],
+    "tri-attack": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "magnet-pull": 1,
+    "sturdy": 2,
+    "analytic": "hidden"
+  }
+}

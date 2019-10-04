@@ -1,0 +1,166 @@
+{
+  "name": "furfrou",
+  "caption": "Furfrou",
+  "types": [
+    "normal"
+  ],
+  "species": "furfrou",
+  "gen": "generation-vi",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": "Natural Form",
+  "height": 1.2,
+  "weight": 28,
+  "baseStats": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 60,
+    "special-attack": 65,
+    "special-defense": 90,
+    "speed": 102
+  },
+  "flavorText": "There was an era when aristocrats would\ncompete to see who could trim their Furfrou’s\nfur into the most exquisite style.",
+  "moves": {
+    "sand-attack": [
+      "level-up"
+    ],
+    "headbutt": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "mimic": [
+      "egg"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "charm": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "role-play": [
+      "egg"
+    ],
+    "refresh": [
+      "egg"
+    ],
+    "odor-sleuth": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "captivate": [
+      "egg"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "retaliate": [
+      "level-up"
+    ],
+    "work-up": [
+      "egg",
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "cotton-guard": [
+      "level-up"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "baby-doll-eyes": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "fur-coat": 1
+  }
+}

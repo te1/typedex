@@ -1,0 +1,182 @@
+{
+  "name": "minior-orange",
+  "caption": "Orange Core Minior",
+  "types": [
+    "rock",
+    "flying"
+  ],
+  "species": "minior",
+  "gen": "generation-vii",
+  "color": "brown",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": "Orange Core",
+  "height": 0.3,
+  "weight": 0.3,
+  "baseStats": {
+    "hp": 60,
+    "attack": 100,
+    "defense": 60,
+    "special-attack": 100,
+    "special-defense": 60,
+    "speed": 120
+  },
+  "flavorText": "It lives in the ozone layer, where it becomes\nfood for stronger Pokémon. When it tries to run\naway, it falls to the ground.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "self-destruct": [
+      "level-up"
+    ],
+    "swift": [
+      "level-up"
+    ],
+    "explosion": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "rollout": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "cosmic-power": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "power-gem": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "stealth-rock": [
+      "level-up"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "autotomize": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "shell-smash": [
+      "level-up"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "shields-down": 1
+  }
+}

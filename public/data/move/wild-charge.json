@@ -1,0 +1,376 @@
+{
+  "name": "wild-charge",
+  "caption": "Wild Charge",
+  "type": "electric",
+  "damageCategory": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "User receives 1/4 the damage it inflicts in recoil.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User takes 1/4 the damage it inflicts in recoil."
+  },
+  "flavorText": "The user shrouds itself in electricity and smashes\ninto its target. This also damages the user a little.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "rattata": [
+      "machine"
+    ],
+    "raticate": [
+      "machine"
+    ],
+    "pikachu": [
+      "level-up",
+      "machine"
+    ],
+    "raichu": [
+      "machine"
+    ],
+    "jigglypuff": [
+      "machine"
+    ],
+    "wigglytuff": [
+      "machine"
+    ],
+    "growlithe": [
+      "machine"
+    ],
+    "arcanine": [
+      "machine"
+    ],
+    "ponyta": [
+      "machine"
+    ],
+    "rapidash": [
+      "machine"
+    ],
+    "magnemite": [
+      "machine"
+    ],
+    "magneton": [
+      "machine"
+    ],
+    "voltorb": [
+      "machine"
+    ],
+    "electrode": [
+      "machine"
+    ],
+    "chansey": [
+      "machine"
+    ],
+    "electabuzz": [
+      "machine"
+    ],
+    "tauros": [
+      "machine"
+    ],
+    "jolteon": [
+      "machine"
+    ],
+    "snorlax": [
+      "machine"
+    ],
+    "zapdos": [
+      "machine"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "cyndaquil": [
+      "machine"
+    ],
+    "quilava": [
+      "machine"
+    ],
+    "typhlosion": [
+      "machine"
+    ],
+    "chinchou": [
+      "machine"
+    ],
+    "lanturn": [
+      "machine"
+    ],
+    "pichu": [
+      "machine"
+    ],
+    "igglybuff": [
+      "machine"
+    ],
+    "mareep": [
+      "machine"
+    ],
+    "flaaffy": [
+      "machine"
+    ],
+    "ampharos": [
+      "machine"
+    ],
+    "dunsparce": [
+      "machine"
+    ],
+    "snubbull": [
+      "machine"
+    ],
+    "granbull": [
+      "machine"
+    ],
+    "stantler": [
+      "machine"
+    ],
+    "elekid": [
+      "machine"
+    ],
+    "blissey": [
+      "machine"
+    ],
+    "raikou": [
+      "machine"
+    ],
+    "skitty": [
+      "machine"
+    ],
+    "delcatty": [
+      "machine"
+    ],
+    "electrike": [
+      "level-up",
+      "machine"
+    ],
+    "manectric": [
+      "level-up",
+      "machine"
+    ],
+    "plusle": [
+      "machine"
+    ],
+    "minun": [
+      "machine"
+    ],
+    "spinda": [
+      "machine"
+    ],
+    "shinx": [
+      "level-up",
+      "machine"
+    ],
+    "luxio": [
+      "level-up",
+      "machine"
+    ],
+    "luxray": [
+      "level-up",
+      "machine"
+    ],
+    "magnezone": [
+      "machine"
+    ],
+    "electivire": [
+      "machine"
+    ],
+    "victini": [
+      "machine"
+    ],
+    "tepig": [
+      "machine"
+    ],
+    "pignite": [
+      "machine"
+    ],
+    "emboar": [
+      "machine"
+    ],
+    "lillipup": [
+      "machine"
+    ],
+    "herdier": [
+      "machine"
+    ],
+    "stoutland": [
+      "machine"
+    ],
+    "blitzle": [
+      "level-up",
+      "machine"
+    ],
+    "zebstrika": [
+      "level-up",
+      "machine"
+    ],
+    "audino": [
+      "machine"
+    ],
+    "deerling": [
+      "machine"
+    ],
+    "sawsbuck": [
+      "machine"
+    ],
+    "emolga": [
+      "machine"
+    ],
+    "joltik": [
+      "machine"
+    ],
+    "galvantula": [
+      "machine"
+    ],
+    "klink": [
+      "machine"
+    ],
+    "klang": [
+      "machine"
+    ],
+    "klinklang": [
+      "machine"
+    ],
+    "eelektrik": [
+      "level-up",
+      "machine"
+    ],
+    "eelektross": [
+      "machine"
+    ],
+    "bouffalant": [
+      "machine"
+    ],
+    "larvesta": [
+      "machine"
+    ],
+    "volcarona": [
+      "machine"
+    ],
+    "thundurus-incarnate": [
+      "machine"
+    ],
+    "zekrom": [
+      "machine"
+    ],
+    "bunnelby": [
+      "machine"
+    ],
+    "diggersby": [
+      "machine"
+    ],
+    "litleo": [
+      "machine"
+    ],
+    "pyroar": [
+      "machine"
+    ],
+    "skiddo": [
+      "machine"
+    ],
+    "gogoat": [
+      "machine"
+    ],
+    "furfrou": [
+      "machine"
+    ],
+    "helioptile": [
+      "machine"
+    ],
+    "heliolisk": [
+      "machine"
+    ],
+    "dedenne": [
+      "machine"
+    ],
+    "noibat": [
+      "machine"
+    ],
+    "noivern": [
+      "machine"
+    ],
+    "grubbin": [
+      "machine"
+    ],
+    "charjabug": [
+      "machine"
+    ],
+    "vikavolt": [
+      "machine"
+    ],
+    "togedemaru": [
+      "level-up",
+      "machine"
+    ],
+    "tapu-koko": [
+      "level-up",
+      "machine"
+    ],
+    "solgaleo": [
+      "machine"
+    ],
+    "xurkitree": [
+      "machine"
+    ],
+    "zeraora": [
+      "level-up",
+      "machine"
+    ],
+    "thundurus-therian": [
+      "machine"
+    ],
+    "ampharos-mega": [
+      "machine"
+    ],
+    "manectric-mega": [
+      "level-up",
+      "machine"
+    ],
+    "audino-mega": [
+      "machine"
+    ],
+    "pikachu-original-cap": [
+      "level-up",
+      "machine"
+    ],
+    "pikachu-hoenn-cap": [
+      "level-up",
+      "machine"
+    ],
+    "pikachu-sinnoh-cap": [
+      "level-up",
+      "machine"
+    ],
+    "pikachu-unova-cap": [
+      "level-up",
+      "machine"
+    ],
+    "pikachu-kalos-cap": [
+      "level-up",
+      "machine"
+    ],
+    "pikachu-alola-cap": [
+      "level-up",
+      "machine"
+    ],
+    "raichu-alola": [
+      "machine"
+    ],
+    "golem-alola": [
+      "machine"
+    ],
+    "vikavolt-totem": [
+      "machine"
+    ],
+    "pikachu-partner-cap": [
+      "level-up",
+      "machine"
+    ],
+    "togedemaru-totem": [
+      "level-up",
+      "machine"
+    ]
+  }
+}

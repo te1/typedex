@@ -1,0 +1,14 @@
+{
+  "name": "schooling",
+  "caption": "Schooling",
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Wishiwashi becomes Schooling Form when its HP is 25% or higher.",
+    "full": "If this Pokémon is a []{pokemon:wishiwashi} and level 20 or above, then when it enters battle and at the start of each turn, it becomes Schooling Form if its HP is 25% or higher and Solo Form otherwise.\n\nThis ability cannot be replaced, copied, or nullified."
+  },
+  "flavorText": "When it has a lot of HP, the Pokémon forms a\npowerful school. It stops schooling when its HP\nis low.",
+  "pokemon": {
+    "wishiwashi-solo": 1,
+    "wishiwashi-school": 1
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "name": "rattata-alola",
+  "caption": "Alolan Rattata",
+  "types": [
+    "dark",
+    "normal"
+  ],
+  "species": "rattata",
+  "gen": "generation-i",
+  "color": "purple",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": "Alola Form",
+  "height": 0.3,
+  "weight": 3.8,
+  "baseStats": {
+    "hp": 30,
+    "attack": 56,
+    "defense": 35,
+    "special-attack": 25,
+    "special-defense": 35,
+    "speed": 72
+  },
+  "evolutionChain": {
+    "species": "rattata",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "raticate",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Its incisors grow continuously throughout its life.\nIf its incisors get too long, this Pokémon\nbecomes unable to eat, and it starves to death.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "hyper-fang": [
+      "level-up"
+    ],
+    "super-fang": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "endeavor": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "assurance": [
+      "level-up"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "quash": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "gluttony": 1,
+    "hustle": 2,
+    "thick-fat": "hidden"
+  }
+}

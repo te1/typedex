@@ -1,0 +1,209 @@
+{
+  "name": "torchic",
+  "caption": "Torchic",
+  "types": [
+    "fire"
+  ],
+  "species": "torchic",
+  "gen": "generation-iii",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 2.5,
+  "baseStats": {
+    "hp": 45,
+    "attack": 60,
+    "defense": 40,
+    "special-attack": 70,
+    "special-defense": 50,
+    "speed": 45
+  },
+  "evolutionChain": {
+    "species": "torchic",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "combusken",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "blaziken",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Torchic sticks with its Trainer, following behind with\nunsteady steps. This Pokémon breathes fire of over\n1,800 degrees Fahrenheit, including fireballs that leave\nthe foe scorched black.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "sand-attack": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "ember": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "level-up",
+      "machine"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "fire-spin": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "mirror-move": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "reversal": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "smelling-salts": [
+      "egg"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "agility": [
+      "egg"
+    ],
+    "baton-pass": [
+      "egg"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "crush-claw": [
+      "egg"
+    ],
+    "feint": [
+      "egg"
+    ],
+    "last-resort": [
+      "egg"
+    ],
+    "night-slash": [
+      "egg"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "feather-dance": [
+      "egg"
+    ],
+    "low-kick": [
+      "egg"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "flame-burst": [
+      "level-up",
+      "egg"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "fire-pledge": [
+      "tutor"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "blaze": 1,
+    "speed-boost": "hidden"
+  }
+}

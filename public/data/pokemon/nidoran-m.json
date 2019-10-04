@@ -1,0 +1,212 @@
+{
+  "name": "nidoran-m",
+  "caption": "Nidoran♂",
+  "types": [
+    "poison"
+  ],
+  "species": "nidoran-m",
+  "gen": "generation-i",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 9,
+  "baseStats": {
+    "hp": 46,
+    "attack": 57,
+    "defense": 40,
+    "special-attack": 40,
+    "special-defense": 40,
+    "speed": 50
+  },
+  "evolutionChain": {
+    "species": "nidoran-m",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "nidorino",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "nidoking",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Nidoran♂ has developed muscles for moving its ears. Thanks\nto them, the ears can be freely moved in any direction. Even\nthe slightest sound does not escape this Pokémon’s notice.",
+  "moves": {
+    "double-kick": [
+      "level-up"
+    ],
+    "horn-attack": [
+      "level-up"
+    ],
+    "fury-attack": [
+      "level-up"
+    ],
+    "horn-drill": [
+      "level-up"
+    ],
+    "take-down": [
+      "egg"
+    ],
+    "poison-sting": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "supersonic": [
+      "egg"
+    ],
+    "disable": [
+      "egg"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "confusion": [
+      "egg"
+    ],
+    "amnesia": [
+      "egg"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "iron-tail": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "beat-up": [
+      "egg"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "flatter": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "helping-hand": [
+      "level-up"
+    ],
+    "sucker-punch": [
+      "egg"
+    ],
+    "toxic-spikes": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "level-up",
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "captivate": [
+      "level-up"
+    ],
+    "head-smash": [
+      "egg"
+    ],
+    "poison-tail": [
+      "egg"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "chip-away": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "venom-drench": [
+      "egg"
+    ],
+    "smart-strike": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "poison-point": 1,
+    "rivalry": 2,
+    "hustle": "hidden"
+  }
+}

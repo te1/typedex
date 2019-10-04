@@ -1,0 +1,199 @@
+{
+  "name": "vullaby",
+  "caption": "Vullaby",
+  "types": [
+    "dark",
+    "flying"
+  ],
+  "species": "vullaby",
+  "gen": "generation-v",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 9,
+  "baseStats": {
+    "hp": 70,
+    "attack": 55,
+    "defense": 75,
+    "special-attack": 45,
+    "special-defense": 65,
+    "speed": 60
+  },
+  "evolutionChain": {
+    "species": "vullaby",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "mandibuzz",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Mandibuzz gives it the bones it wears. Vullaby’s\nwings are short, so it can’t fly yet, but it jumps\naround, dreaming of wide open skies.",
+  "moves": {
+    "gust": [
+      "level-up"
+    ],
+    "whirlwind": [
+      "level-up"
+    ],
+    "fly": [
+      "machine"
+    ],
+    "fury-attack": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "mirror-move": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "egg"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "steel-wing": [
+      "egg",
+      "machine"
+    ],
+    "mean-look": [
+      "egg"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "flatter": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "knock-off": [
+      "egg"
+    ],
+    "fake-tears": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "roost": [
+      "egg",
+      "machine"
+    ],
+    "pluck": [
+      "level-up"
+    ],
+    "tailwind": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "embargo": [
+      "level-up",
+      "machine"
+    ],
+    "punishment": [
+      "level-up"
+    ],
+    "dark-pulse": [
+      "level-up",
+      "machine"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "brave-bird": [
+      "level-up"
+    ],
+    "nasty-plot": [
+      "level-up"
+    ],
+    "defog": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "foul-play": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "big-pecks": 1,
+    "overcoat": 2,
+    "weak-armor": "hidden"
+  }
+}

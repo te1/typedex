@@ -1,0 +1,214 @@
+{
+  "name": "lucario-mega",
+  "caption": "Mega Lucario",
+  "types": [
+    "fighting",
+    "steel"
+  ],
+  "species": "lucario",
+  "gen": "generation-iv",
+  "color": "blue",
+  "default": false,
+  "alternate": false,
+  "mega": true,
+  "height": 1.3,
+  "weight": 57.5,
+  "baseStats": {
+    "hp": 70,
+    "attack": 145,
+    "defense": 88,
+    "special-attack": 140,
+    "special-defense": 70,
+    "speed": 112
+  },
+  "evolutionChain": {
+    "species": "riolu",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "lucario",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It concentrates its mental energy and fires off\nmysterious waves called auras, which can crush\nboulders of large size to dust.",
+  "moves": {
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "counter": [
+      "level-up"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "foresight": [
+      "level-up"
+    ],
+    "detect": [
+      "level-up"
+    ],
+    "bone-rush": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "metal-claw": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "extreme-speed": [
+      "level-up"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "metal-sound": [
+      "level-up"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "calm-mind": [
+      "level-up",
+      "machine"
+    ],
+    "feint": [
+      "level-up"
+    ],
+    "close-combat": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "me-first": [
+      "level-up"
+    ],
+    "aura-sphere": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "dragon-pulse": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "quick-guard": [
+      "level-up"
+    ],
+    "heal-pulse": [
+      "level-up"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "power-up-punch": [
+      "level-up"
+    ],
+    "work-up": [
+      "level-up",
+      "machine"
+    ],
+    "laser-focus": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "adaptability": 1
+  }
+}

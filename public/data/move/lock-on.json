@@ -1,0 +1,78 @@
+{
+  "name": "lock-on",
+  "caption": "Lock-On",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Ensures that the user's next move will hit the target.",
+    "full": "If the user targets the same target again before the end of the next turn, the move it uses is guaranteed to hit.  This move itself also ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers.\n\nOne-hit KO moves are also guaranteed to hit, as long as the user is equal or higher level than the target.  This effect also allows the user to hit Pokémon that are off the field due to moves such as []{move:dig} or []{move:fly}.\n\nIf the target uses []{move:detect} or []{move:protect} while under the effect of this move, the user is not guaranteed to hit, but has a (100 - accuracy)% chance to break through the protection.\n\nThis effect is passed on by []{move:baton-pass}."
+  },
+  "flavorText": "The user takes sure aim at the target. This ensures\nthe next attack does not miss the target.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "magnemite": [
+      "level-up"
+    ],
+    "magneton": [
+      "level-up"
+    ],
+    "porygon": [
+      "level-up"
+    ],
+    "remoraid": [
+      "level-up"
+    ],
+    "porygon2": [
+      "level-up"
+    ],
+    "nosepass": [
+      "level-up"
+    ],
+    "regirock": [
+      "level-up"
+    ],
+    "regice": [
+      "level-up"
+    ],
+    "registeel": [
+      "level-up"
+    ],
+    "magnezone": [
+      "level-up"
+    ],
+    "porygon-z": [
+      "level-up"
+    ],
+    "probopass": [
+      "level-up"
+    ],
+    "roggenrola": [
+      "egg"
+    ],
+    "klink": [
+      "level-up"
+    ],
+    "klang": [
+      "level-up"
+    ],
+    "klinklang": [
+      "level-up"
+    ],
+    "genesect": [
+      "level-up"
+    ],
+    "klefki": [
+      "egg"
+    ]
+  }
+}

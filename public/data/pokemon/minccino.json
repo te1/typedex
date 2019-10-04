@@ -1,0 +1,199 @@
+{
+  "name": "minccino",
+  "caption": "Minccino",
+  "types": [
+    "normal"
+  ],
+  "species": "minccino",
+  "gen": "generation-v",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 5.8,
+  "baseStats": {
+    "hp": 55,
+    "attack": 50,
+    "defense": 40,
+    "special-attack": 40,
+    "special-defense": 40,
+    "speed": 75
+  },
+  "evolutionChain": {
+    "species": "minccino",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "cinccino",
+        "triggers": [
+          "use-item"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "A clean freak that will not allow even the\nslightest mess, it uses its tail like a mop to\nthoroughly clean any and all filth.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "double-slap": [
+      "level-up"
+    ],
+    "slam": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "egg"
+    ],
+    "sing": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "swift": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "flail": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "mud-slap": [
+      "egg"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "charm": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "egg",
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "encore": [
+      "level-up"
+    ],
+    "iron-tail": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "helping-hand": [
+      "level-up"
+    ],
+    "knock-off": [
+      "egg"
+    ],
+    "hyper-voice": [
+      "level-up"
+    ],
+    "fake-tears": [
+      "egg"
+    ],
+    "tickle": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "wake-up-slap": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "last-resort": [
+      "level-up"
+    ],
+    "aqua-tail": [
+      "egg"
+    ],
+    "captivate": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "after-you": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "level-up",
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "tail-slap": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "baby-doll-eyes": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "cute-charm": 1,
+    "technician": 2,
+    "skill-link": "hidden"
+  }
+}

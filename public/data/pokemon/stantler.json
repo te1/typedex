@@ -1,0 +1,217 @@
+{
+  "name": "stantler",
+  "caption": "Stantler",
+  "types": [
+    "normal"
+  ],
+  "species": "stantler",
+  "gen": "generation-ii",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.4,
+  "weight": 71.2,
+  "baseStats": {
+    "hp": 73,
+    "attack": 95,
+    "defense": 62,
+    "special-attack": 85,
+    "special-defense": 65,
+    "speed": 85
+  },
+  "flavorText": "Stantler’s magnificent antlers were traded at high prices as\nworks of art. As a result, this Pokémon was hunted close to\nextinction by those who were after the priceless antlers.",
+  "moves": {
+    "stomp": [
+      "level-up"
+    ],
+    "sand-attack": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "egg"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "disable": [
+      "egg"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "hypnosis": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "spite": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "extrasensory": [
+      "egg"
+    ],
+    "calm-mind": [
+      "level-up",
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "role-play": [
+      "level-up"
+    ],
+    "double-kick": [
+      "egg"
+    ],
+    "thrash": [
+      "egg"
+    ],
+    "imprison": [
+      "level-up"
+    ],
+    "me-first": [
+      "level-up",
+      "egg"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "zen-headbutt": [
+      "level-up",
+      "egg"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "captivate": [
+      "level-up"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "megahorn": [
+      "egg"
+    ],
+    "jump-kick": [
+      "level-up"
+    ],
+    "rage": [
+      "egg"
+    ],
+    "mud-sport": [
+      "egg"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "intimidate": 1,
+    "frisk": 2,
+    "sap-sipper": "hidden"
+  }
+}

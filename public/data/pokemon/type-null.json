@@ -1,0 +1,182 @@
+{
+  "name": "type-null",
+  "caption": "Type: Null",
+  "types": [
+    "normal"
+  ],
+  "species": "type-null",
+  "gen": "generation-vii",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.9,
+  "weight": 120.5,
+  "baseStats": {
+    "hp": 95,
+    "attack": 95,
+    "defense": 95,
+    "special-attack": 95,
+    "special-defense": 95,
+    "speed": 59
+  },
+  "evolutionChain": {
+    "species": "type-null",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "silvally",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "A Pokémon weapon developed for a specific\nmission, it went berserk during an experiment,\nso it was cryogenically frozen.",
+  "moves": {
+    "razor-wind": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "rage": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "tri-attack": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "imprison": [
+      "level-up"
+    ],
+    "crush-claw": [
+      "level-up"
+    ],
+    "metal-sound": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "level-up",
+      "machine"
+    ],
+    "dragon-claw": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "heal-block": [
+      "level-up"
+    ],
+    "punishment": [
+      "level-up"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "x-scissor": [
+      "level-up",
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "iron-head": [
+      "level-up"
+    ],
+    "double-hit": [
+      "level-up"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "battle-armor": 1
+  }
+}

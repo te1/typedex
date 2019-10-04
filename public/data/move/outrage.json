@@ -1,0 +1,160 @@
+{
+  "name": "outrage",
+  "caption": "Outrage",
+  "type": "dragon",
+  "damageCategory": "physical",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Hits every turn for 2-3 turns, then confuses the user.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User is forced to attack with this move for 2–3 turns,selected at random.  After the last hit, the user becomes [confused]{mechanic:confused}.\n\n[]{move:safeguard} does not protect against the [confusion]{mechanic:confusion} from this move."
+  },
+  "flavorText": "The user rampages and attacks for two to three\nturns. The user then becomes confused.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "random-opponent",
+  "pokemon": {
+    "charmander": [
+      "egg"
+    ],
+    "mankey": [
+      "level-up"
+    ],
+    "primeape": [
+      "level-up"
+    ],
+    "growlithe": [
+      "level-up"
+    ],
+    "kangaskhan": [
+      "level-up"
+    ],
+    "horsea": [
+      "egg"
+    ],
+    "dratini": [
+      "level-up"
+    ],
+    "dragonair": [
+      "level-up"
+    ],
+    "dragonite": [
+      "level-up"
+    ],
+    "granbull": [
+      "level-up"
+    ],
+    "larvitar": [
+      "egg"
+    ],
+    "rayquaza": [
+      "level-up"
+    ],
+    "gible": [
+      "egg"
+    ],
+    "krookodile": [
+      "level-up"
+    ],
+    "axew": [
+      "level-up"
+    ],
+    "fraxure": [
+      "level-up"
+    ],
+    "haxorus": [
+      "level-up"
+    ],
+    "druddigon": [
+      "level-up"
+    ],
+    "deino": [
+      "level-up"
+    ],
+    "zweilous": [
+      "level-up"
+    ],
+    "hydreigon": [
+      "level-up"
+    ],
+    "reshiram": [
+      "level-up"
+    ],
+    "zekrom": [
+      "level-up"
+    ],
+    "landorus-incarnate": [
+      "level-up"
+    ],
+    "kyurem": [
+      "level-up"
+    ],
+    "goodra": [
+      "level-up"
+    ],
+    "noibat": [
+      "egg"
+    ],
+    "xerneas": [
+      "level-up"
+    ],
+    "zygarde": [
+      "level-up"
+    ],
+    "litten": [
+      "level-up"
+    ],
+    "torracat": [
+      "level-up"
+    ],
+    "incineroar": [
+      "level-up"
+    ],
+    "drampa": [
+      "level-up"
+    ],
+    "jangmo-o": [
+      "level-up"
+    ],
+    "hakamo-o": [
+      "level-up"
+    ],
+    "kommo-o": [
+      "level-up"
+    ],
+    "landorus-therian": [
+      "level-up"
+    ],
+    "kyurem-black": [
+      "level-up"
+    ],
+    "kyurem-white": [
+      "level-up"
+    ],
+    "kangaskhan-mega": [
+      "level-up"
+    ],
+    "rayquaza-mega": [
+      "level-up"
+    ],
+    "zygarde-10": [
+      "level-up"
+    ],
+    "zygarde-50": [
+      "level-up"
+    ],
+    "zygarde-complete": [
+      "level-up"
+    ],
+    "kommo-o-totem": [
+      "level-up"
+    ]
+  }
+}

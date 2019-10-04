@@ -1,0 +1,198 @@
+{
+  "name": "poliwag",
+  "caption": "Poliwag",
+  "types": [
+    "water"
+  ],
+  "species": "poliwag",
+  "gen": "generation-i",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 12.4,
+  "baseStats": {
+    "hp": 40,
+    "attack": 50,
+    "defense": 40,
+    "special-attack": 40,
+    "special-defense": 40,
+    "speed": 90
+  },
+  "evolutionChain": {
+    "species": "poliwag",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "poliwhirl",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "poliwrath",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          },
+          {
+            "species": "politoed",
+            "triggers": [
+              "trade"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Despite the danger, it wants to come up on land.\nSo it does its best to waddle along, but when\nan enemy finds it, it rushes back to the water.",
+  "moves": {
+    "double-slap": [
+      "level-up"
+    ],
+    "body-slam": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up",
+      "egg"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "hypnosis": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "bubble": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "mist": [
+      "egg"
+    ],
+    "haze": [
+      "egg"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "splash": [
+      "egg"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "mind-reader": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "belly-drum": [
+      "level-up"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "level-up",
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "ice-ball": [
+      "egg"
+    ],
+    "water-sport": [
+      "level-up",
+      "egg"
+    ],
+    "water-pulse": [
+      "egg"
+    ],
+    "endeavor": [
+      "egg"
+    ],
+    "refresh": [
+      "egg"
+    ],
+    "mud-shot": [
+      "level-up",
+      "egg"
+    ],
+    "wake-up-slap": [
+      "level-up"
+    ],
+    "mud-bomb": [
+      "level-up"
+    ],
+    "encore": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "water-absorb": 1,
+    "damp": 2,
+    "swift-swim": "hidden"
+  }
+}

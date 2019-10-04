@@ -1,0 +1,26 @@
+{
+  "name": "sketch",
+  "caption": "Sketch",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 1,
+  "z": true,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Permanently becomes the target's last used move.",
+    "full": "Permanently replaces itself with the target's last used move.  If that move is []{move:chatter} or []{move:struggle}, this move will [fail]{mechanic:fail}.\n\nThis move cannot be copied by []{move:mimic} or []{move:mirror-move}, nor selected by []{move:assist} or []{move:metronome}, nor forced by []{move:encore}."
+  },
+  "flavorText": "It enables the user to permanently learn the move\nlast used by the target. Once used,\nSketch disappears.",
+  "flags": [
+    "authentic"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "smeargle": [
+      "level-up"
+    ]
+  }
+}

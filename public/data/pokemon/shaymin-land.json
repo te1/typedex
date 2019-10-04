@@ -1,0 +1,139 @@
+{
+  "name": "shaymin-land",
+  "caption": "Land Shaymin",
+  "types": [
+    "grass"
+  ],
+  "species": "shaymin",
+  "gen": "generation-iv",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": "Land Forme",
+  "height": 0.2,
+  "weight": 2.1,
+  "baseStats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "special-attack": 100,
+    "special-defense": 100,
+    "speed": 100
+  },
+  "flavorText": "It can dissolve toxins in the air to instantly\ntransform ruined land into a lush field of flowers.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "leech-seed": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "synthesis": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "aromatherapy": [
+      "level-up"
+    ],
+    "magical-leaf": [
+      "level-up"
+    ],
+    "natural-gift": [
+      "level-up"
+    ],
+    "worry-seed": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "level-up",
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "seed-flare": [
+      "level-up"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "sweet-kiss": [
+      "level-up"
+    ],
+    "healing-wish": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "natural-cure": 1
+  }
+}

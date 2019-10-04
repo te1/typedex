@@ -1,0 +1,20 @@
+{
+  "name": "oceanic-operetta",
+  "caption": "Oceanic Operetta",
+  "type": "water",
+  "damageCategory": "special",
+  "power": 195,
+  "accuracy": null,
+  "pp": 1,
+  "z": true,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The user, Primarina, summons a massive amount of \nwater using its Z-Power and attacks the target with \nfull force.",
+  "flags": [],
+  "target": "selected-pokemon",
+  "pokemon": {}
+}

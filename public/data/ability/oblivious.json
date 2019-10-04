@@ -1,0 +1,37 @@
+{
+  "name": "oblivious",
+  "caption": "Oblivious",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Prevents [infatuation]{mechanic:infatuation} and protects against []{move:captivate}.",
+    "full": "This Pokémon cannot be [infatuated]{mechanic:infatuation} and is immune to []{move:captivate}.\n\nIf a Pokémon is infatuated and acquires this ability, its infatuation is cleared."
+  },
+  "flavorText": "The Pokémon is oblivious, and that keeps it from\nbeing infatuated or falling for taunts.",
+  "pokemon": {
+    "slowpoke": 1,
+    "slowbro": 1,
+    "lickitung": 2,
+    "jynx": 1,
+    "slowking": 1,
+    "swinub": 1,
+    "piloswine": 1,
+    "smoochum": 1,
+    "illumise": 1,
+    "wailmer": 2,
+    "wailord": 2,
+    "numel": 1,
+    "barboach": 1,
+    "whiscash": 1,
+    "feebas": 2,
+    "spheal": "hidden",
+    "sealeo": "hidden",
+    "walrein": "hidden",
+    "lickilicky": 2,
+    "mamoswine": 1,
+    "salandit": "hidden",
+    "salazzle": "hidden",
+    "bounsweet": 2,
+    "steenee": 2,
+    "salazzle-totem": "hidden"
+  }
+}

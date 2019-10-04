@@ -1,0 +1,13 @@
+{
+  "name": "triage",
+  "caption": "Triage",
+  "gen": "generation-vii",
+  "effect": {
+    "short": "This Pokémon's healing moves have their priority increased by 3.",
+    "full": "This Pokémon's healing moves have their priority increased by 3."
+  },
+  "flavorText": "Gives priority to a healing move.",
+  "pokemon": {
+    "comfey": 2
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "name": "sing",
+  "caption": "Sing",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 55,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Puts the target to sleep.",
+    "full": "Puts the target to [sleep]{mechanic:sleep}."
+  },
+  "flavorText": "A soothing lullaby is sung in a calming voice that\nputs the target into a deep slumber.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror",
+    "sound",
+    "authentic"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "clefairy": [
+      "level-up"
+    ],
+    "clefable": [
+      "level-up"
+    ],
+    "jigglypuff": [
+      "level-up"
+    ],
+    "wigglytuff": [
+      "level-up"
+    ],
+    "chansey": [
+      "level-up"
+    ],
+    "lapras": [
+      "level-up"
+    ],
+    "cleffa": [
+      "level-up"
+    ],
+    "igglybuff": [
+      "level-up"
+    ],
+    "smoochum": [
+      "level-up"
+    ],
+    "blissey": [
+      "level-up"
+    ],
+    "azurill": [
+      "egg"
+    ],
+    "skitty": [
+      "level-up"
+    ],
+    "delcatty": [
+      "level-up"
+    ],
+    "plusle": [
+      "egg"
+    ],
+    "minun": [
+      "egg"
+    ],
+    "swablu": [
+      "level-up"
+    ],
+    "altaria": [
+      "level-up"
+    ],
+    "kricketune": [
+      "level-up"
+    ],
+    "chatot": [
+      "level-up"
+    ],
+    "minccino": [
+      "level-up"
+    ],
+    "cinccino": [
+      "level-up"
+    ],
+    "meloetta-aria": [
+      "level-up"
+    ],
+    "popplio": [
+      "level-up"
+    ],
+    "brionne": [
+      "level-up"
+    ],
+    "primarina": [
+      "level-up"
+    ],
+    "komala": [
+      "egg"
+    ],
+    "meloetta-pirouette": [
+      "level-up"
+    ],
+    "altaria-mega": [
+      "level-up"
+    ]
+  }
+}

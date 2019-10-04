@@ -1,0 +1,26 @@
+{
+  "name": "prankster",
+  "caption": "Prankster",
+  "gen": "generation-v",
+  "effect": {
+    "short": "Raises non-damaging moves' priority by one stage.",
+    "full": "This Pokémon's non-damaging moves have their priority increased by one stage."
+  },
+  "flavorText": "Gives priority to a status move.",
+  "pokemon": {
+    "murkrow": "hidden",
+    "sableye": "hidden",
+    "volbeat": "hidden",
+    "illumise": "hidden",
+    "riolu": "hidden",
+    "purrloin": "hidden",
+    "liepard": "hidden",
+    "cottonee": 1,
+    "whimsicott": 1,
+    "tornadus-incarnate": 1,
+    "thundurus-incarnate": 1,
+    "meowstic-male": "hidden",
+    "klefki": 1,
+    "banette-mega": 1
+  }
+}

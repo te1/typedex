@@ -1,0 +1,63 @@
+{
+  "name": "cosmog",
+  "caption": "Cosmog",
+  "types": [
+    "psychic"
+  ],
+  "species": "cosmog",
+  "gen": "generation-vii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.2,
+  "weight": 0.1,
+  "baseStats": {
+    "hp": 43,
+    "attack": 29,
+    "defense": 31,
+    "special-attack": 29,
+    "special-defense": 31,
+    "speed": 37
+  },
+  "evolutionChain": {
+    "species": "cosmog",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "cosmoem",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "solgaleo",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          },
+          {
+            "species": "lunala",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Even though its helpless, gaseous body can be\nblown away by the slightest breeze, it doesn’t\nseem to care.",
+  "moves": {
+    "teleport": [
+      "level-up"
+    ],
+    "splash": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "unaware": 1
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "name": "nature-power",
+  "caption": "Nature Power",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Uses a move which depends upon the terrain.",
+    "full": "Uses another move chosen according to the terrain.\n\nTerrain                   | Selected move\n------------------------- | ------------------\nBuilding                  | []{move:tri-attack}\nCave                      | []{move:rock-slide}\nDeep water                | []{move:hydro-pump}\nDesert                    | []{move:earthquake}\nGrass                     | []{move:seed-bomb}\nMountain                  | []{move:rock-slide}\nRoad                      | []{move:earthquake}\nShallow water             | []{move:hydro-pump}\nSnow                      | []{move:blizzard}\nTall grass                | []{move:seed-bomb}\n[]{move:electric-terrain} | []{move:thunderbolt}\n[]{move:grassy-terrain}   | []{move:energy-ball}\n[]{move:misty-terrain}    | []{move:moonblast}\n\nIn Pokémon Battle Revolution:\n\nTerrain        | Selected move\n-------------- | ------------------\nCourtyard      | []{move:tri-attack}\nCrystal        | []{move:rock-slide}\nGateway        | []{move:hydro-pump}\nMagma          | []{move:rock-slide}\nMain Street    | []{move:tri-attack}\nNeon           | []{move:tri-attack}\nStargazer      | []{move:rock-slide}\nSunny Park     | []{move:seed-bomb}\nSunset         | []{move:earthquake}\nWaterfall      | []{move:seed-bomb}\n\nThis move cannot be copied by []{move:mirror-move}."
+  },
+  "flavorText": "This attack makes use of nature’s power. Its\neffects vary depending on the user’s environment.",
+  "flags": [],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "bulbasaur": [
+      "egg",
+      "machine"
+    ],
+    "ivysaur": [
+      "machine"
+    ],
+    "venusaur": [
+      "machine"
+    ],
+    "oddish": [
+      "egg",
+      "machine"
+    ],
+    "gloom": [
+      "machine"
+    ],
+    "vileplume": [
+      "machine"
+    ],
+    "paras": [
+      "machine"
+    ],
+    "parasect": [
+      "machine"
+    ],
+    "bellsprout": [
+      "machine"
+    ],
+    "weepinbell": [
+      "machine"
+    ],
+    "victreebel": [
+      "machine"
+    ],
+    "geodude": [
+      "machine"
+    ],
+    "graveler": [
+      "machine"
+    ],
+    "golem": [
+      "machine"
+    ],
+    "onix": [
+      "machine"
+    ],
+    "exeggcute": [
+      "egg",
+      "machine"
+    ],
+    "exeggutor": [
+      "machine"
+    ],
+    "tangela": [
+      "egg",
+      "machine"
+    ],
+    "kabutops": [
+      "machine"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "chikorita": [
+      "egg",
+      "machine"
+    ],
+    "bayleef": [
+      "machine"
+    ],
+    "meganium": [
+      "machine"
+    ],
+    "cyndaquil": [
+      "egg",
+      "machine"
+    ],
+    "quilava": [
+      "machine"
+    ],
+    "typhlosion": [
+      "machine"
+    ],
+    "bellossom": [
+      "machine"
+    ],
+    "sudowoodo": [
+      "machine"
+    ],
+    "sunkern": [
+      "egg",
+      "machine"
+    ],
+    "sunflora": [
+      "machine"
+    ],
+    "steelix": [
+      "machine"
+    ],
+    "slugma": [
+      "machine"
+    ],
+    "magcargo": [
+      "machine"
+    ],
+    "corsola": [
+      "egg",
+      "machine"
+    ],
+    "celebi": [
+      "machine"
+    ],
+    "treecko": [
+      "machine"
+    ],
+    "grovyle": [
+      "machine"
+    ],
+    "sceptile": [
+      "machine"
+    ],
+    "lotad": [
+      "level-up",
+      "machine"
+    ],
+    "lombre": [
+      "level-up",
+      "machine"
+    ],
+    "ludicolo": [
+      "level-up",
+      "machine"
+    ],
+    "seedot": [
+      "level-up",
+      "machine"
+    ],
+    "nuzleaf": [
+      "level-up",
+      "machine"
+    ],
+    "shiftry": [
+      "machine"
+    ],
+    "roselia": [
+      "machine"
+    ],
+    "numel": [
+      "machine"
+    ],
+    "camerupt": [
+      "machine"
+    ],
+    "torkoal": [
+      "machine"
+    ],
+    "cacnea": [
+      "machine"
+    ],
+    "cacturne": [
+      "machine"
+    ],
+    "crawdaunt": [
+      "machine"
+    ],
+    "tropius": [
+      "egg",
+      "machine"
+    ],
+    "turtwig": [
+      "machine"
+    ],
+    "grotle": [
+      "machine"
+    ],
+    "torterra": [
+      "machine"
+    ],
+    "budew": [
+      "machine"
+    ],
+    "roserade": [
+      "machine"
+    ],
+    "cherubi": [
+      "egg",
+      "machine"
+    ],
+    "cherrim": [
+      "machine"
+    ],
+    "bonsly": [
+      "machine"
+    ],
+    "carnivine": [
+      "machine"
+    ],
+    "finneon": [
+      "machine"
+    ],
+    "tangrowth": [
+      "machine"
+    ],
+    "leafeon": [
+      "machine"
+    ],
+    "heatran": [
+      "machine"
+    ],
+    "regigigas": [
+      "machine"
+    ],
+    "shaymin-land": [
+      "machine"
+    ],
+    "snivy": [
+      "machine"
+    ],
+    "servine": [
+      "machine"
+    ],
+    "serperior": [
+      "machine"
+    ],
+    "pansage": [
+      "machine"
+    ],
+    "simisage": [
+      "machine"
+    ],
+    "roggenrola": [
+      "machine"
+    ],
+    "boldore": [
+      "machine"
+    ],
+    "gigalith": [
+      "machine"
+    ],
+    "sewaddle": [
+      "machine"
+    ],
+    "swadloon": [
+      "machine"
+    ],
+    "leavanny": [
+      "machine"
+    ],
+    "cottonee": [
+      "machine"
+    ],
+    "whimsicott": [
+      "machine"
+    ],
+    "petilil": [
+      "machine"
+    ],
+    "lilligant": [
+      "machine"
+    ],
+    "maractus": [
+      "machine"
+    ],
+    "dwebble": [
+      "machine"
+    ],
+    "crustle": [
+      "machine"
+    ],
+    "deerling": [
+      "level-up",
+      "machine"
+    ],
+    "sawsbuck": [
+      "level-up",
+      "machine"
+    ],
+    "foongus": [
+      "machine"
+    ],
+    "amoonguss": [
+      "machine"
+    ],
+    "ferroseed": [
+      "machine"
+    ],
+    "ferrothorn": [
+      "machine"
+    ],
+    "virizion": [
+      "machine"
+    ],
+    "chespin": [
+      "machine"
+    ],
+    "quilladin": [
+      "machine"
+    ],
+    "chesnaught": [
+      "machine"
+    ],
+    "bunnelby": [
+      "machine"
+    ],
+    "diggersby": [
+      "machine"
+    ],
+    "flabebe": [
+      "machine"
+    ],
+    "floette": [
+      "machine"
+    ],
+    "florges": [
+      "machine"
+    ],
+    "skiddo": [
+      "machine"
+    ],
+    "gogoat": [
+      "machine"
+    ],
+    "binacle": [
+      "machine"
+    ],
+    "barbaracle": [
+      "machine"
+    ],
+    "amaura": [
+      "level-up",
+      "machine"
+    ],
+    "aurorus": [
+      "level-up",
+      "machine"
+    ],
+    "carbink": [
+      "machine"
+    ],
+    "phantump": [
+      "machine"
+    ],
+    "trevenant": [
+      "machine"
+    ],
+    "pumpkaboo-average": [
+      "machine"
+    ],
+    "gourgeist-average": [
+      "machine"
+    ],
+    "xerneas": [
+      "level-up",
+      "machine"
+    ],
+    "diancie": [
+      "machine"
+    ],
+    "rowlet": [
+      "machine"
+    ],
+    "dartrix": [
+      "machine"
+    ],
+    "decidueye": [
+      "machine"
+    ],
+    "ribombee": [
+      "machine"
+    ],
+    "fomantis": [
+      "machine"
+    ],
+    "lurantis": [
+      "machine"
+    ],
+    "morelull": [
+      "machine"
+    ],
+    "shiinotic": [
+      "machine"
+    ],
+    "bounsweet": [
+      "machine"
+    ],
+    "steenee": [
+      "machine"
+    ],
+    "tsareena": [
+      "machine"
+    ],
+    "comfey": [
+      "machine"
+    ],
+    "oranguru": [
+      "machine"
+    ],
+    "drampa": [
+      "machine"
+    ],
+    "tapu-koko": [
+      "machine"
+    ],
+    "tapu-lele": [
+      "machine"
+    ],
+    "tapu-bulu": [
+      "machine"
+    ],
+    "tapu-fini": [
+      "machine"
+    ],
+    "xurkitree": [
+      "machine"
+    ],
+    "shaymin-sky": [
+      "machine"
+    ],
+    "pumpkaboo-small": [
+      "machine"
+    ],
+    "pumpkaboo-large": [
+      "machine"
+    ],
+    "pumpkaboo-super": [
+      "machine"
+    ],
+    "gourgeist-small": [
+      "machine"
+    ],
+    "gourgeist-large": [
+      "machine"
+    ],
+    "gourgeist-super": [
+      "machine"
+    ],
+    "venusaur-mega": [
+      "machine"
+    ],
+    "floette-eternal": [
+      "machine"
+    ],
+    "sceptile-mega": [
+      "machine"
+    ],
+    "steelix-mega": [
+      "machine"
+    ],
+    "diancie-mega": [
+      "machine"
+    ],
+    "camerupt-mega": [
+      "machine"
+    ],
+    "geodude-alola": [
+      "machine"
+    ],
+    "graveler-alola": [
+      "machine"
+    ],
+    "golem-alola": [
+      "machine"
+    ],
+    "exeggutor-alola": [
+      "machine"
+    ],
+    "lurantis-totem": [
+      "machine"
+    ],
+    "ribombee-totem": [
+      "machine"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "menacing-moonraze-maelstrom",
+  "caption": "Menacing Moonraze Maelstrom",
+  "type": "ghost",
+  "damageCategory": "special",
+  "power": 200,
+  "accuracy": null,
+  "pp": 1,
+  "z": true,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Cannot be disrupted by abilities.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Other Pokémon's abilities cannot activate in response to this move.  In particular, it hits through []{ability:disguise}"
+  },
+  "flavorText": "After obtaining Z-Power, the user, Lunala,\nattacks the target with full force. This move can\nignore the effect of the target’s Ability.",
+  "flags": [],
+  "target": "selected-pokemon",
+  "pokemon": {}
+}

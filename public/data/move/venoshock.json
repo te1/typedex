@@ -1,0 +1,358 @@
+{
+  "name": "venoshock",
+  "caption": "Venoshock",
+  "type": "poison",
+  "damageCategory": "special",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Inflicts double damage if the target is Poisoned.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  If the target is [poisoned]{mechanic:poisoned}, this move has double power."
+  },
+  "flavorText": "The user drenches the target in a special poisonous\nliquid. This move’s power is doubled if the target\nis poisoned.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "bulbasaur": [
+      "machine"
+    ],
+    "ivysaur": [
+      "machine"
+    ],
+    "venusaur": [
+      "machine"
+    ],
+    "butterfree": [
+      "machine"
+    ],
+    "beedrill": [
+      "level-up",
+      "machine"
+    ],
+    "ekans": [
+      "machine"
+    ],
+    "arbok": [
+      "machine"
+    ],
+    "nidoran-f": [
+      "machine"
+    ],
+    "nidorina": [
+      "machine"
+    ],
+    "nidoqueen": [
+      "machine"
+    ],
+    "nidoran-m": [
+      "machine"
+    ],
+    "nidorino": [
+      "machine"
+    ],
+    "nidoking": [
+      "machine"
+    ],
+    "zubat": [
+      "level-up",
+      "machine"
+    ],
+    "golbat": [
+      "level-up",
+      "machine"
+    ],
+    "oddish": [
+      "machine"
+    ],
+    "gloom": [
+      "machine"
+    ],
+    "vileplume": [
+      "machine"
+    ],
+    "paras": [
+      "machine"
+    ],
+    "parasect": [
+      "machine"
+    ],
+    "venonat": [
+      "machine"
+    ],
+    "venomoth": [
+      "machine"
+    ],
+    "bellsprout": [
+      "machine"
+    ],
+    "weepinbell": [
+      "machine"
+    ],
+    "victreebel": [
+      "machine"
+    ],
+    "tentacool": [
+      "machine"
+    ],
+    "tentacruel": [
+      "machine"
+    ],
+    "grimer": [
+      "machine"
+    ],
+    "muk": [
+      "machine"
+    ],
+    "gastly": [
+      "machine"
+    ],
+    "haunter": [
+      "machine"
+    ],
+    "gengar": [
+      "machine"
+    ],
+    "koffing": [
+      "machine"
+    ],
+    "weezing": [
+      "machine"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "spinarak": [
+      "machine"
+    ],
+    "ariados": [
+      "machine"
+    ],
+    "crobat": [
+      "level-up",
+      "machine"
+    ],
+    "bellossom": [
+      "machine"
+    ],
+    "pineco": [
+      "machine"
+    ],
+    "forretress": [
+      "machine"
+    ],
+    "gligar": [
+      "machine"
+    ],
+    "qwilfish": [
+      "machine"
+    ],
+    "scizor": [
+      "machine"
+    ],
+    "shuckle": [
+      "machine"
+    ],
+    "heracross": [
+      "machine"
+    ],
+    "beautifly": [
+      "machine"
+    ],
+    "dustox": [
+      "level-up",
+      "machine"
+    ],
+    "shroomish": [
+      "machine"
+    ],
+    "breloom": [
+      "machine"
+    ],
+    "roselia": [
+      "machine"
+    ],
+    "gulpin": [
+      "machine"
+    ],
+    "swalot": [
+      "machine"
+    ],
+    "cacnea": [
+      "machine"
+    ],
+    "cacturne": [
+      "machine"
+    ],
+    "seviper": [
+      "level-up",
+      "machine"
+    ],
+    "budew": [
+      "machine"
+    ],
+    "roserade": [
+      "machine"
+    ],
+    "wormadam-plant": [
+      "machine"
+    ],
+    "mothim": [
+      "machine"
+    ],
+    "vespiquen": [
+      "machine"
+    ],
+    "stunky": [
+      "machine"
+    ],
+    "skuntank": [
+      "machine"
+    ],
+    "skorupi": [
+      "level-up",
+      "machine"
+    ],
+    "drapion": [
+      "level-up",
+      "machine"
+    ],
+    "croagunk": [
+      "level-up",
+      "machine"
+    ],
+    "toxicroak": [
+      "level-up",
+      "machine"
+    ],
+    "gliscor": [
+      "machine"
+    ],
+    "seismitoad": [
+      "machine"
+    ],
+    "venipede": [
+      "level-up",
+      "machine"
+    ],
+    "whirlipede": [
+      "level-up",
+      "machine"
+    ],
+    "scolipede": [
+      "level-up",
+      "machine"
+    ],
+    "trubbish": [
+      "machine"
+    ],
+    "garbodor": [
+      "machine"
+    ],
+    "foongus": [
+      "machine"
+    ],
+    "amoonguss": [
+      "machine"
+    ],
+    "shelmet": [
+      "machine"
+    ],
+    "accelgor": [
+      "machine"
+    ],
+    "skrelp": [
+      "machine"
+    ],
+    "dragalge": [
+      "machine"
+    ],
+    "clauncher": [
+      "machine"
+    ],
+    "clawitzer": [
+      "machine"
+    ],
+    "mareanie": [
+      "level-up",
+      "machine"
+    ],
+    "toxapex": [
+      "level-up",
+      "machine"
+    ],
+    "salandit": [
+      "level-up",
+      "machine"
+    ],
+    "salazzle": [
+      "level-up",
+      "machine"
+    ],
+    "golisopod": [
+      "machine"
+    ],
+    "turtonator": [
+      "machine"
+    ],
+    "bruxish": [
+      "machine"
+    ],
+    "nihilego": [
+      "level-up",
+      "machine"
+    ],
+    "poipole": [
+      "level-up",
+      "machine"
+    ],
+    "naganadel": [
+      "level-up",
+      "machine"
+    ],
+    "wormadam-sandy": [
+      "machine"
+    ],
+    "wormadam-trash": [
+      "machine"
+    ],
+    "venusaur-mega": [
+      "machine"
+    ],
+    "gengar-mega": [
+      "machine"
+    ],
+    "scizor-mega": [
+      "machine"
+    ],
+    "heracross-mega": [
+      "machine"
+    ],
+    "beedrill-mega": [
+      "level-up",
+      "machine"
+    ],
+    "raticate-alola": [
+      "machine"
+    ],
+    "raticate-totem-alola": [
+      "machine"
+    ],
+    "grimer-alola": [
+      "machine"
+    ],
+    "muk-alola": [
+      "machine"
+    ],
+    "salazzle-totem": [
+      "level-up",
+      "machine"
+    ]
+  }
+}

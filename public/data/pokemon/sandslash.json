@@ -1,0 +1,192 @@
+{
+  "name": "sandslash",
+  "caption": "Sandslash",
+  "types": [
+    "ground"
+  ],
+  "species": "sandslash",
+  "gen": "generation-i",
+  "color": "yellow",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 1,
+  "weight": 29.5,
+  "baseStats": {
+    "hp": 75,
+    "attack": 100,
+    "defense": 110,
+    "special-attack": 45,
+    "special-defense": 55,
+    "speed": 65
+  },
+  "evolutionChain": {
+    "species": "sandshrew",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "sandslash",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Its claws and horns often break off. The broken\nclaws and horns can be used to carve plows for\ntilling farm fields.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "sand-attack": [
+      "level-up"
+    ],
+    "poison-sting": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "dig": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "swift": [
+      "level-up"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "level-up",
+      "machine"
+    ],
+    "rollout": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "fury-cutter": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "sand-tomb": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "rapid-spin": [
+      "level-up"
+    ],
+    "crush-claw": [
+      "level-up"
+    ],
+    "gyro-ball": [
+      "level-up",
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "magnitude": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "sand-veil": 1,
+    "sand-rush": "hidden"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "name": "raichu-alola",
+  "caption": "Alolan Raichu",
+  "types": [
+    "electric",
+    "psychic"
+  ],
+  "species": "raichu",
+  "gen": "generation-i",
+  "color": "yellow",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": "Alola Form",
+  "height": 0.7,
+  "weight": 21,
+  "baseStats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 50,
+    "special-attack": 95,
+    "special-defense": 85,
+    "speed": 110
+  },
+  "evolutionChain": {
+    "species": "pichu",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "pikachu",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "raichu",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "As electricity builds up inside its body, it\nbecomes more aggressive. One theory is that\nthe electricity buildup is actually causing stress.",
+  "moves": {
+    "tail-whip": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunder-shock": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "level-up",
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "level-up",
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "volt-switch": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "speed-swap": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "surge-surfer": 1
+  }
+}

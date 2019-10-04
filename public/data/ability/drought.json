@@ -1,0 +1,17 @@
+{
+  "name": "drought",
+  "caption": "Drought",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Summons [strong sunlight]{mechanic:strong-sunlight} that lasts indefinitely upon entering battle.",
+    "full": "The [weather]{mechanic:weather} changes to [strong sunlight]{mechanic:strong-sunlight} when this Pokémon enters battle and does not end unless cancelled by another weather condition.\n\nIf multiple Pokémon with this ability, []{ability:drizzle}, []{ability:sand-stream}, or []{ability:snow-warning} are sent out at the same time, the abilities will activate in order of [Speed]{mechanic:speed}, respecting []{move:trick-room}.  Each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the Pokémon will stay."
+  },
+  "flavorText": "Turns the sunlight harsh when the Pokémon enters\na battle.",
+  "pokemon": {
+    "vulpix": "hidden",
+    "ninetales": "hidden",
+    "torkoal": 2,
+    "groudon": 1,
+    "charizard-mega-y": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "aroma-veil",
+  "caption": "Aroma Veil",
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Protects allies against moves that affect their mental state.",
+    "full": "Protects allies against moves that affect their mental state."
+  },
+  "flavorText": "Protects itself and its allies from attacks that limit\ntheir move choices.",
+  "pokemon": {
+    "spritzee": "hidden",
+    "aromatisse": "hidden"
+  }
+}

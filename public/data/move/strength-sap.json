@@ -1,0 +1,41 @@
+{
+  "name": "strength-sap",
+  "caption": "Strength Sap",
+  "type": "grass",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Heals the user by the target's current Attack stat and lowers the target's Attack by one stage.",
+    "full": "Lowers the target's Attack by one stage.  Heals the user by the target's current Attack, including modifiers, but not including this move's Attack-lowering effect.\n\nIf the target's Attack is already at -6, this move will fail.  In any other situation that would prevent a stat modification, the healing will still succeed."
+  },
+  "flavorText": "The user restores its HP by the same amount as the\ntarget’s Attack stat. It also lowers the target’s\nAttack stat.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror",
+    "heal"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "oddish": [
+      "egg"
+    ],
+    "bellsprout": [
+      "egg"
+    ],
+    "hoppip": [
+      "egg"
+    ],
+    "morelull": [
+      "level-up"
+    ],
+    "shiinotic": [
+      "level-up"
+    ]
+  }
+}

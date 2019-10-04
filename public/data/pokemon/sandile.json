@@ -1,0 +1,217 @@
+{
+  "name": "sandile",
+  "caption": "Sandile",
+  "types": [
+    "ground",
+    "dark"
+  ],
+  "species": "sandile",
+  "gen": "generation-v",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.7,
+  "weight": 15.2,
+  "baseStats": {
+    "hp": 50,
+    "attack": 72,
+    "defense": 35,
+    "special-attack": 35,
+    "special-defense": 35,
+    "speed": 65
+  },
+  "evolutionChain": {
+    "species": "sandile",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "krokorok",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "krookodile",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Alola, where it’s warm all year round, is a\ncomfortable environment for this Pokémon.\nSometimes you’ll even see it outside of deserts.",
+  "moves": {
+    "sand-attack": [
+      "level-up"
+    ],
+    "thrash": [
+      "level-up"
+    ],
+    "double-edge": [
+      "egg"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "dig": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "rage": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "level-up",
+      "machine"
+    ],
+    "swagger": [
+      "level-up",
+      "machine"
+    ],
+    "mean-look": [
+      "egg"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "beat-up": [
+      "egg"
+    ],
+    "uproar": [
+      "egg"
+    ],
+    "torment": [
+      "level-up",
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "sand-tomb": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "assurance": [
+      "level-up"
+    ],
+    "embargo": [
+      "level-up",
+      "machine"
+    ],
+    "thunder-fang": [
+      "egg"
+    ],
+    "fire-fang": [
+      "egg"
+    ],
+    "rock-climb": [
+      "egg"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "foul-play": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "me-first": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "power-trip": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "intimidate": 1,
+    "moxie": 2,
+    "anger-point": "hidden"
+  }
+}

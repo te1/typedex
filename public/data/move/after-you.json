@@ -1,0 +1,98 @@
+{
+  "name": "after-you",
+  "caption": "After You",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Makes the target act next this turn.",
+    "full": "The target will act next this turn, regardless of [Speed]{mechanic:speed} or move priority.\nIf the target has already acted this turn, this move will [fail]{mechanic:fail}."
+  },
+  "flavorText": "The user helps the target and makes it use its move\nright after the user.",
+  "flags": [
+    "authentic"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "clefairy": [
+      "level-up"
+    ],
+    "oddish": [
+      "egg"
+    ],
+    "snorlax": [
+      "egg"
+    ],
+    "togepi": [
+      "level-up"
+    ],
+    "togetic": [
+      "level-up"
+    ],
+    "mareep": [
+      "egg"
+    ],
+    "wooper": [
+      "egg"
+    ],
+    "slakoth": [
+      "egg"
+    ],
+    "buneary": [
+      "level-up"
+    ],
+    "lopunny": [
+      "level-up"
+    ],
+    "munchlax": [
+      "egg"
+    ],
+    "togekiss": [
+      "level-up"
+    ],
+    "patrat": [
+      "level-up"
+    ],
+    "watchog": [
+      "level-up"
+    ],
+    "lillipup": [
+      "egg"
+    ],
+    "audino": [
+      "level-up"
+    ],
+    "tympole": [
+      "egg"
+    ],
+    "petilil": [
+      "level-up"
+    ],
+    "maractus": [
+      "level-up"
+    ],
+    "minccino": [
+      "level-up"
+    ],
+    "swirlix": [
+      "egg"
+    ],
+    "comfey": [
+      "egg"
+    ],
+    "oranguru": [
+      "level-up"
+    ],
+    "audino-mega": [
+      "level-up"
+    ],
+    "lopunny-mega": [
+      "level-up"
+    ]
+  }
+}

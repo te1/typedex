@@ -1,0 +1,187 @@
+{
+  "name": "tyrunt",
+  "caption": "Tyrunt",
+  "types": [
+    "rock",
+    "dragon"
+  ],
+  "species": "tyrunt",
+  "gen": "generation-vi",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.8,
+  "weight": 26,
+  "baseStats": {
+    "hp": 58,
+    "attack": 89,
+    "defense": 77,
+    "special-attack": 45,
+    "special-defense": 45,
+    "speed": 48
+  },
+  "evolutionChain": {
+    "species": "tyrunt",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "tyrantrum",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Its large jaw has incredible destructive power.\nSome theories suggest that its restored form is\ndifferent from its form of long ago.",
+  "moves": {
+    "stomp": [
+      "level-up"
+    ],
+    "horn-drill": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "thrash": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "roar": [
+      "level-up",
+      "machine"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "charm": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "poison-fang": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "dragon-claw": [
+      "level-up",
+      "machine"
+    ],
+    "dragon-dance": [
+      "egg"
+    ],
+    "rock-polish": [
+      "egg",
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "thunder-fang": [
+      "egg"
+    ],
+    "ice-fang": [
+      "egg"
+    ],
+    "fire-fang": [
+      "egg"
+    ],
+    "draco-meteor": [
+      "tutor"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "stealth-rock": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "dragon-tail": [
+      "level-up",
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "strong-jaw": 1,
+    "sturdy": "hidden"
+  }
+}

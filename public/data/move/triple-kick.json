@@ -1,0 +1,31 @@
+{
+  "name": "triple-kick",
+  "caption": "Triple Kick",
+  "type": "fighting",
+  "damageCategory": "physical",
+  "power": 10,
+  "accuracy": 90,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Hits three times, increasing power by 100% with each successful hit.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Hits three times in the same turn.  The second hit has double power, and the third hit has triple power.  Each hit has a separate [accuracy]{mechanic:accuracy} check, and this move stops if a hit misses.\n\n[]{ability:skill-link} does not apply."
+  },
+  "flavorText": "A consecutive three-kick attack that becomes more\npowerful with each successful hit.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "hitmontop": [
+      "level-up"
+    ],
+    "pheromosa": [
+      "level-up"
+    ]
+  }
+}

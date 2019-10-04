@@ -1,0 +1,43 @@
+{
+  "name": "power-trip",
+  "caption": "Power Trip",
+  "type": "dark",
+  "damageCategory": "physical",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Power is higher the more the user's stats have been raised, to a maximum of 31×.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Power is increased by 100% its original value for every [stage]{mechanic:stage} any of the user's stats have been raised.  [Accuracy]{mechanic:accuracy}, [evasion]{mechanic:evasion}, and lowered stats do not affect this move's power.  For a Pokémon with all five stats modified to +6, this move's power is 31×."
+  },
+  "flavorText": "The user boasts its strength and attacks the target.\nThe more the user’s stats are raised, the greater the\nmove’s power.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "mankey": [
+      "egg"
+    ],
+    "piplup": [
+      "egg"
+    ],
+    "sandile": [
+      "egg"
+    ],
+    "krookodile": [
+      "level-up"
+    ],
+    "pancham": [
+      "egg"
+    ],
+    "litten": [
+      "egg"
+    ]
+  }
+}

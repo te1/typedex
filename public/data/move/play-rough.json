@@ -1,0 +1,149 @@
+{
+  "name": "play-rough",
+  "caption": "Play Rough",
+  "type": "fairy",
+  "damageCategory": "physical",
+  "power": 90,
+  "accuracy": 90,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Has a 10% chance to lower the target's Attack by one stage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 10% chance to lower the target's [Attack]{mechanic:attack} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user plays rough with the target and attacks it.\nThis may also lower the target’s Attack stat.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "wigglytuff": [
+      "level-up"
+    ],
+    "persian": [
+      "level-up"
+    ],
+    "marill": [
+      "level-up"
+    ],
+    "azumarill": [
+      "level-up"
+    ],
+    "snubbull": [
+      "level-up"
+    ],
+    "granbull": [
+      "level-up"
+    ],
+    "teddiursa": [
+      "egg"
+    ],
+    "phanpy": [
+      "egg"
+    ],
+    "poochyena": [
+      "level-up",
+      "egg"
+    ],
+    "mightyena": [
+      "level-up"
+    ],
+    "linoone": [
+      "level-up"
+    ],
+    "slakoth": [
+      "level-up"
+    ],
+    "skitty": [
+      "level-up"
+    ],
+    "mawile": [
+      "level-up"
+    ],
+    "volbeat": [
+      "level-up"
+    ],
+    "illumise": [
+      "level-up"
+    ],
+    "swablu": [
+      "egg"
+    ],
+    "absol": [
+      "egg"
+    ],
+    "glameow": [
+      "level-up"
+    ],
+    "stunky": [
+      "egg"
+    ],
+    "lillipup": [
+      "level-up"
+    ],
+    "herdier": [
+      "level-up"
+    ],
+    "stoutland": [
+      "level-up"
+    ],
+    "purrloin": [
+      "level-up"
+    ],
+    "liepard": [
+      "level-up"
+    ],
+    "cubchoo": [
+      "egg"
+    ],
+    "swirlix": [
+      "level-up"
+    ],
+    "slurpuff": [
+      "level-up"
+    ],
+    "skrelp": [
+      "egg"
+    ],
+    "dedenne": [
+      "level-up"
+    ],
+    "klefki": [
+      "level-up"
+    ],
+    "bounsweet": [
+      "egg"
+    ],
+    "comfey": [
+      "level-up"
+    ],
+    "komala": [
+      "egg"
+    ],
+    "mimikyu-disguised": [
+      "level-up"
+    ],
+    "drampa": [
+      "egg"
+    ],
+    "mawile-mega": [
+      "level-up"
+    ],
+    "persian-alola": [
+      "level-up"
+    ],
+    "mimikyu-busted": [
+      "level-up"
+    ],
+    "mimikyu-totem-disguised": [
+      "level-up"
+    ],
+    "mimikyu-totem-busted": [
+      "level-up"
+    ]
+  }
+}

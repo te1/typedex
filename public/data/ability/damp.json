@@ -1,0 +1,30 @@
+{
+  "name": "damp",
+  "caption": "Damp",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Prevents []{move:self-destruct}, []{move:explosion}, and []{ability:aftermath} from working while the Pokémon is in battle.",
+    "full": "While this Pokémon is in battle, []{move:self-destruct} and []{move:explosion} will fail and []{ability:aftermath} will not take effect."
+  },
+  "flavorText": "Prevents the use of explosive moves such as\nSelf-Destruct by dampening its surroundings.",
+  "pokemon": {
+    "paras": "hidden",
+    "parasect": "hidden",
+    "psyduck": 1,
+    "golduck": 1,
+    "poliwag": 2,
+    "poliwhirl": 2,
+    "poliwrath": 2,
+    "horsea": "hidden",
+    "seadra": "hidden",
+    "politoed": 2,
+    "wooper": 1,
+    "quagsire": 1,
+    "kingdra": "hidden",
+    "mudkip": "hidden",
+    "marshtomp": "hidden",
+    "swampert": "hidden",
+    "frillish": "hidden",
+    "jellicent": "hidden"
+  }
+}

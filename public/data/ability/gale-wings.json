@@ -1,0 +1,15 @@
+{
+  "name": "gale-wings",
+  "caption": "Gale Wings",
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Raises []{type:flying} moves' priority by one stage.",
+    "full": "Raises []{type:flying} moves' priority by one stage."
+  },
+  "flavorText": "Gives priority to Flying-type moves when the \nPokémon’s HP is full.",
+  "pokemon": {
+    "fletchling": "hidden",
+    "fletchinder": "hidden",
+    "talonflame": "hidden"
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "name": "thrash",
+  "caption": "Thrash",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Hits every turn for 2-3 turns, then confuses the user.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User is forced to attack with this move for 2–3 turns,selected at random.  After the last hit, the user becomes [confused]{mechanic:confused}.\n\n[]{move:safeguard} does not protect against the [confusion]{mechanic:confusion} from this move."
+  },
+  "flavorText": "The user rampages and attacks for two to three\nturns. The user then becomes confused.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "random-opponent",
+  "pokemon": {
+    "nidoking": [
+      "level-up"
+    ],
+    "mankey": [
+      "level-up"
+    ],
+    "primeape": [
+      "level-up"
+    ],
+    "growlithe": [
+      "egg"
+    ],
+    "ponyta": [
+      "egg"
+    ],
+    "doduo": [
+      "level-up"
+    ],
+    "dodrio": [
+      "level-up"
+    ],
+    "cubone": [
+      "level-up"
+    ],
+    "marowak": [
+      "level-up"
+    ],
+    "lickitung": [
+      "egg"
+    ],
+    "pinsir": [
+      "level-up"
+    ],
+    "tauros": [
+      "level-up"
+    ],
+    "gyarados": [
+      "level-up"
+    ],
+    "cyndaquil": [
+      "egg"
+    ],
+    "totodile": [
+      "level-up",
+      "egg"
+    ],
+    "croconaw": [
+      "level-up"
+    ],
+    "feraligatr": [
+      "level-up"
+    ],
+    "teddiursa": [
+      "level-up"
+    ],
+    "ursaring": [
+      "level-up"
+    ],
+    "piloswine": [
+      "level-up"
+    ],
+    "stantler": [
+      "egg"
+    ],
+    "larvitar": [
+      "level-up"
+    ],
+    "pupitar": [
+      "level-up"
+    ],
+    "tyranitar": [
+      "level-up"
+    ],
+    "carvanha": [
+      "egg"
+    ],
+    "wailmer": [
+      "egg"
+    ],
+    "spinda": [
+      "level-up"
+    ],
+    "barboach": [
+      "egg"
+    ],
+    "whiscash": [
+      "level-up"
+    ],
+    "bagon": [
+      "egg"
+    ],
+    "turtwig": [
+      "egg"
+    ],
+    "cranidos": [
+      "egg"
+    ],
+    "gible": [
+      "egg"
+    ],
+    "mamoswine": [
+      "level-up"
+    ],
+    "tepig": [
+      "egg"
+    ],
+    "blitzle": [
+      "level-up"
+    ],
+    "zebstrika": [
+      "level-up"
+    ],
+    "basculin-red-striped": [
+      "level-up"
+    ],
+    "sandile": [
+      "level-up"
+    ],
+    "krokorok": [
+      "level-up"
+    ],
+    "darumaka": [
+      "level-up"
+    ],
+    "darmanitan-standard": [
+      "level-up"
+    ],
+    "archen": [
+      "level-up"
+    ],
+    "archeops": [
+      "level-up"
+    ],
+    "eelektrik": [
+      "level-up"
+    ],
+    "eelektross": [
+      "level-up"
+    ],
+    "cubchoo": [
+      "level-up"
+    ],
+    "beartic": [
+      "level-up"
+    ],
+    "bouffalant": [
+      "level-up"
+    ],
+    "rufflet": [
+      "level-up"
+    ],
+    "braviary": [
+      "level-up"
+    ],
+    "larvesta": [
+      "level-up"
+    ],
+    "volcarona": [
+      "level-up"
+    ],
+    "tornadus-incarnate": [
+      "level-up"
+    ],
+    "thundurus-incarnate": [
+      "level-up"
+    ],
+    "tyrunt": [
+      "level-up"
+    ],
+    "tyrantrum": [
+      "level-up"
+    ],
+    "litten": [
+      "level-up"
+    ],
+    "torracat": [
+      "level-up"
+    ],
+    "incineroar": [
+      "level-up"
+    ],
+    "yungoos": [
+      "level-up"
+    ],
+    "gumshoos": [
+      "level-up"
+    ],
+    "rockruff": [
+      "egg"
+    ],
+    "stufful": [
+      "level-up"
+    ],
+    "bewear": [
+      "level-up"
+    ],
+    "passimian": [
+      "level-up"
+    ],
+    "komala": [
+      "level-up"
+    ],
+    "guzzlord": [
+      "level-up"
+    ],
+    "basculin-blue-striped": [
+      "level-up"
+    ],
+    "darmanitan-zen": [
+      "level-up"
+    ],
+    "tornadus-therian": [
+      "level-up"
+    ],
+    "thundurus-therian": [
+      "level-up"
+    ],
+    "pinsir-mega": [
+      "level-up"
+    ],
+    "gyarados-mega": [
+      "level-up"
+    ],
+    "tyranitar-mega": [
+      "level-up"
+    ],
+    "marowak-alola": [
+      "level-up"
+    ],
+    "gumshoos-totem": [
+      "level-up"
+    ],
+    "marowak-totem": [
+      "level-up"
+    ],
+    "lycanroc-dusk": [
+      "level-up"
+    ]
+  }
+}

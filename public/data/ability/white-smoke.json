@@ -1,0 +1,14 @@
+{
+  "name": "white-smoke",
+  "caption": "White Smoke",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Prevents stats from being [lowered]{mechanic:stat-modifier} by other Pokémon.",
+    "full": "This Pokémon cannot have its stats [lowered]{mechanic:stat-modifier} by other Pokémon.\n\nThis ability does not prevent any stat losses other than [stat modifiers]{mechanic:stat-modifiers}, such as the [Speed]{mechanic:speed} cut from [paralysis]{mechanic:paralysis}; nor self-inflicted stat drops, such as the [Special Attack]{mechanic:special-attack} drop from []{move:overheat}; nor opponent-triggered stat boosts, such as the [Attack]{mechanic:attack} boost from []{move:swagger}.  This Pokémon can still be passed negative stat modifiers through []{move:guard-swap}, []{move:heart-swap}, or []{move:power-swap}.\n\nThis ability functions identically to []{ability:clear-body} in battle.\n\nOverworld: If the lead Pokémon has this ability, the wild encounter rate is halved."
+  },
+  "flavorText": "The Pokémon is protected by its white smoke, which\nprevents other Pokémon from lowering its stats.",
+  "pokemon": {
+    "torkoal": 1,
+    "heatmor": "hidden"
+  }
+}

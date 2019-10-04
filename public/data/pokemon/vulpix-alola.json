@@ -1,0 +1,169 @@
+{
+  "name": "vulpix-alola",
+  "caption": "Alolan Vulpix",
+  "types": [
+    "ice"
+  ],
+  "species": "vulpix",
+  "gen": "generation-i",
+  "color": "brown",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": "Alola Form",
+  "height": 0.6,
+  "weight": 9.9,
+  "baseStats": {
+    "hp": 38,
+    "attack": 41,
+    "defense": 40,
+    "special-attack": 50,
+    "special-defense": 65,
+    "speed": 65
+  },
+  "evolutionChain": {
+    "species": "vulpix",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "ninetales",
+        "triggers": [
+          "use-item"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Its beautiful tails have made it very popular.\nHowever, if it’s not brushed diligently, it will\nbe a mass of tangles before you know it.",
+  "moves": {
+    "tail-whip": [
+      "level-up"
+    ],
+    "roar": [
+      "level-up",
+      "machine"
+    ],
+    "mist": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "level-up",
+      "machine"
+    ],
+    "blizzard": [
+      "level-up",
+      "machine"
+    ],
+    "aurora-beam": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "powder-snow": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "icy-wind": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "level-up",
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "imprison": [
+      "level-up"
+    ],
+    "grudge": [
+      "level-up"
+    ],
+    "extrasensory": [
+      "level-up"
+    ],
+    "sheer-cold": [
+      "level-up"
+    ],
+    "payback": [
+      "level-up",
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "ice-shard": [
+      "level-up"
+    ],
+    "captivate": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "hex": [
+      "level-up"
+    ],
+    "frost-breath": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "baby-doll-eyes": [
+      "level-up"
+    ],
+    "aurora-veil": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "snow-cloak": 1,
+    "snow-warning": "hidden"
+  }
+}

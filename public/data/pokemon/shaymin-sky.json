@@ -1,0 +1,140 @@
+{
+  "name": "shaymin-sky",
+  "caption": "Sky Shaymin",
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "species": "shaymin",
+  "gen": "generation-iv",
+  "color": "green",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": "Sky Forme",
+  "height": 0.4,
+  "weight": 5.2,
+  "baseStats": {
+    "hp": 100,
+    "attack": 103,
+    "defense": 75,
+    "special-attack": 120,
+    "special-defense": 75,
+    "speed": 127
+  },
+  "flavorText": "It can dissolve toxins in the air to instantly\ntransform ruined land into a lush field of flowers.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "leech-seed": [
+      "level-up"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sweet-kiss": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "magical-leaf": [
+      "level-up"
+    ],
+    "natural-gift": [
+      "level-up"
+    ],
+    "worry-seed": [
+      "level-up"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "level-up",
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "leaf-storm": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "seed-flare": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "serene-grace": 1
+  }
+}

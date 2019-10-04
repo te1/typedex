@@ -1,0 +1,64 @@
+{
+  "name": "vital-throw",
+  "caption": "Vital Throw",
+  "type": "fighting",
+  "damageCategory": "physical",
+  "power": 70,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": -1,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Never misses.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers."
+  },
+  "flavorText": "The user attacks last. In return, this throw move\nnever misses.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "machop": [
+      "level-up"
+    ],
+    "machoke": [
+      "level-up"
+    ],
+    "machamp": [
+      "level-up"
+    ],
+    "pinsir": [
+      "level-up"
+    ],
+    "makuhita": [
+      "level-up"
+    ],
+    "hariyama": [
+      "level-up"
+    ],
+    "throh": [
+      "level-up"
+    ],
+    "mienfoo": [
+      "egg"
+    ],
+    "pancham": [
+      "level-up"
+    ],
+    "pangoro": [
+      "level-up"
+    ],
+    "passimian": [
+      "egg"
+    ],
+    "buzzwole": [
+      "level-up"
+    ],
+    "pinsir-mega": [
+      "level-up"
+    ]
+  }
+}

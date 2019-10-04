@@ -1,0 +1,178 @@
+{
+  "name": "dodrio",
+  "caption": "Dodrio",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "species": "dodrio",
+  "gen": "generation-i",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.8,
+  "weight": 85.2,
+  "baseStats": {
+    "hp": 60,
+    "attack": 110,
+    "defense": 70,
+    "special-attack": 60,
+    "special-defense": 60,
+    "speed": 110
+  },
+  "evolutionChain": {
+    "species": "doduo",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "dodrio",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Watch out if Dodrio’s three heads are looking in three separate\ndirections. It’s a sure sign that it is on its guard. Don’t go near\nthis Pokémon if it’s being wary—it may decide to peck you.",
+  "moves": {
+    "fly": [
+      "machine"
+    ],
+    "fury-attack": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "drill-peck": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "rage": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "tri-attack": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "uproar": [
+      "level-up"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "endeavor": [
+      "level-up"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "pluck": [
+      "level-up"
+    ],
+    "acupressure": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "thrash": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "jump-kick": [
+      "level-up"
+    ],
+    "double-hit": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "run-away": 1,
+    "early-bird": 2,
+    "tangled-feet": "hidden"
+  }
+}

@@ -1,0 +1,445 @@
+{
+  "name": "gyro-ball",
+  "caption": "Gyro Ball",
+  "type": "steel",
+  "damageCategory": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Power raises when the user has lower Speed, up to a maximum of 150.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Power increases with the target's current [Speed]{mechanic:speed} compared to the user, given by `1 + 25 * target Speed / user Speed`, capped at 150."
+  },
+  "flavorText": "The user tackles the target with a high-speed spin.\nThe slower the user compared to the target, the\ngreater the move’s power.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror",
+    "ballistics"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "squirtle": [
+      "machine"
+    ],
+    "wartortle": [
+      "machine"
+    ],
+    "blastoise": [
+      "machine"
+    ],
+    "sandshrew": [
+      "level-up",
+      "machine"
+    ],
+    "sandslash": [
+      "level-up",
+      "machine"
+    ],
+    "jigglypuff": [
+      "level-up",
+      "machine"
+    ],
+    "wigglytuff": [
+      "machine"
+    ],
+    "geodude": [
+      "machine"
+    ],
+    "graveler": [
+      "machine"
+    ],
+    "golem": [
+      "machine"
+    ],
+    "magnemite": [
+      "level-up",
+      "machine"
+    ],
+    "magneton": [
+      "level-up",
+      "machine"
+    ],
+    "onix": [
+      "level-up",
+      "machine"
+    ],
+    "voltorb": [
+      "level-up",
+      "machine"
+    ],
+    "electrode": [
+      "level-up",
+      "machine"
+    ],
+    "koffing": [
+      "level-up",
+      "machine"
+    ],
+    "weezing": [
+      "level-up",
+      "machine"
+    ],
+    "staryu": [
+      "level-up",
+      "machine"
+    ],
+    "starmie": [
+      "machine"
+    ],
+    "omanyte": [
+      "machine"
+    ],
+    "omastar": [
+      "machine"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "typhlosion": [
+      "level-up",
+      "machine"
+    ],
+    "pineco": [
+      "level-up",
+      "machine"
+    ],
+    "forretress": [
+      "level-up",
+      "machine"
+    ],
+    "dunsparce": [
+      "machine"
+    ],
+    "steelix": [
+      "level-up",
+      "machine"
+    ],
+    "qwilfish": [
+      "machine"
+    ],
+    "shuckle": [
+      "machine"
+    ],
+    "magcargo": [
+      "machine"
+    ],
+    "donphan": [
+      "machine"
+    ],
+    "hitmontop": [
+      "level-up",
+      "machine"
+    ],
+    "miltank": [
+      "level-up",
+      "machine"
+    ],
+    "torkoal": [
+      "machine"
+    ],
+    "lunatone": [
+      "machine"
+    ],
+    "solrock": [
+      "machine"
+    ],
+    "baltoy": [
+      "machine"
+    ],
+    "claydol": [
+      "machine"
+    ],
+    "glalie": [
+      "machine"
+    ],
+    "metang": [
+      "machine"
+    ],
+    "metagross": [
+      "machine"
+    ],
+    "rayquaza": [
+      "machine"
+    ],
+    "drifloon": [
+      "machine"
+    ],
+    "drifblim": [
+      "machine"
+    ],
+    "bronzor": [
+      "level-up",
+      "machine"
+    ],
+    "bronzong": [
+      "level-up",
+      "machine"
+    ],
+    "magnezone": [
+      "level-up",
+      "machine"
+    ],
+    "lickilicky": [
+      "level-up",
+      "machine"
+    ],
+    "tepig": [
+      "machine"
+    ],
+    "pignite": [
+      "machine"
+    ],
+    "emboar": [
+      "machine"
+    ],
+    "munna": [
+      "machine"
+    ],
+    "musharna": [
+      "machine"
+    ],
+    "woobat": [
+      "machine"
+    ],
+    "swoobat": [
+      "machine"
+    ],
+    "venipede": [
+      "machine"
+    ],
+    "whirlipede": [
+      "machine"
+    ],
+    "scolipede": [
+      "machine"
+    ],
+    "darumaka": [
+      "machine"
+    ],
+    "darmanitan-standard": [
+      "machine"
+    ],
+    "solosis": [
+      "machine"
+    ],
+    "duosion": [
+      "machine"
+    ],
+    "reuniclus": [
+      "machine"
+    ],
+    "ferroseed": [
+      "level-up",
+      "machine"
+    ],
+    "ferrothorn": [
+      "level-up",
+      "machine"
+    ],
+    "golett": [
+      "machine"
+    ],
+    "golurk": [
+      "machine"
+    ],
+    "chespin": [
+      "machine"
+    ],
+    "quilladin": [
+      "machine"
+    ],
+    "chesnaught": [
+      "machine"
+    ],
+    "honedge": [
+      "machine"
+    ],
+    "doublade": [
+      "machine"
+    ],
+    "aegislash-shield": [
+      "machine"
+    ],
+    "spritzee": [
+      "machine"
+    ],
+    "aromatisse": [
+      "machine"
+    ],
+    "carbink": [
+      "machine"
+    ],
+    "pumpkaboo-average": [
+      "machine"
+    ],
+    "gourgeist-average": [
+      "machine"
+    ],
+    "bergmite": [
+      "machine"
+    ],
+    "avalugg": [
+      "machine"
+    ],
+    "diancie": [
+      "machine"
+    ],
+    "volcanion": [
+      "machine"
+    ],
+    "passimian": [
+      "machine"
+    ],
+    "minior-red-meteor": [
+      "machine"
+    ],
+    "togedemaru": [
+      "machine"
+    ],
+    "dhelmise": [
+      "level-up",
+      "machine"
+    ],
+    "solgaleo": [
+      "machine"
+    ],
+    "buzzwole": [
+      "machine"
+    ],
+    "celesteela": [
+      "machine"
+    ],
+    "guzzlord": [
+      "machine"
+    ],
+    "necrozma": [
+      "machine"
+    ],
+    "magearna": [
+      "machine"
+    ],
+    "stakataka": [
+      "machine"
+    ],
+    "wormadam-trash": [
+      "machine"
+    ],
+    "darmanitan-zen": [
+      "machine"
+    ],
+    "aegislash-blade": [
+      "machine"
+    ],
+    "pumpkaboo-small": [
+      "machine"
+    ],
+    "pumpkaboo-large": [
+      "machine"
+    ],
+    "pumpkaboo-super": [
+      "machine"
+    ],
+    "gourgeist-small": [
+      "machine"
+    ],
+    "gourgeist-large": [
+      "machine"
+    ],
+    "gourgeist-super": [
+      "machine"
+    ],
+    "blastoise-mega": [
+      "machine"
+    ],
+    "steelix-mega": [
+      "level-up",
+      "machine"
+    ],
+    "glalie-mega": [
+      "machine"
+    ],
+    "diancie-mega": [
+      "machine"
+    ],
+    "metagross-mega": [
+      "machine"
+    ],
+    "rayquaza-mega": [
+      "machine"
+    ],
+    "sandshrew-alola": [
+      "level-up",
+      "machine"
+    ],
+    "sandslash-alola": [
+      "machine"
+    ],
+    "geodude-alola": [
+      "machine"
+    ],
+    "graveler-alola": [
+      "machine"
+    ],
+    "golem-alola": [
+      "machine"
+    ],
+    "minior-orange-meteor": [
+      "machine"
+    ],
+    "minior-yellow-meteor": [
+      "machine"
+    ],
+    "minior-green-meteor": [
+      "machine"
+    ],
+    "minior-blue-meteor": [
+      "machine"
+    ],
+    "minior-indigo-meteor": [
+      "machine"
+    ],
+    "minior-violet-meteor": [
+      "machine"
+    ],
+    "minior-red": [
+      "machine"
+    ],
+    "minior-orange": [
+      "machine"
+    ],
+    "minior-yellow": [
+      "machine"
+    ],
+    "minior-green": [
+      "machine"
+    ],
+    "minior-blue": [
+      "machine"
+    ],
+    "minior-indigo": [
+      "machine"
+    ],
+    "minior-violet": [
+      "machine"
+    ],
+    "magearna-original": [
+      "machine"
+    ],
+    "togedemaru-totem": [
+      "machine"
+    ],
+    "necrozma-dusk": [
+      "machine"
+    ],
+    "necrozma-dawn": [
+      "machine"
+    ],
+    "necrozma-ultra": [
+      "machine"
+    ]
+  }
+}

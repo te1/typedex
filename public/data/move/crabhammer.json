@@ -1,0 +1,47 @@
+{
+  "name": "crabhammer",
+  "caption": "Crabhammer",
+  "type": "water",
+  "damageCategory": "physical",
+  "power": 100,
+  "accuracy": 90,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has an increased chance for a critical hit.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User's [critical hit]{mechanic:critical-hit} rate is one level higher when using this move."
+  },
+  "flavorText": "The target is hammered with a large pincer. Critical\nhits land more easily.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "krabby": [
+      "level-up"
+    ],
+    "kingler": [
+      "level-up"
+    ],
+    "corphish": [
+      "level-up"
+    ],
+    "crawdaunt": [
+      "level-up"
+    ],
+    "clauncher": [
+      "level-up",
+      "egg"
+    ],
+    "clawitzer": [
+      "level-up"
+    ],
+    "crabrawler": [
+      "level-up"
+    ]
+  }
+}

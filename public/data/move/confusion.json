@@ -1,0 +1,279 @@
+{
+  "name": "confusion",
+  "caption": "Confusion",
+  "type": "psychic",
+  "damageCategory": "special",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 25,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a 10% chance to confuse the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 10% chance to [confuse]{mechanic:confuse} the target."
+  },
+  "flavorText": "The target is hit by a weak telekinetic force.\nThis may also confuse the target.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "butterfree": [
+      "level-up"
+    ],
+    "nidoran-m": [
+      "egg"
+    ],
+    "venonat": [
+      "level-up"
+    ],
+    "venomoth": [
+      "level-up"
+    ],
+    "psyduck": [
+      "level-up"
+    ],
+    "golduck": [
+      "level-up"
+    ],
+    "kadabra": [
+      "level-up"
+    ],
+    "alakazam": [
+      "level-up"
+    ],
+    "slowpoke": [
+      "level-up"
+    ],
+    "slowbro": [
+      "level-up"
+    ],
+    "drowzee": [
+      "level-up"
+    ],
+    "hypno": [
+      "level-up"
+    ],
+    "exeggcute": [
+      "level-up"
+    ],
+    "exeggutor": [
+      "level-up"
+    ],
+    "tangela": [
+      "egg"
+    ],
+    "mr-mime": [
+      "level-up"
+    ],
+    "mewtwo": [
+      "level-up"
+    ],
+    "hoothoot": [
+      "level-up"
+    ],
+    "noctowl": [
+      "level-up"
+    ],
+    "hoppip": [
+      "egg"
+    ],
+    "espeon": [
+      "level-up"
+    ],
+    "slowking": [
+      "level-up"
+    ],
+    "girafarig": [
+      "level-up"
+    ],
+    "smoochum": [
+      "level-up"
+    ],
+    "celebi": [
+      "level-up"
+    ],
+    "dustox": [
+      "level-up"
+    ],
+    "ralts": [
+      "level-up"
+    ],
+    "kirlia": [
+      "level-up"
+    ],
+    "gardevoir": [
+      "level-up"
+    ],
+    "meditite": [
+      "level-up"
+    ],
+    "medicham": [
+      "level-up"
+    ],
+    "lunatone": [
+      "level-up"
+    ],
+    "solrock": [
+      "level-up"
+    ],
+    "baltoy": [
+      "level-up"
+    ],
+    "claydol": [
+      "level-up"
+    ],
+    "chimecho": [
+      "level-up"
+    ],
+    "gorebyss": [
+      "level-up"
+    ],
+    "metang": [
+      "level-up"
+    ],
+    "metagross": [
+      "level-up"
+    ],
+    "jirachi": [
+      "level-up"
+    ],
+    "wormadam-plant": [
+      "level-up"
+    ],
+    "mothim": [
+      "level-up"
+    ],
+    "chingling": [
+      "level-up"
+    ],
+    "bronzor": [
+      "level-up"
+    ],
+    "bronzong": [
+      "level-up"
+    ],
+    "mime-jr": [
+      "level-up"
+    ],
+    "gallade": [
+      "level-up"
+    ],
+    "uxie": [
+      "level-up"
+    ],
+    "mesprit": [
+      "level-up"
+    ],
+    "azelf": [
+      "level-up"
+    ],
+    "cresselia": [
+      "level-up"
+    ],
+    "victini": [
+      "level-up"
+    ],
+    "woobat": [
+      "level-up"
+    ],
+    "swoobat": [
+      "level-up"
+    ],
+    "gothita": [
+      "level-up"
+    ],
+    "gothorita": [
+      "level-up"
+    ],
+    "gothitelle": [
+      "level-up"
+    ],
+    "elgyem": [
+      "level-up"
+    ],
+    "beheeyem": [
+      "level-up"
+    ],
+    "meloetta-aria": [
+      "level-up"
+    ],
+    "espurr": [
+      "level-up"
+    ],
+    "meowstic-male": [
+      "level-up"
+    ],
+    "hoopa": [
+      "level-up"
+    ],
+    "oranguru": [
+      "level-up"
+    ],
+    "bruxish": [
+      "level-up"
+    ],
+    "tapu-lele": [
+      "level-up"
+    ],
+    "lunala": [
+      "level-up"
+    ],
+    "necrozma": [
+      "level-up"
+    ],
+    "wormadam-sandy": [
+      "level-up"
+    ],
+    "wormadam-trash": [
+      "level-up"
+    ],
+    "meloetta-pirouette": [
+      "level-up"
+    ],
+    "meowstic-female": [
+      "level-up"
+    ],
+    "alakazam-mega": [
+      "level-up"
+    ],
+    "mewtwo-mega-x": [
+      "level-up"
+    ],
+    "mewtwo-mega-y": [
+      "level-up"
+    ],
+    "gardevoir-mega": [
+      "level-up"
+    ],
+    "medicham-mega": [
+      "level-up"
+    ],
+    "gallade-mega": [
+      "level-up"
+    ],
+    "slowbro-mega": [
+      "level-up"
+    ],
+    "metagross-mega": [
+      "level-up"
+    ],
+    "hoopa-unbound": [
+      "level-up"
+    ],
+    "exeggutor-alola": [
+      "level-up"
+    ],
+    "necrozma-dusk": [
+      "level-up"
+    ],
+    "necrozma-dawn": [
+      "level-up"
+    ],
+    "necrozma-ultra": [
+      "level-up"
+    ]
+  }
+}

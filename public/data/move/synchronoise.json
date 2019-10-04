@@ -1,0 +1,90 @@
+{
+  "name": "synchronoise",
+  "caption": "Synchronoise",
+  "type": "psychic",
+  "damageCategory": "special",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Hits any Pokémon that shares a type with the user.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Only Pokémon that share a type with the user will take damage from this move."
+  },
+  "flavorText": "Using an odd shock wave, the user inflicts damage\non any Pokémon of the same type in the area\naround it.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "all-other-pokemon",
+  "pokemon": {
+    "psyduck": [
+      "egg"
+    ],
+    "drowzee": [
+      "level-up"
+    ],
+    "hypno": [
+      "level-up"
+    ],
+    "eevee": [
+      "egg"
+    ],
+    "hoothoot": [
+      "level-up"
+    ],
+    "noctowl": [
+      "level-up"
+    ],
+    "natu": [
+      "egg"
+    ],
+    "ralts": [
+      "egg"
+    ],
+    "whismur": [
+      "level-up"
+    ],
+    "loudred": [
+      "level-up"
+    ],
+    "exploud": [
+      "level-up"
+    ],
+    "kecleon": [
+      "level-up"
+    ],
+    "chimecho": [
+      "level-up"
+    ],
+    "chatot": [
+      "level-up"
+    ],
+    "munna": [
+      "level-up"
+    ],
+    "woobat": [
+      "egg"
+    ],
+    "sigilyph": [
+      "level-up"
+    ],
+    "elgyem": [
+      "level-up"
+    ],
+    "beheeyem": [
+      "level-up"
+    ],
+    "bruxish": [
+      "level-up"
+    ],
+    "magearna": [
+      "level-up"
+    ],
+    "magearna-original": [
+      "level-up"
+    ]
+  }
+}

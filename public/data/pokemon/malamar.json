@@ -1,0 +1,205 @@
+{
+  "name": "malamar",
+  "caption": "Malamar",
+  "types": [
+    "dark",
+    "psychic"
+  ],
+  "species": "malamar",
+  "gen": "generation-vi",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.5,
+  "weight": 47,
+  "baseStats": {
+    "hp": 86,
+    "attack": 92,
+    "defense": 88,
+    "special-attack": 68,
+    "special-defense": 75,
+    "speed": 73
+  },
+  "evolutionChain": {
+    "species": "inkay",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "malamar",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "When it comes to strong hypnosis, there’s an\nendless number of people who utilize Malamar\nfor their nefarious deeds.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "psybeam": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "hypnosis": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "level-up",
+      "machine"
+    ],
+    "reflect": [
+      "level-up",
+      "machine"
+    ],
+    "constrict": [
+      "level-up"
+    ],
+    "psywave": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "reversal": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "level-up",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "superpower": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "pluck": [
+      "level-up"
+    ],
+    "payback": [
+      "level-up",
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "switcheroo": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "psycho-cut": [
+      "level-up"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "foul-play": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "topsy-turvy": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "contrary": 1,
+    "suction-cups": 2,
+    "infiltrator": "hidden"
+  }
+}

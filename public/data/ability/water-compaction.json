@@ -1,0 +1,14 @@
+{
+  "name": "water-compaction",
+  "caption": "Water Compaction",
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Raises this Pokémon's Defense by two stages when it's hit by a Water move.",
+    "full": "Raises this Pokémon's Defense by two stages when it's hit by a Water move."
+  },
+  "flavorText": "Boosts the Pokémon’s Defense stat sharply when hit\nby a Water-type move.",
+  "pokemon": {
+    "sandygast": 1,
+    "palossand": 1
+  }
+}

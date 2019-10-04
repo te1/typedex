@@ -1,0 +1,218 @@
+{
+  "name": "mudkip",
+  "caption": "Mudkip",
+  "types": [
+    "water"
+  ],
+  "species": "mudkip",
+  "gen": "generation-iii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 7.6,
+  "baseStats": {
+    "hp": 50,
+    "attack": 70,
+    "defense": 50,
+    "special-attack": 50,
+    "special-defense": 50,
+    "speed": 40
+  },
+  "evolutionChain": {
+    "species": "mudkip",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "marshtomp",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "swampert",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "The fin on Mudkip’s head acts as highly sensitive radar.\nUsing this fin to sense movements of water and air, this\nPokémon can determine what is taking place around it\nwithout using its eyes.",
+  "moves": {
+    "stomp": [
+      "egg"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "foresight": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "mirror-coat": [
+      "egg"
+    ],
+    "whirlpool": [
+      "level-up",
+      "egg"
+    ],
+    "uproar": [
+      "egg"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "endeavor": [
+      "level-up"
+    ],
+    "refresh": [
+      "egg"
+    ],
+    "mud-sport": [
+      "level-up"
+    ],
+    "ice-ball": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "double-edge": [
+      "egg"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "bite": [
+      "egg"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "ancient-power": [
+      "egg"
+    ],
+    "mud-bomb": [
+      "egg"
+    ],
+    "sludge": [
+      "egg"
+    ],
+    "yawn": [
+      "egg"
+    ],
+    "avalanche": [
+      "egg"
+    ],
+    "wide-guard": [
+      "egg"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "water-pledge": [
+      "tutor"
+    ],
+    "barrier": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "rock-throw": [
+      "level-up"
+    ],
+    "work-up": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "torrent": 1,
+    "damp": "hidden"
+  }
+}

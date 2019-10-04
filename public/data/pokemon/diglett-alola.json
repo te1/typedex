@@ -1,0 +1,165 @@
+{
+  "name": "diglett-alola",
+  "caption": "Alolan Diglett",
+  "types": [
+    "ground",
+    "steel"
+  ],
+  "species": "diglett",
+  "gen": "generation-i",
+  "color": "brown",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": "Alola Form",
+  "height": 0.2,
+  "weight": 1,
+  "baseStats": {
+    "hp": 10,
+    "attack": 55,
+    "defense": 30,
+    "special-attack": 35,
+    "special-defense": 45,
+    "speed": 90
+  },
+  "evolutionChain": {
+    "species": "diglett",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "dugtrio",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It travels through tunnels that it digs\nunderground. It hates sunlight, so it comes\nout only after the sun goes down.",
+  "moves": {
+    "sand-attack": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "fissure": [
+      "level-up"
+    ],
+    "dig": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "magnitude": [
+      "level-up"
+    ],
+    "metal-claw": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "earth-power": [
+      "level-up"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "mud-bomb": [
+      "level-up"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "iron-head": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "bulldoze": [
+      "level-up",
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "sand-veil": 1,
+    "tangling-hair": 2,
+    "sand-force": "hidden"
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "name": "cubchoo",
+  "caption": "Cubchoo",
+  "types": [
+    "ice"
+  ],
+  "species": "cubchoo",
+  "gen": "generation-v",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 8.5,
+  "baseStats": {
+    "hp": 55,
+    "attack": 70,
+    "defense": 40,
+    "special-attack": 60,
+    "special-defense": 40,
+    "speed": 40
+  },
+  "evolutionChain": {
+    "species": "cubchoo",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "beartic",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Its nose is always running. It sniffs the snot back up\nbecause the mucus provides the raw material for\nits moves.",
+  "moves": {
+    "ice-punch": [
+      "egg"
+    ],
+    "thrash": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "level-up",
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "powder-snow": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "icy-wind": [
+      "level-up"
+    ],
+    "endure": [
+      "level-up"
+    ],
+    "charm": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "egg",
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "encore": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "hail": [
+      "level-up",
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "focus-punch": [
+      "egg"
+    ],
+    "yawn": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "sheer-cold": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "brine": [
+      "level-up"
+    ],
+    "assurance": [
+      "egg"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "night-slash": [
+      "egg"
+    ],
+    "avalanche": [
+      "egg"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "frost-breath": [
+      "machine"
+    ],
+    "play-rough": [
+      "egg"
+    ],
+    "play-nice": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "snow-cloak": 1,
+    "slush-rush": 2,
+    "rattled": "hidden"
+  }
+}

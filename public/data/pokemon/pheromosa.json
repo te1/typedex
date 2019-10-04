@@ -1,0 +1,171 @@
+{
+  "name": "pheromosa",
+  "caption": "Pheromosa",
+  "types": [
+    "bug",
+    "fighting"
+  ],
+  "species": "pheromosa",
+  "gen": "generation-vii",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.8,
+  "weight": 25,
+  "baseStats": {
+    "hp": 71,
+    "attack": 137,
+    "defense": 37,
+    "special-attack": 137,
+    "special-defense": 37,
+    "speed": 151
+  },
+  "flavorText": "A life-form that lives in another world, its body\nis thin and supple, but it also possesses\ngreat power.",
+  "moves": {
+    "stomp": [
+      "level-up"
+    ],
+    "double-kick": [
+      "level-up"
+    ],
+    "jump-kick": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "low-kick": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "swift": [
+      "level-up"
+    ],
+    "high-jump-kick": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "triple-kick": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "rapid-spin": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "silver-wind": [
+      "level-up"
+    ],
+    "bounce": [
+      "level-up"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "feint": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "me-first": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "bug-buzz": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "quiver-dance": [
+      "level-up"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "quick-guard": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "lunge": [
+      "level-up"
+    ],
+    "speed-swap": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "beast-boost": 1
+  }
+}

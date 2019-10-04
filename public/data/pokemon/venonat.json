@@ -1,0 +1,180 @@
+{
+  "name": "venonat",
+  "caption": "Venonat",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "species": "venonat",
+  "gen": "generation-i",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1,
+  "weight": 30,
+  "baseStats": {
+    "hp": 60,
+    "attack": 55,
+    "defense": 50,
+    "special-attack": 40,
+    "special-defense": 55,
+    "speed": 45
+  },
+  "evolutionChain": {
+    "species": "venonat",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "venomoth",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Venonat is said to have evolved with a coat of thin,\nstiff hair that covers its entire body for protection.\nIt possesses large eyes that never fail to spot even\nminuscule prey.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "disable": [
+      "level-up"
+    ],
+    "psybeam": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "poison-powder": [
+      "level-up"
+    ],
+    "stun-spore": [
+      "level-up"
+    ],
+    "sleep-powder": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "level-up",
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "leech-life": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "supersonic": [
+      "level-up"
+    ],
+    "confusion": [
+      "level-up"
+    ],
+    "screech": [
+      "egg"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "foresight": [
+      "level-up"
+    ],
+    "giga-drain": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "baton-pass": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "skill-swap": [
+      "egg"
+    ],
+    "secret-power": [
+      "egg"
+    ],
+    "signal-beam": [
+      "level-up",
+      "egg"
+    ],
+    "agility": [
+      "egg"
+    ],
+    "morning-sun": [
+      "egg"
+    ],
+    "poison-fang": [
+      "level-up"
+    ],
+    "toxic-spikes": [
+      "egg"
+    ],
+    "zen-headbutt": [
+      "level-up"
+    ],
+    "bug-bite": [
+      "egg"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "rage-powder": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "compound-eyes": 1,
+    "tinted-lens": 2,
+    "run-away": "hidden"
+  }
+}

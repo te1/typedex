@@ -1,0 +1,180 @@
+{
+  "name": "gloom",
+  "caption": "Gloom",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "species": "gloom",
+  "gen": "generation-i",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.8,
+  "weight": 8.6,
+  "baseStats": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 70,
+    "special-attack": 85,
+    "special-defense": 75,
+    "speed": 40
+  },
+  "evolutionChain": {
+    "species": "oddish",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "gloom",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "vileplume",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          },
+          {
+            "species": "bellossom",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Gloom releases a foul fragrance from the pistil of its flower.\nWhen faced with danger, the stench worsens.\nIf this Pokémon is feeling calm and secure, it does not\nrelease its usual stinky aroma.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "acid": [
+      "level-up"
+    ],
+    "absorb": [
+      "level-up"
+    ],
+    "mega-drain": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "poison-powder": [
+      "level-up"
+    ],
+    "stun-spore": [
+      "level-up"
+    ],
+    "sleep-powder": [
+      "level-up"
+    ],
+    "petal-dance": [
+      "level-up"
+    ],
+    "toxic": [
+      "level-up",
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "giga-drain": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "moonlight": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "natural-gift": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "lucky-chant": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "petal-blizzard": [
+      "level-up"
+    ],
+    "grassy-terrain": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "growth": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "chlorophyll": 1,
+    "stench": "hidden"
+  }
+}

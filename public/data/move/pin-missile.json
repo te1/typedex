@@ -1,0 +1,111 @@
+{
+  "name": "pin-missile",
+  "caption": "Pin Missile",
+  "type": "bug",
+  "damageCategory": "physical",
+  "power": 25,
+  "accuracy": 95,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Hits 2-5 times in one turn.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Hits 2–5 times in one turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+  },
+  "flavorText": "Sharp spikes are shot at the target in rapid\nsuccession. They hit two to five times in a row.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "beedrill": [
+      "level-up"
+    ],
+    "jolteon": [
+      "level-up"
+    ],
+    "spinarak": [
+      "level-up"
+    ],
+    "ariados": [
+      "level-up"
+    ],
+    "pineco": [
+      "egg"
+    ],
+    "qwilfish": [
+      "level-up"
+    ],
+    "heracross": [
+      "level-up"
+    ],
+    "zigzagoon": [
+      "level-up"
+    ],
+    "roselia": [
+      "egg"
+    ],
+    "cacnea": [
+      "level-up"
+    ],
+    "cacturne": [
+      "level-up"
+    ],
+    "budew": [
+      "egg"
+    ],
+    "skorupi": [
+      "level-up"
+    ],
+    "drapion": [
+      "level-up"
+    ],
+    "venipede": [
+      "egg"
+    ],
+    "maractus": [
+      "level-up"
+    ],
+    "joltik": [
+      "egg"
+    ],
+    "ferroseed": [
+      "level-up"
+    ],
+    "ferrothorn": [
+      "level-up"
+    ],
+    "chespin": [
+      "level-up"
+    ],
+    "quilladin": [
+      "level-up"
+    ],
+    "chesnaught": [
+      "level-up"
+    ],
+    "mareanie": [
+      "level-up"
+    ],
+    "toxapex": [
+      "level-up"
+    ],
+    "golisopod": [
+      "level-up"
+    ],
+    "togedemaru": [
+      "level-up"
+    ],
+    "heracross-mega": [
+      "level-up"
+    ],
+    "beedrill-mega": [
+      "level-up"
+    ],
+    "togedemaru-totem": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "name": "trapinch",
+  "caption": "Trapinch",
+  "types": [
+    "ground"
+  ],
+  "species": "trapinch",
+  "gen": "generation-iii",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.7,
+  "weight": 15,
+  "baseStats": {
+    "hp": 45,
+    "attack": 100,
+    "defense": 45,
+    "special-attack": 45,
+    "special-defense": 45,
+    "speed": 10
+  },
+  "evolutionChain": {
+    "species": "trapinch",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "vibrava",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "flygon",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Its jaws are strong enough to crush rocks but\nso heavy that it can’t get up if it flips over.\nSandile seize those moments as their chance.",
+  "moves": {
+    "gust": [
+      "egg"
+    ],
+    "sand-attack": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "level-up",
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "dig": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "egg"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "level-up",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "sand-tomb": [
+      "level-up"
+    ],
+    "rock-slide": [
+      "level-up",
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "fissure": [
+      "level-up"
+    ],
+    "flail": [
+      "egg"
+    ],
+    "fury-cutter": [
+      "egg"
+    ],
+    "feint": [
+      "level-up"
+    ],
+    "earth-power": [
+      "level-up",
+      "egg"
+    ],
+    "mud-shot": [
+      "egg"
+    ],
+    "bug-bite": [
+      "egg"
+    ],
+    "signal-beam": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "level-up",
+      "machine"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "superpower": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "hyper-cutter": 1,
+    "arena-trap": 2,
+    "sheer-force": "hidden"
+  }
+}

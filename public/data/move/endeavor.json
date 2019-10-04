@@ -1,0 +1,195 @@
+{
+  "name": "endeavor",
+  "caption": "Endeavor",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Lowers the target's HP to equal the user's.",
+    "full": "Inflicts exactly enough damage to lower the target's [HP]{mechanic:hp} to equal the user's.  If the target's HP is not higher than the user's, this move has no effect.  Type immunity applies, but other type effects are ignored.  This effect counts as damage for moves that respond to damage."
+  },
+  "flavorText": "This attack move cuts down the target’s HP to equal\nthe user’s HP.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "beedrill": [
+      "level-up"
+    ],
+    "rattata": [
+      "level-up"
+    ],
+    "raticate": [
+      "level-up"
+    ],
+    "poliwag": [
+      "egg"
+    ],
+    "doduo": [
+      "level-up",
+      "egg"
+    ],
+    "dodrio": [
+      "level-up"
+    ],
+    "cubone": [
+      "level-up"
+    ],
+    "marowak": [
+      "level-up"
+    ],
+    "tangela": [
+      "egg"
+    ],
+    "kangaskhan": [
+      "egg"
+    ],
+    "sunkern": [
+      "level-up"
+    ],
+    "dunsparce": [
+      "level-up"
+    ],
+    "phanpy": [
+      "egg"
+    ],
+    "hitmontop": [
+      "level-up"
+    ],
+    "treecko": [
+      "level-up",
+      "egg"
+    ],
+    "mudkip": [
+      "level-up"
+    ],
+    "marshtomp": [
+      "level-up"
+    ],
+    "swampert": [
+      "level-up"
+    ],
+    "taillow": [
+      "level-up"
+    ],
+    "swellow": [
+      "level-up"
+    ],
+    "whismur": [
+      "egg"
+    ],
+    "aron": [
+      "egg"
+    ],
+    "corphish": [
+      "egg"
+    ],
+    "starly": [
+      "level-up"
+    ],
+    "staravia": [
+      "level-up"
+    ],
+    "staraptor": [
+      "level-up"
+    ],
+    "rampardos": [
+      "level-up"
+    ],
+    "tepig": [
+      "egg"
+    ],
+    "woobat": [
+      "level-up"
+    ],
+    "swoobat": [
+      "level-up"
+    ],
+    "cottonee": [
+      "level-up"
+    ],
+    "archen": [
+      "level-up"
+    ],
+    "archeops": [
+      "level-up"
+    ],
+    "solosis": [
+      "level-up"
+    ],
+    "duosion": [
+      "level-up"
+    ],
+    "reuniclus": [
+      "level-up"
+    ],
+    "axew": [
+      "egg"
+    ],
+    "kyurem": [
+      "level-up"
+    ],
+    "litleo": [
+      "level-up"
+    ],
+    "pyroar": [
+      "level-up"
+    ],
+    "swirlix": [
+      "level-up"
+    ],
+    "slurpuff": [
+      "level-up"
+    ],
+    "hawlucha": [
+      "level-up"
+    ],
+    "crabrawler": [
+      "egg"
+    ],
+    "wishiwashi-solo": [
+      "level-up"
+    ],
+    "marshadow": [
+      "level-up"
+    ],
+    "kyurem-black": [
+      "level-up"
+    ],
+    "kyurem-white": [
+      "level-up"
+    ],
+    "swampert-mega": [
+      "level-up"
+    ],
+    "beedrill-mega": [
+      "level-up"
+    ],
+    "rattata-alola": [
+      "level-up"
+    ],
+    "raticate-alola": [
+      "level-up"
+    ],
+    "raticate-totem-alola": [
+      "level-up"
+    ],
+    "marowak-alola": [
+      "level-up"
+    ],
+    "wishiwashi-school": [
+      "level-up"
+    ],
+    "marowak-totem": [
+      "level-up"
+    ]
+  }
+}

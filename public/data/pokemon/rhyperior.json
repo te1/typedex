@@ -1,0 +1,235 @@
+{
+  "name": "rhyperior",
+  "caption": "Rhyperior",
+  "types": [
+    "ground",
+    "rock"
+  ],
+  "species": "rhyperior",
+  "gen": "generation-iv",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 2.4,
+  "weight": 282.8,
+  "baseStats": {
+    "hp": 115,
+    "attack": 140,
+    "defense": 130,
+    "special-attack": 55,
+    "special-defense": 55,
+    "speed": 40
+  },
+  "evolutionChain": {
+    "species": "rhyhorn",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "rhydon",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "rhyperior",
+            "triggers": [
+              "trade"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "From holes in its palms, it fires out Geodude.\nIts carapace can withstand volcanic eruptions.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "stomp": [
+      "level-up"
+    ],
+    "horn-attack": [
+      "level-up"
+    ],
+    "fury-attack": [
+      "level-up"
+    ],
+    "horn-drill": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "megahorn": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "rock-blast": [
+      "level-up"
+    ],
+    "hammer-arm": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "poison-jab": [
+      "level-up",
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "rock-wrecker": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "level-up",
+      "machine"
+    ],
+    "smack-down": [
+      "level-up",
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "chip-away": [
+      "level-up"
+    ],
+    "bulldoze": [
+      "level-up",
+      "machine"
+    ],
+    "dragon-tail": [
+      "machine"
+    ],
+    "drill-run": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "smart-strike": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "lightning-rod": 1,
+    "solid-rock": 2,
+    "reckless": "hidden"
+  }
+}

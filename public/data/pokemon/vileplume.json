@@ -1,0 +1,162 @@
+{
+  "name": "vileplume",
+  "caption": "Vileplume",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "species": "vileplume",
+  "gen": "generation-i",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.2,
+  "weight": 18.6,
+  "baseStats": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 85,
+    "special-attack": 110,
+    "special-defense": 90,
+    "speed": 50
+  },
+  "evolutionChain": {
+    "species": "oddish",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "gloom",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "vileplume",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          },
+          {
+            "species": "bellossom",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Vileplume’s toxic pollen triggers atrocious allergy attacks.\nThat’s why it is advisable never to approach any attractive\nflowers in a jungle, however pretty they may be.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "mega-drain": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "level-up",
+      "machine"
+    ],
+    "poison-powder": [
+      "level-up"
+    ],
+    "stun-spore": [
+      "level-up"
+    ],
+    "petal-dance": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "aromatherapy": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "petal-blizzard": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "chlorophyll": 1,
+    "effect-spore": "hidden"
+  }
+}

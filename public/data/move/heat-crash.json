@@ -1,0 +1,35 @@
+{
+  "name": "heat-crash",
+  "caption": "Heat Crash",
+  "type": "fire",
+  "damageCategory": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Power is higher when the user weighs more than the target, up to a maximum of 120.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  The greater the user's weight compared to the target's, the higher power this move has, to a maximum of 120.\n\nUser's weight                    | Power\n-------------------------------- | ----:\nUp to 2× the target's weight     |    40\nUp to 3× the target's weight     |    60\nUp to 4× the target's weight     |    80\nUp to 5× the target's weight     |   100\nMore than 5× the target's weight |   120\n"
+  },
+  "flavorText": "The user slams its target with its flame-covered\nbody. The more the user outweighs the target, the\ngreater the move’s power.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror",
+    "non-sky-battle"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "tepig": [
+      "level-up"
+    ],
+    "pignite": [
+      "level-up"
+    ],
+    "emboar": [
+      "level-up"
+    ]
+  }
+}

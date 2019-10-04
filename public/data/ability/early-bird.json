@@ -1,0 +1,27 @@
+{
+  "name": "early-bird",
+  "caption": "Early Bird",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Makes [sleep]{mechanic:sleep} pass twice as quickly.",
+    "full": "This Pokémon's remaining sleep turn count falls by 2 rather than 1.\n\nIf this Pokémon's sleep counter is at 1, it will fall to 0 and then the Pokémon will wake up."
+  },
+  "flavorText": "The Pokémon awakens twice as fast as other\nPokémon from sleep.",
+  "pokemon": {
+    "doduo": 2,
+    "dodrio": 2,
+    "kangaskhan": 1,
+    "ledyba": 2,
+    "ledian": 2,
+    "natu": 2,
+    "xatu": 2,
+    "sunkern": "hidden",
+    "sunflora": "hidden",
+    "girafarig": 2,
+    "houndour": 1,
+    "houndoom": 1,
+    "seedot": 2,
+    "nuzleaf": 2,
+    "shiftry": 2
+  }
+}

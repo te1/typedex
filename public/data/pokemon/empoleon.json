@@ -1,0 +1,216 @@
+{
+  "name": "empoleon",
+  "caption": "Empoleon",
+  "types": [
+    "water",
+    "steel"
+  ],
+  "species": "empoleon",
+  "gen": "generation-iv",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.7,
+  "weight": 84.5,
+  "baseStats": {
+    "hp": 84,
+    "attack": 86,
+    "defense": 88,
+    "special-attack": 111,
+    "special-defense": 101,
+    "speed": 60
+  },
+  "evolutionChain": {
+    "species": "piplup",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "prinplup",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "empoleon",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It swims as fast as a jet boat. The edges of its\nwings are sharp and can slice apart drifting ice.",
+  "moves": {
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "fury-attack": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "mist": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "drill-peck": [
+      "level-up"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "bubble": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "level-up",
+      "machine"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "metal-claw": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "whirlpool": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "hydro-cannon": [
+      "tutor"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "brine": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "aqua-jet": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "quash": [
+      "machine"
+    ],
+    "water-pledge": [
+      "tutor"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "torrent": 1,
+    "defiant": "hidden"
+  }
+}

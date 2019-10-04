@@ -1,0 +1,24 @@
+{
+  "name": "analytic",
+  "caption": "Analytic",
+  "gen": "generation-v",
+  "effect": {
+    "short": "Strengthens moves to 1.3× their power when moving last.",
+    "full": "This Pokémon's moves have 1.3× their power when it moves last in a turn.\n\n[]{move:future-sight} and []{move:doom-desire} are unaffected."
+  },
+  "flavorText": "Boosts move power when the Pokémon moves last.",
+  "pokemon": {
+    "magnemite": "hidden",
+    "magneton": "hidden",
+    "staryu": "hidden",
+    "starmie": "hidden",
+    "porygon": "hidden",
+    "porygon2": "hidden",
+    "magnezone": "hidden",
+    "porygon-z": "hidden",
+    "patrat": "hidden",
+    "watchog": "hidden",
+    "elgyem": "hidden",
+    "beheeyem": "hidden"
+  }
+}

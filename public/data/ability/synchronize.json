@@ -1,0 +1,27 @@
+{
+  "name": "synchronize",
+  "caption": "Synchronize",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Copies [burns]{mechanic:burn}, [paralysis]{mechanic:paralysis}, and [poison]{mechanic:poison} received onto the Pokémon that inflicted them.",
+    "full": "Whenever this Pokémon is [burned]{mechanic:burn}, [paralyzed]{mechanic:paralysis}, or [poisoned]{mechanic:poison}, the Pokémon who gave this Pokémon that ailment is also given the ailment.\n\nThis ability passes back bad poison when this Pokémon is badly poisoned.  This ability cannot pass on a status ailment that the Pokémon did not directly receive from another Pokémon, such as the poison from []{move:toxic-spikes} or the burn from a []{item:flame-orb}.\n\nOverworld: If the lead Pokémon has this ability, wild Pokémon have a 50% chance of having the lead Pokémon's nature, and a 50% chance of being given a random nature as usual, including the lead Pokémon's nature.  This does not work on Pokémon received outside of battle or roaming legendaries."
+  },
+  "flavorText": "The attacker will receive the same status condition if\nit inflicts a burn, poison, or paralysis to the Pokémon.",
+  "pokemon": {
+    "abra": 1,
+    "kadabra": 1,
+    "alakazam": 1,
+    "mew": 1,
+    "natu": 1,
+    "xatu": 1,
+    "espeon": 1,
+    "umbreon": 1,
+    "ralts": 1,
+    "kirlia": 1,
+    "gardevoir": 1,
+    "munna": 2,
+    "musharna": 2,
+    "elgyem": 2,
+    "beheeyem": 2
+  }
+}

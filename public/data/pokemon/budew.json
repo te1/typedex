@@ -1,0 +1,188 @@
+{
+  "name": "budew",
+  "caption": "Budew",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "species": "budew",
+  "gen": "generation-iv",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.2,
+  "weight": 1.2,
+  "baseStats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 35,
+    "special-attack": 50,
+    "special-defense": 70,
+    "speed": 55
+  },
+  "evolutionChain": {
+    "species": "budew",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "roselia",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "roserade",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "When it feels the sun’s warm touch, it opens its bud\nto release pollen. It lives alongside clear pools.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "pin-missile": [
+      "egg"
+    ],
+    "absorb": [
+      "level-up"
+    ],
+    "mega-drain": [
+      "level-up"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "razor-leaf": [
+      "egg"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "stun-spore": [
+      "level-up"
+    ],
+    "sleep-powder": [
+      "egg"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "mind-reader": [
+      "egg"
+    ],
+    "cotton-spore": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "spikes": [
+      "egg"
+    ],
+    "giga-drain": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "synthesis": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "extrasensory": [
+      "egg"
+    ],
+    "water-sport": [
+      "level-up"
+    ],
+    "natural-gift": [
+      "egg"
+    ],
+    "worry-seed": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "leaf-storm": [
+      "egg"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "seed-bomb": [
+      "egg"
+    ],
+    "grass-whistle": [
+      "egg"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "natural-cure": 1,
+    "poison-point": 2,
+    "leaf-guard": "hidden"
+  }
+}

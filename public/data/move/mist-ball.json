@@ -1,0 +1,30 @@
+{
+  "name": "mist-ball",
+  "caption": "Mist Ball",
+  "type": "psychic",
+  "damageCategory": "special",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a 50% chance to lower the target's Special Attack by one stage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 50% chance to lower the target's [Special Attack]{mechanic:special-attack} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "A mist-like flurry of down envelops and damages the\ntarget. This may also lower the target’s Sp. Atk stat.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "latias": [
+      "level-up"
+    ],
+    "latias-mega": [
+      "level-up"
+    ]
+  }
+}

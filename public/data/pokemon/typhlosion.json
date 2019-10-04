@@ -1,0 +1,213 @@
+{
+  "name": "typhlosion",
+  "caption": "Typhlosion",
+  "types": [
+    "fire"
+  ],
+  "species": "typhlosion",
+  "gen": "generation-ii",
+  "color": "yellow",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.7,
+  "weight": 79.5,
+  "baseStats": {
+    "hp": 78,
+    "attack": 84,
+    "defense": 78,
+    "special-attack": 109,
+    "special-defense": 85,
+    "speed": 100
+  },
+  "evolutionChain": {
+    "species": "cyndaquil",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "quilava",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "typhlosion",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Typhlosion obscures itself behind a shimmering heat haze that\nit creates using its intensely hot flames. This Pokémon creates\nblazing explosive blasts that burn everything to cinders.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "ember": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "level-up",
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "smokescreen": [
+      "level-up"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "swift": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "flame-wheel": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "rollout": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "eruption": [
+      "level-up"
+    ],
+    "blast-burn": [
+      "tutor"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "gyro-ball": [
+      "level-up",
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "lava-plume": [
+      "level-up"
+    ],
+    "flame-charge": [
+      "level-up",
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "inferno": [
+      "level-up"
+    ],
+    "fire-pledge": [
+      "tutor"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "burn-up": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "blaze": 1,
+    "flash-fire": "hidden"
+  }
+}

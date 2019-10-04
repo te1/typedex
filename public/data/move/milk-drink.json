@@ -1,0 +1,34 @@
+{
+  "name": "milk-drink",
+  "caption": "Milk Drink",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Heals the user by half its max HP.",
+    "full": "Heals the user for half its max [HP]{mechanic:hp}."
+  },
+  "flavorText": "The user restores its own HP by up to half of its\nmax HP.",
+  "flags": [
+    "snatch",
+    "heal"
+  ],
+  "target": "user",
+  "pokemon": {
+    "miltank": [
+      "level-up"
+    ],
+    "skiddo": [
+      "level-up",
+      "egg"
+    ],
+    "gogoat": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "stench",
+  "caption": "Stench",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a 10% chance of making target Pokémon [flinch]{mechanic:flinch} with each hit.",
+    "full": "This Pokémon's damaging moves have a 10% chance to make the target [flinch]{mechanic:flinch} with each hit if they do not already cause flinching as a secondary effect.\n\nThis ability does not stack with a held item.\n\nOverworld: The wild encounter rate is halved while this Pokémon is first in the party."
+  },
+  "flavorText": "By releasing stench when attacking, this Pokémon\nmay cause the target to flinch.",
+  "pokemon": {
+    "gloom": "hidden",
+    "grimer": 1,
+    "muk": 1,
+    "stunky": 1,
+    "skuntank": 1,
+    "trubbish": 1,
+    "garbodor": 1
+  }
+}

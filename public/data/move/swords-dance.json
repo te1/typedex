@@ -1,0 +1,828 @@
+{
+  "name": "swords-dance",
+  "caption": "Swords Dance",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Raises the user's Attack by two stages.",
+    "full": "Raises the user's [Attack]{mechanic:attack} by two [stages]{mechanic:stage}."
+  },
+  "flavorText": "A frenetic dance to uplift the fighting spirit.\nThis sharply raises the user’s Attack stat.",
+  "flags": [
+    "snatch",
+    "dance"
+  ],
+  "target": "user",
+  "pokemon": {
+    "bulbasaur": [
+      "machine"
+    ],
+    "ivysaur": [
+      "machine"
+    ],
+    "venusaur": [
+      "machine"
+    ],
+    "charmander": [
+      "machine"
+    ],
+    "charmeleon": [
+      "machine"
+    ],
+    "charizard": [
+      "machine"
+    ],
+    "beedrill": [
+      "machine"
+    ],
+    "raticate": [
+      "level-up",
+      "machine"
+    ],
+    "sandshrew": [
+      "level-up",
+      "machine"
+    ],
+    "sandslash": [
+      "level-up",
+      "machine"
+    ],
+    "oddish": [
+      "machine"
+    ],
+    "gloom": [
+      "machine"
+    ],
+    "vileplume": [
+      "machine"
+    ],
+    "paras": [
+      "machine"
+    ],
+    "parasect": [
+      "machine"
+    ],
+    "bellsprout": [
+      "machine"
+    ],
+    "weepinbell": [
+      "machine"
+    ],
+    "victreebel": [
+      "machine"
+    ],
+    "tentacool": [
+      "machine"
+    ],
+    "tentacruel": [
+      "machine"
+    ],
+    "farfetchd": [
+      "level-up",
+      "machine"
+    ],
+    "doduo": [
+      "level-up",
+      "machine"
+    ],
+    "dodrio": [
+      "level-up",
+      "machine"
+    ],
+    "krabby": [
+      "machine"
+    ],
+    "kingler": [
+      "machine"
+    ],
+    "exeggcute": [
+      "machine"
+    ],
+    "exeggutor": [
+      "machine"
+    ],
+    "cubone": [
+      "machine"
+    ],
+    "marowak": [
+      "machine"
+    ],
+    "lickitung": [
+      "machine"
+    ],
+    "rhyhorn": [
+      "machine"
+    ],
+    "rhydon": [
+      "machine"
+    ],
+    "tangela": [
+      "machine"
+    ],
+    "scyther": [
+      "level-up",
+      "machine"
+    ],
+    "pinsir": [
+      "level-up",
+      "machine"
+    ],
+    "kabutops": [
+      "machine"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "chikorita": [
+      "machine"
+    ],
+    "bayleef": [
+      "machine"
+    ],
+    "meganium": [
+      "machine"
+    ],
+    "totodile": [
+      "machine"
+    ],
+    "croconaw": [
+      "machine"
+    ],
+    "feraligatr": [
+      "machine"
+    ],
+    "ledyba": [
+      "machine"
+    ],
+    "ledian": [
+      "machine"
+    ],
+    "ariados": [
+      "level-up",
+      "machine"
+    ],
+    "bellossom": [
+      "machine"
+    ],
+    "hoppip": [
+      "machine"
+    ],
+    "skiploom": [
+      "machine"
+    ],
+    "jumpluff": [
+      "machine"
+    ],
+    "sunkern": [
+      "machine"
+    ],
+    "sunflora": [
+      "machine"
+    ],
+    "gligar": [
+      "level-up",
+      "machine"
+    ],
+    "scizor": [
+      "level-up",
+      "machine"
+    ],
+    "heracross": [
+      "machine"
+    ],
+    "sneasel": [
+      "machine"
+    ],
+    "teddiursa": [
+      "machine"
+    ],
+    "ursaring": [
+      "machine"
+    ],
+    "skarmory": [
+      "machine"
+    ],
+    "celebi": [
+      "machine"
+    ],
+    "treecko": [
+      "machine"
+    ],
+    "grovyle": [
+      "machine"
+    ],
+    "sceptile": [
+      "machine"
+    ],
+    "torchic": [
+      "machine"
+    ],
+    "combusken": [
+      "machine"
+    ],
+    "blaziken": [
+      "machine"
+    ],
+    "lotad": [
+      "machine"
+    ],
+    "lombre": [
+      "machine"
+    ],
+    "ludicolo": [
+      "machine"
+    ],
+    "seedot": [
+      "machine"
+    ],
+    "nuzleaf": [
+      "machine"
+    ],
+    "shiftry": [
+      "machine"
+    ],
+    "shroomish": [
+      "machine"
+    ],
+    "breloom": [
+      "machine"
+    ],
+    "ninjask": [
+      "level-up",
+      "machine"
+    ],
+    "mawile": [
+      "machine"
+    ],
+    "roselia": [
+      "machine"
+    ],
+    "cacnea": [
+      "machine"
+    ],
+    "cacturne": [
+      "machine"
+    ],
+    "zangoose": [
+      "level-up",
+      "machine"
+    ],
+    "seviper": [
+      "level-up",
+      "machine"
+    ],
+    "corphish": [
+      "level-up",
+      "machine"
+    ],
+    "crawdaunt": [
+      "level-up",
+      "machine"
+    ],
+    "lileep": [
+      "machine"
+    ],
+    "cradily": [
+      "machine"
+    ],
+    "anorith": [
+      "machine"
+    ],
+    "armaldo": [
+      "machine"
+    ],
+    "tropius": [
+      "machine"
+    ],
+    "absol": [
+      "level-up",
+      "machine"
+    ],
+    "groudon": [
+      "machine"
+    ],
+    "rayquaza": [
+      "machine"
+    ],
+    "turtwig": [
+      "machine"
+    ],
+    "grotle": [
+      "machine"
+    ],
+    "torterra": [
+      "machine"
+    ],
+    "chimchar": [
+      "machine"
+    ],
+    "monferno": [
+      "machine"
+    ],
+    "infernape": [
+      "machine"
+    ],
+    "empoleon": [
+      "level-up",
+      "machine"
+    ],
+    "bidoof": [
+      "level-up",
+      "machine"
+    ],
+    "bibarel": [
+      "level-up",
+      "machine"
+    ],
+    "kricketune": [
+      "machine"
+    ],
+    "budew": [
+      "machine"
+    ],
+    "roserade": [
+      "machine"
+    ],
+    "cranidos": [
+      "machine"
+    ],
+    "rampardos": [
+      "machine"
+    ],
+    "cherubi": [
+      "machine"
+    ],
+    "cherrim": [
+      "machine"
+    ],
+    "garchomp": [
+      "machine"
+    ],
+    "riolu": [
+      "machine"
+    ],
+    "lucario": [
+      "level-up",
+      "machine"
+    ],
+    "skorupi": [
+      "machine"
+    ],
+    "drapion": [
+      "machine"
+    ],
+    "toxicroak": [
+      "machine"
+    ],
+    "carnivine": [
+      "machine"
+    ],
+    "snover": [
+      "machine"
+    ],
+    "abomasnow": [
+      "machine"
+    ],
+    "weavile": [
+      "machine"
+    ],
+    "lickilicky": [
+      "machine"
+    ],
+    "rhyperior": [
+      "machine"
+    ],
+    "tangrowth": [
+      "machine"
+    ],
+    "leafeon": [
+      "level-up",
+      "machine"
+    ],
+    "gliscor": [
+      "level-up",
+      "machine"
+    ],
+    "gallade": [
+      "level-up",
+      "machine"
+    ],
+    "darkrai": [
+      "machine"
+    ],
+    "shaymin-land": [
+      "machine"
+    ],
+    "arceus": [
+      "machine"
+    ],
+    "snivy": [
+      "machine"
+    ],
+    "servine": [
+      "machine"
+    ],
+    "serperior": [
+      "machine"
+    ],
+    "oshawott": [
+      "level-up",
+      "machine"
+    ],
+    "dewott": [
+      "level-up",
+      "machine"
+    ],
+    "samurott": [
+      "level-up",
+      "machine"
+    ],
+    "patrat": [
+      "machine"
+    ],
+    "watchog": [
+      "machine"
+    ],
+    "drilbur": [
+      "level-up",
+      "machine"
+    ],
+    "excadrill": [
+      "level-up",
+      "machine"
+    ],
+    "leavanny": [
+      "level-up",
+      "machine"
+    ],
+    "scolipede": [
+      "machine"
+    ],
+    "lilligant": [
+      "machine"
+    ],
+    "dwebble": [
+      "machine"
+    ],
+    "crustle": [
+      "machine"
+    ],
+    "zorua": [
+      "machine"
+    ],
+    "zoroark": [
+      "machine"
+    ],
+    "sawsbuck": [
+      "machine"
+    ],
+    "karrablast": [
+      "level-up",
+      "machine"
+    ],
+    "escavalier": [
+      "level-up",
+      "machine"
+    ],
+    "ferrothorn": [
+      "machine"
+    ],
+    "axew": [
+      "level-up",
+      "machine"
+    ],
+    "fraxure": [
+      "level-up",
+      "machine"
+    ],
+    "haxorus": [
+      "level-up",
+      "machine"
+    ],
+    "beartic": [
+      "machine"
+    ],
+    "mienfoo": [
+      "machine"
+    ],
+    "mienshao": [
+      "machine"
+    ],
+    "pawniard": [
+      "level-up",
+      "machine"
+    ],
+    "bisharp": [
+      "level-up",
+      "machine"
+    ],
+    "bouffalant": [
+      "level-up",
+      "machine"
+    ],
+    "cobalion": [
+      "level-up",
+      "machine"
+    ],
+    "terrakion": [
+      "level-up",
+      "machine"
+    ],
+    "virizion": [
+      "level-up",
+      "machine"
+    ],
+    "landorus-incarnate": [
+      "level-up",
+      "machine"
+    ],
+    "keldeo-ordinary": [
+      "level-up",
+      "machine"
+    ],
+    "chespin": [
+      "machine"
+    ],
+    "quilladin": [
+      "machine"
+    ],
+    "chesnaught": [
+      "machine"
+    ],
+    "diggersby": [
+      "level-up",
+      "machine"
+    ],
+    "fletchling": [
+      "machine"
+    ],
+    "fletchinder": [
+      "machine"
+    ],
+    "talonflame": [
+      "machine"
+    ],
+    "pancham": [
+      "machine"
+    ],
+    "pangoro": [
+      "machine"
+    ],
+    "honedge": [
+      "level-up",
+      "machine"
+    ],
+    "doublade": [
+      "level-up",
+      "machine"
+    ],
+    "aegislash-shield": [
+      "level-up",
+      "machine"
+    ],
+    "binacle": [
+      "machine"
+    ],
+    "barbaracle": [
+      "machine"
+    ],
+    "clauncher": [
+      "level-up",
+      "machine"
+    ],
+    "clawitzer": [
+      "level-up",
+      "machine"
+    ],
+    "hawlucha": [
+      "level-up",
+      "machine"
+    ],
+    "rowlet": [
+      "machine"
+    ],
+    "dartrix": [
+      "machine"
+    ],
+    "decidueye": [
+      "machine"
+    ],
+    "litten": [
+      "machine"
+    ],
+    "torracat": [
+      "machine"
+    ],
+    "incineroar": [
+      "machine"
+    ],
+    "pikipek": [
+      "machine"
+    ],
+    "trumbeak": [
+      "machine"
+    ],
+    "toucannon": [
+      "machine"
+    ],
+    "oricorio-baile": [
+      "machine"
+    ],
+    "lycanroc-midday": [
+      "machine"
+    ],
+    "fomantis": [
+      "machine"
+    ],
+    "lurantis": [
+      "machine"
+    ],
+    "stufful": [
+      "machine"
+    ],
+    "bewear": [
+      "machine"
+    ],
+    "golisopod": [
+      "level-up",
+      "machine"
+    ],
+    "type-null": [
+      "machine"
+    ],
+    "silvally": [
+      "machine"
+    ],
+    "komala": [
+      "machine"
+    ],
+    "mimikyu-disguised": [
+      "machine"
+    ],
+    "bruxish": [
+      "machine"
+    ],
+    "dhelmise": [
+      "machine"
+    ],
+    "jangmo-o": [
+      "machine"
+    ],
+    "hakamo-o": [
+      "machine"
+    ],
+    "kommo-o": [
+      "machine"
+    ],
+    "tapu-bulu": [
+      "machine"
+    ],
+    "kartana": [
+      "level-up",
+      "machine"
+    ],
+    "necrozma": [
+      "machine"
+    ],
+    "shaymin-sky": [
+      "machine"
+    ],
+    "landorus-therian": [
+      "level-up",
+      "machine"
+    ],
+    "keldeo-resolute": [
+      "level-up",
+      "machine"
+    ],
+    "aegislash-blade": [
+      "level-up",
+      "machine"
+    ],
+    "venusaur-mega": [
+      "machine"
+    ],
+    "charizard-mega-x": [
+      "machine"
+    ],
+    "charizard-mega-y": [
+      "machine"
+    ],
+    "pinsir-mega": [
+      "level-up",
+      "machine"
+    ],
+    "scizor-mega": [
+      "level-up",
+      "machine"
+    ],
+    "heracross-mega": [
+      "machine"
+    ],
+    "blaziken-mega": [
+      "machine"
+    ],
+    "mawile-mega": [
+      "machine"
+    ],
+    "absol-mega": [
+      "level-up",
+      "machine"
+    ],
+    "garchomp-mega": [
+      "machine"
+    ],
+    "lucario-mega": [
+      "level-up",
+      "machine"
+    ],
+    "abomasnow-mega": [
+      "machine"
+    ],
+    "sceptile-mega": [
+      "machine"
+    ],
+    "gallade-mega": [
+      "level-up",
+      "machine"
+    ],
+    "groudon-primal": [
+      "machine"
+    ],
+    "rayquaza-mega": [
+      "machine"
+    ],
+    "beedrill-mega": [
+      "machine"
+    ],
+    "raticate-alola": [
+      "level-up",
+      "machine"
+    ],
+    "raticate-totem-alola": [
+      "level-up",
+      "machine"
+    ],
+    "sandshrew-alola": [
+      "level-up",
+      "machine"
+    ],
+    "sandslash-alola": [
+      "machine"
+    ],
+    "exeggutor-alola": [
+      "machine"
+    ],
+    "marowak-alola": [
+      "machine"
+    ],
+    "oricorio-pom-pom": [
+      "machine"
+    ],
+    "oricorio-pau": [
+      "machine"
+    ],
+    "oricorio-sensu": [
+      "machine"
+    ],
+    "lycanroc-midnight": [
+      "machine"
+    ],
+    "lurantis-totem": [
+      "machine"
+    ],
+    "mimikyu-busted": [
+      "machine"
+    ],
+    "mimikyu-totem-disguised": [
+      "machine"
+    ],
+    "mimikyu-totem-busted": [
+      "machine"
+    ],
+    "kommo-o-totem": [
+      "machine"
+    ],
+    "marowak-totem": [
+      "machine"
+    ],
+    "lycanroc-dusk": [
+      "machine"
+    ],
+    "necrozma-dusk": [
+      "machine"
+    ],
+    "necrozma-dawn": [
+      "machine"
+    ],
+    "necrozma-ultra": [
+      "machine"
+    ]
+  }
+}

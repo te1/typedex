@@ -1,0 +1,26 @@
+{
+  "name": "adaptability",
+  "caption": "Adaptability",
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Increases the [same-type attack bonus]{mechanic:same-type-attack-bonus} from 1.5× to 2×.",
+    "full": "This Pokémon inflicts twice as much damage with moves whose types match its own, rather than the usual [same-type attack bonus]{mechanic:same-type-attack-bonus} of 1.5×."
+  },
+  "flavorText": "Powers up moves of the same type as the Pokémon.",
+  "pokemon": {
+    "eevee": 2,
+    "corphish": "hidden",
+    "crawdaunt": "hidden",
+    "feebas": "hidden",
+    "porygon-z": 1,
+    "basculin-red-striped": 2,
+    "skrelp": "hidden",
+    "dragalge": "hidden",
+    "yungoos": "hidden",
+    "gumshoos": "hidden",
+    "basculin-blue-striped": 2,
+    "lucario-mega": 1,
+    "beedrill-mega": 1,
+    "gumshoos-totem": "hidden"
+  }
+}

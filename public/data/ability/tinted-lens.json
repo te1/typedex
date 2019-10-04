@@ -1,0 +1,21 @@
+{
+  "name": "tinted-lens",
+  "caption": "Tinted Lens",
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Doubles damage inflicted with [not-very-effective]{mechanic:not-very-effective} moves.",
+    "full": "This Pokémon deals twice as much damage with moves that are [not very effective]{mechanic:not-very-effective} against the target."
+  },
+  "flavorText": "The Pokémon can use “not very effective” moves\nto deal regular damage. ",
+  "pokemon": {
+    "butterfree": "hidden",
+    "venonat": 2,
+    "venomoth": 2,
+    "hoothoot": "hidden",
+    "noctowl": "hidden",
+    "illumise": 2,
+    "mothim": "hidden",
+    "yanmega": 2,
+    "sigilyph": "hidden"
+  }
+}

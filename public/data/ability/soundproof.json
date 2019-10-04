@@ -1,0 +1,28 @@
+{
+  "name": "soundproof",
+  "caption": "Soundproof",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Protects against sound-based moves.",
+    "full": "This Pokémon is immune to moves flagged as being sound-based.\n\n[]{move:heal-bell} is unaffected.  []{move:uproar} still prevents this Pokémon from [sleeping]{mechanic:sleep}.  This Pokémon can still receive a Perish Song counter through []{move:baton-pass}, and will retain a Perish Song counter if it acquires this ability after Perish Song is used.\n\n[]{move:howl}, []{move:roar-of-time}, []{move:sonic-boom}, and []{move:yawn} are not flagged as sound-based."
+  },
+  "flavorText": "Soundproofing of the Pokémon itself gives full \nimmunity to all sound-based moves.",
+  "pokemon": {
+    "voltorb": 1,
+    "electrode": 1,
+    "mr-mime": 1,
+    "whismur": 1,
+    "loudred": 1,
+    "exploud": 1,
+    "shieldon": "hidden",
+    "bastiodon": "hidden",
+    "mime-jr": 1,
+    "snover": "hidden",
+    "abomasnow": "hidden",
+    "bouffalant": "hidden",
+    "jangmo-o": 2,
+    "hakamo-o": 2,
+    "kommo-o": 2,
+    "kommo-o-totem": 2
+  }
+}

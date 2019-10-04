@@ -1,0 +1,192 @@
+{
+  "name": "drifblim",
+  "caption": "Drifblim",
+  "types": [
+    "ghost",
+    "flying"
+  ],
+  "species": "drifblim",
+  "gen": "generation-iv",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.2,
+  "weight": 15,
+  "baseStats": {
+    "hp": 150,
+    "attack": 80,
+    "defense": 44,
+    "special-attack": 90,
+    "special-defense": 54,
+    "speed": 80
+  },
+  "evolutionChain": {
+    "species": "drifloon",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "drifblim",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "There’s a rumor that if you catch a Drifblim\nfloating on the wind at dusk, you’ll be carried\naway to the afterlife.",
+  "moves": {
+    "gust": [
+      "level-up"
+    ],
+    "fly": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "minimize": [
+      "level-up"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "constrict": [
+      "level-up"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "explosion": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "baton-pass": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "level-up",
+      "machine"
+    ],
+    "stockpile": [
+      "level-up"
+    ],
+    "spit-up": [
+      "level-up"
+    ],
+    "swallow": [
+      "level-up"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "payback": [
+      "level-up",
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "ominous-wind": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "hex": [
+      "level-up"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "amnesia": [
+      "level-up"
+    ],
+    "phantom-force": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "aftermath": 1,
+    "unburden": 2,
+    "flare-boost": "hidden"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "name": "seedot",
+  "caption": "Seedot",
+  "types": [
+    "grass"
+  ],
+  "species": "seedot",
+  "gen": "generation-iii",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 4,
+  "baseStats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 50,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 30
+  },
+  "evolutionChain": {
+    "species": "seedot",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "nuzleaf",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "shiftry",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Seedot attaches itself to a tree branch using the top of its\nhead. It sucks moisture from the tree while hanging off the\nbranch. The more water it drinks, the glossier this Pokémon’s\nbody becomes.",
+  "moves": {
+    "razor-wind": [
+      "egg"
+    ],
+    "take-down": [
+      "egg"
+    ],
+    "leech-seed": [
+      "egg"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "egg"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "amnesia": [
+      "egg"
+    ],
+    "explosion": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "synthesis": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "level-up",
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "level-up",
+      "machine"
+    ],
+    "bullet-seed": [
+      "egg"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "worry-seed": [
+      "egg"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "nasty-plot": [
+      "egg"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "power-swap": [
+      "egg"
+    ],
+    "beat-up": [
+      "egg"
+    ],
+    "defog": [
+      "egg"
+    ],
+    "foul-play": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "grassy-terrain": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "chlorophyll": 1,
+    "early-bird": 2,
+    "pickpocket": "hidden"
+  }
+}

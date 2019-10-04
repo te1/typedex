@@ -1,0 +1,198 @@
+{
+  "name": "gyarados-mega",
+  "caption": "Mega Gyarados",
+  "types": [
+    "water",
+    "dark"
+  ],
+  "species": "gyarados",
+  "gen": "generation-i",
+  "color": "blue",
+  "default": false,
+  "alternate": false,
+  "mega": true,
+  "height": 6.5,
+  "weight": 305,
+  "baseStats": {
+    "hp": 95,
+    "attack": 155,
+    "defense": 109,
+    "special-attack": 70,
+    "special-defense": 130,
+    "speed": 81
+  },
+  "evolutionChain": {
+    "species": "magikarp",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "gyarados",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It fires hyper beams in all directions, burning the\nsurrounding area to ash. There are some regions\nwhere it’s called “the deity of destruction.”",
+  "moves": {
+    "thrash": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "level-up",
+      "machine"
+    ],
+    "dragon-rage": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "twister": [
+      "level-up"
+    ],
+    "rain-dance": [
+      "level-up",
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "dragon-dance": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "aqua-tail": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "ice-fang": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "dragon-tail": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "hurricane": [
+      "level-up"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "mold-breaker": 1
+  }
+}

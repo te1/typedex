@@ -1,0 +1,35 @@
+{
+  "name": "overcoat",
+  "caption": "Overcoat",
+  "gen": "generation-v",
+  "effect": {
+    "short": "Protects against damage from [weather]{mechanic:weather}.",
+    "full": "This Pokémon does not take damage from [weather]{mechanic:weather}."
+  },
+  "flavorText": "Protects the Pokémon from things like sand, hail,\nand powder.",
+  "pokemon": {
+    "shellder": "hidden",
+    "cloyster": "hidden",
+    "pineco": "hidden",
+    "forretress": "hidden",
+    "shelgon": "hidden",
+    "burmy": "hidden",
+    "wormadam-plant": "hidden",
+    "sewaddle": "hidden",
+    "swadloon": "hidden",
+    "leavanny": "hidden",
+    "solosis": 1,
+    "duosion": 1,
+    "reuniclus": 1,
+    "escavalier": "hidden",
+    "shelmet": "hidden",
+    "vullaby": 2,
+    "mandibuzz": 2,
+    "jangmo-o": "hidden",
+    "hakamo-o": "hidden",
+    "kommo-o": "hidden",
+    "wormadam-sandy": "hidden",
+    "wormadam-trash": "hidden",
+    "kommo-o-totem": "hidden"
+  }
+}

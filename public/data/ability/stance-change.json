@@ -1,0 +1,14 @@
+{
+  "name": "stance-change",
+  "caption": "Stance Change",
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Changes []{pokemon:aegislash} to Blade Forme before using a damaging move, or Shield Forme before using []{move:kings-shield}.",
+    "full": "Changes []{pokemon:aegislash} to Blade Forme before using a damaging move, or Shield Forme before using []{move:kings-shield}."
+  },
+  "flavorText": "The Pokémon changes its form to Blade Forme when\nit uses an attack move, and changes to Shield Forme\nwhen it uses King’s Shield.",
+  "pokemon": {
+    "aegislash-shield": 1,
+    "aegislash-blade": 1
+  }
+}

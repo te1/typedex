@@ -1,0 +1,199 @@
+{
+  "name": "yamask",
+  "caption": "Yamask",
+  "types": [
+    "ghost"
+  ],
+  "species": "yamask",
+  "gen": "generation-v",
+  "color": "black",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 1.5,
+  "baseStats": {
+    "hp": 38,
+    "attack": 30,
+    "defense": 85,
+    "special-attack": 55,
+    "special-defense": 65,
+    "speed": 30
+  },
+  "evolutionChain": {
+    "species": "yamask",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "cofagrigus",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "These Pokémon arose from the spirits of people\ninterred in graves. Each retains memories of its\nformer life.",
+  "moves": {
+    "disable": [
+      "level-up",
+      "egg"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "night-shade": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "haze": [
+      "level-up"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "nightmare": [
+      "egg"
+    ],
+    "curse": [
+      "level-up"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "destiny-bond": [
+      "level-up"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "mean-look": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "level-up",
+      "machine"
+    ],
+    "will-o-wisp": [
+      "level-up",
+      "machine"
+    ],
+    "memento": [
+      "egg"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "imprison": [
+      "egg"
+    ],
+    "grudge": [
+      "level-up"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "fake-tears": [
+      "egg"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "heal-block": [
+      "egg"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "nasty-plot": [
+      "egg"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "ominous-wind": [
+      "level-up"
+    ],
+    "guard-split": [
+      "level-up"
+    ],
+    "power-split": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "hex": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "toxic-spikes": [
+      "egg"
+    ],
+    "ally-switch": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "crafty-shield": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "mummy": 1
+  }
+}

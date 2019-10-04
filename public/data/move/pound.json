@@ -1,0 +1,226 @@
+{
+  "name": "pound",
+  "caption": "Pound",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 35,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The target is physically pounded with a long tail, a\nforeleg, or the like.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "clefairy": [
+      "level-up"
+    ],
+    "jigglypuff": [
+      "level-up"
+    ],
+    "grimer": [
+      "level-up"
+    ],
+    "muk": [
+      "level-up"
+    ],
+    "drowzee": [
+      "level-up"
+    ],
+    "hypno": [
+      "level-up"
+    ],
+    "chansey": [
+      "level-up"
+    ],
+    "mr-mime": [
+      "level-up"
+    ],
+    "jynx": [
+      "level-up"
+    ],
+    "mew": [
+      "level-up"
+    ],
+    "cleffa": [
+      "level-up"
+    ],
+    "igglybuff": [
+      "level-up"
+    ],
+    "sunflora": [
+      "level-up"
+    ],
+    "smoochum": [
+      "level-up"
+    ],
+    "blissey": [
+      "level-up"
+    ],
+    "treecko": [
+      "level-up"
+    ],
+    "grovyle": [
+      "level-up"
+    ],
+    "sceptile": [
+      "level-up"
+    ],
+    "nuzleaf": [
+      "level-up"
+    ],
+    "whismur": [
+      "level-up"
+    ],
+    "loudred": [
+      "level-up"
+    ],
+    "exploud": [
+      "level-up"
+    ],
+    "gulpin": [
+      "level-up"
+    ],
+    "swalot": [
+      "level-up"
+    ],
+    "piplup": [
+      "level-up"
+    ],
+    "buneary": [
+      "level-up"
+    ],
+    "lopunny": [
+      "level-up"
+    ],
+    "mime-jr": [
+      "level-up"
+    ],
+    "happiny": [
+      "level-up"
+    ],
+    "finneon": [
+      "level-up"
+    ],
+    "lumineon": [
+      "level-up"
+    ],
+    "audino": [
+      "level-up"
+    ],
+    "timburr": [
+      "level-up"
+    ],
+    "gurdurr": [
+      "level-up"
+    ],
+    "conkeldurr": [
+      "level-up"
+    ],
+    "trubbish": [
+      "level-up"
+    ],
+    "garbodor": [
+      "level-up"
+    ],
+    "minccino": [
+      "level-up"
+    ],
+    "gothita": [
+      "level-up"
+    ],
+    "gothorita": [
+      "level-up"
+    ],
+    "gothitelle": [
+      "level-up"
+    ],
+    "alomomola": [
+      "level-up"
+    ],
+    "mienfoo": [
+      "level-up"
+    ],
+    "mienshao": [
+      "level-up"
+    ],
+    "golett": [
+      "level-up"
+    ],
+    "golurk": [
+      "level-up"
+    ],
+    "froakie": [
+      "level-up"
+    ],
+    "frogadier": [
+      "level-up"
+    ],
+    "greninja": [
+      "level-up"
+    ],
+    "helioptile": [
+      "level-up"
+    ],
+    "popplio": [
+      "level-up"
+    ],
+    "brionne": [
+      "level-up"
+    ],
+    "primarina": [
+      "level-up"
+    ],
+    "oricorio-baile": [
+      "level-up"
+    ],
+    "salazzle": [
+      "level-up"
+    ],
+    "nihilego": [
+      "level-up"
+    ],
+    "sceptile-mega": [
+      "level-up"
+    ],
+    "audino-mega": [
+      "level-up"
+    ],
+    "lopunny-mega": [
+      "level-up"
+    ],
+    "grimer-alola": [
+      "level-up"
+    ],
+    "muk-alola": [
+      "level-up"
+    ],
+    "greninja-battle-bond": [
+      "level-up"
+    ],
+    "greninja-ash": [
+      "level-up"
+    ],
+    "oricorio-pom-pom": [
+      "level-up"
+    ],
+    "oricorio-pau": [
+      "level-up"
+    ],
+    "oricorio-sensu": [
+      "level-up"
+    ],
+    "salazzle-totem": [
+      "level-up"
+    ]
+  }
+}

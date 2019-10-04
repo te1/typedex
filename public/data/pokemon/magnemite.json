@@ -1,0 +1,183 @@
+{
+  "name": "magnemite",
+  "caption": "Magnemite",
+  "types": [
+    "electric",
+    "steel"
+  ],
+  "species": "magnemite",
+  "gen": "generation-i",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.3,
+  "weight": 6,
+  "baseStats": {
+    "hp": 25,
+    "attack": 35,
+    "defense": 70,
+    "special-attack": 95,
+    "special-defense": 55,
+    "speed": 45
+  },
+  "evolutionChain": {
+    "species": "magnemite",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "magneton",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "magnezone",
+            "triggers": [
+              "level-up",
+              "level-up",
+              "level-up",
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It’s frequently the cause of power outages,\nwhich is why some power plants send out\nelectrical signals that it can’t stand.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "supersonic": [
+      "level-up"
+    ],
+    "sonic-boom": [
+      "level-up"
+    ],
+    "thunder-shock": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "level-up",
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "zap-cannon": [
+      "level-up"
+    ],
+    "lock-on": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "spark": [
+      "level-up"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "metal-sound": [
+      "level-up"
+    ],
+    "light-screen": [
+      "level-up",
+      "machine"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "gyro-ball": [
+      "level-up",
+      "machine"
+    ],
+    "magnet-rise": [
+      "level-up"
+    ],
+    "mirror-shot": [
+      "level-up"
+    ],
+    "flash-cannon": [
+      "level-up",
+      "machine"
+    ],
+    "discharge": [
+      "level-up"
+    ],
+    "magnet-bomb": [
+      "level-up"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "electro-ball": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "volt-switch": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "magnet-pull": 1,
+    "sturdy": 2,
+    "analytic": "hidden"
+  }
+}

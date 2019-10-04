@@ -1,0 +1,246 @@
+{
+  "name": "rhyhorn",
+  "caption": "Rhyhorn",
+  "types": [
+    "ground",
+    "rock"
+  ],
+  "species": "rhyhorn",
+  "gen": "generation-i",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1,
+  "weight": 115,
+  "baseStats": {
+    "hp": 80,
+    "attack": 85,
+    "defense": 95,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 25
+  },
+  "evolutionChain": {
+    "species": "rhyhorn",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "rhydon",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "rhyperior",
+            "triggers": [
+              "trade"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Rhyhorn runs in a straight line, smashing everything in its path.\nIt is not bothered even if it rushes headlong into a block of\nsteel. This Pokémon may feel some pain from the collision the\nnext day, however.",
+  "moves": {
+    "stomp": [
+      "level-up"
+    ],
+    "horn-attack": [
+      "level-up"
+    ],
+    "fury-attack": [
+      "level-up"
+    ],
+    "horn-drill": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "skull-bash": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "reversal": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "magnitude": [
+      "egg"
+    ],
+    "iron-tail": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "egg"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "megahorn": [
+      "level-up"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "crush-claw": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "rock-blast": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "dragon-rush": [
+      "egg"
+    ],
+    "thunder-fang": [
+      "egg"
+    ],
+    "ice-fang": [
+      "egg"
+    ],
+    "fire-fang": [
+      "egg"
+    ],
+    "rock-climb": [
+      "egg"
+    ],
+    "stone-edge": [
+      "level-up",
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "chip-away": [
+      "level-up"
+    ],
+    "bulldoze": [
+      "level-up",
+      "machine"
+    ],
+    "drill-run": [
+      "level-up"
+    ],
+    "metal-burst": [
+      "egg"
+    ],
+    "guard-split": [
+      "egg"
+    ],
+    "rototiller": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "smack-down": [
+      "level-up",
+      "machine"
+    ],
+    "smart-strike": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "lightning-rod": 1,
+    "rock-head": 2,
+    "reckless": "hidden"
+  }
+}

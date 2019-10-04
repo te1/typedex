@@ -1,0 +1,36 @@
+{
+  "name": "mat-block",
+  "caption": "Mat Block",
+  "type": "fighting",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Protects all friendly Pokémon from damaging moves.  Only works on the first turn after the user is sent out.",
+    "full": "Protects all friendly Pokémon from damaging moves.  Only works on the first turn after the user is sent out."
+  },
+  "flavorText": "Using a pulled-up mat as a shield, the user protects\nitself and its allies from damaging moves. This does\nnot stop status moves.",
+  "flags": [
+    "snatch",
+    "non-sky-battle"
+  ],
+  "target": "users-field",
+  "pokemon": {
+    "throh": [
+      "level-up"
+    ],
+    "greninja": [
+      "level-up"
+    ],
+    "greninja-battle-bond": [
+      "level-up"
+    ],
+    "greninja-ash": [
+      "level-up"
+    ]
+  }
+}

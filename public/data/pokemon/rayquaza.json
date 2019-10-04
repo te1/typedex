@@ -1,0 +1,223 @@
+{
+  "name": "rayquaza",
+  "caption": "Rayquaza",
+  "types": [
+    "dragon",
+    "flying"
+  ],
+  "species": "rayquaza",
+  "gen": "generation-iii",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 7,
+  "weight": 206.5,
+  "baseStats": {
+    "hp": 105,
+    "attack": 150,
+    "defense": 90,
+    "special-attack": 150,
+    "special-defense": 90,
+    "speed": 95
+  },
+  "flavorText": "Rayquaza is said to have lived for hundreds of millions\nof years. Legends remain of how it put to rest\nthe clash between Kyogre and Groudon.",
+  "moves": {
+    "fly": [
+      "level-up",
+      "machine"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "level-up",
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "rest": [
+      "level-up",
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "outrage": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "twister": [
+      "level-up"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "extreme-speed": [
+      "level-up"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "dragon-claw": [
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "dragon-dance": [
+      "level-up"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "dragon-pulse": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "draco-meteor": [
+      "tutor"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "hyper-voice": [
+      "level-up"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "sky-drop": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "dragon-tail": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dragon-ascent": [
+      "tutor"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "air-lock": 1
+  }
+}

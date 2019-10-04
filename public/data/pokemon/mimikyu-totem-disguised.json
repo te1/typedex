@@ -1,0 +1,198 @@
+{
+  "name": "mimikyu-totem-disguised",
+  "caption": "Totem Disguised Mimikyu",
+  "types": [
+    "ghost",
+    "fairy"
+  ],
+  "species": "mimikyu",
+  "gen": "generation-vii",
+  "color": "yellow",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": null,
+  "height": 0.4,
+  "weight": 2.8,
+  "baseStats": {
+    "hp": 55,
+    "attack": 90,
+    "defense": 80,
+    "special-attack": 50,
+    "special-defense": 105,
+    "speed": 96
+  },
+  "flavorText": "Although it’s a quiet, lonely Pokémon, if you try\nto look at what’s under its rag, it will become\nagitated and resist violently.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "mimic": [
+      "level-up"
+    ],
+    "double-team": [
+      "level-up",
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "leech-life": [
+      "machine"
+    ],
+    "splash": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "charm": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "pain-split": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "copycat": [
+      "level-up"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "level-up",
+      "machine"
+    ],
+    "shadow-sneak": [
+      "level-up"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "wood-hammer": [
+      "level-up"
+    ],
+    "hone-claws": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "play-rough": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "baby-doll-eyes": [
+      "level-up"
+    ],
+    "infestation": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "disguise": 1
+  }
+}

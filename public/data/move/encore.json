@@ -1,0 +1,209 @@
+{
+  "name": "encore",
+  "caption": "Encore",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Forces the target to repeat its last used move every turn for 2 to 6 turns.",
+    "full": "The next 4–8 times (selected at random) the target attempts to move, it is forced to repeat its last used move.  If the selected move allows the trainer to select a target, an opponent will be selected at random each turn.  If the target is prevented from using the selected move by some other effect, []{move:struggle} will be used instead.  This effect ends if the selected move runs out of [PP]{mechanic:pp}.\n\nIf the target hasn't used a move since entering the [field]{mechanic:field}, if it tried to use a move this turn and [failed]{mechanic:failed}, if it does not know the selected move, or if the selected move has 0 [PP]{mechanic:pp} remaining, this move will fail.  If the target's last used move was []{move:encore}, []{move:mimic}, []{move:mirror-move}, []{move:sketch}, []{move:struggle}, or []{move:transform}, this move will fail."
+  },
+  "flavorText": "The user compels the target to keep using the move\nit encored for three turns.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror",
+    "authentic",
+    "mental"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "clefairy": [
+      "level-up"
+    ],
+    "psyduck": [
+      "egg"
+    ],
+    "mankey": [
+      "egg"
+    ],
+    "poliwag": [
+      "egg"
+    ],
+    "abra": [
+      "egg"
+    ],
+    "machop": [
+      "egg"
+    ],
+    "bellsprout": [
+      "egg"
+    ],
+    "seel": [
+      "level-up",
+      "egg"
+    ],
+    "dewgong": [
+      "level-up"
+    ],
+    "mr-mime": [
+      "level-up"
+    ],
+    "ledyba": [
+      "egg"
+    ],
+    "pichu": [
+      "egg"
+    ],
+    "cleffa": [
+      "level-up"
+    ],
+    "togepi": [
+      "level-up"
+    ],
+    "togetic": [
+      "level-up"
+    ],
+    "hoppip": [
+      "egg"
+    ],
+    "sunkern": [
+      "egg"
+    ],
+    "wooper": [
+      "egg"
+    ],
+    "shuckle": [
+      "level-up"
+    ],
+    "ralts": [
+      "egg"
+    ],
+    "slakoth": [
+      "level-up"
+    ],
+    "vigoroth": [
+      "level-up"
+    ],
+    "slaking": [
+      "level-up"
+    ],
+    "azurill": [
+      "egg"
+    ],
+    "plusle": [
+      "level-up"
+    ],
+    "minun": [
+      "level-up"
+    ],
+    "volbeat": [
+      "egg"
+    ],
+    "illumise": [
+      "level-up",
+      "egg"
+    ],
+    "gulpin": [
+      "level-up"
+    ],
+    "swalot": [
+      "level-up"
+    ],
+    "spinda": [
+      "egg"
+    ],
+    "wynaut": [
+      "level-up"
+    ],
+    "spheal": [
+      "level-up"
+    ],
+    "sealeo": [
+      "level-up"
+    ],
+    "walrein": [
+      "level-up"
+    ],
+    "chimchar": [
+      "egg"
+    ],
+    "buneary": [
+      "egg"
+    ],
+    "mime-jr": [
+      "level-up"
+    ],
+    "chatot": [
+      "egg"
+    ],
+    "oshawott": [
+      "level-up"
+    ],
+    "dewott": [
+      "level-up"
+    ],
+    "samurott": [
+      "level-up"
+    ],
+    "purrloin": [
+      "egg"
+    ],
+    "audino": [
+      "egg"
+    ],
+    "cottonee": [
+      "egg"
+    ],
+    "petilil": [
+      "egg"
+    ],
+    "darumaka": [
+      "egg"
+    ],
+    "minccino": [
+      "level-up"
+    ],
+    "emolga": [
+      "level-up"
+    ],
+    "cubchoo": [
+      "egg"
+    ],
+    "shelmet": [
+      "egg"
+    ],
+    "amaura": [
+      "level-up"
+    ],
+    "aurorus": [
+      "level-up"
+    ],
+    "hawlucha": [
+      "level-up"
+    ],
+    "popplio": [
+      "level-up"
+    ],
+    "brionne": [
+      "level-up"
+    ],
+    "primarina": [
+      "level-up"
+    ],
+    "salazzle": [
+      "level-up"
+    ],
+    "togedemaru": [
+      "egg"
+    ],
+    "salazzle-totem": [
+      "level-up"
+    ]
+  }
+}

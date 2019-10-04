@@ -1,0 +1,221 @@
+{
+  "name": "pansear",
+  "caption": "Pansear",
+  "types": [
+    "fire"
+  ],
+  "species": "pansear",
+  "gen": "generation-v",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 11,
+  "baseStats": {
+    "hp": 50,
+    "attack": 53,
+    "defense": 48,
+    "special-attack": 53,
+    "special-defense": 48,
+    "speed": 64
+  },
+  "evolutionChain": {
+    "species": "pansear",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "simisear",
+        "triggers": [
+          "use-item"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Very intelligent, it roasts berries before eating them.\nIt likes to help people.",
+  "moves": {
+    "fire-punch": [
+      "egg"
+    ],
+    "scratch": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "low-kick": [
+      "egg"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "fire-spin": [
+      "egg"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "lick": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "level-up",
+      "machine"
+    ],
+    "amnesia": [
+      "level-up"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "egg",
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "heat-wave": [
+      "egg"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "role-play": [
+      "egg"
+    ],
+    "recycle": [
+      "level-up"
+    ],
+    "yawn": [
+      "level-up"
+    ],
+    "astonish": [
+      "egg"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "tickle": [
+      "egg"
+    ],
+    "covet": [
+      "egg"
+    ],
+    "natural-gift": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "level-up",
+      "machine"
+    ],
+    "nasty-plot": [
+      "egg"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "flame-burst": [
+      "level-up"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "incinerate": [
+      "level-up"
+    ],
+    "acrobatics": [
+      "level-up",
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "disarming-voice": [
+      "egg"
+    ],
+    "play-nice": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "fire-pledge": [
+      "tutor"
+    ],
+    "flare-blitz": [
+      "egg"
+    ],
+    "belch": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "gluttony": 1,
+    "blaze": "hidden"
+  }
+}

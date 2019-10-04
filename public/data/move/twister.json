@@ -1,0 +1,93 @@
+{
+  "name": "twister",
+  "caption": "Twister",
+  "type": "dragon",
+  "damageCategory": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a 20% chance to make the target flinch.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 20% chance to make each target [flinch]{mechanic:flinch}.\n\nIf the target is under the effect of []{move:bounce}, []{move:fly}, or []{move:sky-drop}, this move will hit with double power."
+  },
+  "flavorText": "The user whips up a vicious tornado to tear at the\nopposing Pokémon. This may also make them flinch.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "all-opponents",
+  "pokemon": {
+    "pidgey": [
+      "level-up"
+    ],
+    "pidgeotto": [
+      "level-up"
+    ],
+    "pidgeot": [
+      "level-up"
+    ],
+    "horsea": [
+      "level-up"
+    ],
+    "seadra": [
+      "level-up"
+    ],
+    "gyarados": [
+      "level-up"
+    ],
+    "dratini": [
+      "level-up"
+    ],
+    "dragonair": [
+      "level-up"
+    ],
+    "dragonite": [
+      "level-up"
+    ],
+    "mantine": [
+      "egg"
+    ],
+    "kingdra": [
+      "level-up"
+    ],
+    "wingull": [
+      "egg"
+    ],
+    "milotic": [
+      "level-up"
+    ],
+    "bagon": [
+      "egg"
+    ],
+    "rayquaza": [
+      "level-up"
+    ],
+    "gible": [
+      "egg"
+    ],
+    "mantyke": [
+      "egg"
+    ],
+    "snivy": [
+      "egg"
+    ],
+    "dragalge": [
+      "level-up"
+    ],
+    "drampa": [
+      "level-up"
+    ],
+    "gyarados-mega": [
+      "level-up"
+    ],
+    "pidgeot-mega": [
+      "level-up"
+    ],
+    "rayquaza-mega": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "name": "dustox",
+  "caption": "Dustox",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "species": "dustox",
+  "gen": "generation-iii",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.2,
+  "weight": 31.6,
+  "baseStats": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 70,
+    "special-attack": 50,
+    "special-defense": 90,
+    "speed": 65
+  },
+  "evolutionChain": {
+    "species": "wurmple",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "silcoon",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "beautifly",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      },
+      {
+        "species": "cascoon",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "dustox",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Dustox is instinctively drawn to light. Swarms of this Pokémon\nare attracted by the bright lights of cities, where they wreak\nhavoc by stripping the leaves off roadside trees for food.",
+  "moves": {
+    "gust": [
+      "level-up"
+    ],
+    "whirlwind": [
+      "level-up"
+    ],
+    "psybeam": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "level-up",
+      "machine"
+    ],
+    "confusion": [
+      "level-up"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "moonlight": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "silver-wind": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "bug-buzz": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "venoshock": [
+      "level-up",
+      "machine"
+    ],
+    "quiver-dance": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "poison-powder": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "shield-dust": 1,
+    "compound-eyes": "hidden"
+  }
+}

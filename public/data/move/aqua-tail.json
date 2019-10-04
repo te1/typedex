@@ -1,0 +1,176 @@
+{
+  "name": "aqua-tail",
+  "caption": "Aqua Tail",
+  "type": "water",
+  "damageCategory": "physical",
+  "power": 90,
+  "accuracy": 90,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The user attacks by swinging its tail as if it were a\nvicious wave in a raging storm.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "squirtle": [
+      "level-up"
+    ],
+    "wartortle": [
+      "level-up"
+    ],
+    "blastoise": [
+      "level-up"
+    ],
+    "psyduck": [
+      "level-up"
+    ],
+    "golduck": [
+      "level-up"
+    ],
+    "seel": [
+      "level-up"
+    ],
+    "dewgong": [
+      "level-up"
+    ],
+    "goldeen": [
+      "egg"
+    ],
+    "gyarados": [
+      "level-up"
+    ],
+    "dratini": [
+      "level-up"
+    ],
+    "dragonair": [
+      "level-up"
+    ],
+    "dragonite": [
+      "level-up"
+    ],
+    "totodile": [
+      "level-up"
+    ],
+    "croconaw": [
+      "level-up"
+    ],
+    "feraligatr": [
+      "level-up"
+    ],
+    "marill": [
+      "level-up"
+    ],
+    "azumarill": [
+      "level-up"
+    ],
+    "qwilfish": [
+      "level-up"
+    ],
+    "barboach": [
+      "level-up"
+    ],
+    "whiscash": [
+      "level-up"
+    ],
+    "milotic": [
+      "level-up"
+    ],
+    "huntail": [
+      "level-up"
+    ],
+    "gorebyss": [
+      "level-up"
+    ],
+    "relicanth": [
+      "egg"
+    ],
+    "kyogre": [
+      "level-up"
+    ],
+    "bidoof": [
+      "egg"
+    ],
+    "buizel": [
+      "level-up",
+      "egg"
+    ],
+    "floatzel": [
+      "level-up"
+    ],
+    "finneon": [
+      "egg"
+    ],
+    "palkia": [
+      "level-up"
+    ],
+    "oshawott": [
+      "level-up"
+    ],
+    "dewott": [
+      "level-up"
+    ],
+    "samurott": [
+      "level-up"
+    ],
+    "panpour": [
+      "egg"
+    ],
+    "basculin-red-striped": [
+      "level-up"
+    ],
+    "tirtouga": [
+      "level-up"
+    ],
+    "carracosta": [
+      "level-up"
+    ],
+    "minccino": [
+      "egg"
+    ],
+    "keldeo-ordinary": [
+      "level-up"
+    ],
+    "skrelp": [
+      "level-up"
+    ],
+    "dragalge": [
+      "level-up"
+    ],
+    "goodra": [
+      "level-up"
+    ],
+    "wishiwashi-solo": [
+      "level-up"
+    ],
+    "bruxish": [
+      "level-up"
+    ],
+    "basculin-blue-striped": [
+      "level-up"
+    ],
+    "keldeo-resolute": [
+      "level-up"
+    ],
+    "blastoise-mega": [
+      "level-up"
+    ],
+    "gyarados-mega": [
+      "level-up"
+    ],
+    "kyogre-primal": [
+      "level-up"
+    ],
+    "wishiwashi-school": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "name": "power-up-punch",
+  "caption": "Power-Up Punch",
+  "type": "fighting",
+  "damageCategory": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Raises the user's Attack by one stage after inflicting damage.",
+    "full": "Inflicts regular damage.  Raises the user's Attack by one stage."
+  },
+  "flavorText": "Striking opponents over and over makes the user’s\nfists harder. Hitting a target raises the Attack stat.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror",
+    "punch"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "grimer": [
+      "egg"
+    ],
+    "snorlax": [
+      "egg"
+    ],
+    "wooper": [
+      "egg"
+    ],
+    "mawile": [
+      "egg"
+    ],
+    "cacnea": [
+      "egg"
+    ],
+    "kecleon": [
+      "egg"
+    ],
+    "chimchar": [
+      "egg"
+    ],
+    "buneary": [
+      "egg"
+    ],
+    "lucario": [
+      "level-up"
+    ],
+    "timburr": [
+      "egg"
+    ],
+    "scraggy": [
+      "egg"
+    ],
+    "chespin": [
+      "egg"
+    ],
+    "froakie": [
+      "egg"
+    ],
+    "phantump": [
+      "egg"
+    ],
+    "crabrawler": [
+      "level-up"
+    ],
+    "crabominable": [
+      "level-up"
+    ],
+    "buzzwole": [
+      "level-up"
+    ],
+    "lucario-mega": [
+      "level-up"
+    ]
+  }
+}

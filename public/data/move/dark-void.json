@@ -1,0 +1,28 @@
+{
+  "name": "dark-void",
+  "caption": "Dark Void",
+  "type": "dark",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 50,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Puts the target to sleep.",
+    "full": "Puts the target to [sleep]{mechanic:sleep}."
+  },
+  "flavorText": "Opposing Pokémon are dragged into a world of total\ndarkness that makes them sleep.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror"
+  ],
+  "target": "all-opponents",
+  "pokemon": {
+    "darkrai": [
+      "level-up"
+    ]
+  }
+}

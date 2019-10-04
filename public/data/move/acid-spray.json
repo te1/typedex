@@ -1,0 +1,94 @@
+{
+  "name": "acid-spray",
+  "caption": "Acid Spray",
+  "type": "poison",
+  "damageCategory": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Lowers the target's Special Defense by two stages.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Lowers the target's [Special Defense]{mechanic:special-defense} by two [stages]{mechanic:stage}."
+  },
+  "flavorText": "The user spits fluid that works to melt the target.\nThis harshly lowers the target’s Sp. Def stat.",
+  "flags": [
+    "protect",
+    "mirror",
+    "ballistics"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "ekans": [
+      "level-up"
+    ],
+    "arbok": [
+      "level-up"
+    ],
+    "bellsprout": [
+      "egg"
+    ],
+    "tentacool": [
+      "level-up"
+    ],
+    "tentacruel": [
+      "level-up"
+    ],
+    "grimer": [
+      "egg"
+    ],
+    "wooper": [
+      "egg"
+    ],
+    "qwilfish": [
+      "egg"
+    ],
+    "remoraid": [
+      "egg"
+    ],
+    "gulpin": [
+      "level-up"
+    ],
+    "swalot": [
+      "level-up"
+    ],
+    "stunky": [
+      "level-up"
+    ],
+    "skuntank": [
+      "level-up"
+    ],
+    "carnivine": [
+      "egg"
+    ],
+    "scraggy": [
+      "egg"
+    ],
+    "trubbish": [
+      "level-up"
+    ],
+    "garbodor": [
+      "level-up"
+    ],
+    "ferroseed": [
+      "egg"
+    ],
+    "eelektrik": [
+      "level-up"
+    ],
+    "accelgor": [
+      "level-up"
+    ],
+    "nihilego": [
+      "level-up"
+    ],
+    "grimer-alola": [
+      "level-up"
+    ],
+    "muk-alola": [
+      "level-up"
+    ]
+  }
+}

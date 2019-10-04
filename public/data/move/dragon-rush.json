@@ -1,0 +1,89 @@
+{
+  "name": "dragon-rush",
+  "caption": "Dragon Rush",
+  "type": "dragon",
+  "damageCategory": "physical",
+  "power": 100,
+  "accuracy": 75,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a 20% chance to make the target flinch.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 20% chance to make the target []{mechanic:flinch}."
+  },
+  "flavorText": "The user tackles the target while exhibiting\noverwhelming menace. This may also make the\ntarget flinch.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "charmander": [
+      "egg"
+    ],
+    "rhyhorn": [
+      "egg"
+    ],
+    "dratini": [
+      "level-up",
+      "egg"
+    ],
+    "dragonair": [
+      "level-up"
+    ],
+    "dragonite": [
+      "level-up"
+    ],
+    "dunsparce": [
+      "level-up"
+    ],
+    "lugia": [
+      "level-up"
+    ],
+    "aron": [
+      "egg"
+    ],
+    "flygon": [
+      "level-up"
+    ],
+    "swablu": [
+      "egg"
+    ],
+    "bagon": [
+      "egg"
+    ],
+    "gible": [
+      "level-up"
+    ],
+    "gabite": [
+      "level-up"
+    ],
+    "garchomp": [
+      "level-up"
+    ],
+    "deino": [
+      "level-up"
+    ],
+    "zweilous": [
+      "level-up"
+    ],
+    "hydreigon": [
+      "level-up"
+    ],
+    "yveltal": [
+      "level-up"
+    ],
+    "drampa": [
+      "egg"
+    ],
+    "guzzlord": [
+      "level-up"
+    ],
+    "garchomp-mega": [
+      "level-up"
+    ]
+  }
+}

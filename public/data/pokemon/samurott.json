@@ -1,0 +1,205 @@
+{
+  "name": "samurott",
+  "caption": "Samurott",
+  "types": [
+    "water"
+  ],
+  "species": "samurott",
+  "gen": "generation-v",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.5,
+  "weight": 94.6,
+  "baseStats": {
+    "hp": 95,
+    "attack": 100,
+    "defense": 85,
+    "special-attack": 108,
+    "special-defense": 70,
+    "speed": 70
+  },
+  "evolutionChain": {
+    "species": "oshawott",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "dewott",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "samurott",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "In the time it takes a foe to blink, it can draw and\nsheathe the seamitars attached to its front legs.",
+  "moves": {
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "fury-cutter": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "megahorn": [
+      "level-up"
+    ],
+    "encore": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "revenge": [
+      "level-up"
+    ],
+    "hydro-cannon": [
+      "tutor"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "water-sport": [
+      "level-up"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "aqua-tail": [
+      "level-up"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "aqua-jet": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "retaliate": [
+      "level-up"
+    ],
+    "water-pledge": [
+      "tutor"
+    ],
+    "dragon-tail": [
+      "machine"
+    ],
+    "razor-shell": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "smart-strike": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "torrent": 1,
+    "shell-armor": "hidden"
+  }
+}

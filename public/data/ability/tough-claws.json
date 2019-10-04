@@ -1,0 +1,18 @@
+{
+  "name": "tough-claws",
+  "caption": "Tough Claws",
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Strengthens moves that make contact to 1.33× their power.",
+    "full": "Strengthens moves that make contact to 1.33× their power."
+  },
+  "flavorText": "Powers up moves that make direct contact.",
+  "pokemon": {
+    "binacle": 1,
+    "barbaracle": 1,
+    "charizard-mega-x": 1,
+    "aerodactyl-mega": 1,
+    "metagross-mega": 1,
+    "lycanroc-dusk": 1
+  }
+}

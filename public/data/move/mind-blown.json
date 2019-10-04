@@ -1,0 +1,24 @@
+{
+  "name": "mind-blown",
+  "caption": "Mind Blown",
+  "type": "fire",
+  "damageCategory": "special",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {},
+  "flavorText": "The user attacks everything around it by causing its\nown head to explode. This also damages the user.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "all-other-pokemon",
+  "pokemon": {
+    "blacephalon": [
+      "level-up"
+    ]
+  }
+}

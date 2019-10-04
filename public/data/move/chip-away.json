@@ -1,0 +1,148 @@
+{
+  "name": "chip-away",
+  "caption": "Chip Away",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Ignores the target's stat modifiers.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Damage calculation ignores the target's [stat modifiers]{mechanic:stat-modifiers}, including [evasion]{mechanic:evasion}."
+  },
+  "flavorText": "Looking for an opening, the user strikes consistently.\nThe target’s stat changes don’t affect this\nattack’s damage.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "sandshrew": [
+      "egg"
+    ],
+    "nidoran-f": [
+      "egg"
+    ],
+    "nidoqueen": [
+      "level-up"
+    ],
+    "nidoran-m": [
+      "egg"
+    ],
+    "nidoking": [
+      "level-up"
+    ],
+    "krabby": [
+      "egg"
+    ],
+    "cubone": [
+      "egg"
+    ],
+    "lickitung": [
+      "level-up"
+    ],
+    "rhyhorn": [
+      "level-up"
+    ],
+    "rhydon": [
+      "level-up"
+    ],
+    "kangaskhan": [
+      "level-up"
+    ],
+    "snorlax": [
+      "level-up"
+    ],
+    "totodile": [
+      "level-up"
+    ],
+    "croconaw": [
+      "level-up"
+    ],
+    "feraligatr": [
+      "level-up"
+    ],
+    "heracross": [
+      "level-up"
+    ],
+    "teddiursa": [
+      "egg"
+    ],
+    "larvitar": [
+      "level-up"
+    ],
+    "pupitar": [
+      "level-up"
+    ],
+    "tyranitar": [
+      "level-up"
+    ],
+    "slakoth": [
+      "level-up"
+    ],
+    "vigoroth": [
+      "level-up"
+    ],
+    "slaking": [
+      "level-up"
+    ],
+    "makuhita": [
+      "egg"
+    ],
+    "corphish": [
+      "egg"
+    ],
+    "cranidos": [
+      "level-up"
+    ],
+    "rampardos": [
+      "level-up"
+    ],
+    "munchlax": [
+      "level-up"
+    ],
+    "lickilicky": [
+      "level-up"
+    ],
+    "rhyperior": [
+      "level-up"
+    ],
+    "timburr": [
+      "level-up"
+    ],
+    "gurdurr": [
+      "level-up"
+    ],
+    "conkeldurr": [
+      "level-up"
+    ],
+    "basculin-red-striped": [
+      "level-up"
+    ],
+    "scraggy": [
+      "level-up"
+    ],
+    "scrafty": [
+      "level-up"
+    ],
+    "druddigon": [
+      "level-up"
+    ],
+    "basculin-blue-striped": [
+      "level-up"
+    ],
+    "kangaskhan-mega": [
+      "level-up"
+    ],
+    "heracross-mega": [
+      "level-up"
+    ],
+    "tyranitar-mega": [
+      "level-up"
+    ]
+  }
+}

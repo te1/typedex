@@ -1,0 +1,53 @@
+{
+  "name": "sticky-web",
+  "caption": "Sticky Web",
+  "type": "bug",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Covers the opposing field, lowering opponents' Speed by one stage upon switching in.",
+    "full": "Shoots a web over the opponents' side of the field, which lowers the Speed of any opposing Pokémon that enters the field by one stage.\n\nPokémon in the air, such as []{type:flying}-types and those with []{ability:levitate}, are unaffected.  []{move:rapid-spin} removes Sticky Web from the user's side of the field; []{move:defog} removes it from both sides."
+  },
+  "flavorText": "The user weaves a sticky net around the opposing\nteam, which lowers their Speed stat upon switching\ninto battle.",
+  "flags": [
+    "reflectable"
+  ],
+  "target": "opponents-field",
+  "pokemon": {
+    "spinarak": [
+      "level-up"
+    ],
+    "ariados": [
+      "level-up"
+    ],
+    "shuckle": [
+      "level-up"
+    ],
+    "surskit": [
+      "level-up"
+    ],
+    "kricketune": [
+      "level-up"
+    ],
+    "sewaddle": [
+      "level-up"
+    ],
+    "galvantula": [
+      "level-up"
+    ],
+    "swirlix": [
+      "egg"
+    ],
+    "cutiefly": [
+      "egg"
+    ],
+    "dewpider": [
+      "egg"
+    ]
+  }
+}

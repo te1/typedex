@@ -1,0 +1,55 @@
+{
+  "name": "cross-poison",
+  "caption": "Cross Poison",
+  "type": "poison",
+  "damageCategory": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has an increased chance for a critical hit and a 10% chance to poison the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User's [critical hit]{mechanic:critical-hit} rate is one level higher when using this move. Has a 10% chance to [poison]{mechanic:poison} the target."
+  },
+  "flavorText": "A slashing attack with a poisonous blade that may\nalso poison the target. Critical hits land more easily.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "paras": [
+      "egg"
+    ],
+    "parasect": [
+      "level-up"
+    ],
+    "spinarak": [
+      "level-up"
+    ],
+    "ariados": [
+      "level-up"
+    ],
+    "crobat": [
+      "level-up"
+    ],
+    "gligar": [
+      "egg"
+    ],
+    "anorith": [
+      "egg"
+    ],
+    "skorupi": [
+      "level-up"
+    ],
+    "drapion": [
+      "level-up"
+    ],
+    "joltik": [
+      "egg"
+    ]
+  }
+}

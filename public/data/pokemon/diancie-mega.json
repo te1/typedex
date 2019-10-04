@@ -1,0 +1,177 @@
+{
+  "name": "diancie-mega",
+  "caption": "Mega Diancie",
+  "types": [
+    "rock",
+    "fairy"
+  ],
+  "species": "diancie",
+  "gen": "generation-vi",
+  "color": "pink",
+  "default": false,
+  "alternate": false,
+  "mega": true,
+  "height": 1.1,
+  "weight": 27.8,
+  "baseStats": {
+    "hp": 50,
+    "attack": 160,
+    "defense": 110,
+    "special-attack": 160,
+    "special-defense": 110,
+    "speed": 110
+  },
+  "flavorText": "A sudden transformation of Carbink,\nits pink, glimmering body is said to be\nthe loveliest sight in the whole world.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "rock-throw": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "light-screen": [
+      "level-up",
+      "machine"
+    ],
+    "reflect": [
+      "level-up",
+      "machine"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "sharpen": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "level-up",
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "skill-swap": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "trick-room": [
+      "level-up",
+      "machine"
+    ],
+    "stone-edge": [
+      "level-up",
+      "machine"
+    ],
+    "stealth-rock": [
+      "level-up"
+    ],
+    "guard-split": [
+      "level-up"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "smack-down": [
+      "level-up",
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "moonblast": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "diamond-storm": [
+      "level-up"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "power-gem": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "magic-bounce": 1
+  }
+}

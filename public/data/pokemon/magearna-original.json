@@ -1,0 +1,188 @@
+{
+  "name": "magearna-original",
+  "caption": "Original Magearna",
+  "types": [
+    "steel",
+    "fairy"
+  ],
+  "species": "magearna",
+  "gen": "generation-vii",
+  "color": "gray",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": "Original Color",
+  "height": 1,
+  "weight": 80.5,
+  "baseStats": {
+    "hp": 80,
+    "attack": 95,
+    "defense": 115,
+    "special-attack": 130,
+    "special-defense": 115,
+    "speed": 65
+  },
+  "flavorText": "It synchronizes its consciousness with others\nto understand their feelings. This faculty makes\nit useful for taking care of people.",
+  "moves": {
+    "sonic-boom": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "psybeam": [
+      "level-up"
+    ],
+    "aurora-beam": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "mind-reader": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pain-split": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "helping-hand": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "trump-card": [
+      "level-up"
+    ],
+    "lucky-chant": [
+      "level-up"
+    ],
+    "heart-swap": [
+      "level-up"
+    ],
+    "aura-sphere": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "mirror-shot": [
+      "level-up"
+    ],
+    "flash-cannon": [
+      "level-up",
+      "machine"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "iron-head": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "synchronoise": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "shift-gear": [
+      "level-up"
+    ],
+    "volt-switch": [
+      "machine"
+    ],
+    "crafty-shield": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "gear-up": [
+      "level-up"
+    ],
+    "fleur-cannon": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "soul-heart": 1
+  }
+}

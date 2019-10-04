@@ -1,0 +1,108 @@
+{
+  "name": "air-cutter",
+  "caption": "Air Cutter",
+  "type": "flying",
+  "damageCategory": "special",
+  "power": 60,
+  "accuracy": 95,
+  "pp": 25,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has an increased chance for a critical hit.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User's [critical hit]{mechanic:critical-hit} rate is one level higher when using this move."
+  },
+  "flavorText": "The user launches razor-like wind to slash the\nopposing Pokémon. Critical hits land more easily.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "all-opponents",
+  "pokemon": {
+    "charmander": [
+      "egg"
+    ],
+    "pidgey": [
+      "egg"
+    ],
+    "zubat": [
+      "level-up"
+    ],
+    "golbat": [
+      "level-up"
+    ],
+    "farfetchd": [
+      "level-up"
+    ],
+    "crobat": [
+      "level-up"
+    ],
+    "skarmory": [
+      "level-up"
+    ],
+    "beautifly": [
+      "level-up"
+    ],
+    "wingull": [
+      "level-up"
+    ],
+    "masquerain": [
+      "level-up"
+    ],
+    "chatot": [
+      "egg"
+    ],
+    "pidove": [
+      "level-up"
+    ],
+    "tranquill": [
+      "level-up"
+    ],
+    "unfezant": [
+      "level-up"
+    ],
+    "woobat": [
+      "level-up"
+    ],
+    "swoobat": [
+      "level-up"
+    ],
+    "sigilyph": [
+      "level-up"
+    ],
+    "ducklett": [
+      "egg"
+    ],
+    "tornadus-incarnate": [
+      "level-up"
+    ],
+    "noibat": [
+      "level-up"
+    ],
+    "noivern": [
+      "level-up"
+    ],
+    "oricorio-baile": [
+      "level-up"
+    ],
+    "kartana": [
+      "level-up"
+    ],
+    "naganadel": [
+      "level-up"
+    ],
+    "tornadus-therian": [
+      "level-up"
+    ],
+    "oricorio-pom-pom": [
+      "level-up"
+    ],
+    "oricorio-pau": [
+      "level-up"
+    ],
+    "oricorio-sensu": [
+      "level-up"
+    ]
+  }
+}

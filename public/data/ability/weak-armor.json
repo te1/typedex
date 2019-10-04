@@ -1,0 +1,30 @@
+{
+  "name": "weak-armor",
+  "caption": "Weak Armor",
+  "gen": "generation-v",
+  "effect": {
+    "short": "Raises [Speed]{mechanic:speed} and lowers [Defense]{mechanic:defense} by one stage each upon being hit by a physical move.",
+    "full": "Whenever a physical move hits this Pokémon, its [Speed]{mechanic:speed} rises one stage and its [Defense]{mechanic:defense} falls one stage.\n\nThis ability triggers on every hit of a multiple-hit move."
+  },
+  "flavorText": "Physical attacks to the Pokémon lower its Defense\nstat but sharply raise its Speed stat.",
+  "pokemon": {
+    "onix": "hidden",
+    "omanyte": "hidden",
+    "omastar": "hidden",
+    "kabuto": "hidden",
+    "kabutops": "hidden",
+    "slugma": "hidden",
+    "magcargo": "hidden",
+    "skarmory": "hidden",
+    "roggenrola": 2,
+    "boldore": 2,
+    "dwebble": "hidden",
+    "crustle": "hidden",
+    "garbodor": 2,
+    "vanillite": "hidden",
+    "vanillish": "hidden",
+    "vanilluxe": "hidden",
+    "vullaby": "hidden",
+    "mandibuzz": "hidden"
+  }
+}

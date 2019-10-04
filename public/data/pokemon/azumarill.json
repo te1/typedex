@@ -1,0 +1,189 @@
+{
+  "name": "azumarill",
+  "caption": "Azumarill",
+  "types": [
+    "water",
+    "fairy"
+  ],
+  "species": "azumarill",
+  "gen": "generation-ii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.8,
+  "weight": 28.5,
+  "baseStats": {
+    "hp": 100,
+    "attack": 50,
+    "defense": 80,
+    "special-attack": 60,
+    "special-defense": 80,
+    "speed": 50
+  },
+  "evolutionChain": {
+    "species": "azurill",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "marill",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "azumarill",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Azumarill’s long ears are indispensable sensors. By focusing its\nhearing, this Pokémon can identify what kinds of prey are\naround, even in rough and fast-running rivers.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "rollout": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "level-up",
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "aqua-ring": [
+      "level-up"
+    ],
+    "aqua-tail": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "helping-hand": [
+      "level-up"
+    ],
+    "superpower": [
+      "level-up"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "bubble": [
+      "level-up"
+    ],
+    "water-sport": [
+      "level-up"
+    ],
+    "play-rough": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "thick-fat": 1,
+    "huge-power": 2,
+    "sap-sipper": "hidden"
+  }
+}

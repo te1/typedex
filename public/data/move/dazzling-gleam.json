@@ -1,0 +1,463 @@
+{
+  "name": "dazzling-gleam",
+  "caption": "Dazzling Gleam",
+  "type": "fairy",
+  "damageCategory": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The user damages opposing Pokémon by emitting a\npowerful flash.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "all-opponents",
+  "pokemon": {
+    "clefairy": [
+      "machine"
+    ],
+    "clefable": [
+      "machine"
+    ],
+    "jigglypuff": [
+      "machine"
+    ],
+    "wigglytuff": [
+      "machine"
+    ],
+    "oddish": [
+      "machine"
+    ],
+    "gloom": [
+      "machine"
+    ],
+    "vileplume": [
+      "machine"
+    ],
+    "abra": [
+      "machine"
+    ],
+    "kadabra": [
+      "machine"
+    ],
+    "alakazam": [
+      "machine"
+    ],
+    "tentacool": [
+      "machine"
+    ],
+    "tentacruel": [
+      "machine"
+    ],
+    "gastly": [
+      "machine"
+    ],
+    "haunter": [
+      "machine"
+    ],
+    "gengar": [
+      "machine"
+    ],
+    "drowzee": [
+      "machine"
+    ],
+    "hypno": [
+      "machine"
+    ],
+    "chansey": [
+      "machine"
+    ],
+    "staryu": [
+      "machine"
+    ],
+    "starmie": [
+      "machine"
+    ],
+    "mr-mime": [
+      "machine"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "chinchou": [
+      "machine"
+    ],
+    "lanturn": [
+      "machine"
+    ],
+    "togepi": [
+      "machine"
+    ],
+    "togetic": [
+      "machine"
+    ],
+    "natu": [
+      "machine"
+    ],
+    "xatu": [
+      "machine"
+    ],
+    "bellossom": [
+      "machine"
+    ],
+    "hoppip": [
+      "machine"
+    ],
+    "skiploom": [
+      "machine"
+    ],
+    "jumpluff": [
+      "machine"
+    ],
+    "espeon": [
+      "machine"
+    ],
+    "misdreavus": [
+      "machine"
+    ],
+    "girafarig": [
+      "machine"
+    ],
+    "snubbull": [
+      "machine"
+    ],
+    "granbull": [
+      "machine"
+    ],
+    "blissey": [
+      "machine"
+    ],
+    "celebi": [
+      "machine"
+    ],
+    "ralts": [
+      "machine"
+    ],
+    "kirlia": [
+      "machine"
+    ],
+    "gardevoir": [
+      "machine"
+    ],
+    "nosepass": [
+      "machine"
+    ],
+    "sableye": [
+      "machine"
+    ],
+    "volbeat": [
+      "machine"
+    ],
+    "illumise": [
+      "machine"
+    ],
+    "roselia": [
+      "machine"
+    ],
+    "swablu": [
+      "machine"
+    ],
+    "altaria": [
+      "machine"
+    ],
+    "baltoy": [
+      "machine"
+    ],
+    "claydol": [
+      "machine"
+    ],
+    "shuppet": [
+      "machine"
+    ],
+    "banette": [
+      "machine"
+    ],
+    "chimecho": [
+      "machine"
+    ],
+    "jirachi": [
+      "machine"
+    ],
+    "budew": [
+      "machine"
+    ],
+    "roserade": [
+      "machine"
+    ],
+    "cherubi": [
+      "machine"
+    ],
+    "cherrim": [
+      "machine"
+    ],
+    "mismagius": [
+      "machine"
+    ],
+    "chingling": [
+      "machine"
+    ],
+    "togekiss": [
+      "machine"
+    ],
+    "gallade": [
+      "machine"
+    ],
+    "probopass": [
+      "machine"
+    ],
+    "uxie": [
+      "machine"
+    ],
+    "mesprit": [
+      "machine"
+    ],
+    "azelf": [
+      "machine"
+    ],
+    "phione": [
+      "machine"
+    ],
+    "manaphy": [
+      "machine"
+    ],
+    "shaymin-land": [
+      "machine"
+    ],
+    "victini": [
+      "machine"
+    ],
+    "munna": [
+      "machine"
+    ],
+    "musharna": [
+      "machine"
+    ],
+    "audino": [
+      "machine"
+    ],
+    "cottonee": [
+      "machine"
+    ],
+    "whimsicott": [
+      "machine"
+    ],
+    "sigilyph": [
+      "machine"
+    ],
+    "minccino": [
+      "machine"
+    ],
+    "cinccino": [
+      "machine"
+    ],
+    "frillish": [
+      "machine"
+    ],
+    "jellicent": [
+      "machine"
+    ],
+    "meloetta-aria": [
+      "machine"
+    ],
+    "delphox": [
+      "machine"
+    ],
+    "flabebe": [
+      "machine"
+    ],
+    "floette": [
+      "machine"
+    ],
+    "florges": [
+      "machine"
+    ],
+    "spritzee": [
+      "machine"
+    ],
+    "aromatisse": [
+      "machine"
+    ],
+    "swirlix": [
+      "machine"
+    ],
+    "slurpuff": [
+      "machine"
+    ],
+    "sylveon": [
+      "machine"
+    ],
+    "carbink": [
+      "machine"
+    ],
+    "klefki": [
+      "machine"
+    ],
+    "xerneas": [
+      "machine"
+    ],
+    "diancie": [
+      "machine"
+    ],
+    "primarina": [
+      "machine"
+    ],
+    "cutiefly": [
+      "level-up",
+      "machine"
+    ],
+    "ribombee": [
+      "level-up",
+      "machine"
+    ],
+    "morelull": [
+      "machine"
+    ],
+    "shiinotic": [
+      "machine"
+    ],
+    "bounsweet": [
+      "machine"
+    ],
+    "steenee": [
+      "machine"
+    ],
+    "tsareena": [
+      "machine"
+    ],
+    "comfey": [
+      "machine"
+    ],
+    "minior-red-meteor": [
+      "machine"
+    ],
+    "mimikyu-disguised": [
+      "machine"
+    ],
+    "tapu-koko": [
+      "machine"
+    ],
+    "tapu-lele": [
+      "machine"
+    ],
+    "tapu-bulu": [
+      "machine"
+    ],
+    "tapu-fini": [
+      "machine"
+    ],
+    "lunala": [
+      "machine"
+    ],
+    "nihilego": [
+      "machine"
+    ],
+    "xurkitree": [
+      "machine"
+    ],
+    "magearna": [
+      "machine"
+    ],
+    "shaymin-sky": [
+      "machine"
+    ],
+    "meloetta-pirouette": [
+      "machine"
+    ],
+    "alakazam-mega": [
+      "machine"
+    ],
+    "gengar-mega": [
+      "machine"
+    ],
+    "gardevoir-mega": [
+      "machine"
+    ],
+    "banette-mega": [
+      "machine"
+    ],
+    "floette-eternal": [
+      "machine"
+    ],
+    "sableye-mega": [
+      "machine"
+    ],
+    "altaria-mega": [
+      "machine"
+    ],
+    "gallade-mega": [
+      "machine"
+    ],
+    "audino-mega": [
+      "machine"
+    ],
+    "diancie-mega": [
+      "machine"
+    ],
+    "ninetales-alola": [
+      "level-up",
+      "machine"
+    ],
+    "minior-orange-meteor": [
+      "machine"
+    ],
+    "minior-yellow-meteor": [
+      "machine"
+    ],
+    "minior-green-meteor": [
+      "machine"
+    ],
+    "minior-blue-meteor": [
+      "machine"
+    ],
+    "minior-indigo-meteor": [
+      "machine"
+    ],
+    "minior-violet-meteor": [
+      "machine"
+    ],
+    "minior-red": [
+      "machine"
+    ],
+    "minior-orange": [
+      "machine"
+    ],
+    "minior-yellow": [
+      "machine"
+    ],
+    "minior-green": [
+      "machine"
+    ],
+    "minior-blue": [
+      "machine"
+    ],
+    "minior-indigo": [
+      "machine"
+    ],
+    "minior-violet": [
+      "machine"
+    ],
+    "mimikyu-busted": [
+      "machine"
+    ],
+    "mimikyu-totem-disguised": [
+      "machine"
+    ],
+    "mimikyu-totem-busted": [
+      "machine"
+    ],
+    "magearna-original": [
+      "machine"
+    ],
+    "ribombee-totem": [
+      "level-up",
+      "machine"
+    ]
+  }
+}

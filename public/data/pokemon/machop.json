@@ -1,0 +1,241 @@
+{
+  "name": "machop",
+  "caption": "Machop",
+  "types": [
+    "fighting"
+  ],
+  "species": "machop",
+  "gen": "generation-i",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.8,
+  "weight": 19.5,
+  "baseStats": {
+    "hp": 70,
+    "attack": 80,
+    "defense": 50,
+    "special-attack": 35,
+    "special-defense": 35,
+    "speed": 35
+  },
+  "evolutionChain": {
+    "species": "machop",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "machoke",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "machamp",
+            "triggers": [
+              "trade"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Once this Pokémon has gained enough\nconfidence and muscle from training with its\nfriends, it challenges Makuhita to a battle.",
+  "moves": {
+    "karate-chop": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "submission": [
+      "level-up"
+    ],
+    "low-kick": [
+      "level-up"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "seismic-toss": [
+      "level-up"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "fire-punch": [
+      "egg"
+    ],
+    "ice-punch": [
+      "egg"
+    ],
+    "thunder-punch": [
+      "egg"
+    ],
+    "rolling-kick": [
+      "egg"
+    ],
+    "meditate": [
+      "egg"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "foresight": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "dynamic-punch": [
+      "level-up"
+    ],
+    "encore": [
+      "egg"
+    ],
+    "vital-throw": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "cross-chop": [
+      "level-up"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "smelling-salts": [
+      "egg"
+    ],
+    "revenge": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "bulk-up": [
+      "level-up",
+      "machine"
+    ],
+    "wake-up-slap": [
+      "level-up"
+    ],
+    "close-combat": [
+      "egg"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "bullet-punch": [
+      "egg"
+    ],
+    "power-trick": [
+      "egg"
+    ],
+    "knock-off": [
+      "level-up",
+      "egg"
+    ],
+    "tickle": [
+      "egg"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "heavy-slam": [
+      "egg"
+    ],
+    "low-sweep": [
+      "level-up",
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "dual-chop": [
+      "level-up"
+    ],
+    "quick-guard": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "guts": 1,
+    "no-guard": 2,
+    "steadfast": "hidden"
+  }
+}

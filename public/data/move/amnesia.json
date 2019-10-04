@@ -1,0 +1,257 @@
+{
+  "name": "amnesia",
+  "caption": "Amnesia",
+  "type": "psychic",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Raises the user's Special Defense by two stages.",
+    "full": "Raises the user's [Special Defense]{mechanic:special-defense} by two [stages]{mechanic:stage}."
+  },
+  "flavorText": "The user temporarily empties its mind to forget its\nconcerns. This sharply raises the user’s Sp. Def stat.",
+  "flags": [
+    "snatch"
+  ],
+  "target": "user",
+  "pokemon": {
+    "bulbasaur": [
+      "egg"
+    ],
+    "nidoran-m": [
+      "egg"
+    ],
+    "meowth": [
+      "egg"
+    ],
+    "psyduck": [
+      "level-up"
+    ],
+    "golduck": [
+      "level-up"
+    ],
+    "slowpoke": [
+      "level-up"
+    ],
+    "slowbro": [
+      "level-up"
+    ],
+    "krabby": [
+      "egg"
+    ],
+    "lickitung": [
+      "egg"
+    ],
+    "tangela": [
+      "egg"
+    ],
+    "snorlax": [
+      "level-up"
+    ],
+    "mewtwo": [
+      "level-up"
+    ],
+    "mew": [
+      "level-up"
+    ],
+    "sentret": [
+      "level-up"
+    ],
+    "furret": [
+      "level-up"
+    ],
+    "chinchou": [
+      "egg"
+    ],
+    "cleffa": [
+      "egg"
+    ],
+    "marill": [
+      "egg"
+    ],
+    "hoppip": [
+      "egg"
+    ],
+    "wooper": [
+      "level-up"
+    ],
+    "quagsire": [
+      "level-up"
+    ],
+    "girafarig": [
+      "egg"
+    ],
+    "slugma": [
+      "level-up"
+    ],
+    "magcargo": [
+      "level-up"
+    ],
+    "swinub": [
+      "level-up"
+    ],
+    "piloswine": [
+      "level-up"
+    ],
+    "corsola": [
+      "egg"
+    ],
+    "mantine": [
+      "egg"
+    ],
+    "seedot": [
+      "egg"
+    ],
+    "slakoth": [
+      "level-up"
+    ],
+    "slaking": [
+      "level-up"
+    ],
+    "gulpin": [
+      "level-up"
+    ],
+    "swalot": [
+      "level-up"
+    ],
+    "wailmer": [
+      "level-up"
+    ],
+    "wailord": [
+      "level-up"
+    ],
+    "numel": [
+      "level-up"
+    ],
+    "camerupt": [
+      "level-up"
+    ],
+    "torkoal": [
+      "level-up"
+    ],
+    "spoink": [
+      "egg"
+    ],
+    "barboach": [
+      "level-up"
+    ],
+    "whiscash": [
+      "level-up"
+    ],
+    "lileep": [
+      "level-up"
+    ],
+    "cradily": [
+      "level-up"
+    ],
+    "castform": [
+      "egg"
+    ],
+    "gorebyss": [
+      "level-up"
+    ],
+    "relicanth": [
+      "egg"
+    ],
+    "regice": [
+      "level-up"
+    ],
+    "registeel": [
+      "level-up"
+    ],
+    "turtwig": [
+      "egg"
+    ],
+    "bidoof": [
+      "level-up"
+    ],
+    "bibarel": [
+      "level-up"
+    ],
+    "shellos": [
+      "egg"
+    ],
+    "drifloon": [
+      "level-up"
+    ],
+    "drifblim": [
+      "level-up"
+    ],
+    "munchlax": [
+      "level-up"
+    ],
+    "mantyke": [
+      "egg"
+    ],
+    "uxie": [
+      "level-up"
+    ],
+    "pansear": [
+      "level-up"
+    ],
+    "woobat": [
+      "level-up"
+    ],
+    "swoobat": [
+      "level-up"
+    ],
+    "audino": [
+      "egg"
+    ],
+    "scraggy": [
+      "egg"
+    ],
+    "trubbish": [
+      "level-up"
+    ],
+    "garbodor": [
+      "level-up"
+    ],
+    "bouffalant": [
+      "egg"
+    ],
+    "heatmor": [
+      "level-up"
+    ],
+    "larvesta": [
+      "level-up"
+    ],
+    "volcarona": [
+      "level-up"
+    ],
+    "popplio": [
+      "egg"
+    ],
+    "crabrawler": [
+      "egg"
+    ],
+    "morelull": [
+      "egg"
+    ],
+    "comfey": [
+      "egg"
+    ],
+    "sandygast": [
+      "egg"
+    ],
+    "deoxys-defense": [
+      "level-up"
+    ],
+    "mewtwo-mega-x": [
+      "level-up"
+    ],
+    "mewtwo-mega-y": [
+      "level-up"
+    ],
+    "slowbro-mega": [
+      "level-up"
+    ],
+    "camerupt-mega": [
+      "level-up"
+    ]
+  }
+}

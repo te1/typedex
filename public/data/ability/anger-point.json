@@ -1,0 +1,21 @@
+{
+  "name": "anger-point",
+  "caption": "Anger Point",
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Raises [Attack]{mechanic:attack} to the maximum of six [stages]{mechanic:stat-modifier} upon receiving a [critical hit]{mechanic:critical-hit}.",
+    "full": "Whenever this Pokémon receives a [critical hit]{mechanic:critical-hit}, its [Attack]{mechanic:attack} rises to the maximum of 6 [stages]{mechanic:stat-modifier}.\n\nThis ability will still take effect if the critical hit is received by a []{move:substitute}."
+  },
+  "flavorText": "The Pokémon is angered when it takes a critical hit,\nand that maxes its Attack stat.",
+  "pokemon": {
+    "mankey": 2,
+    "primeape": 2,
+    "tauros": 2,
+    "camerupt": "hidden",
+    "sandile": "hidden",
+    "krokorok": "hidden",
+    "krookodile": "hidden",
+    "crabrawler": "hidden",
+    "crabominable": "hidden"
+  }
+}

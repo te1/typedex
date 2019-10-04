@@ -1,0 +1,209 @@
+{
+  "name": "victini",
+  "caption": "Victini",
+  "types": [
+    "psychic",
+    "fire"
+  ],
+  "species": "victini",
+  "gen": "generation-v",
+  "color": "yellow",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 4,
+  "baseStats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "special-attack": 100,
+    "special-defense": 100,
+    "speed": 100
+  },
+  "flavorText": "This Pokémon brings victory. It is said that Trainers\nwith Victini always win, regardless of the type\nof encounter.",
+  "moves": {
+    "headbutt": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "confusion": [
+      "level-up"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "reversal": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "endure": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "overheat": [
+      "level-up",
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "flare-blitz": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "zen-headbutt": [
+      "level-up"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "flame-burst": [
+      "level-up"
+    ],
+    "flame-charge": [
+      "level-up",
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "stored-power": [
+      "level-up"
+    ],
+    "incinerate": [
+      "level-up"
+    ],
+    "final-gambit": [
+      "level-up"
+    ],
+    "inferno": [
+      "level-up"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "searing-shot": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "victory-star": 1
+  }
+}

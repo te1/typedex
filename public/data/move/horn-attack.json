@@ -1,0 +1,67 @@
+{
+  "name": "horn-attack",
+  "caption": "Horn Attack",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 25,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The target is jabbed with a sharply pointed horn to\ninflict damage.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "nidoran-m": [
+      "level-up"
+    ],
+    "nidorino": [
+      "level-up"
+    ],
+    "rhyhorn": [
+      "level-up"
+    ],
+    "rhydon": [
+      "level-up"
+    ],
+    "goldeen": [
+      "level-up"
+    ],
+    "seaking": [
+      "level-up"
+    ],
+    "tauros": [
+      "level-up"
+    ],
+    "heracross": [
+      "level-up"
+    ],
+    "donphan": [
+      "level-up"
+    ],
+    "rhyperior": [
+      "level-up"
+    ],
+    "karrablast": [
+      "egg"
+    ],
+    "bouffalant": [
+      "level-up"
+    ],
+    "tapu-bulu": [
+      "level-up"
+    ],
+    "heracross-mega": [
+      "level-up"
+    ]
+  }
+}

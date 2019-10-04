@@ -1,0 +1,213 @@
+{
+  "name": "medicham",
+  "caption": "Medicham",
+  "types": [
+    "fighting",
+    "psychic"
+  ],
+  "species": "medicham",
+  "gen": "generation-iii",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 1.3,
+  "weight": 31.5,
+  "baseStats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 75,
+    "special-attack": 60,
+    "special-defense": 75,
+    "speed": 80
+  },
+  "evolutionChain": {
+    "species": "meditite",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "medicham",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It is said that through meditation, Medicham heightens energy\ninside its body and sharpens its sixth sense. This Pokémon\nhides its presence by merging itself with fields and mountains.",
+  "moves": {
+    "fire-punch": [
+      "level-up"
+    ],
+    "ice-punch": [
+      "level-up"
+    ],
+    "thunder-punch": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "confusion": [
+      "level-up"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "meditate": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "recover": [
+      "level-up"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "high-jump-kick": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "mind-reader": [
+      "level-up"
+    ],
+    "reversal": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "detect": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "level-up",
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "level-up",
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "calm-mind": [
+      "level-up",
+      "machine"
+    ],
+    "counter": [
+      "level-up"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "endure": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "feint": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "power-trick": [
+      "level-up"
+    ],
+    "force-palm": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "zen-headbutt": [
+      "level-up"
+    ],
+    "acupressure": [
+      "level-up"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "pure-power": 1,
+    "telepathy": "hidden"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "name": "dynamic-punch",
+  "caption": "Dynamic Punch",
+  "type": "fighting",
+  "damageCategory": "physical",
+  "power": 100,
+  "accuracy": 50,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a 100% chance to confuse the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 100% chance to [confuse]{mechanic:confuse} the target."
+  },
+  "flavorText": "The user punches the target with full, concentrated\npower. This confuses the target if it hits.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror",
+    "punch"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "poliwrath": [
+      "level-up"
+    ],
+    "machop": [
+      "level-up"
+    ],
+    "machoke": [
+      "level-up"
+    ],
+    "machamp": [
+      "level-up"
+    ],
+    "elekid": [
+      "egg"
+    ],
+    "magby": [
+      "egg"
+    ],
+    "breloom": [
+      "level-up"
+    ],
+    "makuhita": [
+      "egg"
+    ],
+    "meditite": [
+      "egg"
+    ],
+    "cacnea": [
+      "egg"
+    ],
+    "croagunk": [
+      "egg"
+    ],
+    "timburr": [
+      "level-up"
+    ],
+    "gurdurr": [
+      "level-up"
+    ],
+    "conkeldurr": [
+      "level-up"
+    ],
+    "golett": [
+      "level-up"
+    ],
+    "golurk": [
+      "level-up"
+    ],
+    "crabrawler": [
+      "level-up"
+    ],
+    "crabominable": [
+      "level-up"
+    ],
+    "buzzwole": [
+      "level-up"
+    ]
+  }
+}

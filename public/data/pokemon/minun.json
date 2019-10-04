@@ -1,0 +1,184 @@
+{
+  "name": "minun",
+  "caption": "Minun",
+  "types": [
+    "electric"
+  ],
+  "species": "minun",
+  "gen": "generation-iii",
+  "color": "yellow",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 4.2,
+  "baseStats": {
+    "hp": 60,
+    "attack": 40,
+    "defense": 50,
+    "special-attack": 75,
+    "special-defense": 85,
+    "speed": 95
+  },
+  "flavorText": "Minun is more concerned about cheering on its partners than\nits own safety. It shorts out the electricity in its body to create\nbrilliant showers of sparks to cheer on its teammates.",
+  "moves": {
+    "growl": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "level-up",
+      "machine"
+    ],
+    "thunder": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "charm": [
+      "egg"
+    ],
+    "spark": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "baton-pass": [
+      "level-up"
+    ],
+    "encore": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "charge": [
+      "level-up"
+    ],
+    "helping-hand": [
+      "level-up"
+    ],
+    "wish": [
+      "egg"
+    ],
+    "swift": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "sing": [
+      "egg"
+    ],
+    "sweet-kiss": [
+      "egg"
+    ],
+    "fake-tears": [
+      "level-up",
+      "egg"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "trump-card": [
+      "level-up"
+    ],
+    "copycat": [
+      "level-up"
+    ],
+    "nasty-plot": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "discharge": [
+      "level-up",
+      "egg"
+    ],
+    "lucky-chant": [
+      "egg"
+    ],
+    "electro-ball": [
+      "level-up"
+    ],
+    "entrainment": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "volt-switch": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "play-nice": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "nuzzle": [
+      "level-up"
+    ],
+    "switcheroo": [
+      "level-up"
+    ],
+    "tearful-look": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "minus": 1,
+    "volt-absorb": "hidden"
+  }
+}

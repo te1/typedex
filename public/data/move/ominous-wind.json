@@ -1,0 +1,106 @@
+{
+  "name": "ominous-wind",
+  "caption": "Ominous Wind",
+  "type": "ghost",
+  "damageCategory": "special",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a 10% chance to raise all of the user's stats by one stage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}. Has a 10% chance to raise all of the user's stats one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user blasts the target with a gust of repulsive\nwind. This may also raise all the user’s stats at once.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "natu": [
+      "level-up"
+    ],
+    "xatu": [
+      "level-up"
+    ],
+    "misdreavus": [
+      "egg"
+    ],
+    "masquerain": [
+      "level-up"
+    ],
+    "castform": [
+      "egg"
+    ],
+    "shuppet": [
+      "egg"
+    ],
+    "duskull": [
+      "egg"
+    ],
+    "drifloon": [
+      "level-up"
+    ],
+    "drifblim": [
+      "level-up"
+    ],
+    "spiritomb": [
+      "level-up"
+    ],
+    "froslass": [
+      "level-up"
+    ],
+    "rotom": [
+      "level-up"
+    ],
+    "giratina-altered": [
+      "level-up"
+    ],
+    "darkrai": [
+      "level-up"
+    ],
+    "yamask": [
+      "level-up"
+    ],
+    "cofagrigus": [
+      "level-up"
+    ],
+    "frillish": [
+      "level-up"
+    ],
+    "jellicent": [
+      "level-up"
+    ],
+    "rowlet": [
+      "level-up",
+      "egg"
+    ],
+    "dartrix": [
+      "level-up"
+    ],
+    "decidueye": [
+      "level-up"
+    ],
+    "giratina-origin": [
+      "level-up"
+    ],
+    "rotom-heat": [
+      "level-up"
+    ],
+    "rotom-wash": [
+      "level-up"
+    ],
+    "rotom-frost": [
+      "level-up"
+    ],
+    "rotom-fan": [
+      "level-up"
+    ],
+    "rotom-mow": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "grass-pelt",
+  "caption": "Grass Pelt",
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Boosts Defense while []{move:grassy-terrain} is in effect.",
+    "full": "Boosts Defense while []{move:grassy-terrain} is in effect."
+  },
+  "flavorText": "Boosts the Pokémon’s Defense stat in \nGrassy Terrain.",
+  "pokemon": {
+    "skiddo": "hidden",
+    "gogoat": "hidden"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "name": "venusaur-mega",
+  "caption": "Mega Venusaur",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "species": "venusaur",
+  "gen": "generation-i",
+  "color": "green",
+  "default": false,
+  "alternate": false,
+  "mega": true,
+  "height": 2.4,
+  "weight": 155.5,
+  "baseStats": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 123,
+    "special-attack": 122,
+    "special-defense": 120,
+    "speed": 80
+  },
+  "evolutionChain": {
+    "species": "bulbasaur",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "ivysaur",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "venusaur",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "There is a large flower on Venusaur’s back. The flower is said\nto take on vivid colors if it gets plenty of nutrition and sunlight.\nThe flower’s aroma soothes the emotions of people.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "vine-whip": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "leech-seed": [
+      "level-up"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "razor-leaf": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "level-up",
+      "machine"
+    ],
+    "poison-powder": [
+      "level-up"
+    ],
+    "sleep-powder": [
+      "level-up"
+    ],
+    "petal-dance": [
+      "level-up"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "synthesis": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "frenzy-plant": [
+      "tutor"
+    ],
+    "worry-seed": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "grass-pledge": [
+      "tutor"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "petal-blizzard": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "thick-fat": 1
+  }
+}

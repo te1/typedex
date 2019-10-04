@@ -1,0 +1,210 @@
+{
+  "name": "darumaka",
+  "caption": "Darumaka",
+  "types": [
+    "fire"
+  ],
+  "species": "darumaka",
+  "gen": "generation-v",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 37.5,
+  "baseStats": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 45,
+    "special-attack": 15,
+    "special-defense": 45,
+    "speed": 50
+  },
+  "evolutionChain": {
+    "species": "darumaka",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "darmanitan",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Darumaka’s droppings are hot, so people used to\nput them in their clothes to keep themselves warm.",
+  "moves": {
+    "fire-punch": [
+      "level-up"
+    ],
+    "headbutt": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "egg"
+    ],
+    "thrash": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "rage": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "egg"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "flame-wheel": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "belly-drum": [
+      "level-up"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "rollout": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "egg",
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "encore": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "uproar": [
+      "level-up"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "level-up",
+      "machine"
+    ],
+    "focus-punch": [
+      "egg"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "superpower": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "yawn": [
+      "egg"
+    ],
+    "overheat": [
+      "level-up",
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "hammer-arm": [
+      "egg"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "flare-blitz": [
+      "level-up"
+    ],
+    "fire-fang": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "incinerate": [
+      "level-up"
+    ],
+    "work-up": [
+      "level-up",
+      "machine"
+    ],
+    "snatch": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "extrasensory": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "hustle": 1,
+    "inner-focus": "hidden"
+  }
+}

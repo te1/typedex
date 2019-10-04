@@ -1,0 +1,254 @@
+{
+  "name": "mawile",
+  "caption": "Mawile",
+  "types": [
+    "steel",
+    "fairy"
+  ],
+  "species": "mawile",
+  "gen": "generation-iii",
+  "color": "black",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 0.6,
+  "weight": 11.5,
+  "baseStats": {
+    "hp": 50,
+    "attack": 85,
+    "defense": 85,
+    "special-attack": 55,
+    "special-defense": 55,
+    "speed": 50
+  },
+  "flavorText": "A cunning and terrifying Pokémon, its cuteness\nmakes opponents let down their guard—and\nthen it swallows them whole with its huge jaws.",
+  "moves": {
+    "vice-grip": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "baton-pass": [
+      "level-up"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "ancient-power": [
+      "egg"
+    ],
+    "stockpile": [
+      "level-up"
+    ],
+    "spit-up": [
+      "level-up"
+    ],
+    "swallow": [
+      "level-up"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "poison-fang": [
+      "egg"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "fake-tears": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "tickle": [
+      "egg"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "seismic-toss": [
+      "egg"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "punishment": [
+      "egg"
+    ],
+    "sucker-punch": [
+      "level-up",
+      "egg"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "thunder-fang": [
+      "egg"
+    ],
+    "ice-fang": [
+      "egg"
+    ],
+    "fire-fang": [
+      "egg"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "iron-head": [
+      "level-up"
+    ],
+    "captivate": [
+      "egg"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "guard-swap": [
+      "egg"
+    ],
+    "slam": [
+      "egg"
+    ],
+    "metal-burst": [
+      "egg"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "misty-terrain": [
+      "egg"
+    ],
+    "play-rough": [
+      "level-up"
+    ],
+    "fairy-wind": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "power-up-punch": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "hyper-cutter": 1,
+    "intimidate": 2,
+    "sheer-force": "hidden"
+  }
+}

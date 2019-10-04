@@ -1,0 +1,188 @@
+{
+  "name": "carnivine",
+  "caption": "Carnivine",
+  "types": [
+    "grass"
+  ],
+  "species": "carnivine",
+  "gen": "generation-iv",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.4,
+  "weight": 27,
+  "baseStats": {
+    "hp": 74,
+    "attack": 100,
+    "defense": 72,
+    "special-attack": 90,
+    "special-defense": 72,
+    "speed": 46
+  },
+  "flavorText": "It attracts prey with its sweet-smelling saliva, then\nchomps down. It takes a whole day to eat prey.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "bind": [
+      "level-up"
+    ],
+    "slam": [
+      "egg"
+    ],
+    "vine-whip": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "leech-seed": [
+      "egg"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "razor-leaf": [
+      "egg"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "stun-spore": [
+      "egg"
+    ],
+    "sleep-powder": [
+      "egg"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "giga-drain": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "synthesis": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "stockpile": [
+      "level-up"
+    ],
+    "spit-up": [
+      "level-up"
+    ],
+    "swallow": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "ingrain": [
+      "level-up"
+    ],
+    "magical-leaf": [
+      "egg"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "wring-out": [
+      "level-up"
+    ],
+    "worry-seed": [
+      "egg"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "power-whip": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "grass-whistle": [
+      "egg"
+    ],
+    "rage-powder": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "leaf-tornado": [
+      "level-up"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "acid-spray": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "levitate": 1
+  }
+}

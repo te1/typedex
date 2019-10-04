@@ -1,0 +1,146 @@
+{
+  "name": "close-combat",
+  "caption": "Close Combat",
+  "type": "fighting",
+  "damageCategory": "physical",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Lowers the user's Defense and Special Defense by one stage after inflicting damage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}, then lowers the user's [Defense]{mechanic:defense} and [Special Defense]{mechanic:special-defense} by one [stage]{mechanic:stage} each."
+  },
+  "flavorText": "The user fights the target up close without guarding\nitself. This also lowers the user’s Defense and\nSp. Def stats.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "mankey": [
+      "level-up",
+      "egg"
+    ],
+    "primeape": [
+      "level-up"
+    ],
+    "growlithe": [
+      "egg"
+    ],
+    "machop": [
+      "egg"
+    ],
+    "hitmonlee": [
+      "level-up"
+    ],
+    "hitmonchan": [
+      "level-up"
+    ],
+    "pinsir": [
+      "egg"
+    ],
+    "snubbull": [
+      "egg"
+    ],
+    "heracross": [
+      "level-up"
+    ],
+    "teddiursa": [
+      "egg"
+    ],
+    "hitmontop": [
+      "level-up"
+    ],
+    "makuhita": [
+      "level-up"
+    ],
+    "hariyama": [
+      "level-up"
+    ],
+    "zangoose": [
+      "level-up"
+    ],
+    "monferno": [
+      "level-up"
+    ],
+    "infernape": [
+      "level-up"
+    ],
+    "staraptor": [
+      "level-up"
+    ],
+    "lucario": [
+      "level-up"
+    ],
+    "gallade": [
+      "level-up"
+    ],
+    "sawk": [
+      "level-up"
+    ],
+    "cobalion": [
+      "level-up"
+    ],
+    "terrakion": [
+      "level-up"
+    ],
+    "virizion": [
+      "level-up"
+    ],
+    "keldeo-ordinary": [
+      "level-up"
+    ],
+    "meloetta-aria": [
+      "level-up"
+    ],
+    "xerneas": [
+      "level-up"
+    ],
+    "crabrawler": [
+      "level-up"
+    ],
+    "crabominable": [
+      "level-up"
+    ],
+    "mudbray": [
+      "egg"
+    ],
+    "passimian": [
+      "level-up"
+    ],
+    "hakamo-o": [
+      "level-up"
+    ],
+    "kommo-o": [
+      "level-up"
+    ],
+    "marshadow": [
+      "level-up"
+    ],
+    "zeraora": [
+      "level-up"
+    ],
+    "meloetta-pirouette": [
+      "level-up"
+    ],
+    "keldeo-resolute": [
+      "level-up"
+    ],
+    "heracross-mega": [
+      "level-up"
+    ],
+    "lucario-mega": [
+      "level-up"
+    ],
+    "gallade-mega": [
+      "level-up"
+    ],
+    "kommo-o-totem": [
+      "level-up"
+    ]
+  }
+}

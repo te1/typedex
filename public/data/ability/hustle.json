@@ -1,0 +1,33 @@
+{
+  "name": "hustle",
+  "caption": "Hustle",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Strengthens physical moves to inflict 1.5× damage, but decreases their [accuracy]{mechanic:accuracy} to 0.8×.",
+    "full": "This Pokémon's physical moves do 1.5× as much [regular damage]{mechanic:regular-damage}, but have 0.8× their usual [accuracy]{mechanic:accuracy}.\n\nSpecial moves are unaffected.  Moves that do set damage, such as []{move:seismic-toss}, have their accuracy affected, but not their damage.\n\nOverworld: If the lead Pokémon has this ability, higher-levelled Pokémon have their encounter rate increased."
+  },
+  "flavorText": "Boosts the Attack stat, but lowers accuracy.",
+  "pokemon": {
+    "rattata": "hidden",
+    "raticate": "hidden",
+    "nidoran-f": "hidden",
+    "nidorina": "hidden",
+    "nidoran-m": "hidden",
+    "nidorino": "hidden",
+    "togepi": 1,
+    "togetic": 1,
+    "corsola": 1,
+    "remoraid": 1,
+    "delibird": 2,
+    "combee": "hidden",
+    "togekiss": 1,
+    "darumaka": 1,
+    "rufflet": "hidden",
+    "durant": 2,
+    "deino": 1,
+    "zweilous": 1,
+    "rattata-alola": 2,
+    "raticate-alola": 2,
+    "raticate-totem-alola": 2
+  }
+}

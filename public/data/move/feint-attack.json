@@ -1,0 +1,340 @@
+{
+  "name": "feint-attack",
+  "caption": "Feint Attack",
+  "type": "dark",
+  "damageCategory": "physical",
+  "power": 60,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Never misses.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers."
+  },
+  "flavorText": "The user approaches the target disarmingly, then\nthrows a sucker punch. This attack never misses.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "pidgey": [
+      "egg"
+    ],
+    "spearow": [
+      "egg"
+    ],
+    "vulpix": [
+      "level-up",
+      "egg"
+    ],
+    "zubat": [
+      "egg"
+    ],
+    "diglett": [
+      "egg"
+    ],
+    "meowth": [
+      "level-up"
+    ],
+    "persian": [
+      "level-up"
+    ],
+    "doduo": [
+      "egg"
+    ],
+    "magmar": [
+      "level-up"
+    ],
+    "pinsir": [
+      "egg"
+    ],
+    "hoothoot": [
+      "egg"
+    ],
+    "igglybuff": [
+      "egg"
+    ],
+    "natu": [
+      "egg"
+    ],
+    "sudowoodo": [
+      "level-up"
+    ],
+    "yanma": [
+      "egg"
+    ],
+    "umbreon": [
+      "level-up"
+    ],
+    "murkrow": [
+      "level-up",
+      "egg"
+    ],
+    "gligar": [
+      "level-up"
+    ],
+    "snubbull": [
+      "egg"
+    ],
+    "sneasel": [
+      "level-up"
+    ],
+    "teddiursa": [
+      "level-up"
+    ],
+    "ursaring": [
+      "level-up"
+    ],
+    "houndour": [
+      "level-up"
+    ],
+    "houndoom": [
+      "level-up"
+    ],
+    "magby": [
+      "level-up"
+    ],
+    "nuzleaf": [
+      "level-up"
+    ],
+    "shiftry": [
+      "level-up"
+    ],
+    "slakoth": [
+      "level-up"
+    ],
+    "slaking": [
+      "level-up"
+    ],
+    "nincada": [
+      "egg"
+    ],
+    "makuhita": [
+      "egg"
+    ],
+    "skitty": [
+      "level-up"
+    ],
+    "sableye": [
+      "level-up"
+    ],
+    "mawile": [
+      "level-up"
+    ],
+    "spinda": [
+      "level-up"
+    ],
+    "trapinch": [
+      "level-up"
+    ],
+    "vibrava": [
+      "level-up"
+    ],
+    "flygon": [
+      "level-up"
+    ],
+    "cacnea": [
+      "level-up"
+    ],
+    "cacturne": [
+      "level-up"
+    ],
+    "kecleon": [
+      "level-up"
+    ],
+    "shuppet": [
+      "level-up"
+    ],
+    "banette": [
+      "level-up"
+    ],
+    "duskull": [
+      "egg"
+    ],
+    "absol": [
+      "egg"
+    ],
+    "huntail": [
+      "level-up"
+    ],
+    "glameow": [
+      "level-up"
+    ],
+    "purugly": [
+      "level-up"
+    ],
+    "bronzor": [
+      "level-up"
+    ],
+    "bronzong": [
+      "level-up"
+    ],
+    "bonsly": [
+      "level-up"
+    ],
+    "spiritomb": [
+      "level-up"
+    ],
+    "skorupi": [
+      "egg"
+    ],
+    "croagunk": [
+      "level-up"
+    ],
+    "toxicroak": [
+      "level-up"
+    ],
+    "carnivine": [
+      "level-up"
+    ],
+    "weavile": [
+      "level-up"
+    ],
+    "magmortar": [
+      "level-up"
+    ],
+    "gliscor": [
+      "level-up"
+    ],
+    "darkrai": [
+      "level-up"
+    ],
+    "purrloin": [
+      "egg"
+    ],
+    "dwebble": [
+      "level-up"
+    ],
+    "crustle": [
+      "level-up"
+    ],
+    "scraggy": [
+      "level-up",
+      "egg"
+    ],
+    "scrafty": [
+      "level-up"
+    ],
+    "zorua": [
+      "level-up"
+    ],
+    "zoroark": [
+      "level-up"
+    ],
+    "gothita": [
+      "level-up"
+    ],
+    "gothorita": [
+      "level-up"
+    ],
+    "gothitelle": [
+      "level-up"
+    ],
+    "deerling": [
+      "level-up"
+    ],
+    "sawsbuck": [
+      "level-up"
+    ],
+    "karrablast": [
+      "egg"
+    ],
+    "foongus": [
+      "level-up"
+    ],
+    "amoonguss": [
+      "level-up"
+    ],
+    "joltik": [
+      "egg"
+    ],
+    "druddigon": [
+      "egg"
+    ],
+    "pawniard": [
+      "level-up"
+    ],
+    "bisharp": [
+      "level-up"
+    ],
+    "vullaby": [
+      "level-up"
+    ],
+    "mandibuzz": [
+      "level-up"
+    ],
+    "heatmor": [
+      "egg"
+    ],
+    "durant": [
+      "egg"
+    ],
+    "greninja": [
+      "level-up"
+    ],
+    "skrelp": [
+      "level-up"
+    ],
+    "dragalge": [
+      "level-up"
+    ],
+    "phantump": [
+      "level-up"
+    ],
+    "trevenant": [
+      "level-up"
+    ],
+    "wishiwashi-solo": [
+      "level-up"
+    ],
+    "oranguru": [
+      "level-up"
+    ],
+    "mimikyu-disguised": [
+      "level-up"
+    ],
+    "houndoom-mega": [
+      "level-up"
+    ],
+    "mawile-mega": [
+      "level-up"
+    ],
+    "banette-mega": [
+      "level-up"
+    ],
+    "sableye-mega": [
+      "level-up"
+    ],
+    "vulpix-alola": [
+      "level-up"
+    ],
+    "meowth-alola": [
+      "level-up"
+    ],
+    "persian-alola": [
+      "level-up"
+    ],
+    "greninja-battle-bond": [
+      "level-up"
+    ],
+    "greninja-ash": [
+      "level-up"
+    ],
+    "wishiwashi-school": [
+      "level-up"
+    ],
+    "mimikyu-busted": [
+      "level-up"
+    ],
+    "mimikyu-totem-disguised": [
+      "level-up"
+    ],
+    "mimikyu-totem-busted": [
+      "level-up"
+    ]
+  }
+}

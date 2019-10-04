@@ -1,0 +1,31 @@
+{
+  "name": "fusion-flare",
+  "caption": "Fusion Flare",
+  "type": "fire",
+  "damageCategory": "special",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "With [Fusion Bolt]{move:fusion-bolt}, inflicts double damage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  If a friendly Pokémon used []{move:fusion-bolt} earlier this turn, this move has double power."
+  },
+  "flavorText": "The user brings down a giant flame. This move’s\npower is increased when influenced by an enormous\nlightning bolt.",
+  "flags": [
+    "protect",
+    "mirror",
+    "defrost"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "reshiram": [
+      "level-up"
+    ],
+    "kyurem-white": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "name": "moonlight",
+  "caption": "Moonlight",
+  "type": "fairy",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Heals the user by half its max HP.  Affected by weather.",
+    "full": "Heals the user for half its max [HP]{mechanic:hp}.\n\nDuring []{move:sunny-day}, the healing is increased to 2/3 max [HP]{mechanic:hp}.\n\nDuring []{move:hail}, []{move:rain-dance}, or []{move:sandstorm}, the healing is decreased to 1/4 max [HP]{mechanic:hp}."
+  },
+  "flavorText": "The user restores its own HP. The amount of HP\nregained varies with the weather.",
+  "flags": [
+    "snatch",
+    "heal"
+  ],
+  "target": "user",
+  "pokemon": {
+    "clefairy": [
+      "level-up"
+    ],
+    "oddish": [
+      "level-up"
+    ],
+    "gloom": [
+      "level-up"
+    ],
+    "exeggcute": [
+      "egg"
+    ],
+    "umbreon": [
+      "level-up"
+    ],
+    "dustox": [
+      "level-up"
+    ],
+    "sableye": [
+      "egg"
+    ],
+    "volbeat": [
+      "level-up"
+    ],
+    "illumise": [
+      "level-up"
+    ],
+    "cresselia": [
+      "level-up"
+    ],
+    "munna": [
+      "level-up"
+    ],
+    "noivern": [
+      "level-up"
+    ],
+    "morelull": [
+      "level-up"
+    ],
+    "shiinotic": [
+      "level-up"
+    ],
+    "lunala": [
+      "level-up"
+    ],
+    "necrozma": [
+      "level-up"
+    ],
+    "necrozma-dusk": [
+      "level-up"
+    ],
+    "necrozma-dawn": [
+      "level-up"
+    ],
+    "necrozma-ultra": [
+      "level-up"
+    ]
+  }
+}

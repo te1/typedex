@@ -1,0 +1,158 @@
+{
+  "name": "palpitoad",
+  "caption": "Palpitoad",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "species": "palpitoad",
+  "gen": "generation-v",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.8,
+  "weight": 17,
+  "baseStats": {
+    "hp": 75,
+    "attack": 65,
+    "defense": 55,
+    "special-attack": 65,
+    "special-defense": 55,
+    "speed": 69
+  },
+  "evolutionChain": {
+    "species": "tympole",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "palpitoad",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "seismitoad",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "When they vibrate the bumps on their heads, they\ncan make waves in water or earthquake-like\nvibrations on land.",
+  "moves": {
+    "growl": [
+      "level-up"
+    ],
+    "supersonic": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "bubble": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "level-up",
+      "machine"
+    ],
+    "uproar": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "hyper-voice": [
+      "level-up"
+    ],
+    "muddy-water": [
+      "level-up"
+    ],
+    "mud-shot": [
+      "level-up"
+    ],
+    "aqua-ring": [
+      "level-up"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "round": [
+      "level-up",
+      "machine"
+    ],
+    "echoed-voice": [
+      "level-up",
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "swift-swim": 1,
+    "hydration": 2,
+    "water-absorb": "hidden"
+  }
+}

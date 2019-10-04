@@ -1,0 +1,222 @@
+{
+  "name": "miltank",
+  "caption": "Miltank",
+  "types": [
+    "normal"
+  ],
+  "species": "miltank",
+  "gen": "generation-ii",
+  "color": "pink",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.2,
+  "weight": 75.5,
+  "baseStats": {
+    "hp": 95,
+    "attack": 80,
+    "defense": 105,
+    "special-attack": 40,
+    "special-defense": 70,
+    "speed": 100
+  },
+  "flavorText": "It produces over five gallons of milk a day. The\nhigher the quality of the pastures it lives in,\nthe richer and tastier its milk becomes.",
+  "moves": {
+    "stomp": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "body-slam": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "seismic-toss": [
+      "egg"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "reversal": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "rollout": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "milk-drink": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "egg",
+      "machine"
+    ],
+    "heal-bell": [
+      "level-up"
+    ],
+    "return": [
+      "machine"
+    ],
+    "present": [
+      "egg"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "helping-hand": [
+      "egg"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "double-edge": [
+      "egg"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "dizzy-punch": [
+      "egg"
+    ],
+    "wake-up-slap": [
+      "level-up"
+    ],
+    "hammer-arm": [
+      "egg"
+    ],
+    "gyro-ball": [
+      "level-up",
+      "machine"
+    ],
+    "natural-gift": [
+      "egg"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "punishment": [
+      "egg"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "zen-headbutt": [
+      "level-up"
+    ],
+    "captivate": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "heart-stamp": [
+      "egg"
+    ],
+    "belch": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "thick-fat": 1,
+    "scrappy": 2,
+    "sap-sipper": "hidden"
+  }
+}

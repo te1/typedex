@@ -1,0 +1,87 @@
+{
+  "name": "camouflage",
+  "caption": "Camouflage",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "User's type changes to match the terrain.",
+    "full": "User's type changes according to the terrain.\n\nTerrain        | New type\n-------------- | --------------\nBuilding       | []{type:normal}\nCave           | []{type:rock}\nDesert         | []{type:ground}\nGrass          | []{type:grass}\nMountain       | []{type:rock}\nOcean          | []{type:water}\nPond           | []{type:water}\nRoad           | []{type:ground}\nSnow           | []{type:ice}\nTall grass     | []{type:grass}\n\nIn Pokémon Battle Revolution:\n\nTerrain        | New type\n-------------- | --------------\nCourtyard      | []{type:normal}\nCrystal        | []{type:rock}\nGateway        | []{type:water}\nMagma          | []{type:rock}\nMain Street    | []{type:normal}\nNeon           | []{type:normal}\nStargazer      | []{type:rock}\nSunny Park     | []{type:grass}\nSunset         | []{type:ground}\nWaterfall      | []{type:grass}\n"
+  },
+  "flavorText": "The user’s type is changed depending on its\nenvironment, such as at water’s edge, in grass, or in\na cave.",
+  "flags": [
+    "snatch"
+  ],
+  "target": "user",
+  "pokemon": {
+    "staryu": [
+      "level-up"
+    ],
+    "marill": [
+      "egg"
+    ],
+    "corsola": [
+      "egg"
+    ],
+    "azurill": [
+      "egg"
+    ],
+    "kecleon": [
+      "level-up",
+      "egg"
+    ],
+    "mothim": [
+      "level-up"
+    ],
+    "sewaddle": [
+      "egg"
+    ],
+    "deerling": [
+      "level-up"
+    ],
+    "sawsbuck": [
+      "level-up"
+    ],
+    "joltik": [
+      "egg"
+    ],
+    "stunfisk": [
+      "level-up"
+    ],
+    "froakie": [
+      "egg"
+    ],
+    "flabebe": [
+      "egg"
+    ],
+    "inkay": [
+      "egg"
+    ],
+    "skrelp": [
+      "level-up"
+    ],
+    "dragalge": [
+      "level-up"
+    ],
+    "helioptile": [
+      "egg"
+    ],
+    "zygarde": [
+      "level-up"
+    ],
+    "zygarde-10": [
+      "level-up"
+    ],
+    "zygarde-50": [
+      "level-up"
+    ],
+    "zygarde-complete": [
+      "level-up"
+    ]
+  }
+}

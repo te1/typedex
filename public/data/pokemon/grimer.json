@@ -1,0 +1,228 @@
+{
+  "name": "grimer",
+  "caption": "Grimer",
+  "types": [
+    "poison"
+  ],
+  "species": "grimer",
+  "gen": "generation-i",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 0.9,
+  "weight": 30,
+  "baseStats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 50,
+    "special-attack": 40,
+    "special-defense": 50,
+    "speed": 25
+  },
+  "evolutionChain": {
+    "species": "grimer",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "muk",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It was born from sludge on the ocean floor. In a\nsterile environment, the germs within its body\ncan’t multiply, and it dies.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "disable": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "minimize": [
+      "level-up"
+    ],
+    "sludge": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "poison-gas": [
+      "level-up"
+    ],
+    "acid-armor": [
+      "level-up"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "haze": [
+      "egg"
+    ],
+    "lick": [
+      "egg"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "level-up",
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "mean-look": [
+      "egg"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "memento": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "imprison": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "shadow-punch": [
+      "egg"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "stockpile": [
+      "egg"
+    ],
+    "spit-up": [
+      "egg"
+    ],
+    "swallow": [
+      "egg"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "level-up",
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "shadow-sneak": [
+      "egg"
+    ],
+    "mud-bomb": [
+      "level-up"
+    ],
+    "gunk-shot": [
+      "level-up"
+    ],
+    "scary-face": [
+      "egg"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "sludge-wave": [
+      "level-up",
+      "machine"
+    ],
+    "acid-spray": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "belch": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "power-up-punch": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "stench": 1,
+    "sticky-hold": 2,
+    "poison-touch": "hidden"
+  }
+}

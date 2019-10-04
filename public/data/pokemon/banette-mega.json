@@ -1,0 +1,201 @@
+{
+  "name": "banette-mega",
+  "caption": "Mega Banette",
+  "types": [
+    "ghost"
+  ],
+  "species": "banette",
+  "gen": "generation-iii",
+  "color": "black",
+  "default": false,
+  "alternate": false,
+  "mega": true,
+  "height": 1.2,
+  "weight": 13,
+  "baseStats": {
+    "hp": 64,
+    "attack": 165,
+    "defense": 75,
+    "special-attack": 93,
+    "special-defense": 83,
+    "speed": 75
+  },
+  "evolutionChain": {
+    "species": "shuppet",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "banette",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It’s a stuffed toy that was thrown away and\nbecame possessed, ever searching for the one\nwho threw it away so it can exact its revenge.",
+  "moves": {
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "night-shade": [
+      "level-up"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "curse": [
+      "level-up"
+    ],
+    "spite": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "level-up",
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "level-up",
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "trick": [
+      "level-up"
+    ],
+    "knock-off": [
+      "level-up"
+    ],
+    "grudge": [
+      "level-up"
+    ],
+    "snatch": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "embargo": [
+      "level-up",
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "shadow-sneak": [
+      "level-up"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "hex": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "phantom-force": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "prankster": 1
+  }
+}

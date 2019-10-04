@@ -1,0 +1,174 @@
+{
+  "name": "chatot",
+  "caption": "Chatot",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "species": "chatot",
+  "gen": "generation-iv",
+  "color": "black",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 1.9,
+  "baseStats": {
+    "hp": 76,
+    "attack": 65,
+    "defense": 45,
+    "special-attack": 92,
+    "special-defense": 42,
+    "speed": 91
+  },
+  "flavorText": "It mimics the cries of other Pokémon to trick them\ninto thinking it’s one of them. This way they won’t\nattack it.",
+  "moves": {
+    "fly": [
+      "machine"
+    ],
+    "fury-attack": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "sing": [
+      "level-up"
+    ],
+    "supersonic": [
+      "egg"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "egg"
+    ],
+    "night-shade": [
+      "egg"
+    ],
+    "mimic": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "mirror-move": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "steel-wing": [
+      "egg",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "egg",
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "encore": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "uproar": [
+      "level-up"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "feather-dance": [
+      "level-up"
+    ],
+    "hyper-voice": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "roost": [
+      "level-up",
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "nasty-plot": [
+      "egg"
+    ],
+    "defog": [
+      "egg"
+    ],
+    "chatter": [
+      "level-up"
+    ],
+    "air-cutter": [
+      "egg"
+    ],
+    "synchronoise": [
+      "level-up"
+    ],
+    "round": [
+      "level-up",
+      "machine"
+    ],
+    "echoed-voice": [
+      "level-up",
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "boomburst": [
+      "egg"
+    ],
+    "confide": [
+      "level-up",
+      "machine"
+    ]
+  },
+  "abilities": {
+    "keen-eye": 1,
+    "tangled-feet": 2,
+    "big-pecks": "hidden"
+  }
+}

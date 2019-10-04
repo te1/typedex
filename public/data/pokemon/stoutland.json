@@ -1,0 +1,187 @@
+{
+  "name": "stoutland",
+  "caption": "Stoutland",
+  "types": [
+    "normal"
+  ],
+  "species": "stoutland",
+  "gen": "generation-v",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.2,
+  "weight": 61,
+  "baseStats": {
+    "hp": 85,
+    "attack": 110,
+    "defense": 90,
+    "special-attack": 45,
+    "special-defense": 90,
+    "speed": 80
+  },
+  "evolutionChain": {
+    "species": "lillipup",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "herdier",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "stoutland",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It pays no mind to the cold, thanks to its long\nwarm coat. Stoutland in Alola look a\nlittle uncomfortable.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "roar": [
+      "level-up",
+      "machine"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "reversal": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "helping-hand": [
+      "level-up"
+    ],
+    "odor-sleuth": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "last-resort": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "level-up",
+      "machine"
+    ],
+    "thunder-fang": [
+      "level-up"
+    ],
+    "ice-fang": [
+      "level-up"
+    ],
+    "fire-fang": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "retaliate": [
+      "level-up"
+    ],
+    "work-up": [
+      "level-up",
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "play-rough": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "intimidate": 1,
+    "sand-rush": 2,
+    "scrappy": "hidden"
+  }
+}

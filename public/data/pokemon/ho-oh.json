@@ -1,0 +1,206 @@
+{
+  "name": "ho-oh",
+  "caption": "Ho-Oh",
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "species": "ho-oh",
+  "gen": "generation-ii",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 3.8,
+  "weight": 199,
+  "baseStats": {
+    "hp": 106,
+    "attack": 130,
+    "defense": 90,
+    "special-attack": 110,
+    "special-defense": 154,
+    "speed": 90
+  },
+  "flavorText": "Ho-Oh’s feathers glow in seven colors depending on the angle\nat which they are struck by light. These feathers are said to\nbring happiness to the bearers. This Pokémon is said to live at\nthe foot of a rainbow.",
+  "moves": {
+    "gust": [
+      "level-up"
+    ],
+    "whirlwind": [
+      "level-up"
+    ],
+    "fly": [
+      "machine"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "recover": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "level-up",
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "level-up",
+      "machine"
+    ],
+    "sacred-fire": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "level-up",
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "future-sight": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "calm-mind": [
+      "level-up",
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "sky-attack": [
+      "level-up"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "extrasensory": [
+      "level-up"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "natural-gift": [
+      "level-up"
+    ],
+    "punishment": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "weather-ball": [
+      "level-up"
+    ],
+    "brave-bird": [
+      "level-up"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "sky-drop": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "pressure": 1,
+    "regenerator": "hidden"
+  }
+}

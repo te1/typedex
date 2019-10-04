@@ -1,0 +1,357 @@
+{
+  "name": "pursuit",
+  "caption": "Pursuit",
+  "type": "dark",
+  "damageCategory": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has double power against, and can hit, Pokémon attempting to switch out.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  If the target attempts to [switch out]{mechanic:switch-out} this turn before the user acts, this move hits the target before it leaves and has double power.\n\nThis effect can still hit a Pokémon that [switches out]{mechanic:switches-out} when it has a []{move:substitute} up or when an ally has used []{move:follow-me}."
+  },
+  "flavorText": "The power of this attack move is doubled if it’s used\non a target that’s switching out of battle.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "beedrill": [
+      "level-up"
+    ],
+    "pidgey": [
+      "egg"
+    ],
+    "rattata": [
+      "level-up"
+    ],
+    "raticate": [
+      "level-up"
+    ],
+    "spearow": [
+      "level-up"
+    ],
+    "fearow": [
+      "level-up"
+    ],
+    "ekans": [
+      "egg"
+    ],
+    "nidoran-f": [
+      "egg"
+    ],
+    "zubat": [
+      "egg"
+    ],
+    "paras": [
+      "egg"
+    ],
+    "diglett": [
+      "egg"
+    ],
+    "mankey": [
+      "level-up"
+    ],
+    "primeape": [
+      "level-up"
+    ],
+    "doduo": [
+      "level-up"
+    ],
+    "dodrio": [
+      "level-up"
+    ],
+    "hitmonchan": [
+      "level-up"
+    ],
+    "scyther": [
+      "level-up"
+    ],
+    "tauros": [
+      "level-up"
+    ],
+    "aerodactyl": [
+      "egg"
+    ],
+    "snorlax": [
+      "egg"
+    ],
+    "sentret": [
+      "egg"
+    ],
+    "spinarak": [
+      "egg"
+    ],
+    "aipom": [
+      "egg"
+    ],
+    "yanma": [
+      "level-up",
+      "egg"
+    ],
+    "umbreon": [
+      "level-up"
+    ],
+    "murkrow": [
+      "level-up"
+    ],
+    "dunsparce": [
+      "level-up"
+    ],
+    "scizor": [
+      "level-up"
+    ],
+    "heracross": [
+      "egg"
+    ],
+    "sneasel": [
+      "egg"
+    ],
+    "skarmory": [
+      "egg"
+    ],
+    "houndour": [
+      "egg"
+    ],
+    "tyrogue": [
+      "egg"
+    ],
+    "hitmontop": [
+      "level-up"
+    ],
+    "larvitar": [
+      "egg"
+    ],
+    "treecko": [
+      "level-up"
+    ],
+    "grovyle": [
+      "level-up"
+    ],
+    "sceptile": [
+      "level-up"
+    ],
+    "zigzagoon": [
+      "egg"
+    ],
+    "taillow": [
+      "egg"
+    ],
+    "wingull": [
+      "level-up"
+    ],
+    "slakoth": [
+      "egg"
+    ],
+    "swablu": [
+      "egg"
+    ],
+    "zangoose": [
+      "level-up"
+    ],
+    "shuppet": [
+      "egg"
+    ],
+    "duskull": [
+      "level-up"
+    ],
+    "dusclops": [
+      "level-up"
+    ],
+    "absol": [
+      "level-up"
+    ],
+    "metang": [
+      "level-up"
+    ],
+    "metagross": [
+      "level-up"
+    ],
+    "deoxys-normal": [
+      "level-up"
+    ],
+    "starly": [
+      "egg"
+    ],
+    "cranidos": [
+      "level-up"
+    ],
+    "rampardos": [
+      "level-up"
+    ],
+    "vespiquen": [
+      "level-up"
+    ],
+    "buizel": [
+      "level-up"
+    ],
+    "floatzel": [
+      "level-up"
+    ],
+    "honchkrow": [
+      "level-up"
+    ],
+    "stunky": [
+      "egg"
+    ],
+    "spiritomb": [
+      "level-up"
+    ],
+    "munchlax": [
+      "egg"
+    ],
+    "skorupi": [
+      "level-up",
+      "egg"
+    ],
+    "drapion": [
+      "level-up"
+    ],
+    "croagunk": [
+      "level-up"
+    ],
+    "toxicroak": [
+      "level-up"
+    ],
+    "yanmega": [
+      "level-up"
+    ],
+    "dusknoir": [
+      "level-up"
+    ],
+    "snivy": [
+      "egg"
+    ],
+    "patrat": [
+      "egg"
+    ],
+    "lillipup": [
+      "egg"
+    ],
+    "purrloin": [
+      "level-up"
+    ],
+    "liepard": [
+      "level-up"
+    ],
+    "blitzle": [
+      "level-up"
+    ],
+    "zebstrika": [
+      "level-up"
+    ],
+    "venipede": [
+      "level-up"
+    ],
+    "whirlipede": [
+      "level-up"
+    ],
+    "scolipede": [
+      "level-up"
+    ],
+    "sandile": [
+      "egg"
+    ],
+    "zorua": [
+      "level-up"
+    ],
+    "zoroark": [
+      "level-up"
+    ],
+    "emolga": [
+      "level-up"
+    ],
+    "karrablast": [
+      "egg"
+    ],
+    "joltik": [
+      "egg"
+    ],
+    "shelmet": [
+      "egg"
+    ],
+    "druddigon": [
+      "egg"
+    ],
+    "pawniard": [
+      "egg"
+    ],
+    "bouffalant": [
+      "level-up"
+    ],
+    "heatmor": [
+      "egg"
+    ],
+    "honedge": [
+      "level-up"
+    ],
+    "doublade": [
+      "level-up"
+    ],
+    "aegislash-shield": [
+      "level-up"
+    ],
+    "yungoos": [
+      "level-up"
+    ],
+    "gumshoos": [
+      "level-up"
+    ],
+    "crabrawler": [
+      "level-up"
+    ],
+    "crabominable": [
+      "level-up"
+    ],
+    "type-null": [
+      "level-up"
+    ],
+    "silvally": [
+      "level-up"
+    ],
+    "marshadow": [
+      "level-up"
+    ],
+    "deoxys-attack": [
+      "level-up"
+    ],
+    "deoxys-speed": [
+      "level-up"
+    ],
+    "aegislash-blade": [
+      "level-up"
+    ],
+    "scizor-mega": [
+      "level-up"
+    ],
+    "absol-mega": [
+      "level-up"
+    ],
+    "sceptile-mega": [
+      "level-up"
+    ],
+    "metagross-mega": [
+      "level-up"
+    ],
+    "beedrill-mega": [
+      "level-up"
+    ],
+    "rattata-alola": [
+      "level-up"
+    ],
+    "raticate-alola": [
+      "level-up"
+    ],
+    "raticate-totem-alola": [
+      "level-up"
+    ],
+    "gumshoos-totem": [
+      "level-up"
+    ]
+  }
+}

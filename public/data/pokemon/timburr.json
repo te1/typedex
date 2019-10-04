@@ -1,0 +1,223 @@
+{
+  "name": "timburr",
+  "caption": "Timburr",
+  "types": [
+    "fighting"
+  ],
+  "species": "timburr",
+  "gen": "generation-v",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 12.5,
+  "baseStats": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 55,
+    "special-attack": 25,
+    "special-defense": 35,
+    "speed": 35
+  },
+  "evolutionChain": {
+    "species": "timburr",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "gurdurr",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "conkeldurr",
+            "triggers": [
+              "trade"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "These Pokémon appear at building sites and help\nout with construction. They always carry\nsquared logs.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "comet-punch": [
+      "egg"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "low-kick": [
+      "level-up"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "rock-throw": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "level-up",
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "reversal": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "mach-punch": [
+      "egg"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "foresight": [
+      "egg"
+    ],
+    "detect": [
+      "egg"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "dynamic-punch": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "focus-punch": [
+      "level-up"
+    ],
+    "smelling-salts": [
+      "egg"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "superpower": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "bulk-up": [
+      "level-up",
+      "machine"
+    ],
+    "wake-up-slap": [
+      "level-up"
+    ],
+    "hammer-arm": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "force-palm": [
+      "egg"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "drain-punch": [
+      "egg"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "stone-edge": [
+      "level-up",
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "wide-guard": [
+      "egg"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "chip-away": [
+      "level-up"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "power-up-punch": [
+      "egg"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "guts": 1,
+    "sheer-force": 2,
+    "iron-fist": "hidden"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "name": "toxapex",
+  "caption": "Toxapex",
+  "types": [
+    "poison",
+    "water"
+  ],
+  "species": "toxapex",
+  "gen": "generation-vii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.7,
+  "weight": 14.5,
+  "baseStats": {
+    "hp": 50,
+    "attack": 63,
+    "defense": 152,
+    "special-attack": 53,
+    "special-defense": 142,
+    "speed": 35
+  },
+  "evolutionChain": {
+    "species": "mareanie",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "toxapex",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "To attack, this Pokémon sends toxic spikes\nflying at its enemies. Ones that come close get\nmown down by the claws on its feet.",
+  "moves": {
+    "poison-sting": [
+      "level-up"
+    ],
+    "pin-missile": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "toxic": [
+      "level-up",
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "recover": [
+      "level-up"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "spike-cannon": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "toxic-spikes": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "level-up",
+      "machine"
+    ],
+    "wide-guard": [
+      "level-up"
+    ],
+    "venoshock": [
+      "level-up",
+      "machine"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "frost-breath": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "venom-drench": [
+      "level-up"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "baneful-bunker": [
+      "level-up"
+    ],
+    "liquidation": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "merciless": 1,
+    "limber": 2,
+    "regenerator": "hidden"
+  }
+}

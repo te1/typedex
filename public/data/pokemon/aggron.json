@@ -1,0 +1,247 @@
+{
+  "name": "aggron",
+  "caption": "Aggron",
+  "types": [
+    "steel",
+    "rock"
+  ],
+  "species": "aggron",
+  "gen": "generation-iii",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 2.1,
+  "weight": 360,
+  "baseStats": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 180,
+    "special-attack": 60,
+    "special-defense": 60,
+    "speed": 50
+  },
+  "evolutionChain": {
+    "species": "aron",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "lairon",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "aggron",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Aggron claims an entire mountain as its own territory.\nIt mercilessly beats up anything that violates its environment.\nThis Pokémon vigilantly patrols its territory at all times.",
+  "moves": {
+    "headbutt": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "roar": [
+      "level-up",
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "iron-tail": [
+      "level-up"
+    ],
+    "metal-claw": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "level-up",
+      "machine"
+    ],
+    "metal-sound": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "dragon-claw": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "rock-slide": [
+      "level-up",
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "metal-burst": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "iron-head": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "autotomize": [
+      "level-up"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "heavy-slam": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "dragon-tail": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "smart-strike": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "sturdy": 1,
+    "rock-head": 2,
+    "heavy-metal": "hidden"
+  }
+}

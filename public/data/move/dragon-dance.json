@@ -1,0 +1,121 @@
+{
+  "name": "dragon-dance",
+  "caption": "Dragon Dance",
+  "type": "dragon",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Raises the user's Attack and Speed by one stage.",
+    "full": "Raises the user's [Attack]{mechanic:attack} and [Speed]{mechanic:speed} by one [stage]{mechanic:stage} each."
+  },
+  "flavorText": "The user vigorously performs a mystic, powerful\ndance that raises its Attack and Speed stats.",
+  "flags": [
+    "snatch",
+    "dance"
+  ],
+  "target": "user",
+  "pokemon": {
+    "charmander": [
+      "egg"
+    ],
+    "horsea": [
+      "level-up"
+    ],
+    "seadra": [
+      "level-up"
+    ],
+    "gyarados": [
+      "level-up"
+    ],
+    "lapras": [
+      "egg"
+    ],
+    "dratini": [
+      "level-up",
+      "egg"
+    ],
+    "dragonair": [
+      "level-up"
+    ],
+    "dragonite": [
+      "level-up"
+    ],
+    "totodile": [
+      "egg"
+    ],
+    "kingdra": [
+      "level-up"
+    ],
+    "larvitar": [
+      "egg"
+    ],
+    "flygon": [
+      "level-up"
+    ],
+    "altaria": [
+      "level-up"
+    ],
+    "barboach": [
+      "egg"
+    ],
+    "corphish": [
+      "egg"
+    ],
+    "tropius": [
+      "egg"
+    ],
+    "bagon": [
+      "egg"
+    ],
+    "latios": [
+      "level-up"
+    ],
+    "rayquaza": [
+      "level-up"
+    ],
+    "scraggy": [
+      "egg"
+    ],
+    "axew": [
+      "level-up"
+    ],
+    "fraxure": [
+      "level-up"
+    ],
+    "haxorus": [
+      "level-up"
+    ],
+    "tyrunt": [
+      "egg"
+    ],
+    "jangmo-o": [
+      "level-up"
+    ],
+    "hakamo-o": [
+      "level-up"
+    ],
+    "kommo-o": [
+      "level-up"
+    ],
+    "gyarados-mega": [
+      "level-up"
+    ],
+    "latios-mega": [
+      "level-up"
+    ],
+    "altaria-mega": [
+      "level-up"
+    ],
+    "rayquaza-mega": [
+      "level-up"
+    ],
+    "kommo-o-totem": [
+      "level-up"
+    ]
+  }
+}

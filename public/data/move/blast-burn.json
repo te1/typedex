@@ -1,0 +1,55 @@
+{
+  "name": "blast-burn",
+  "caption": "Blast Burn",
+  "type": "fire",
+  "damageCategory": "special",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "User foregoes its next turn to recharge.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User loses its next turn to \"recharge\", and cannot attack or [switch]{mechanic:switch} out during that turn."
+  },
+  "flavorText": "The target is razed by a fiery explosion. The user\ncan’t move on the next turn.",
+  "flags": [
+    "recharge",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "charizard": [
+      "tutor"
+    ],
+    "typhlosion": [
+      "tutor"
+    ],
+    "blaziken": [
+      "tutor"
+    ],
+    "infernape": [
+      "tutor"
+    ],
+    "emboar": [
+      "tutor"
+    ],
+    "delphox": [
+      "tutor"
+    ],
+    "incineroar": [
+      "tutor"
+    ],
+    "charizard-mega-x": [
+      "tutor"
+    ],
+    "charizard-mega-y": [
+      "tutor"
+    ],
+    "blaziken-mega": [
+      "tutor"
+    ]
+  }
+}

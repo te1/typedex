@@ -1,0 +1,170 @@
+{
+  "name": "rapidash",
+  "caption": "Rapidash",
+  "types": [
+    "fire"
+  ],
+  "species": "rapidash",
+  "gen": "generation-i",
+  "color": "yellow",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.7,
+  "weight": 95,
+  "baseStats": {
+    "hp": 65,
+    "attack": 100,
+    "defense": 70,
+    "special-attack": 80,
+    "special-defense": 80,
+    "speed": 105
+  },
+  "evolutionChain": {
+    "species": "ponyta",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "rapidash",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Rapidash usually can be seen casually cantering in the\nfields and plains. However, when this Pokémon turns serious,\nits fiery manes flare and blaze as it gallops its way up to\n150 mph.",
+  "moves": {
+    "stomp": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "ember": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "fire-spin": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fire-blast": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "fury-attack": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "bounce": [
+      "level-up"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "megahorn": [
+      "level-up"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "flare-blitz": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "level-up",
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "flame-wheel": [
+      "level-up"
+    ],
+    "flame-charge": [
+      "level-up",
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "inferno": [
+      "level-up"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "smart-strike": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "run-away": 1,
+    "flash-fire": 2,
+    "flame-body": "hidden"
+  }
+}

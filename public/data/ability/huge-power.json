@@ -1,0 +1,18 @@
+{
+  "name": "huge-power",
+  "caption": "Huge Power",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Doubles [Attack]{mechanic:attack} in battle.",
+    "full": "This Pokémon's [Attack]{mechanic:attack} is doubled while in battle.\n\nThis bonus does not count as a [stat modifier]{mechanic:stat-modifier}.\n\nThis ability functions identically to []{ability:pure-power}."
+  },
+  "flavorText": "Doubles the Pokémon’s Attack stat.",
+  "pokemon": {
+    "marill": 2,
+    "azumarill": 2,
+    "azurill": 2,
+    "bunnelby": "hidden",
+    "diggersby": "hidden",
+    "mawile-mega": 1
+  }
+}

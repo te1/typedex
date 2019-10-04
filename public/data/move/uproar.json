@@ -1,0 +1,179 @@
+{
+  "name": "uproar",
+  "caption": "Uproar",
+  "type": "normal",
+  "damageCategory": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Forced to use this move for several turns.  Pokémon cannot fall asleep in that time.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User is forced to use this move for 2–5 turns, selected at random.  All Pokémon on the [field]{mechanic:field} wake up, and none can fall to [sleep]{mechanic:sleep} until the lock-in ends.\n\nPokémon cannot use []{move:rest} during this effect.\n\nThis move cannot be selected by []{move:sleep-talk}."
+  },
+  "flavorText": "The user attacks in an uproar for three turns.\nDuring that time, no Pokémon can fall asleep.",
+  "flags": [
+    "protect",
+    "mirror",
+    "sound",
+    "authentic"
+  ],
+  "target": "random-opponent",
+  "pokemon": {
+    "pidgey": [
+      "egg"
+    ],
+    "rattata": [
+      "egg"
+    ],
+    "spearow": [
+      "egg"
+    ],
+    "diglett": [
+      "egg"
+    ],
+    "doduo": [
+      "level-up"
+    ],
+    "dodrio": [
+      "level-up"
+    ],
+    "exeggcute": [
+      "level-up"
+    ],
+    "kangaskhan": [
+      "egg"
+    ],
+    "hoothoot": [
+      "level-up"
+    ],
+    "noctowl": [
+      "level-up"
+    ],
+    "yanma": [
+      "level-up"
+    ],
+    "mudkip": [
+      "egg"
+    ],
+    "lombre": [
+      "level-up"
+    ],
+    "vigoroth": [
+      "level-up"
+    ],
+    "whismur": [
+      "level-up"
+    ],
+    "loudred": [
+      "level-up"
+    ],
+    "exploud": [
+      "level-up"
+    ],
+    "skitty": [
+      "egg"
+    ],
+    "electrike": [
+      "egg"
+    ],
+    "spinda": [
+      "level-up"
+    ],
+    "vibrava": [
+      "level-up"
+    ],
+    "flygon": [
+      "level-up"
+    ],
+    "chimecho": [
+      "level-up"
+    ],
+    "starly": [
+      "egg"
+    ],
+    "chingling": [
+      "level-up"
+    ],
+    "chatot": [
+      "level-up"
+    ],
+    "yanmega": [
+      "level-up"
+    ],
+    "rotom": [
+      "level-up"
+    ],
+    "azelf": [
+      "level-up"
+    ],
+    "pidove": [
+      "egg"
+    ],
+    "tympole": [
+      "level-up"
+    ],
+    "palpitoad": [
+      "level-up"
+    ],
+    "seismitoad": [
+      "level-up"
+    ],
+    "basculin-red-striped": [
+      "level-up"
+    ],
+    "sandile": [
+      "egg"
+    ],
+    "darumaka": [
+      "level-up"
+    ],
+    "gothita": [
+      "egg"
+    ],
+    "vanillite": [
+      "level-up"
+    ],
+    "vanillish": [
+      "level-up"
+    ],
+    "vanilluxe": [
+      "level-up"
+    ],
+    "tornadus-incarnate": [
+      "level-up"
+    ],
+    "thundurus-incarnate": [
+      "level-up"
+    ],
+    "pikipek": [
+      "egg"
+    ],
+    "rotom-heat": [
+      "level-up"
+    ],
+    "rotom-wash": [
+      "level-up"
+    ],
+    "rotom-frost": [
+      "level-up"
+    ],
+    "rotom-fan": [
+      "level-up"
+    ],
+    "rotom-mow": [
+      "level-up"
+    ],
+    "basculin-blue-striped": [
+      "level-up"
+    ],
+    "tornadus-therian": [
+      "level-up"
+    ],
+    "thundurus-therian": [
+      "level-up"
+    ]
+  }
+}

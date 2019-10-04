@@ -1,0 +1,201 @@
+{
+  "name": "crawdaunt",
+  "caption": "Crawdaunt",
+  "types": [
+    "water",
+    "dark"
+  ],
+  "species": "crawdaunt",
+  "gen": "generation-iii",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.1,
+  "weight": 32.8,
+  "baseStats": {
+    "hp": 63,
+    "attack": 120,
+    "defense": 85,
+    "special-attack": 90,
+    "special-defense": 55,
+    "speed": 55
+  },
+  "evolutionChain": {
+    "species": "corphish",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "crawdaunt",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Its temperament is rough and it loves to fight,\nbut as soon as its pincers break off, it turns\ncowardly. It stays timid until they grow back.",
+  "moves": {
+    "vice-grip": [
+      "level-up"
+    ],
+    "guillotine": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "bubble": [
+      "level-up"
+    ],
+    "crabhammer": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "knock-off": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "swift": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "double-hit": [
+      "level-up"
+    ],
+    "razor-shell": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "hyper-cutter": 1,
+    "shell-armor": 2,
+    "adaptability": "hidden"
+  }
+}

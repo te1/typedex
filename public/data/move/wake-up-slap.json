@@ -1,0 +1,116 @@
+{
+  "name": "wake-up-slap",
+  "caption": "Wake-Up Slap",
+  "type": "fighting",
+  "damageCategory": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "If the target is asleep, has double power and wakes it up.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  If the target is [sleep]{mechanic:sleep}ing, this move has double power, and the target wakes up."
+  },
+  "flavorText": "This attack inflicts big damage on a sleeping target.\nThis also wakes the target up, however.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "clefairy": [
+      "level-up"
+    ],
+    "jigglypuff": [
+      "level-up"
+    ],
+    "poliwag": [
+      "level-up"
+    ],
+    "poliwhirl": [
+      "level-up"
+    ],
+    "machop": [
+      "level-up"
+    ],
+    "machoke": [
+      "level-up"
+    ],
+    "machamp": [
+      "level-up"
+    ],
+    "drowzee": [
+      "level-up"
+    ],
+    "hypno": [
+      "level-up"
+    ],
+    "tangela": [
+      "egg"
+    ],
+    "mr-mime": [
+      "egg"
+    ],
+    "jynx": [
+      "level-up"
+    ],
+    "smoochum": [
+      "egg"
+    ],
+    "miltank": [
+      "level-up"
+    ],
+    "shroomish": [
+      "egg"
+    ],
+    "makuhita": [
+      "level-up",
+      "egg"
+    ],
+    "hariyama": [
+      "level-up"
+    ],
+    "skitty": [
+      "level-up"
+    ],
+    "glameow": [
+      "egg"
+    ],
+    "mime-jr": [
+      "egg"
+    ],
+    "croagunk": [
+      "egg"
+    ],
+    "froslass": [
+      "level-up"
+    ],
+    "timburr": [
+      "level-up"
+    ],
+    "gurdurr": [
+      "level-up"
+    ],
+    "conkeldurr": [
+      "level-up"
+    ],
+    "minccino": [
+      "level-up"
+    ],
+    "alomomola": [
+      "level-up"
+    ],
+    "meloetta-aria": [
+      "level-up"
+    ],
+    "solgaleo": [
+      "level-up"
+    ],
+    "meloetta-pirouette": [
+      "level-up"
+    ]
+  }
+}

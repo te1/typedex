@@ -1,0 +1,190 @@
+{
+  "name": "cutiefly",
+  "caption": "Cutiefly",
+  "types": [
+    "bug",
+    "fairy"
+  ],
+  "species": "cutiefly",
+  "gen": "generation-vii",
+  "color": "yellow",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.1,
+  "weight": 0.2,
+  "baseStats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "special-attack": 55,
+    "special-defense": 40,
+    "speed": 84
+  },
+  "evolutionChain": {
+    "species": "cutiefly",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "ribombee",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Nectar and pollen are its favorite fare. In fields\nof flowers, it gets into skirmishes with\nButterfree over food.",
+  "moves": {
+    "absorb": [
+      "level-up"
+    ],
+    "stun-spore": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "leech-life": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "baton-pass": [
+      "egg"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "skill-swap": [
+      "egg"
+    ],
+    "aromatherapy": [
+      "level-up"
+    ],
+    "silver-wind": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "bug-buzz": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "quiver-dance": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "bestow": [
+      "egg"
+    ],
+    "struggle-bug": [
+      "level-up"
+    ],
+    "draining-kiss": [
+      "level-up"
+    ],
+    "fairy-wind": [
+      "level-up"
+    ],
+    "moonblast": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "level-up",
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "speed-swap": [
+      "egg"
+    ],
+    "sticky-web": [
+      "egg"
+    ],
+    "powder": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "honey-gather": 1,
+    "shield-dust": 2,
+    "sweet-veil": "hidden"
+  }
+}

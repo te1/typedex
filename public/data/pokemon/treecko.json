@@ -1,0 +1,224 @@
+{
+  "name": "treecko",
+  "caption": "Treecko",
+  "types": [
+    "grass"
+  ],
+  "species": "treecko",
+  "gen": "generation-iii",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 5,
+  "baseStats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "special-attack": 65,
+    "special-defense": 55,
+    "speed": 70
+  },
+  "evolutionChain": {
+    "species": "treecko",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "grovyle",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "sceptile",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Treecko has small hooks on the bottom of its feet that enable\nit to scale vertical walls. This Pokémon attacks by slamming\nfoes with its thick tail.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "slam": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "absorb": [
+      "level-up"
+    ],
+    "mega-drain": [
+      "level-up"
+    ],
+    "leech-seed": [
+      "egg"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "detect": [
+      "level-up"
+    ],
+    "giga-drain": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "dragon-breath": [
+      "egg"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "egg"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "endeavor": [
+      "level-up",
+      "egg"
+    ],
+    "mud-sport": [
+      "egg"
+    ],
+    "crush-claw": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "bullet-seed": [
+      "egg"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "double-kick": [
+      "egg"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "synthesis": [
+      "egg"
+    ],
+    "grass-whistle": [
+      "egg"
+    ],
+    "magical-leaf": [
+      "egg"
+    ],
+    "natural-gift": [
+      "egg"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "worry-seed": [
+      "egg"
+    ],
+    "energy-ball": [
+      "level-up",
+      "machine"
+    ],
+    "leaf-storm": [
+      "egg"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "razor-wind": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "grass-pledge": [
+      "tutor"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "grassy-terrain": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "quick-guard": [
+      "level-up"
+    ],
+    "work-up": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "overgrow": 1,
+    "unburden": "hidden"
+  }
+}

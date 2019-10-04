@@ -1,0 +1,129 @@
+{
+  "name": "lick",
+  "caption": "Lick",
+  "type": "ghost",
+  "damageCategory": "physical",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 30,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a 30% chance to [paralyze]{mechanic:paralysis} the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 30% chance to [paralyze]{mechanic:paralyze} the target."
+  },
+  "flavorText": "The target is licked with a long tongue, causing\ndamage. This may also leave the target\nwith paralysis.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "seel": [
+      "egg"
+    ],
+    "grimer": [
+      "egg"
+    ],
+    "gastly": [
+      "level-up"
+    ],
+    "haunter": [
+      "level-up"
+    ],
+    "gengar": [
+      "level-up"
+    ],
+    "lickitung": [
+      "level-up"
+    ],
+    "jynx": [
+      "level-up"
+    ],
+    "snorlax": [
+      "level-up",
+      "egg"
+    ],
+    "snubbull": [
+      "level-up"
+    ],
+    "granbull": [
+      "level-up"
+    ],
+    "teddiursa": [
+      "level-up"
+    ],
+    "ursaring": [
+      "level-up"
+    ],
+    "smoochum": [
+      "level-up"
+    ],
+    "seviper": [
+      "level-up"
+    ],
+    "kecleon": [
+      "level-up"
+    ],
+    "munchlax": [
+      "level-up",
+      "egg"
+    ],
+    "lickilicky": [
+      "level-up"
+    ],
+    "lillipup": [
+      "egg"
+    ],
+    "pansage": [
+      "level-up"
+    ],
+    "simisage": [
+      "level-up"
+    ],
+    "pansear": [
+      "level-up"
+    ],
+    "simisear": [
+      "level-up"
+    ],
+    "panpour": [
+      "level-up"
+    ],
+    "simipour": [
+      "level-up"
+    ],
+    "heatmor": [
+      "level-up"
+    ],
+    "froakie": [
+      "level-up"
+    ],
+    "frogadier": [
+      "level-up"
+    ],
+    "greninja": [
+      "level-up"
+    ],
+    "litten": [
+      "level-up"
+    ],
+    "torracat": [
+      "level-up"
+    ],
+    "incineroar": [
+      "level-up"
+    ],
+    "gengar-mega": [
+      "level-up"
+    ],
+    "greninja-battle-bond": [
+      "level-up"
+    ],
+    "greninja-ash": [
+      "level-up"
+    ]
+  }
+}

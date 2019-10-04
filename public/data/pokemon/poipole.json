@@ -1,0 +1,123 @@
+{
+  "name": "poipole",
+  "caption": "Poipole",
+  "types": [
+    "poison"
+  ],
+  "species": "poipole",
+  "gen": "generation-vii",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 1.8,
+  "baseStats": {
+    "hp": 67,
+    "attack": 73,
+    "defense": 67,
+    "special-attack": 73,
+    "special-defense": 67,
+    "speed": 73
+  },
+  "evolutionChain": {
+    "species": "poipole",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "naganadel",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "This Ultra Beast is well enough liked to be\nchosen as a first partner in its own world.",
+  "moves": {
+    "fury-attack": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "acid": [
+      "level-up"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "toxic": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "charm": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "helping-hand": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "level-up",
+      "machine"
+    ],
+    "dragon-pulse": [
+      "level-up"
+    ],
+    "nasty-plot": [
+      "level-up"
+    ],
+    "venoshock": [
+      "level-up",
+      "machine"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "fell-stinger": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "venom-drench": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "beast-boost": 1
+  }
+}

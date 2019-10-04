@@ -1,0 +1,33 @@
+{
+  "name": "psystrike",
+  "caption": "Psystrike",
+  "type": "psychic",
+  "damageCategory": "special",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Inflicts damage based on the target's Defense, not Special Defense.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Damage calculation always uses the target's [Defense]{mechanic:defense}, regardless of this move's damage class."
+  },
+  "flavorText": "The user materializes an odd psychic wave to attack\nthe target. This attack does physical damage.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "mewtwo": [
+      "level-up"
+    ],
+    "mewtwo-mega-x": [
+      "level-up"
+    ],
+    "mewtwo-mega-y": [
+      "level-up"
+    ]
+  }
+}

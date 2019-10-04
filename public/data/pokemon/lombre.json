@@ -1,0 +1,183 @@
+{
+  "name": "lombre",
+  "caption": "Lombre",
+  "types": [
+    "water",
+    "grass"
+  ],
+  "species": "lombre",
+  "gen": "generation-iii",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.2,
+  "weight": 32.5,
+  "baseStats": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 50,
+    "special-attack": 60,
+    "special-defense": 70,
+    "speed": 50
+  },
+  "evolutionChain": {
+    "species": "lotad",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "lombre",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "ludicolo",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Lombre is nocturnal—it will get active after dusk.\nIt is also a mischief maker. When this Pokémon\nspots anglers, it tugs on their fishing lines from\nbeneath the surface and enjoys their consternation.",
+  "moves": {
+    "growl": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "absorb": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "fake-out": [
+      "level-up"
+    ],
+    "uproar": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "level-up",
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "water-sport": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "zen-headbutt": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "bubble": [
+      "level-up"
+    ],
+    "knock-off": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "swift-swim": 1,
+    "rain-dish": 2,
+    "own-tempo": "hidden"
+  }
+}

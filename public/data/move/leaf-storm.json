@@ -1,0 +1,127 @@
+{
+  "name": "leaf-storm",
+  "caption": "Leaf Storm",
+  "type": "grass",
+  "damageCategory": "special",
+  "power": 130,
+  "accuracy": 90,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Lowers the user's Special Attack by two stages after inflicting damage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}, then lowers the user's [Special Attack]{mechanic:special-attack} by two [stages]{mechanic:stage}."
+  },
+  "flavorText": "The user whips up a storm of leaves around the\ntarget. The attack’s recoil harshly lowers the user’s\nSp. Atk stat.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "bulbasaur": [
+      "egg"
+    ],
+    "victreebel": [
+      "level-up"
+    ],
+    "exeggcute": [
+      "egg"
+    ],
+    "exeggutor": [
+      "level-up"
+    ],
+    "tangela": [
+      "egg"
+    ],
+    "chikorita": [
+      "egg"
+    ],
+    "bellossom": [
+      "level-up"
+    ],
+    "sunflora": [
+      "level-up"
+    ],
+    "celebi": [
+      "level-up"
+    ],
+    "treecko": [
+      "egg"
+    ],
+    "grovyle": [
+      "level-up"
+    ],
+    "sceptile": [
+      "level-up"
+    ],
+    "shiftry": [
+      "level-up"
+    ],
+    "roselia": [
+      "egg"
+    ],
+    "tropius": [
+      "level-up",
+      "egg"
+    ],
+    "turtwig": [
+      "level-up"
+    ],
+    "grotle": [
+      "level-up"
+    ],
+    "torterra": [
+      "level-up"
+    ],
+    "budew": [
+      "egg"
+    ],
+    "wormadam-plant": [
+      "level-up"
+    ],
+    "snivy": [
+      "level-up"
+    ],
+    "servine": [
+      "level-up"
+    ],
+    "serperior": [
+      "level-up"
+    ],
+    "pansage": [
+      "egg"
+    ],
+    "leavanny": [
+      "level-up"
+    ],
+    "petilil": [
+      "level-up"
+    ],
+    "decidueye": [
+      "level-up"
+    ],
+    "fomantis": [
+      "egg"
+    ],
+    "steenee": [
+      "level-up"
+    ],
+    "tsareena": [
+      "level-up"
+    ],
+    "shaymin-sky": [
+      "level-up"
+    ],
+    "rotom-mow": [
+      "form-change"
+    ],
+    "sceptile-mega": [
+      "level-up"
+    ],
+    "exeggutor-alola": [
+      "level-up"
+    ]
+  }
+}

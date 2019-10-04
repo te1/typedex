@@ -1,0 +1,20 @@
+{
+  "name": "acid-downpour--physical",
+  "caption": "Acid Downpour",
+  "type": "poison",
+  "damageCategory": "physical",
+  "power": null,
+  "accuracy": null,
+  "pp": 1,
+  "z": true,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The user creates a poisonous swamp using its\nZ-Power and sinks the target into it at full force.\nThe power varies, depending on the original move.",
+  "flags": [],
+  "target": "selected-pokemon",
+  "pokemon": {}
+}

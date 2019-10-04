@@ -1,0 +1,178 @@
+{
+  "name": "ducklett",
+  "caption": "Ducklett",
+  "types": [
+    "water",
+    "flying"
+  ],
+  "species": "ducklett",
+  "gen": "generation-v",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 5.5,
+  "baseStats": {
+    "hp": 62,
+    "attack": 44,
+    "defense": 50,
+    "special-attack": 44,
+    "special-defense": 50,
+    "speed": 55
+  },
+  "evolutionChain": {
+    "species": "ducklett",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "swanna",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "When attacked, it uses its feathers to splash water,\nescaping under cover of the spray.",
+  "moves": {
+    "gust": [
+      "egg"
+    ],
+    "wing-attack": [
+      "level-up"
+    ],
+    "fly": [
+      "machine"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "mirror-move": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "steel-wing": [
+      "egg",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "level-up",
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "feather-dance": [
+      "level-up"
+    ],
+    "air-cutter": [
+      "egg"
+    ],
+    "aerial-ace": [
+      "level-up",
+      "machine"
+    ],
+    "water-sport": [
+      "level-up"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "roost": [
+      "level-up",
+      "machine"
+    ],
+    "brine": [
+      "egg"
+    ],
+    "tailwind": [
+      "level-up"
+    ],
+    "lucky-chant": [
+      "egg"
+    ],
+    "me-first": [
+      "egg"
+    ],
+    "aqua-ring": [
+      "level-up"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "brave-bird": [
+      "level-up"
+    ],
+    "defog": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "hurricane": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "mud-sport": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "aqua-jet": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "keen-eye": 1,
+    "big-pecks": 2,
+    "hydration": "hidden"
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "name": "roost",
+  "caption": "Roost",
+  "type": "flying",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Heals the user by half its max HP.",
+    "full": "Heals the user for half its max [HP]{mechanic:hp}.  If the user is []{type:flying}, its []{type:flying} type is ignored until the end of this turn."
+  },
+  "flavorText": "The user lands and rests its body. It restores the\nuser’s HP by up to half of its max HP.",
+  "flags": [
+    "snatch",
+    "heal"
+  ],
+  "target": "user",
+  "pokemon": {
+    "charizard": [
+      "machine"
+    ],
+    "butterfree": [
+      "machine"
+    ],
+    "beedrill": [
+      "machine"
+    ],
+    "pidgey": [
+      "level-up",
+      "machine"
+    ],
+    "pidgeotto": [
+      "level-up",
+      "machine"
+    ],
+    "pidgeot": [
+      "level-up",
+      "machine"
+    ],
+    "spearow": [
+      "level-up",
+      "machine"
+    ],
+    "fearow": [
+      "level-up",
+      "machine"
+    ],
+    "zubat": [
+      "machine"
+    ],
+    "golbat": [
+      "machine"
+    ],
+    "venomoth": [
+      "machine"
+    ],
+    "farfetchd": [
+      "egg",
+      "machine"
+    ],
+    "doduo": [
+      "machine"
+    ],
+    "dodrio": [
+      "machine"
+    ],
+    "scyther": [
+      "machine"
+    ],
+    "aerodactyl": [
+      "egg",
+      "machine"
+    ],
+    "articuno": [
+      "level-up",
+      "machine"
+    ],
+    "zapdos": [
+      "level-up",
+      "machine"
+    ],
+    "moltres": [
+      "level-up",
+      "machine"
+    ],
+    "dragonite": [
+      "level-up",
+      "machine"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "hoothoot": [
+      "level-up",
+      "machine"
+    ],
+    "noctowl": [
+      "level-up",
+      "machine"
+    ],
+    "ledyba": [
+      "machine"
+    ],
+    "ledian": [
+      "machine"
+    ],
+    "crobat": [
+      "machine"
+    ],
+    "togetic": [
+      "machine"
+    ],
+    "natu": [
+      "egg",
+      "machine"
+    ],
+    "xatu": [
+      "machine"
+    ],
+    "yanma": [
+      "machine"
+    ],
+    "murkrow": [
+      "egg",
+      "machine"
+    ],
+    "dunsparce": [
+      "level-up",
+      "machine"
+    ],
+    "gligar": [
+      "machine"
+    ],
+    "scizor": [
+      "machine"
+    ],
+    "mantine": [
+      "level-up",
+      "machine"
+    ],
+    "skarmory": [
+      "machine"
+    ],
+    "lugia": [
+      "machine"
+    ],
+    "ho-oh": [
+      "machine"
+    ],
+    "beautifly": [
+      "machine"
+    ],
+    "dustox": [
+      "machine"
+    ],
+    "taillow": [
+      "egg",
+      "machine"
+    ],
+    "swellow": [
+      "machine"
+    ],
+    "wingull": [
+      "level-up",
+      "egg",
+      "machine"
+    ],
+    "pelipper": [
+      "level-up",
+      "machine"
+    ],
+    "masquerain": [
+      "machine"
+    ],
+    "ninjask": [
+      "machine"
+    ],
+    "volbeat": [
+      "machine"
+    ],
+    "illumise": [
+      "machine"
+    ],
+    "vibrava": [
+      "machine"
+    ],
+    "flygon": [
+      "machine"
+    ],
+    "swablu": [
+      "egg",
+      "machine"
+    ],
+    "altaria": [
+      "machine"
+    ],
+    "tropius": [
+      "machine"
+    ],
+    "salamence": [
+      "machine"
+    ],
+    "latias": [
+      "machine"
+    ],
+    "latios": [
+      "machine"
+    ],
+    "starly": [
+      "egg",
+      "machine"
+    ],
+    "staravia": [
+      "machine"
+    ],
+    "staraptor": [
+      "machine"
+    ],
+    "mothim": [
+      "machine"
+    ],
+    "vespiquen": [
+      "machine"
+    ],
+    "honchkrow": [
+      "machine"
+    ],
+    "chatot": [
+      "level-up",
+      "machine"
+    ],
+    "togekiss": [
+      "machine"
+    ],
+    "yanmega": [
+      "machine"
+    ],
+    "gliscor": [
+      "machine"
+    ],
+    "pidove": [
+      "level-up",
+      "machine"
+    ],
+    "tranquill": [
+      "level-up",
+      "machine"
+    ],
+    "unfezant": [
+      "level-up",
+      "machine"
+    ],
+    "woobat": [
+      "egg",
+      "machine"
+    ],
+    "swoobat": [
+      "machine"
+    ],
+    "sigilyph": [
+      "egg",
+      "machine"
+    ],
+    "archen": [
+      "machine"
+    ],
+    "archeops": [
+      "machine"
+    ],
+    "ducklett": [
+      "level-up",
+      "machine"
+    ],
+    "swanna": [
+      "level-up",
+      "machine"
+    ],
+    "emolga": [
+      "egg",
+      "machine"
+    ],
+    "rufflet": [
+      "machine"
+    ],
+    "braviary": [
+      "machine"
+    ],
+    "vullaby": [
+      "egg",
+      "machine"
+    ],
+    "mandibuzz": [
+      "machine"
+    ],
+    "hydreigon": [
+      "machine"
+    ],
+    "volcarona": [
+      "machine"
+    ],
+    "reshiram": [
+      "machine"
+    ],
+    "zekrom": [
+      "machine"
+    ],
+    "kyurem": [
+      "machine"
+    ],
+    "fletchling": [
+      "level-up",
+      "machine"
+    ],
+    "fletchinder": [
+      "level-up",
+      "machine"
+    ],
+    "talonflame": [
+      "level-up",
+      "machine"
+    ],
+    "vivillon": [
+      "machine"
+    ],
+    "hawlucha": [
+      "level-up",
+      "machine"
+    ],
+    "noibat": [
+      "level-up",
+      "machine"
+    ],
+    "noivern": [
+      "level-up",
+      "machine"
+    ],
+    "yveltal": [
+      "level-up",
+      "machine"
+    ],
+    "rowlet": [
+      "machine"
+    ],
+    "dartrix": [
+      "machine"
+    ],
+    "decidueye": [
+      "machine"
+    ],
+    "pikipek": [
+      "level-up",
+      "machine"
+    ],
+    "trumbeak": [
+      "level-up",
+      "machine"
+    ],
+    "toucannon": [
+      "level-up",
+      "machine"
+    ],
+    "vikavolt": [
+      "machine"
+    ],
+    "oricorio-baile": [
+      "level-up",
+      "machine"
+    ],
+    "cutiefly": [
+      "machine"
+    ],
+    "ribombee": [
+      "machine"
+    ],
+    "drampa": [
+      "machine"
+    ],
+    "tapu-koko": [
+      "machine"
+    ],
+    "lunala": [
+      "machine"
+    ],
+    "buzzwole": [
+      "machine"
+    ],
+    "pheromosa": [
+      "machine"
+    ],
+    "kyurem-black": [
+      "machine"
+    ],
+    "kyurem-white": [
+      "machine"
+    ],
+    "charizard-mega-x": [
+      "machine"
+    ],
+    "charizard-mega-y": [
+      "machine"
+    ],
+    "aerodactyl-mega": [
+      "machine"
+    ],
+    "scizor-mega": [
+      "machine"
+    ],
+    "latias-mega": [
+      "machine"
+    ],
+    "latios-mega": [
+      "machine"
+    ],
+    "altaria-mega": [
+      "machine"
+    ],
+    "pidgeot-mega": [
+      "level-up",
+      "machine"
+    ],
+    "salamence-mega": [
+      "machine"
+    ],
+    "beedrill-mega": [
+      "machine"
+    ],
+    "vikavolt-totem": [
+      "machine"
+    ],
+    "oricorio-pom-pom": [
+      "level-up",
+      "machine"
+    ],
+    "oricorio-pau": [
+      "level-up",
+      "machine"
+    ],
+    "oricorio-sensu": [
+      "level-up",
+      "machine"
+    ],
+    "ribombee-totem": [
+      "machine"
+    ]
+  }
+}

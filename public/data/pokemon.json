@@ -1,0 +1,9729 @@
+{
+  "pokemon": [
+    {
+      "name": "bulbasaur",
+      "caption": "Bulbasaur",
+      "species": "bulbasaur",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "ivysaur",
+      "caption": "Ivysaur",
+      "species": "ivysaur",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "venusaur",
+      "caption": "Venusaur",
+      "species": "venusaur",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "venusaur-mega",
+      "caption": "Mega Venusaur",
+      "species": "venusaur",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "gen": "generation-i",
+      "mega": true
+    },
+    {
+      "name": "charmander",
+      "caption": "Charmander",
+      "species": "charmander",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "charmeleon",
+      "caption": "Charmeleon",
+      "species": "charmeleon",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "charizard",
+      "caption": "Charizard",
+      "species": "charizard",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "charizard-mega-x",
+      "caption": "Mega Charizard X",
+      "species": "charizard",
+      "types": [
+        "fire",
+        "dragon"
+      ],
+      "gen": "generation-i",
+      "mega": true
+    },
+    {
+      "name": "charizard-mega-y",
+      "caption": "Mega Charizard Y",
+      "species": "charizard",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "gen": "generation-i",
+      "mega": true
+    },
+    {
+      "name": "squirtle",
+      "caption": "Squirtle",
+      "species": "squirtle",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "wartortle",
+      "caption": "Wartortle",
+      "species": "wartortle",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "blastoise",
+      "caption": "Blastoise",
+      "species": "blastoise",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "blastoise-mega",
+      "caption": "Mega Blastoise",
+      "species": "blastoise",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-i",
+      "mega": true
+    },
+    {
+      "name": "caterpie",
+      "caption": "Caterpie",
+      "species": "caterpie",
+      "types": [
+        "bug"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "metapod",
+      "caption": "Metapod",
+      "species": "metapod",
+      "types": [
+        "bug"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "butterfree",
+      "caption": "Butterfree",
+      "species": "butterfree",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "weedle",
+      "caption": "Weedle",
+      "species": "weedle",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "kakuna",
+      "caption": "Kakuna",
+      "species": "kakuna",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "beedrill",
+      "caption": "Beedrill",
+      "species": "beedrill",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "beedrill-mega",
+      "caption": "Mega Beedrill",
+      "species": "beedrill",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "gen": "generation-i",
+      "mega": true
+    },
+    {
+      "name": "pidgey",
+      "caption": "Pidgey",
+      "species": "pidgey",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "pidgeotto",
+      "caption": "Pidgeotto",
+      "species": "pidgeotto",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "pidgeot",
+      "caption": "Pidgeot",
+      "species": "pidgeot",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "pidgeot-mega",
+      "caption": "Mega Pidgeot",
+      "species": "pidgeot",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-i",
+      "mega": true
+    },
+    {
+      "name": "rattata",
+      "caption": "Rattata",
+      "species": "rattata",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "rattata-alola",
+      "caption": "Alolan Rattata",
+      "species": "rattata",
+      "types": [
+        "dark",
+        "normal"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Alola Form"
+    },
+    {
+      "name": "raticate",
+      "caption": "Raticate",
+      "species": "raticate",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "raticate-alola",
+      "caption": "Alolan Raticate",
+      "species": "raticate",
+      "types": [
+        "dark",
+        "normal"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Alola Form"
+    },
+    {
+      "name": "raticate-totem-alola",
+      "caption": "Totem Alolan Raticate",
+      "species": "raticate",
+      "types": [
+        "dark",
+        "normal"
+      ],
+      "gen": "generation-i",
+      "alternate": true
+    },
+    {
+      "name": "spearow",
+      "caption": "Spearow",
+      "species": "spearow",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "fearow",
+      "caption": "Fearow",
+      "species": "fearow",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "ekans",
+      "caption": "Ekans",
+      "species": "ekans",
+      "types": [
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "arbok",
+      "caption": "Arbok",
+      "species": "arbok",
+      "types": [
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "pichu",
+      "caption": "Pichu",
+      "species": "pichu",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "pikachu",
+      "caption": "Pikachu",
+      "species": "pikachu",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "pikachu-cosplay",
+      "caption": "Cosplay Pikachu",
+      "species": "pikachu",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Cosplay Pikachu"
+    },
+    {
+      "name": "pikachu-original-cap",
+      "caption": "Original Cap Pikachu",
+      "species": "pikachu",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Original Cap"
+    },
+    {
+      "name": "pikachu-rock-star",
+      "caption": "Pikachu Rock Star",
+      "species": "pikachu",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Pikachu Rock Star"
+    },
+    {
+      "name": "pikachu-hoenn-cap",
+      "caption": "Hoenn Cap Pikachu",
+      "species": "pikachu",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Hoenn Cap"
+    },
+    {
+      "name": "pikachu-belle",
+      "caption": "Pikachu Belle",
+      "species": "pikachu",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Pikachu Belle"
+    },
+    {
+      "name": "pikachu-sinnoh-cap",
+      "caption": "Sinnoh Cap Pikachu",
+      "species": "pikachu",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Sinnoh Cap"
+    },
+    {
+      "name": "pikachu-pop-star",
+      "caption": "Pikachu Pop Star",
+      "species": "pikachu",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Pikachu Pop Star"
+    },
+    {
+      "name": "pikachu-unova-cap",
+      "caption": "Unova Cap Pikachu",
+      "species": "pikachu",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Unova Cap"
+    },
+    {
+      "name": "pikachu-phd",
+      "caption": "Pikachu Ph.D.",
+      "species": "pikachu",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Pikachu Ph.D."
+    },
+    {
+      "name": "pikachu-kalos-cap",
+      "caption": "Kalos Cap Pikachu",
+      "species": "pikachu",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Kalos Cap"
+    },
+    {
+      "name": "pikachu-libre",
+      "caption": "Pikachu Libre",
+      "species": "pikachu",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Pikachu Libre"
+    },
+    {
+      "name": "pikachu-alola-cap",
+      "caption": "Alola Cap Pikachu",
+      "species": "pikachu",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Alola Cap"
+    },
+    {
+      "name": "pikachu-partner-cap",
+      "caption": "Pikachu",
+      "species": "pikachu",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Partner Cap"
+    },
+    {
+      "name": "raichu",
+      "caption": "Raichu",
+      "species": "raichu",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "raichu-alola",
+      "caption": "Alolan Raichu",
+      "species": "raichu",
+      "types": [
+        "electric",
+        "psychic"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Alola Form"
+    },
+    {
+      "name": "sandshrew",
+      "caption": "Sandshrew",
+      "species": "sandshrew",
+      "types": [
+        "ground"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "sandshrew-alola",
+      "caption": "Alolan Sandshrew",
+      "species": "sandshrew",
+      "types": [
+        "ice",
+        "steel"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Alola Form"
+    },
+    {
+      "name": "sandslash",
+      "caption": "Sandslash",
+      "species": "sandslash",
+      "types": [
+        "ground"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "sandslash-alola",
+      "caption": "Alolan Sandslash",
+      "species": "sandslash",
+      "types": [
+        "ice",
+        "steel"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Alola Form"
+    },
+    {
+      "name": "nidoran-f",
+      "caption": "Nidoran♀",
+      "species": "nidoran-f",
+      "types": [
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "nidorina",
+      "caption": "Nidorina",
+      "species": "nidorina",
+      "types": [
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "nidoqueen",
+      "caption": "Nidoqueen",
+      "species": "nidoqueen",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "nidoran-m",
+      "caption": "Nidoran♂",
+      "species": "nidoran-m",
+      "types": [
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "nidorino",
+      "caption": "Nidorino",
+      "species": "nidorino",
+      "types": [
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "nidoking",
+      "caption": "Nidoking",
+      "species": "nidoking",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "cleffa",
+      "caption": "Cleffa",
+      "species": "cleffa",
+      "types": [
+        "fairy"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "clefairy",
+      "caption": "Clefairy",
+      "species": "clefairy",
+      "types": [
+        "fairy"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "clefable",
+      "caption": "Clefable",
+      "species": "clefable",
+      "types": [
+        "fairy"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "vulpix",
+      "caption": "Vulpix",
+      "species": "vulpix",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "vulpix-alola",
+      "caption": "Alolan Vulpix",
+      "species": "vulpix",
+      "types": [
+        "ice"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Alola Form"
+    },
+    {
+      "name": "ninetales",
+      "caption": "Ninetales",
+      "species": "ninetales",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "ninetales-alola",
+      "caption": "Alolan Ninetales",
+      "species": "ninetales",
+      "types": [
+        "ice",
+        "fairy"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Alola Form"
+    },
+    {
+      "name": "igglybuff",
+      "caption": "Igglybuff",
+      "species": "igglybuff",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "jigglypuff",
+      "caption": "Jigglypuff",
+      "species": "jigglypuff",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "wigglytuff",
+      "caption": "Wigglytuff",
+      "species": "wigglytuff",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "zubat",
+      "caption": "Zubat",
+      "species": "zubat",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "golbat",
+      "caption": "Golbat",
+      "species": "golbat",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "crobat",
+      "caption": "Crobat",
+      "species": "crobat",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "oddish",
+      "caption": "Oddish",
+      "species": "oddish",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "gloom",
+      "caption": "Gloom",
+      "species": "gloom",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "vileplume",
+      "caption": "Vileplume",
+      "species": "vileplume",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "bellossom",
+      "caption": "Bellossom",
+      "species": "bellossom",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "paras",
+      "caption": "Paras",
+      "species": "paras",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "parasect",
+      "caption": "Parasect",
+      "species": "parasect",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "venonat",
+      "caption": "Venonat",
+      "species": "venonat",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "venomoth",
+      "caption": "Venomoth",
+      "species": "venomoth",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "diglett",
+      "caption": "Diglett",
+      "species": "diglett",
+      "types": [
+        "ground"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "diglett-alola",
+      "caption": "Alolan Diglett",
+      "species": "diglett",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Alola Form"
+    },
+    {
+      "name": "dugtrio",
+      "caption": "Dugtrio",
+      "species": "dugtrio",
+      "types": [
+        "ground"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "dugtrio-alola",
+      "caption": "Alolan Dugtrio",
+      "species": "dugtrio",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Alola Form"
+    },
+    {
+      "name": "meowth",
+      "caption": "Meowth",
+      "species": "meowth",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "meowth-alola",
+      "caption": "Alolan Meowth",
+      "species": "meowth",
+      "types": [
+        "dark"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Alola Form"
+    },
+    {
+      "name": "persian",
+      "caption": "Persian",
+      "species": "persian",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "persian-alola",
+      "caption": "Alolan Persian",
+      "species": "persian",
+      "types": [
+        "dark"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Alola Form"
+    },
+    {
+      "name": "psyduck",
+      "caption": "Psyduck",
+      "species": "psyduck",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "golduck",
+      "caption": "Golduck",
+      "species": "golduck",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "mankey",
+      "caption": "Mankey",
+      "species": "mankey",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "primeape",
+      "caption": "Primeape",
+      "species": "primeape",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "growlithe",
+      "caption": "Growlithe",
+      "species": "growlithe",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "arcanine",
+      "caption": "Arcanine",
+      "species": "arcanine",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "poliwag",
+      "caption": "Poliwag",
+      "species": "poliwag",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "poliwhirl",
+      "caption": "Poliwhirl",
+      "species": "poliwhirl",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "poliwrath",
+      "caption": "Poliwrath",
+      "species": "poliwrath",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "politoed",
+      "caption": "Politoed",
+      "species": "politoed",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "abra",
+      "caption": "Abra",
+      "species": "abra",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "kadabra",
+      "caption": "Kadabra",
+      "species": "kadabra",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "alakazam",
+      "caption": "Alakazam",
+      "species": "alakazam",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "alakazam-mega",
+      "caption": "Mega Alakazam",
+      "species": "alakazam",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-i",
+      "mega": true
+    },
+    {
+      "name": "machop",
+      "caption": "Machop",
+      "species": "machop",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "machoke",
+      "caption": "Machoke",
+      "species": "machoke",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "machamp",
+      "caption": "Machamp",
+      "species": "machamp",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "bellsprout",
+      "caption": "Bellsprout",
+      "species": "bellsprout",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "weepinbell",
+      "caption": "Weepinbell",
+      "species": "weepinbell",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "victreebel",
+      "caption": "Victreebel",
+      "species": "victreebel",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "tentacool",
+      "caption": "Tentacool",
+      "species": "tentacool",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "tentacruel",
+      "caption": "Tentacruel",
+      "species": "tentacruel",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "geodude",
+      "caption": "Geodude",
+      "species": "geodude",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "geodude-alola",
+      "caption": "Alolan Geodude",
+      "species": "geodude",
+      "types": [
+        "rock",
+        "electric"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Alola Form"
+    },
+    {
+      "name": "graveler",
+      "caption": "Graveler",
+      "species": "graveler",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "graveler-alola",
+      "caption": "Alolan Graveler",
+      "species": "graveler",
+      "types": [
+        "rock",
+        "electric"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Alola Form"
+    },
+    {
+      "name": "golem",
+      "caption": "Golem",
+      "species": "golem",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "golem-alola",
+      "caption": "Alolan Golem",
+      "species": "golem",
+      "types": [
+        "rock",
+        "electric"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Alola Form"
+    },
+    {
+      "name": "ponyta",
+      "caption": "Ponyta",
+      "species": "ponyta",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "rapidash",
+      "caption": "Rapidash",
+      "species": "rapidash",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "slowpoke",
+      "caption": "Slowpoke",
+      "species": "slowpoke",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "slowbro",
+      "caption": "Slowbro",
+      "species": "slowbro",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "slowbro-mega",
+      "caption": "Mega Slowbro",
+      "species": "slowbro",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "gen": "generation-i",
+      "mega": true
+    },
+    {
+      "name": "slowking",
+      "caption": "Slowking",
+      "species": "slowking",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "magnemite",
+      "caption": "Magnemite",
+      "species": "magnemite",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "magneton",
+      "caption": "Magneton",
+      "species": "magneton",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "magnezone",
+      "caption": "Magnezone",
+      "species": "magnezone",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "farfetchd",
+      "caption": "Farfetch’d",
+      "species": "farfetchd",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "doduo",
+      "caption": "Doduo",
+      "species": "doduo",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "dodrio",
+      "caption": "Dodrio",
+      "species": "dodrio",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "seel",
+      "caption": "Seel",
+      "species": "seel",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "dewgong",
+      "caption": "Dewgong",
+      "species": "dewgong",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "grimer",
+      "caption": "Grimer",
+      "species": "grimer",
+      "types": [
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "grimer-alola",
+      "caption": "Alolan Grimer",
+      "species": "grimer",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Alola Form"
+    },
+    {
+      "name": "muk",
+      "caption": "Muk",
+      "species": "muk",
+      "types": [
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "muk-alola",
+      "caption": "Alolan Muk",
+      "species": "muk",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Alola Form"
+    },
+    {
+      "name": "shellder",
+      "caption": "Shellder",
+      "species": "shellder",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "cloyster",
+      "caption": "Cloyster",
+      "species": "cloyster",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "gastly",
+      "caption": "Gastly",
+      "species": "gastly",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "haunter",
+      "caption": "Haunter",
+      "species": "haunter",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "gengar",
+      "caption": "Gengar",
+      "species": "gengar",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "gengar-mega",
+      "caption": "Mega Gengar",
+      "species": "gengar",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "gen": "generation-i",
+      "mega": true
+    },
+    {
+      "name": "onix",
+      "caption": "Onix",
+      "species": "onix",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "steelix",
+      "caption": "Steelix",
+      "species": "steelix",
+      "types": [
+        "steel",
+        "ground"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "steelix-mega",
+      "caption": "Mega Steelix",
+      "species": "steelix",
+      "types": [
+        "steel",
+        "ground"
+      ],
+      "gen": "generation-ii",
+      "mega": true
+    },
+    {
+      "name": "drowzee",
+      "caption": "Drowzee",
+      "species": "drowzee",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "hypno",
+      "caption": "Hypno",
+      "species": "hypno",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "krabby",
+      "caption": "Krabby",
+      "species": "krabby",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "kingler",
+      "caption": "Kingler",
+      "species": "kingler",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "voltorb",
+      "caption": "Voltorb",
+      "species": "voltorb",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "electrode",
+      "caption": "Electrode",
+      "species": "electrode",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "exeggcute",
+      "caption": "Exeggcute",
+      "species": "exeggcute",
+      "types": [
+        "grass",
+        "psychic"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "exeggutor",
+      "caption": "Exeggutor",
+      "species": "exeggutor",
+      "types": [
+        "grass",
+        "psychic"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "exeggutor-alola",
+      "caption": "Alolan Exeggutor",
+      "species": "exeggutor",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Alola Form"
+    },
+    {
+      "name": "cubone",
+      "caption": "Cubone",
+      "species": "cubone",
+      "types": [
+        "ground"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "marowak",
+      "caption": "Marowak",
+      "species": "marowak",
+      "types": [
+        "ground"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "marowak-alola",
+      "caption": "Alolan Marowak",
+      "species": "marowak",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "gen": "generation-i",
+      "alternate": true,
+      "form": "Alola Form"
+    },
+    {
+      "name": "marowak-totem",
+      "caption": "Marowak",
+      "species": "marowak",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "gen": "generation-i",
+      "alternate": true
+    },
+    {
+      "name": "tyrogue",
+      "caption": "Tyrogue",
+      "species": "tyrogue",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "hitmonlee",
+      "caption": "Hitmonlee",
+      "species": "hitmonlee",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "hitmonchan",
+      "caption": "Hitmonchan",
+      "species": "hitmonchan",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "hitmontop",
+      "caption": "Hitmontop",
+      "species": "hitmontop",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "lickitung",
+      "caption": "Lickitung",
+      "species": "lickitung",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "lickilicky",
+      "caption": "Lickilicky",
+      "species": "lickilicky",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "koffing",
+      "caption": "Koffing",
+      "species": "koffing",
+      "types": [
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "weezing",
+      "caption": "Weezing",
+      "species": "weezing",
+      "types": [
+        "poison"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "rhyhorn",
+      "caption": "Rhyhorn",
+      "species": "rhyhorn",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "rhydon",
+      "caption": "Rhydon",
+      "species": "rhydon",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "rhyperior",
+      "caption": "Rhyperior",
+      "species": "rhyperior",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "happiny",
+      "caption": "Happiny",
+      "species": "happiny",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "chansey",
+      "caption": "Chansey",
+      "species": "chansey",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "blissey",
+      "caption": "Blissey",
+      "species": "blissey",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "tangela",
+      "caption": "Tangela",
+      "species": "tangela",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "tangrowth",
+      "caption": "Tangrowth",
+      "species": "tangrowth",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "kangaskhan",
+      "caption": "Kangaskhan",
+      "species": "kangaskhan",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "kangaskhan-mega",
+      "caption": "Mega Kangaskhan",
+      "species": "kangaskhan",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-i",
+      "mega": true
+    },
+    {
+      "name": "horsea",
+      "caption": "Horsea",
+      "species": "horsea",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "seadra",
+      "caption": "Seadra",
+      "species": "seadra",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "kingdra",
+      "caption": "Kingdra",
+      "species": "kingdra",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "goldeen",
+      "caption": "Goldeen",
+      "species": "goldeen",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "seaking",
+      "caption": "Seaking",
+      "species": "seaking",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "staryu",
+      "caption": "Staryu",
+      "species": "staryu",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "starmie",
+      "caption": "Starmie",
+      "species": "starmie",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "mime-jr",
+      "caption": "Mime Jr.",
+      "species": "mime-jr",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "mr-mime",
+      "caption": "Mr. Mime",
+      "species": "mr-mime",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "scyther",
+      "caption": "Scyther",
+      "species": "scyther",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "scizor",
+      "caption": "Scizor",
+      "species": "scizor",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "scizor-mega",
+      "caption": "Mega Scizor",
+      "species": "scizor",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "gen": "generation-ii",
+      "mega": true
+    },
+    {
+      "name": "smoochum",
+      "caption": "Smoochum",
+      "species": "smoochum",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "jynx",
+      "caption": "Jynx",
+      "species": "jynx",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "elekid",
+      "caption": "Elekid",
+      "species": "elekid",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "electabuzz",
+      "caption": "Electabuzz",
+      "species": "electabuzz",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "electivire",
+      "caption": "Electivire",
+      "species": "electivire",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "magby",
+      "caption": "Magby",
+      "species": "magby",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "magmar",
+      "caption": "Magmar",
+      "species": "magmar",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "magmortar",
+      "caption": "Magmortar",
+      "species": "magmortar",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "pinsir",
+      "caption": "Pinsir",
+      "species": "pinsir",
+      "types": [
+        "bug"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "pinsir-mega",
+      "caption": "Mega Pinsir",
+      "species": "pinsir",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "gen": "generation-i",
+      "mega": true
+    },
+    {
+      "name": "tauros",
+      "caption": "Tauros",
+      "species": "tauros",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "magikarp",
+      "caption": "Magikarp",
+      "species": "magikarp",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "gyarados",
+      "caption": "Gyarados",
+      "species": "gyarados",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "gyarados-mega",
+      "caption": "Mega Gyarados",
+      "species": "gyarados",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "gen": "generation-i",
+      "mega": true
+    },
+    {
+      "name": "lapras",
+      "caption": "Lapras",
+      "species": "lapras",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "ditto",
+      "caption": "Ditto",
+      "species": "ditto",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "eevee",
+      "caption": "Eevee",
+      "species": "eevee",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "vaporeon",
+      "caption": "Vaporeon",
+      "species": "vaporeon",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "jolteon",
+      "caption": "Jolteon",
+      "species": "jolteon",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "flareon",
+      "caption": "Flareon",
+      "species": "flareon",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "espeon",
+      "caption": "Espeon",
+      "species": "espeon",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "umbreon",
+      "caption": "Umbreon",
+      "species": "umbreon",
+      "types": [
+        "dark"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "leafeon",
+      "caption": "Leafeon",
+      "species": "leafeon",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "glaceon",
+      "caption": "Glaceon",
+      "species": "glaceon",
+      "types": [
+        "ice"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "sylveon",
+      "caption": "Sylveon",
+      "species": "sylveon",
+      "types": [
+        "fairy"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "porygon",
+      "caption": "Porygon",
+      "species": "porygon",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "porygon2",
+      "caption": "Porygon2",
+      "species": "porygon2",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "porygon-z",
+      "caption": "Porygon-Z",
+      "species": "porygon-z",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "omanyte",
+      "caption": "Omanyte",
+      "species": "omanyte",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "omastar",
+      "caption": "Omastar",
+      "species": "omastar",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "kabuto",
+      "caption": "Kabuto",
+      "species": "kabuto",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "kabutops",
+      "caption": "Kabutops",
+      "species": "kabutops",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "aerodactyl",
+      "caption": "Aerodactyl",
+      "species": "aerodactyl",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "aerodactyl-mega",
+      "caption": "Mega Aerodactyl",
+      "species": "aerodactyl",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "gen": "generation-i",
+      "mega": true
+    },
+    {
+      "name": "munchlax",
+      "caption": "Munchlax",
+      "species": "munchlax",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "snorlax",
+      "caption": "Snorlax",
+      "species": "snorlax",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "articuno",
+      "caption": "Articuno",
+      "species": "articuno",
+      "types": [
+        "ice",
+        "flying"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "zapdos",
+      "caption": "Zapdos",
+      "species": "zapdos",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "moltres",
+      "caption": "Moltres",
+      "species": "moltres",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "dratini",
+      "caption": "Dratini",
+      "species": "dratini",
+      "types": [
+        "dragon"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "dragonair",
+      "caption": "Dragonair",
+      "species": "dragonair",
+      "types": [
+        "dragon"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "dragonite",
+      "caption": "Dragonite",
+      "species": "dragonite",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "mewtwo",
+      "caption": "Mewtwo",
+      "species": "mewtwo",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "mewtwo-mega-x",
+      "caption": "Mega Mewtwo X",
+      "species": "mewtwo",
+      "types": [
+        "psychic",
+        "fighting"
+      ],
+      "gen": "generation-i",
+      "mega": true
+    },
+    {
+      "name": "mewtwo-mega-y",
+      "caption": "Mega Mewtwo Y",
+      "species": "mewtwo",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-i",
+      "mega": true
+    },
+    {
+      "name": "mew",
+      "caption": "Mew",
+      "species": "mew",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-i"
+    },
+    {
+      "name": "chikorita",
+      "caption": "Chikorita",
+      "species": "chikorita",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "bayleef",
+      "caption": "Bayleef",
+      "species": "bayleef",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "meganium",
+      "caption": "Meganium",
+      "species": "meganium",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "cyndaquil",
+      "caption": "Cyndaquil",
+      "species": "cyndaquil",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "quilava",
+      "caption": "Quilava",
+      "species": "quilava",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "typhlosion",
+      "caption": "Typhlosion",
+      "species": "typhlosion",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "totodile",
+      "caption": "Totodile",
+      "species": "totodile",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "croconaw",
+      "caption": "Croconaw",
+      "species": "croconaw",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "feraligatr",
+      "caption": "Feraligatr",
+      "species": "feraligatr",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "sentret",
+      "caption": "Sentret",
+      "species": "sentret",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "furret",
+      "caption": "Furret",
+      "species": "furret",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "hoothoot",
+      "caption": "Hoothoot",
+      "species": "hoothoot",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "noctowl",
+      "caption": "Noctowl",
+      "species": "noctowl",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "ledyba",
+      "caption": "Ledyba",
+      "species": "ledyba",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "ledian",
+      "caption": "Ledian",
+      "species": "ledian",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "spinarak",
+      "caption": "Spinarak",
+      "species": "spinarak",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "ariados",
+      "caption": "Ariados",
+      "species": "ariados",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "chinchou",
+      "caption": "Chinchou",
+      "species": "chinchou",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "lanturn",
+      "caption": "Lanturn",
+      "species": "lanturn",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "togepi",
+      "caption": "Togepi",
+      "species": "togepi",
+      "types": [
+        "fairy"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "togetic",
+      "caption": "Togetic",
+      "species": "togetic",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "togekiss",
+      "caption": "Togekiss",
+      "species": "togekiss",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "natu",
+      "caption": "Natu",
+      "species": "natu",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "xatu",
+      "caption": "Xatu",
+      "species": "xatu",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "mareep",
+      "caption": "Mareep",
+      "species": "mareep",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "flaaffy",
+      "caption": "Flaaffy",
+      "species": "flaaffy",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "ampharos",
+      "caption": "Ampharos",
+      "species": "ampharos",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "ampharos-mega",
+      "caption": "Mega Ampharos",
+      "species": "ampharos",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "gen": "generation-ii",
+      "mega": true
+    },
+    {
+      "name": "azurill",
+      "caption": "Azurill",
+      "species": "azurill",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "marill",
+      "caption": "Marill",
+      "species": "marill",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "azumarill",
+      "caption": "Azumarill",
+      "species": "azumarill",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "bonsly",
+      "caption": "Bonsly",
+      "species": "bonsly",
+      "types": [
+        "rock"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "sudowoodo",
+      "caption": "Sudowoodo",
+      "species": "sudowoodo",
+      "types": [
+        "rock"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "hoppip",
+      "caption": "Hoppip",
+      "species": "hoppip",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "skiploom",
+      "caption": "Skiploom",
+      "species": "skiploom",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "jumpluff",
+      "caption": "Jumpluff",
+      "species": "jumpluff",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "aipom",
+      "caption": "Aipom",
+      "species": "aipom",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "ambipom",
+      "caption": "Ambipom",
+      "species": "ambipom",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "sunkern",
+      "caption": "Sunkern",
+      "species": "sunkern",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "sunflora",
+      "caption": "Sunflora",
+      "species": "sunflora",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "yanma",
+      "caption": "Yanma",
+      "species": "yanma",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "yanmega",
+      "caption": "Yanmega",
+      "species": "yanmega",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "wooper",
+      "caption": "Wooper",
+      "species": "wooper",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "quagsire",
+      "caption": "Quagsire",
+      "species": "quagsire",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "murkrow",
+      "caption": "Murkrow",
+      "species": "murkrow",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "honchkrow",
+      "caption": "Honchkrow",
+      "species": "honchkrow",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "misdreavus",
+      "caption": "Misdreavus",
+      "species": "misdreavus",
+      "types": [
+        "ghost"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "mismagius",
+      "caption": "Mismagius",
+      "species": "mismagius",
+      "types": [
+        "ghost"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "unown",
+      "caption": "Unown",
+      "species": "unown",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-ii",
+      "form": "A"
+    },
+    {
+      "name": "wynaut",
+      "caption": "Wynaut",
+      "species": "wynaut",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "wobbuffet",
+      "caption": "Wobbuffet",
+      "species": "wobbuffet",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "girafarig",
+      "caption": "Girafarig",
+      "species": "girafarig",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "pineco",
+      "caption": "Pineco",
+      "species": "pineco",
+      "types": [
+        "bug"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "forretress",
+      "caption": "Forretress",
+      "species": "forretress",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "dunsparce",
+      "caption": "Dunsparce",
+      "species": "dunsparce",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "gligar",
+      "caption": "Gligar",
+      "species": "gligar",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "gliscor",
+      "caption": "Gliscor",
+      "species": "gliscor",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "snubbull",
+      "caption": "Snubbull",
+      "species": "snubbull",
+      "types": [
+        "fairy"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "granbull",
+      "caption": "Granbull",
+      "species": "granbull",
+      "types": [
+        "fairy"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "qwilfish",
+      "caption": "Qwilfish",
+      "species": "qwilfish",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "shuckle",
+      "caption": "Shuckle",
+      "species": "shuckle",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "heracross",
+      "caption": "Heracross",
+      "species": "heracross",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "heracross-mega",
+      "caption": "Mega Heracross",
+      "species": "heracross",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "gen": "generation-ii",
+      "mega": true
+    },
+    {
+      "name": "sneasel",
+      "caption": "Sneasel",
+      "species": "sneasel",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "weavile",
+      "caption": "Weavile",
+      "species": "weavile",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "teddiursa",
+      "caption": "Teddiursa",
+      "species": "teddiursa",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "ursaring",
+      "caption": "Ursaring",
+      "species": "ursaring",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "slugma",
+      "caption": "Slugma",
+      "species": "slugma",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "magcargo",
+      "caption": "Magcargo",
+      "species": "magcargo",
+      "types": [
+        "fire",
+        "rock"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "swinub",
+      "caption": "Swinub",
+      "species": "swinub",
+      "types": [
+        "ice",
+        "ground"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "piloswine",
+      "caption": "Piloswine",
+      "species": "piloswine",
+      "types": [
+        "ice",
+        "ground"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "mamoswine",
+      "caption": "Mamoswine",
+      "species": "mamoswine",
+      "types": [
+        "ice",
+        "ground"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "corsola",
+      "caption": "Corsola",
+      "species": "corsola",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "remoraid",
+      "caption": "Remoraid",
+      "species": "remoraid",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "octillery",
+      "caption": "Octillery",
+      "species": "octillery",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "delibird",
+      "caption": "Delibird",
+      "species": "delibird",
+      "types": [
+        "ice",
+        "flying"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "mantyke",
+      "caption": "Mantyke",
+      "species": "mantyke",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "mantine",
+      "caption": "Mantine",
+      "species": "mantine",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "skarmory",
+      "caption": "Skarmory",
+      "species": "skarmory",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "houndour",
+      "caption": "Houndour",
+      "species": "houndour",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "houndoom",
+      "caption": "Houndoom",
+      "species": "houndoom",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "houndoom-mega",
+      "caption": "Mega Houndoom",
+      "species": "houndoom",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "gen": "generation-ii",
+      "mega": true
+    },
+    {
+      "name": "phanpy",
+      "caption": "Phanpy",
+      "species": "phanpy",
+      "types": [
+        "ground"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "donphan",
+      "caption": "Donphan",
+      "species": "donphan",
+      "types": [
+        "ground"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "stantler",
+      "caption": "Stantler",
+      "species": "stantler",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "smeargle",
+      "caption": "Smeargle",
+      "species": "smeargle",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "miltank",
+      "caption": "Miltank",
+      "species": "miltank",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "raikou",
+      "caption": "Raikou",
+      "species": "raikou",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "entei",
+      "caption": "Entei",
+      "species": "entei",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "suicune",
+      "caption": "Suicune",
+      "species": "suicune",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "larvitar",
+      "caption": "Larvitar",
+      "species": "larvitar",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "pupitar",
+      "caption": "Pupitar",
+      "species": "pupitar",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "tyranitar",
+      "caption": "Tyranitar",
+      "species": "tyranitar",
+      "types": [
+        "rock",
+        "dark"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "tyranitar-mega",
+      "caption": "Mega Tyranitar",
+      "species": "tyranitar",
+      "types": [
+        "rock",
+        "dark"
+      ],
+      "gen": "generation-ii",
+      "mega": true
+    },
+    {
+      "name": "lugia",
+      "caption": "Lugia",
+      "species": "lugia",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "ho-oh",
+      "caption": "Ho-Oh",
+      "species": "ho-oh",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "celebi",
+      "caption": "Celebi",
+      "species": "celebi",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "gen": "generation-ii"
+    },
+    {
+      "name": "treecko",
+      "caption": "Treecko",
+      "species": "treecko",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "grovyle",
+      "caption": "Grovyle",
+      "species": "grovyle",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "sceptile",
+      "caption": "Sceptile",
+      "species": "sceptile",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "sceptile-mega",
+      "caption": "Mega Sceptile",
+      "species": "sceptile",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "torchic",
+      "caption": "Torchic",
+      "species": "torchic",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "combusken",
+      "caption": "Combusken",
+      "species": "combusken",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "blaziken",
+      "caption": "Blaziken",
+      "species": "blaziken",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "blaziken-mega",
+      "caption": "Mega Blaziken",
+      "species": "blaziken",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "mudkip",
+      "caption": "Mudkip",
+      "species": "mudkip",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "marshtomp",
+      "caption": "Marshtomp",
+      "species": "marshtomp",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "swampert",
+      "caption": "Swampert",
+      "species": "swampert",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "swampert-mega",
+      "caption": "Mega Swampert",
+      "species": "swampert",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "poochyena",
+      "caption": "Poochyena",
+      "species": "poochyena",
+      "types": [
+        "dark"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "mightyena",
+      "caption": "Mightyena",
+      "species": "mightyena",
+      "types": [
+        "dark"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "zigzagoon",
+      "caption": "Zigzagoon",
+      "species": "zigzagoon",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "linoone",
+      "caption": "Linoone",
+      "species": "linoone",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "wurmple",
+      "caption": "Wurmple",
+      "species": "wurmple",
+      "types": [
+        "bug"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "silcoon",
+      "caption": "Silcoon",
+      "species": "silcoon",
+      "types": [
+        "bug"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "beautifly",
+      "caption": "Beautifly",
+      "species": "beautifly",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "cascoon",
+      "caption": "Cascoon",
+      "species": "cascoon",
+      "types": [
+        "bug"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "dustox",
+      "caption": "Dustox",
+      "species": "dustox",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "lotad",
+      "caption": "Lotad",
+      "species": "lotad",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "lombre",
+      "caption": "Lombre",
+      "species": "lombre",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "ludicolo",
+      "caption": "Ludicolo",
+      "species": "ludicolo",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "seedot",
+      "caption": "Seedot",
+      "species": "seedot",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "nuzleaf",
+      "caption": "Nuzleaf",
+      "species": "nuzleaf",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "shiftry",
+      "caption": "Shiftry",
+      "species": "shiftry",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "taillow",
+      "caption": "Taillow",
+      "species": "taillow",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "swellow",
+      "caption": "Swellow",
+      "species": "swellow",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "wingull",
+      "caption": "Wingull",
+      "species": "wingull",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "pelipper",
+      "caption": "Pelipper",
+      "species": "pelipper",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "ralts",
+      "caption": "Ralts",
+      "species": "ralts",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "kirlia",
+      "caption": "Kirlia",
+      "species": "kirlia",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "gardevoir",
+      "caption": "Gardevoir",
+      "species": "gardevoir",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "gardevoir-mega",
+      "caption": "Mega Gardevoir",
+      "species": "gardevoir",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "gallade",
+      "caption": "Gallade",
+      "species": "gallade",
+      "types": [
+        "psychic",
+        "fighting"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "gallade-mega",
+      "caption": "Mega Gallade",
+      "species": "gallade",
+      "types": [
+        "psychic",
+        "fighting"
+      ],
+      "gen": "generation-iv",
+      "mega": true
+    },
+    {
+      "name": "surskit",
+      "caption": "Surskit",
+      "species": "surskit",
+      "types": [
+        "bug",
+        "water"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "masquerain",
+      "caption": "Masquerain",
+      "species": "masquerain",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "shroomish",
+      "caption": "Shroomish",
+      "species": "shroomish",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "breloom",
+      "caption": "Breloom",
+      "species": "breloom",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "slakoth",
+      "caption": "Slakoth",
+      "species": "slakoth",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "vigoroth",
+      "caption": "Vigoroth",
+      "species": "vigoroth",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "slaking",
+      "caption": "Slaking",
+      "species": "slaking",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "nincada",
+      "caption": "Nincada",
+      "species": "nincada",
+      "types": [
+        "bug",
+        "ground"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "ninjask",
+      "caption": "Ninjask",
+      "species": "ninjask",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "shedinja",
+      "caption": "Shedinja",
+      "species": "shedinja",
+      "types": [
+        "bug",
+        "ghost"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "whismur",
+      "caption": "Whismur",
+      "species": "whismur",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "loudred",
+      "caption": "Loudred",
+      "species": "loudred",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "exploud",
+      "caption": "Exploud",
+      "species": "exploud",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "makuhita",
+      "caption": "Makuhita",
+      "species": "makuhita",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "hariyama",
+      "caption": "Hariyama",
+      "species": "hariyama",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "nosepass",
+      "caption": "Nosepass",
+      "species": "nosepass",
+      "types": [
+        "rock"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "probopass",
+      "caption": "Probopass",
+      "species": "probopass",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "skitty",
+      "caption": "Skitty",
+      "species": "skitty",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "delcatty",
+      "caption": "Delcatty",
+      "species": "delcatty",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "sableye",
+      "caption": "Sableye",
+      "species": "sableye",
+      "types": [
+        "dark",
+        "ghost"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "sableye-mega",
+      "caption": "Mega Sableye",
+      "species": "sableye",
+      "types": [
+        "dark",
+        "ghost"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "mawile",
+      "caption": "Mawile",
+      "species": "mawile",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "mawile-mega",
+      "caption": "Mega Mawile",
+      "species": "mawile",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "aron",
+      "caption": "Aron",
+      "species": "aron",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "lairon",
+      "caption": "Lairon",
+      "species": "lairon",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "aggron",
+      "caption": "Aggron",
+      "species": "aggron",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "aggron-mega",
+      "caption": "Mega Aggron",
+      "species": "aggron",
+      "types": [
+        "steel"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "meditite",
+      "caption": "Meditite",
+      "species": "meditite",
+      "types": [
+        "fighting",
+        "psychic"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "medicham",
+      "caption": "Medicham",
+      "species": "medicham",
+      "types": [
+        "fighting",
+        "psychic"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "medicham-mega",
+      "caption": "Mega Medicham",
+      "species": "medicham",
+      "types": [
+        "fighting",
+        "psychic"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "electrike",
+      "caption": "Electrike",
+      "species": "electrike",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "manectric",
+      "caption": "Manectric",
+      "species": "manectric",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "manectric-mega",
+      "caption": "Mega Manectric",
+      "species": "manectric",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "plusle",
+      "caption": "Plusle",
+      "species": "plusle",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "minun",
+      "caption": "Minun",
+      "species": "minun",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "volbeat",
+      "caption": "Volbeat",
+      "species": "volbeat",
+      "types": [
+        "bug"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "illumise",
+      "caption": "Illumise",
+      "species": "illumise",
+      "types": [
+        "bug"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "budew",
+      "caption": "Budew",
+      "species": "budew",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "roselia",
+      "caption": "Roselia",
+      "species": "roselia",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "roserade",
+      "caption": "Roserade",
+      "species": "roserade",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "gulpin",
+      "caption": "Gulpin",
+      "species": "gulpin",
+      "types": [
+        "poison"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "swalot",
+      "caption": "Swalot",
+      "species": "swalot",
+      "types": [
+        "poison"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "carvanha",
+      "caption": "Carvanha",
+      "species": "carvanha",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "sharpedo",
+      "caption": "Sharpedo",
+      "species": "sharpedo",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "sharpedo-mega",
+      "caption": "Mega Sharpedo",
+      "species": "sharpedo",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "wailmer",
+      "caption": "Wailmer",
+      "species": "wailmer",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "wailord",
+      "caption": "Wailord",
+      "species": "wailord",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "numel",
+      "caption": "Numel",
+      "species": "numel",
+      "types": [
+        "fire",
+        "ground"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "camerupt",
+      "caption": "Camerupt",
+      "species": "camerupt",
+      "types": [
+        "fire",
+        "ground"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "camerupt-mega",
+      "caption": "Mega Camerupt",
+      "species": "camerupt",
+      "types": [
+        "fire",
+        "ground"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "torkoal",
+      "caption": "Torkoal",
+      "species": "torkoal",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "spoink",
+      "caption": "Spoink",
+      "species": "spoink",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "grumpig",
+      "caption": "Grumpig",
+      "species": "grumpig",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "spinda",
+      "caption": "Spinda",
+      "species": "spinda",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "trapinch",
+      "caption": "Trapinch",
+      "species": "trapinch",
+      "types": [
+        "ground"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "vibrava",
+      "caption": "Vibrava",
+      "species": "vibrava",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "flygon",
+      "caption": "Flygon",
+      "species": "flygon",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "cacnea",
+      "caption": "Cacnea",
+      "species": "cacnea",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "cacturne",
+      "caption": "Cacturne",
+      "species": "cacturne",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "swablu",
+      "caption": "Swablu",
+      "species": "swablu",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "altaria",
+      "caption": "Altaria",
+      "species": "altaria",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "altaria-mega",
+      "caption": "Mega Altaria",
+      "species": "altaria",
+      "types": [
+        "dragon",
+        "fairy"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "zangoose",
+      "caption": "Zangoose",
+      "species": "zangoose",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "seviper",
+      "caption": "Seviper",
+      "species": "seviper",
+      "types": [
+        "poison"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "lunatone",
+      "caption": "Lunatone",
+      "species": "lunatone",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "solrock",
+      "caption": "Solrock",
+      "species": "solrock",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "barboach",
+      "caption": "Barboach",
+      "species": "barboach",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "whiscash",
+      "caption": "Whiscash",
+      "species": "whiscash",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "corphish",
+      "caption": "Corphish",
+      "species": "corphish",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "crawdaunt",
+      "caption": "Crawdaunt",
+      "species": "crawdaunt",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "baltoy",
+      "caption": "Baltoy",
+      "species": "baltoy",
+      "types": [
+        "ground",
+        "psychic"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "claydol",
+      "caption": "Claydol",
+      "species": "claydol",
+      "types": [
+        "ground",
+        "psychic"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "lileep",
+      "caption": "Lileep",
+      "species": "lileep",
+      "types": [
+        "rock",
+        "grass"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "cradily",
+      "caption": "Cradily",
+      "species": "cradily",
+      "types": [
+        "rock",
+        "grass"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "anorith",
+      "caption": "Anorith",
+      "species": "anorith",
+      "types": [
+        "rock",
+        "bug"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "armaldo",
+      "caption": "Armaldo",
+      "species": "armaldo",
+      "types": [
+        "rock",
+        "bug"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "feebas",
+      "caption": "Feebas",
+      "species": "feebas",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "milotic",
+      "caption": "Milotic",
+      "species": "milotic",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "castform",
+      "caption": "Castform",
+      "species": "castform",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iii",
+      "form": "Normal"
+    },
+    {
+      "name": "castform-sunny",
+      "caption": "Sunny Castform",
+      "species": "castform",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-iii",
+      "alternate": true,
+      "form": "Sunny Form"
+    },
+    {
+      "name": "castform-rainy",
+      "caption": "Rainy Castform",
+      "species": "castform",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iii",
+      "alternate": true,
+      "form": "Rainy Form"
+    },
+    {
+      "name": "castform-snowy",
+      "caption": "Snowy Castform",
+      "species": "castform",
+      "types": [
+        "ice"
+      ],
+      "gen": "generation-iii",
+      "alternate": true,
+      "form": "Snowy Form"
+    },
+    {
+      "name": "kecleon",
+      "caption": "Kecleon",
+      "species": "kecleon",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "shuppet",
+      "caption": "Shuppet",
+      "species": "shuppet",
+      "types": [
+        "ghost"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "banette",
+      "caption": "Banette",
+      "species": "banette",
+      "types": [
+        "ghost"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "banette-mega",
+      "caption": "Mega Banette",
+      "species": "banette",
+      "types": [
+        "ghost"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "duskull",
+      "caption": "Duskull",
+      "species": "duskull",
+      "types": [
+        "ghost"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "dusclops",
+      "caption": "Dusclops",
+      "species": "dusclops",
+      "types": [
+        "ghost"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "dusknoir",
+      "caption": "Dusknoir",
+      "species": "dusknoir",
+      "types": [
+        "ghost"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "tropius",
+      "caption": "Tropius",
+      "species": "tropius",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "chingling",
+      "caption": "Chingling",
+      "species": "chingling",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "chimecho",
+      "caption": "Chimecho",
+      "species": "chimecho",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "absol",
+      "caption": "Absol",
+      "species": "absol",
+      "types": [
+        "dark"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "absol-mega",
+      "caption": "Mega Absol",
+      "species": "absol",
+      "types": [
+        "dark"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "snorunt",
+      "caption": "Snorunt",
+      "species": "snorunt",
+      "types": [
+        "ice"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "glalie",
+      "caption": "Glalie",
+      "species": "glalie",
+      "types": [
+        "ice"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "glalie-mega",
+      "caption": "Mega Glalie",
+      "species": "glalie",
+      "types": [
+        "ice"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "froslass",
+      "caption": "Froslass",
+      "species": "froslass",
+      "types": [
+        "ice",
+        "ghost"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "spheal",
+      "caption": "Spheal",
+      "species": "spheal",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "sealeo",
+      "caption": "Sealeo",
+      "species": "sealeo",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "walrein",
+      "caption": "Walrein",
+      "species": "walrein",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "clamperl",
+      "caption": "Clamperl",
+      "species": "clamperl",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "huntail",
+      "caption": "Huntail",
+      "species": "huntail",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "gorebyss",
+      "caption": "Gorebyss",
+      "species": "gorebyss",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "relicanth",
+      "caption": "Relicanth",
+      "species": "relicanth",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "luvdisc",
+      "caption": "Luvdisc",
+      "species": "luvdisc",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "bagon",
+      "caption": "Bagon",
+      "species": "bagon",
+      "types": [
+        "dragon"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "shelgon",
+      "caption": "Shelgon",
+      "species": "shelgon",
+      "types": [
+        "dragon"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "salamence",
+      "caption": "Salamence",
+      "species": "salamence",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "salamence-mega",
+      "caption": "Mega Salamence",
+      "species": "salamence",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "beldum",
+      "caption": "Beldum",
+      "species": "beldum",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "metang",
+      "caption": "Metang",
+      "species": "metang",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "metagross",
+      "caption": "Metagross",
+      "species": "metagross",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "metagross-mega",
+      "caption": "Mega Metagross",
+      "species": "metagross",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "regirock",
+      "caption": "Regirock",
+      "species": "regirock",
+      "types": [
+        "rock"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "regice",
+      "caption": "Regice",
+      "species": "regice",
+      "types": [
+        "ice"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "registeel",
+      "caption": "Registeel",
+      "species": "registeel",
+      "types": [
+        "steel"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "latias",
+      "caption": "Latias",
+      "species": "latias",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "latias-mega",
+      "caption": "Mega Latias",
+      "species": "latias",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "latios",
+      "caption": "Latios",
+      "species": "latios",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "latios-mega",
+      "caption": "Mega Latios",
+      "species": "latios",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "kyogre",
+      "caption": "Kyogre",
+      "species": "kyogre",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iii",
+      "form": "Kyogre"
+    },
+    {
+      "name": "kyogre-primal",
+      "caption": "Primal Kyogre",
+      "species": "kyogre",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iii",
+      "alternate": true,
+      "form": "Primal Reversion"
+    },
+    {
+      "name": "groudon",
+      "caption": "Groudon",
+      "species": "groudon",
+      "types": [
+        "ground"
+      ],
+      "gen": "generation-iii",
+      "form": "Groudon"
+    },
+    {
+      "name": "groudon-primal",
+      "caption": "Primal Groudon",
+      "species": "groudon",
+      "types": [
+        "ground",
+        "fire"
+      ],
+      "gen": "generation-iii",
+      "alternate": true,
+      "form": "Primal Reversion"
+    },
+    {
+      "name": "rayquaza",
+      "caption": "Rayquaza",
+      "species": "rayquaza",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "rayquaza-mega",
+      "caption": "Mega Rayquaza",
+      "species": "rayquaza",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "gen": "generation-iii",
+      "mega": true
+    },
+    {
+      "name": "jirachi",
+      "caption": "Jirachi",
+      "species": "jirachi",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "gen": "generation-iii"
+    },
+    {
+      "name": "deoxys-normal",
+      "caption": "Normal Deoxys",
+      "species": "deoxys",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-iii",
+      "form": "Normal Forme"
+    },
+    {
+      "name": "deoxys-attack",
+      "caption": "Attack Deoxys",
+      "species": "deoxys",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-iii",
+      "alternate": true,
+      "form": "Attack Forme"
+    },
+    {
+      "name": "deoxys-defense",
+      "caption": "Defense Deoxys",
+      "species": "deoxys",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-iii",
+      "alternate": true,
+      "form": "Defense Forme"
+    },
+    {
+      "name": "deoxys-speed",
+      "caption": "Speed Deoxys",
+      "species": "deoxys",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-iii",
+      "alternate": true,
+      "form": "Speed Forme"
+    },
+    {
+      "name": "turtwig",
+      "caption": "Turtwig",
+      "species": "turtwig",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "grotle",
+      "caption": "Grotle",
+      "species": "grotle",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "torterra",
+      "caption": "Torterra",
+      "species": "torterra",
+      "types": [
+        "grass",
+        "ground"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "chimchar",
+      "caption": "Chimchar",
+      "species": "chimchar",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "monferno",
+      "caption": "Monferno",
+      "species": "monferno",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "infernape",
+      "caption": "Infernape",
+      "species": "infernape",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "piplup",
+      "caption": "Piplup",
+      "species": "piplup",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "prinplup",
+      "caption": "Prinplup",
+      "species": "prinplup",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "empoleon",
+      "caption": "Empoleon",
+      "species": "empoleon",
+      "types": [
+        "water",
+        "steel"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "starly",
+      "caption": "Starly",
+      "species": "starly",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "staravia",
+      "caption": "Staravia",
+      "species": "staravia",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "staraptor",
+      "caption": "Staraptor",
+      "species": "staraptor",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "bidoof",
+      "caption": "Bidoof",
+      "species": "bidoof",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "bibarel",
+      "caption": "Bibarel",
+      "species": "bibarel",
+      "types": [
+        "normal",
+        "water"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "kricketot",
+      "caption": "Kricketot",
+      "species": "kricketot",
+      "types": [
+        "bug"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "kricketune",
+      "caption": "Kricketune",
+      "species": "kricketune",
+      "types": [
+        "bug"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "shinx",
+      "caption": "Shinx",
+      "species": "shinx",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "luxio",
+      "caption": "Luxio",
+      "species": "luxio",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "luxray",
+      "caption": "Luxray",
+      "species": "luxray",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "cranidos",
+      "caption": "Cranidos",
+      "species": "cranidos",
+      "types": [
+        "rock"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "rampardos",
+      "caption": "Rampardos",
+      "species": "rampardos",
+      "types": [
+        "rock"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "shieldon",
+      "caption": "Shieldon",
+      "species": "shieldon",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "bastiodon",
+      "caption": "Bastiodon",
+      "species": "bastiodon",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "burmy",
+      "caption": "Burmy",
+      "species": "burmy",
+      "types": [
+        "bug"
+      ],
+      "gen": "generation-iv",
+      "form": "Plant Cloak"
+    },
+    {
+      "name": "wormadam-plant",
+      "caption": "Plant Wormadam",
+      "species": "wormadam",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "gen": "generation-iv",
+      "form": "Plant Cloak"
+    },
+    {
+      "name": "wormadam-sandy",
+      "caption": "Sandy Wormadam",
+      "species": "wormadam",
+      "types": [
+        "bug",
+        "ground"
+      ],
+      "gen": "generation-iv",
+      "alternate": true,
+      "form": "Sandy Cloak"
+    },
+    {
+      "name": "wormadam-trash",
+      "caption": "Trash Wormadam",
+      "species": "wormadam",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "gen": "generation-iv",
+      "alternate": true,
+      "form": "Trash Cloak"
+    },
+    {
+      "name": "mothim",
+      "caption": "Mothim",
+      "species": "mothim",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "combee",
+      "caption": "Combee",
+      "species": "combee",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "vespiquen",
+      "caption": "Vespiquen",
+      "species": "vespiquen",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "pachirisu",
+      "caption": "Pachirisu",
+      "species": "pachirisu",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "buizel",
+      "caption": "Buizel",
+      "species": "buizel",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "floatzel",
+      "caption": "Floatzel",
+      "species": "floatzel",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "cherubi",
+      "caption": "Cherubi",
+      "species": "cherubi",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "cherrim",
+      "caption": "Cherrim",
+      "species": "cherrim",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-iv",
+      "form": "Overcast Form"
+    },
+    {
+      "name": "shellos",
+      "caption": "Shellos",
+      "species": "shellos",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iv",
+      "form": "West Sea"
+    },
+    {
+      "name": "gastrodon",
+      "caption": "Gastrodon",
+      "species": "gastrodon",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "gen": "generation-iv",
+      "form": "West Sea"
+    },
+    {
+      "name": "drifloon",
+      "caption": "Drifloon",
+      "species": "drifloon",
+      "types": [
+        "ghost",
+        "flying"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "drifblim",
+      "caption": "Drifblim",
+      "species": "drifblim",
+      "types": [
+        "ghost",
+        "flying"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "buneary",
+      "caption": "Buneary",
+      "species": "buneary",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "lopunny",
+      "caption": "Lopunny",
+      "species": "lopunny",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "lopunny-mega",
+      "caption": "Mega Lopunny",
+      "species": "lopunny",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "gen": "generation-iv",
+      "mega": true
+    },
+    {
+      "name": "glameow",
+      "caption": "Glameow",
+      "species": "glameow",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "purugly",
+      "caption": "Purugly",
+      "species": "purugly",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "stunky",
+      "caption": "Stunky",
+      "species": "stunky",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "skuntank",
+      "caption": "Skuntank",
+      "species": "skuntank",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "bronzor",
+      "caption": "Bronzor",
+      "species": "bronzor",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "bronzong",
+      "caption": "Bronzong",
+      "species": "bronzong",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "chatot",
+      "caption": "Chatot",
+      "species": "chatot",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "spiritomb",
+      "caption": "Spiritomb",
+      "species": "spiritomb",
+      "types": [
+        "ghost",
+        "dark"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "gible",
+      "caption": "Gible",
+      "species": "gible",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "gabite",
+      "caption": "Gabite",
+      "species": "gabite",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "garchomp",
+      "caption": "Garchomp",
+      "species": "garchomp",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "garchomp-mega",
+      "caption": "Mega Garchomp",
+      "species": "garchomp",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "gen": "generation-iv",
+      "mega": true
+    },
+    {
+      "name": "riolu",
+      "caption": "Riolu",
+      "species": "riolu",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "lucario",
+      "caption": "Lucario",
+      "species": "lucario",
+      "types": [
+        "fighting",
+        "steel"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "lucario-mega",
+      "caption": "Mega Lucario",
+      "species": "lucario",
+      "types": [
+        "fighting",
+        "steel"
+      ],
+      "gen": "generation-iv",
+      "mega": true
+    },
+    {
+      "name": "hippopotas",
+      "caption": "Hippopotas",
+      "species": "hippopotas",
+      "types": [
+        "ground"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "hippowdon",
+      "caption": "Hippowdon",
+      "species": "hippowdon",
+      "types": [
+        "ground"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "skorupi",
+      "caption": "Skorupi",
+      "species": "skorupi",
+      "types": [
+        "poison",
+        "bug"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "drapion",
+      "caption": "Drapion",
+      "species": "drapion",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "croagunk",
+      "caption": "Croagunk",
+      "species": "croagunk",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "toxicroak",
+      "caption": "Toxicroak",
+      "species": "toxicroak",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "carnivine",
+      "caption": "Carnivine",
+      "species": "carnivine",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "finneon",
+      "caption": "Finneon",
+      "species": "finneon",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "lumineon",
+      "caption": "Lumineon",
+      "species": "lumineon",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "snover",
+      "caption": "Snover",
+      "species": "snover",
+      "types": [
+        "grass",
+        "ice"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "abomasnow",
+      "caption": "Abomasnow",
+      "species": "abomasnow",
+      "types": [
+        "grass",
+        "ice"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "abomasnow-mega",
+      "caption": "Mega Abomasnow",
+      "species": "abomasnow",
+      "types": [
+        "grass",
+        "ice"
+      ],
+      "gen": "generation-iv",
+      "mega": true
+    },
+    {
+      "name": "rotom",
+      "caption": "Rotom",
+      "species": "rotom",
+      "types": [
+        "electric",
+        "ghost"
+      ],
+      "gen": "generation-iv",
+      "form": "Rotom"
+    },
+    {
+      "name": "rotom-heat",
+      "caption": "Heat Rotom",
+      "species": "rotom",
+      "types": [
+        "electric",
+        "fire"
+      ],
+      "gen": "generation-iv",
+      "alternate": true,
+      "form": "Heat Rotom"
+    },
+    {
+      "name": "rotom-wash",
+      "caption": "Wash Rotom",
+      "species": "rotom",
+      "types": [
+        "electric",
+        "water"
+      ],
+      "gen": "generation-iv",
+      "alternate": true,
+      "form": "Wash Rotom"
+    },
+    {
+      "name": "rotom-frost",
+      "caption": "Frost Rotom",
+      "species": "rotom",
+      "types": [
+        "electric",
+        "ice"
+      ],
+      "gen": "generation-iv",
+      "alternate": true,
+      "form": "Frost Rotom"
+    },
+    {
+      "name": "rotom-fan",
+      "caption": "Fan Rotom",
+      "species": "rotom",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "gen": "generation-iv",
+      "alternate": true,
+      "form": "Fan Rotom"
+    },
+    {
+      "name": "rotom-mow",
+      "caption": "Mow Rotom",
+      "species": "rotom",
+      "types": [
+        "electric",
+        "grass"
+      ],
+      "gen": "generation-iv",
+      "alternate": true,
+      "form": "Mow Rotom"
+    },
+    {
+      "name": "uxie",
+      "caption": "Uxie",
+      "species": "uxie",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "mesprit",
+      "caption": "Mesprit",
+      "species": "mesprit",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "azelf",
+      "caption": "Azelf",
+      "species": "azelf",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "dialga",
+      "caption": "Dialga",
+      "species": "dialga",
+      "types": [
+        "steel",
+        "dragon"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "palkia",
+      "caption": "Palkia",
+      "species": "palkia",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "heatran",
+      "caption": "Heatran",
+      "species": "heatran",
+      "types": [
+        "fire",
+        "steel"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "regigigas",
+      "caption": "Regigigas",
+      "species": "regigigas",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "giratina-altered",
+      "caption": "Altered Giratina",
+      "species": "giratina",
+      "types": [
+        "ghost",
+        "dragon"
+      ],
+      "gen": "generation-iv",
+      "form": "Altered Forme"
+    },
+    {
+      "name": "giratina-origin",
+      "caption": "Origin Giratina",
+      "species": "giratina",
+      "types": [
+        "ghost",
+        "dragon"
+      ],
+      "gen": "generation-iv",
+      "alternate": true,
+      "form": "Origin Forme"
+    },
+    {
+      "name": "cresselia",
+      "caption": "Cresselia",
+      "species": "cresselia",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "phione",
+      "caption": "Phione",
+      "species": "phione",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "manaphy",
+      "caption": "Manaphy",
+      "species": "manaphy",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "darkrai",
+      "caption": "Darkrai",
+      "species": "darkrai",
+      "types": [
+        "dark"
+      ],
+      "gen": "generation-iv"
+    },
+    {
+      "name": "shaymin-land",
+      "caption": "Land Shaymin",
+      "species": "shaymin",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-iv",
+      "form": "Land Forme"
+    },
+    {
+      "name": "shaymin-sky",
+      "caption": "Sky Shaymin",
+      "species": "shaymin",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "gen": "generation-iv",
+      "alternate": true,
+      "form": "Sky Forme"
+    },
+    {
+      "name": "arceus",
+      "caption": "Arceus",
+      "species": "arceus",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-iv",
+      "form": "Normal Type"
+    },
+    {
+      "name": "victini",
+      "caption": "Victini",
+      "species": "victini",
+      "types": [
+        "psychic",
+        "fire"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "snivy",
+      "caption": "Snivy",
+      "species": "snivy",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "servine",
+      "caption": "Servine",
+      "species": "servine",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "serperior",
+      "caption": "Serperior",
+      "species": "serperior",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "tepig",
+      "caption": "Tepig",
+      "species": "tepig",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "pignite",
+      "caption": "Pignite",
+      "species": "pignite",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "emboar",
+      "caption": "Emboar",
+      "species": "emboar",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "oshawott",
+      "caption": "Oshawott",
+      "species": "oshawott",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "dewott",
+      "caption": "Dewott",
+      "species": "dewott",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "samurott",
+      "caption": "Samurott",
+      "species": "samurott",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "patrat",
+      "caption": "Patrat",
+      "species": "patrat",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "watchog",
+      "caption": "Watchog",
+      "species": "watchog",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "lillipup",
+      "caption": "Lillipup",
+      "species": "lillipup",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "herdier",
+      "caption": "Herdier",
+      "species": "herdier",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "stoutland",
+      "caption": "Stoutland",
+      "species": "stoutland",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "purrloin",
+      "caption": "Purrloin",
+      "species": "purrloin",
+      "types": [
+        "dark"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "liepard",
+      "caption": "Liepard",
+      "species": "liepard",
+      "types": [
+        "dark"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "pansage",
+      "caption": "Pansage",
+      "species": "pansage",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "simisage",
+      "caption": "Simisage",
+      "species": "simisage",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "pansear",
+      "caption": "Pansear",
+      "species": "pansear",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "simisear",
+      "caption": "Simisear",
+      "species": "simisear",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "panpour",
+      "caption": "Panpour",
+      "species": "panpour",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "simipour",
+      "caption": "Simipour",
+      "species": "simipour",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "munna",
+      "caption": "Munna",
+      "species": "munna",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "musharna",
+      "caption": "Musharna",
+      "species": "musharna",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "pidove",
+      "caption": "Pidove",
+      "species": "pidove",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "tranquill",
+      "caption": "Tranquill",
+      "species": "tranquill",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "unfezant",
+      "caption": "Unfezant",
+      "species": "unfezant",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "blitzle",
+      "caption": "Blitzle",
+      "species": "blitzle",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "zebstrika",
+      "caption": "Zebstrika",
+      "species": "zebstrika",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "roggenrola",
+      "caption": "Roggenrola",
+      "species": "roggenrola",
+      "types": [
+        "rock"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "boldore",
+      "caption": "Boldore",
+      "species": "boldore",
+      "types": [
+        "rock"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "gigalith",
+      "caption": "Gigalith",
+      "species": "gigalith",
+      "types": [
+        "rock"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "woobat",
+      "caption": "Woobat",
+      "species": "woobat",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "swoobat",
+      "caption": "Swoobat",
+      "species": "swoobat",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "drilbur",
+      "caption": "Drilbur",
+      "species": "drilbur",
+      "types": [
+        "ground"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "excadrill",
+      "caption": "Excadrill",
+      "species": "excadrill",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "audino",
+      "caption": "Audino",
+      "species": "audino",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "audino-mega",
+      "caption": "Mega Audino",
+      "species": "audino",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "gen": "generation-v",
+      "mega": true
+    },
+    {
+      "name": "timburr",
+      "caption": "Timburr",
+      "species": "timburr",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "gurdurr",
+      "caption": "Gurdurr",
+      "species": "gurdurr",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "conkeldurr",
+      "caption": "Conkeldurr",
+      "species": "conkeldurr",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "tympole",
+      "caption": "Tympole",
+      "species": "tympole",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "palpitoad",
+      "caption": "Palpitoad",
+      "species": "palpitoad",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "seismitoad",
+      "caption": "Seismitoad",
+      "species": "seismitoad",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "throh",
+      "caption": "Throh",
+      "species": "throh",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "sawk",
+      "caption": "Sawk",
+      "species": "sawk",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "sewaddle",
+      "caption": "Sewaddle",
+      "species": "sewaddle",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "swadloon",
+      "caption": "Swadloon",
+      "species": "swadloon",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "leavanny",
+      "caption": "Leavanny",
+      "species": "leavanny",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "venipede",
+      "caption": "Venipede",
+      "species": "venipede",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "whirlipede",
+      "caption": "Whirlipede",
+      "species": "whirlipede",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "scolipede",
+      "caption": "Scolipede",
+      "species": "scolipede",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "cottonee",
+      "caption": "Cottonee",
+      "species": "cottonee",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "whimsicott",
+      "caption": "Whimsicott",
+      "species": "whimsicott",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "petilil",
+      "caption": "Petilil",
+      "species": "petilil",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "lilligant",
+      "caption": "Lilligant",
+      "species": "lilligant",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "basculin-red-striped",
+      "caption": "Red-Striped Basculin",
+      "species": "basculin",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-v",
+      "form": "Red-Striped Form"
+    },
+    {
+      "name": "basculin-blue-striped",
+      "caption": "Blue-Striped Basculin",
+      "species": "basculin",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-v",
+      "alternate": true,
+      "form": "Blue-Striped Form"
+    },
+    {
+      "name": "sandile",
+      "caption": "Sandile",
+      "species": "sandile",
+      "types": [
+        "ground",
+        "dark"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "krokorok",
+      "caption": "Krokorok",
+      "species": "krokorok",
+      "types": [
+        "ground",
+        "dark"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "krookodile",
+      "caption": "Krookodile",
+      "species": "krookodile",
+      "types": [
+        "ground",
+        "dark"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "darumaka",
+      "caption": "Darumaka",
+      "species": "darumaka",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "darmanitan-standard",
+      "caption": "Standard Darmanitan",
+      "species": "darmanitan",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-v",
+      "form": "Standard Mode"
+    },
+    {
+      "name": "darmanitan-zen",
+      "caption": "Zen Darmanitan",
+      "species": "darmanitan",
+      "types": [
+        "fire",
+        "psychic"
+      ],
+      "gen": "generation-v",
+      "alternate": true,
+      "form": "Zen Mode"
+    },
+    {
+      "name": "maractus",
+      "caption": "Maractus",
+      "species": "maractus",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "dwebble",
+      "caption": "Dwebble",
+      "species": "dwebble",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "crustle",
+      "caption": "Crustle",
+      "species": "crustle",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "scraggy",
+      "caption": "Scraggy",
+      "species": "scraggy",
+      "types": [
+        "dark",
+        "fighting"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "scrafty",
+      "caption": "Scrafty",
+      "species": "scrafty",
+      "types": [
+        "dark",
+        "fighting"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "sigilyph",
+      "caption": "Sigilyph",
+      "species": "sigilyph",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "yamask",
+      "caption": "Yamask",
+      "species": "yamask",
+      "types": [
+        "ghost"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "cofagrigus",
+      "caption": "Cofagrigus",
+      "species": "cofagrigus",
+      "types": [
+        "ghost"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "tirtouga",
+      "caption": "Tirtouga",
+      "species": "tirtouga",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "carracosta",
+      "caption": "Carracosta",
+      "species": "carracosta",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "archen",
+      "caption": "Archen",
+      "species": "archen",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "archeops",
+      "caption": "Archeops",
+      "species": "archeops",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "trubbish",
+      "caption": "Trubbish",
+      "species": "trubbish",
+      "types": [
+        "poison"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "garbodor",
+      "caption": "Garbodor",
+      "species": "garbodor",
+      "types": [
+        "poison"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "zorua",
+      "caption": "Zorua",
+      "species": "zorua",
+      "types": [
+        "dark"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "zoroark",
+      "caption": "Zoroark",
+      "species": "zoroark",
+      "types": [
+        "dark"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "minccino",
+      "caption": "Minccino",
+      "species": "minccino",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "cinccino",
+      "caption": "Cinccino",
+      "species": "cinccino",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "gothita",
+      "caption": "Gothita",
+      "species": "gothita",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "gothorita",
+      "caption": "Gothorita",
+      "species": "gothorita",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "gothitelle",
+      "caption": "Gothitelle",
+      "species": "gothitelle",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "solosis",
+      "caption": "Solosis",
+      "species": "solosis",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "duosion",
+      "caption": "Duosion",
+      "species": "duosion",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "reuniclus",
+      "caption": "Reuniclus",
+      "species": "reuniclus",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "ducklett",
+      "caption": "Ducklett",
+      "species": "ducklett",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "swanna",
+      "caption": "Swanna",
+      "species": "swanna",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "vanillite",
+      "caption": "Vanillite",
+      "species": "vanillite",
+      "types": [
+        "ice"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "vanillish",
+      "caption": "Vanillish",
+      "species": "vanillish",
+      "types": [
+        "ice"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "vanilluxe",
+      "caption": "Vanilluxe",
+      "species": "vanilluxe",
+      "types": [
+        "ice"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "deerling",
+      "caption": "Deerling",
+      "species": "deerling",
+      "types": [
+        "normal",
+        "grass"
+      ],
+      "gen": "generation-v",
+      "form": "Spring Form"
+    },
+    {
+      "name": "sawsbuck",
+      "caption": "Sawsbuck",
+      "species": "sawsbuck",
+      "types": [
+        "normal",
+        "grass"
+      ],
+      "gen": "generation-v",
+      "form": "Spring Form"
+    },
+    {
+      "name": "emolga",
+      "caption": "Emolga",
+      "species": "emolga",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "karrablast",
+      "caption": "Karrablast",
+      "species": "karrablast",
+      "types": [
+        "bug"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "escavalier",
+      "caption": "Escavalier",
+      "species": "escavalier",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "foongus",
+      "caption": "Foongus",
+      "species": "foongus",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "amoonguss",
+      "caption": "Amoonguss",
+      "species": "amoonguss",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "frillish",
+      "caption": "Frillish",
+      "species": "frillish",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "jellicent",
+      "caption": "Jellicent",
+      "species": "jellicent",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "alomomola",
+      "caption": "Alomomola",
+      "species": "alomomola",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "joltik",
+      "caption": "Joltik",
+      "species": "joltik",
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "galvantula",
+      "caption": "Galvantula",
+      "species": "galvantula",
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "ferroseed",
+      "caption": "Ferroseed",
+      "species": "ferroseed",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "ferrothorn",
+      "caption": "Ferrothorn",
+      "species": "ferrothorn",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "klink",
+      "caption": "Klink",
+      "species": "klink",
+      "types": [
+        "steel"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "klang",
+      "caption": "Klang",
+      "species": "klang",
+      "types": [
+        "steel"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "klinklang",
+      "caption": "Klinklang",
+      "species": "klinklang",
+      "types": [
+        "steel"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "tynamo",
+      "caption": "Tynamo",
+      "species": "tynamo",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "eelektrik",
+      "caption": "Eelektrik",
+      "species": "eelektrik",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "eelektross",
+      "caption": "Eelektross",
+      "species": "eelektross",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "elgyem",
+      "caption": "Elgyem",
+      "species": "elgyem",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "beheeyem",
+      "caption": "Beheeyem",
+      "species": "beheeyem",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "litwick",
+      "caption": "Litwick",
+      "species": "litwick",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "lampent",
+      "caption": "Lampent",
+      "species": "lampent",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "chandelure",
+      "caption": "Chandelure",
+      "species": "chandelure",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "axew",
+      "caption": "Axew",
+      "species": "axew",
+      "types": [
+        "dragon"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "fraxure",
+      "caption": "Fraxure",
+      "species": "fraxure",
+      "types": [
+        "dragon"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "haxorus",
+      "caption": "Haxorus",
+      "species": "haxorus",
+      "types": [
+        "dragon"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "cubchoo",
+      "caption": "Cubchoo",
+      "species": "cubchoo",
+      "types": [
+        "ice"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "beartic",
+      "caption": "Beartic",
+      "species": "beartic",
+      "types": [
+        "ice"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "cryogonal",
+      "caption": "Cryogonal",
+      "species": "cryogonal",
+      "types": [
+        "ice"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "shelmet",
+      "caption": "Shelmet",
+      "species": "shelmet",
+      "types": [
+        "bug"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "accelgor",
+      "caption": "Accelgor",
+      "species": "accelgor",
+      "types": [
+        "bug"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "stunfisk",
+      "caption": "Stunfisk",
+      "species": "stunfisk",
+      "types": [
+        "ground",
+        "electric"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "mienfoo",
+      "caption": "Mienfoo",
+      "species": "mienfoo",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "mienshao",
+      "caption": "Mienshao",
+      "species": "mienshao",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "druddigon",
+      "caption": "Druddigon",
+      "species": "druddigon",
+      "types": [
+        "dragon"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "golett",
+      "caption": "Golett",
+      "species": "golett",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "golurk",
+      "caption": "Golurk",
+      "species": "golurk",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "pawniard",
+      "caption": "Pawniard",
+      "species": "pawniard",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "bisharp",
+      "caption": "Bisharp",
+      "species": "bisharp",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "bouffalant",
+      "caption": "Bouffalant",
+      "species": "bouffalant",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "rufflet",
+      "caption": "Rufflet",
+      "species": "rufflet",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "braviary",
+      "caption": "Braviary",
+      "species": "braviary",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "vullaby",
+      "caption": "Vullaby",
+      "species": "vullaby",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "mandibuzz",
+      "caption": "Mandibuzz",
+      "species": "mandibuzz",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "heatmor",
+      "caption": "Heatmor",
+      "species": "heatmor",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "durant",
+      "caption": "Durant",
+      "species": "durant",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "deino",
+      "caption": "Deino",
+      "species": "deino",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "zweilous",
+      "caption": "Zweilous",
+      "species": "zweilous",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "hydreigon",
+      "caption": "Hydreigon",
+      "species": "hydreigon",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "larvesta",
+      "caption": "Larvesta",
+      "species": "larvesta",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "volcarona",
+      "caption": "Volcarona",
+      "species": "volcarona",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "cobalion",
+      "caption": "Cobalion",
+      "species": "cobalion",
+      "types": [
+        "steel",
+        "fighting"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "terrakion",
+      "caption": "Terrakion",
+      "species": "terrakion",
+      "types": [
+        "rock",
+        "fighting"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "virizion",
+      "caption": "Virizion",
+      "species": "virizion",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "tornadus-incarnate",
+      "caption": "Incarnate Tornadus",
+      "species": "tornadus",
+      "types": [
+        "flying"
+      ],
+      "gen": "generation-v",
+      "form": "Incarnate Forme"
+    },
+    {
+      "name": "tornadus-therian",
+      "caption": "Therian Tornadus",
+      "species": "tornadus",
+      "types": [
+        "flying"
+      ],
+      "gen": "generation-v",
+      "alternate": true,
+      "form": "Therian Forme"
+    },
+    {
+      "name": "thundurus-incarnate",
+      "caption": "Incarnate Thundurus",
+      "species": "thundurus",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "gen": "generation-v",
+      "form": "Incarnate Forme"
+    },
+    {
+      "name": "thundurus-therian",
+      "caption": "Therian Thundurus",
+      "species": "thundurus",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "gen": "generation-v",
+      "alternate": true,
+      "form": "Therian Forme"
+    },
+    {
+      "name": "reshiram",
+      "caption": "Reshiram",
+      "species": "reshiram",
+      "types": [
+        "dragon",
+        "fire"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "zekrom",
+      "caption": "Zekrom",
+      "species": "zekrom",
+      "types": [
+        "dragon",
+        "electric"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "landorus-incarnate",
+      "caption": "Incarnate Landorus",
+      "species": "landorus",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "gen": "generation-v",
+      "form": "Incarnate Forme"
+    },
+    {
+      "name": "landorus-therian",
+      "caption": "Therian Landorus",
+      "species": "landorus",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "gen": "generation-v",
+      "alternate": true,
+      "form": "Therian Forme"
+    },
+    {
+      "name": "kyurem",
+      "caption": "Kyurem",
+      "species": "kyurem",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "gen": "generation-v",
+      "form": "Kyurem"
+    },
+    {
+      "name": "kyurem-white",
+      "caption": "White Kyurem",
+      "species": "kyurem",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "gen": "generation-v",
+      "alternate": true,
+      "form": "White Kyurem"
+    },
+    {
+      "name": "kyurem-black",
+      "caption": "Black Kyurem",
+      "species": "kyurem",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "gen": "generation-v",
+      "alternate": true,
+      "form": "Black Kyurem"
+    },
+    {
+      "name": "keldeo-ordinary",
+      "caption": "Ordinary Keldeo",
+      "species": "keldeo",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "gen": "generation-v",
+      "form": "Ordinary Form"
+    },
+    {
+      "name": "keldeo-resolute",
+      "caption": "Resolute Keldeo",
+      "species": "keldeo",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "gen": "generation-v",
+      "alternate": true,
+      "form": "Resolute Form"
+    },
+    {
+      "name": "meloetta-aria",
+      "caption": "Aria Meloetta",
+      "species": "meloetta",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "gen": "generation-v",
+      "form": "Aria Forme"
+    },
+    {
+      "name": "meloetta-pirouette",
+      "caption": "Pirouette Meloetta",
+      "species": "meloetta",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "gen": "generation-v",
+      "alternate": true,
+      "form": "Pirouette Forme"
+    },
+    {
+      "name": "genesect",
+      "caption": "Genesect",
+      "species": "genesect",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "gen": "generation-v"
+    },
+    {
+      "name": "chespin",
+      "caption": "Chespin",
+      "species": "chespin",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "quilladin",
+      "caption": "Quilladin",
+      "species": "quilladin",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "chesnaught",
+      "caption": "Chesnaught",
+      "species": "chesnaught",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "fennekin",
+      "caption": "Fennekin",
+      "species": "fennekin",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "braixen",
+      "caption": "Braixen",
+      "species": "braixen",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "delphox",
+      "caption": "Delphox",
+      "species": "delphox",
+      "types": [
+        "fire",
+        "psychic"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "froakie",
+      "caption": "Froakie",
+      "species": "froakie",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "frogadier",
+      "caption": "Frogadier",
+      "species": "frogadier",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "greninja",
+      "caption": "Greninja",
+      "species": "greninja",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "greninja-battle-bond",
+      "caption": "Battle Bond Greninja",
+      "species": "greninja",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "gen": "generation-vi",
+      "alternate": true
+    },
+    {
+      "name": "greninja-ash",
+      "caption": "Ash's Greninja",
+      "species": "greninja",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "gen": "generation-vi",
+      "alternate": true,
+      "form": "Ash-Greninja"
+    },
+    {
+      "name": "bunnelby",
+      "caption": "Bunnelby",
+      "species": "bunnelby",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "diggersby",
+      "caption": "Diggersby",
+      "species": "diggersby",
+      "types": [
+        "normal",
+        "ground"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "fletchling",
+      "caption": "Fletchling",
+      "species": "fletchling",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "fletchinder",
+      "caption": "Fletchinder",
+      "species": "fletchinder",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "talonflame",
+      "caption": "Talonflame",
+      "species": "talonflame",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "scatterbug",
+      "caption": "Scatterbug",
+      "species": "scatterbug",
+      "types": [
+        "bug"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "spewpa",
+      "caption": "Spewpa",
+      "species": "spewpa",
+      "types": [
+        "bug"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "vivillon",
+      "caption": "Vivillon",
+      "species": "vivillon",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "gen": "generation-vi",
+      "form": "Icy Snow Pattern"
+    },
+    {
+      "name": "litleo",
+      "caption": "Litleo",
+      "species": "litleo",
+      "types": [
+        "fire",
+        "normal"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "pyroar",
+      "caption": "Pyroar",
+      "species": "pyroar",
+      "types": [
+        "fire",
+        "normal"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "flabebe",
+      "caption": "Flabébé",
+      "species": "flabebe",
+      "types": [
+        "fairy"
+      ],
+      "gen": "generation-vi",
+      "form": "Red Flower"
+    },
+    {
+      "name": "floette",
+      "caption": "Floette",
+      "species": "floette",
+      "types": [
+        "fairy"
+      ],
+      "gen": "generation-vi",
+      "form": "Red Flower"
+    },
+    {
+      "name": "floette-eternal",
+      "caption": "Eternal Floette",
+      "species": "floette",
+      "types": [
+        "fairy"
+      ],
+      "gen": "generation-vi",
+      "alternate": true,
+      "form": "Eternal Flower"
+    },
+    {
+      "name": "florges",
+      "caption": "Florges",
+      "species": "florges",
+      "types": [
+        "fairy"
+      ],
+      "gen": "generation-vi",
+      "form": "Red Flower"
+    },
+    {
+      "name": "skiddo",
+      "caption": "Skiddo",
+      "species": "skiddo",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "gogoat",
+      "caption": "Gogoat",
+      "species": "gogoat",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "pancham",
+      "caption": "Pancham",
+      "species": "pancham",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "pangoro",
+      "caption": "Pangoro",
+      "species": "pangoro",
+      "types": [
+        "fighting",
+        "dark"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "furfrou",
+      "caption": "Furfrou",
+      "species": "furfrou",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-vi",
+      "form": "Natural Form"
+    },
+    {
+      "name": "espurr",
+      "caption": "Espurr",
+      "species": "espurr",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "meowstic-male",
+      "caption": "Male Meowstic",
+      "species": "meowstic",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-vi",
+      "form": "Male"
+    },
+    {
+      "name": "meowstic-female",
+      "caption": "Female Meowstic",
+      "species": "meowstic",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-vi",
+      "alternate": true,
+      "form": "Female"
+    },
+    {
+      "name": "honedge",
+      "caption": "Honedge",
+      "species": "honedge",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "doublade",
+      "caption": "Doublade",
+      "species": "doublade",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "aegislash-shield",
+      "caption": "Shield Aegislash",
+      "species": "aegislash",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "gen": "generation-vi",
+      "form": "Shield Forme"
+    },
+    {
+      "name": "aegislash-blade",
+      "caption": "Blade Aegislash",
+      "species": "aegislash",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "gen": "generation-vi",
+      "alternate": true,
+      "form": "Blade Forme"
+    },
+    {
+      "name": "spritzee",
+      "caption": "Spritzee",
+      "species": "spritzee",
+      "types": [
+        "fairy"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "aromatisse",
+      "caption": "Aromatisse",
+      "species": "aromatisse",
+      "types": [
+        "fairy"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "swirlix",
+      "caption": "Swirlix",
+      "species": "swirlix",
+      "types": [
+        "fairy"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "slurpuff",
+      "caption": "Slurpuff",
+      "species": "slurpuff",
+      "types": [
+        "fairy"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "inkay",
+      "caption": "Inkay",
+      "species": "inkay",
+      "types": [
+        "dark",
+        "psychic"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "malamar",
+      "caption": "Malamar",
+      "species": "malamar",
+      "types": [
+        "dark",
+        "psychic"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "binacle",
+      "caption": "Binacle",
+      "species": "binacle",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "barbaracle",
+      "caption": "Barbaracle",
+      "species": "barbaracle",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "skrelp",
+      "caption": "Skrelp",
+      "species": "skrelp",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "dragalge",
+      "caption": "Dragalge",
+      "species": "dragalge",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "clauncher",
+      "caption": "Clauncher",
+      "species": "clauncher",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "clawitzer",
+      "caption": "Clawitzer",
+      "species": "clawitzer",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "helioptile",
+      "caption": "Helioptile",
+      "species": "helioptile",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "heliolisk",
+      "caption": "Heliolisk",
+      "species": "heliolisk",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "tyrunt",
+      "caption": "Tyrunt",
+      "species": "tyrunt",
+      "types": [
+        "rock",
+        "dragon"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "tyrantrum",
+      "caption": "Tyrantrum",
+      "species": "tyrantrum",
+      "types": [
+        "rock",
+        "dragon"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "amaura",
+      "caption": "Amaura",
+      "species": "amaura",
+      "types": [
+        "rock",
+        "ice"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "aurorus",
+      "caption": "Aurorus",
+      "species": "aurorus",
+      "types": [
+        "rock",
+        "ice"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "hawlucha",
+      "caption": "Hawlucha",
+      "species": "hawlucha",
+      "types": [
+        "fighting",
+        "flying"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "dedenne",
+      "caption": "Dedenne",
+      "species": "dedenne",
+      "types": [
+        "electric",
+        "fairy"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "carbink",
+      "caption": "Carbink",
+      "species": "carbink",
+      "types": [
+        "rock",
+        "fairy"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "goomy",
+      "caption": "Goomy",
+      "species": "goomy",
+      "types": [
+        "dragon"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "sliggoo",
+      "caption": "Sliggoo",
+      "species": "sliggoo",
+      "types": [
+        "dragon"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "goodra",
+      "caption": "Goodra",
+      "species": "goodra",
+      "types": [
+        "dragon"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "klefki",
+      "caption": "Klefki",
+      "species": "klefki",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "phantump",
+      "caption": "Phantump",
+      "species": "phantump",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "trevenant",
+      "caption": "Trevenant",
+      "species": "trevenant",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "pumpkaboo-average",
+      "caption": "Average Pumpkaboo",
+      "species": "pumpkaboo",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "gen": "generation-vi",
+      "form": "Average Size"
+    },
+    {
+      "name": "pumpkaboo-small",
+      "caption": "Small Pumpkaboo",
+      "species": "pumpkaboo",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "gen": "generation-vi",
+      "alternate": true,
+      "form": "Small Size"
+    },
+    {
+      "name": "pumpkaboo-large",
+      "caption": "Large Pumpkaboo",
+      "species": "pumpkaboo",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "gen": "generation-vi",
+      "alternate": true,
+      "form": "Large Size"
+    },
+    {
+      "name": "pumpkaboo-super",
+      "caption": "Super Pumpkaboo",
+      "species": "pumpkaboo",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "gen": "generation-vi",
+      "alternate": true,
+      "form": "Super Size"
+    },
+    {
+      "name": "gourgeist-average",
+      "caption": "Average Gourgeist",
+      "species": "gourgeist",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "gen": "generation-vi",
+      "form": "Average Size"
+    },
+    {
+      "name": "gourgeist-small",
+      "caption": "Small Gourgeist",
+      "species": "gourgeist",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "gen": "generation-vi",
+      "alternate": true,
+      "form": "Small Size"
+    },
+    {
+      "name": "gourgeist-large",
+      "caption": "Large Gourgeist",
+      "species": "gourgeist",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "gen": "generation-vi",
+      "alternate": true,
+      "form": "Large Size"
+    },
+    {
+      "name": "gourgeist-super",
+      "caption": "Super Gourgeist",
+      "species": "gourgeist",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "gen": "generation-vi",
+      "alternate": true,
+      "form": "Super Size"
+    },
+    {
+      "name": "bergmite",
+      "caption": "Bergmite",
+      "species": "bergmite",
+      "types": [
+        "ice"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "avalugg",
+      "caption": "Avalugg",
+      "species": "avalugg",
+      "types": [
+        "ice"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "noibat",
+      "caption": "Noibat",
+      "species": "noibat",
+      "types": [
+        "flying",
+        "dragon"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "noivern",
+      "caption": "Noivern",
+      "species": "noivern",
+      "types": [
+        "flying",
+        "dragon"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "xerneas",
+      "caption": "Xerneas",
+      "species": "xerneas",
+      "types": [
+        "fairy"
+      ],
+      "gen": "generation-vi",
+      "form": "Neutral Mode"
+    },
+    {
+      "name": "yveltal",
+      "caption": "Yveltal",
+      "species": "yveltal",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "zygarde",
+      "caption": "Zygarde",
+      "species": "zygarde",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "gen": "generation-vi",
+      "form": "50% Forme"
+    },
+    {
+      "name": "zygarde-10",
+      "caption": "10% Zygarde",
+      "species": "zygarde",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "gen": "generation-vi",
+      "alternate": true,
+      "form": "10% Forme"
+    },
+    {
+      "name": "zygarde-50",
+      "caption": "50% Zygarde",
+      "species": "zygarde",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "gen": "generation-vi",
+      "alternate": true,
+      "form": "50% Forme"
+    },
+    {
+      "name": "zygarde-complete",
+      "caption": "Complete Zygarde",
+      "species": "zygarde",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "gen": "generation-vi",
+      "alternate": true,
+      "form": "Complete Forme"
+    },
+    {
+      "name": "diancie",
+      "caption": "Diancie",
+      "species": "diancie",
+      "types": [
+        "rock",
+        "fairy"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "diancie-mega",
+      "caption": "Mega Diancie",
+      "species": "diancie",
+      "types": [
+        "rock",
+        "fairy"
+      ],
+      "gen": "generation-vi",
+      "mega": true
+    },
+    {
+      "name": "hoopa",
+      "caption": "Confined Hoopa",
+      "species": "hoopa",
+      "types": [
+        "psychic",
+        "ghost"
+      ],
+      "gen": "generation-vi",
+      "form": "Hoopa Confined"
+    },
+    {
+      "name": "hoopa-unbound",
+      "caption": "Hoopa Unbound",
+      "species": "hoopa",
+      "types": [
+        "psychic",
+        "dark"
+      ],
+      "gen": "generation-vi",
+      "alternate": true,
+      "form": "Hoopa Unbound"
+    },
+    {
+      "name": "volcanion",
+      "caption": "Volcanion",
+      "species": "volcanion",
+      "types": [
+        "fire",
+        "water"
+      ],
+      "gen": "generation-vi"
+    },
+    {
+      "name": "rowlet",
+      "caption": "Rowlet",
+      "species": "rowlet",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "dartrix",
+      "caption": "Dartrix",
+      "species": "dartrix",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "decidueye",
+      "caption": "Decidueye",
+      "species": "decidueye",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "litten",
+      "caption": "Litten",
+      "species": "litten",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "torracat",
+      "caption": "Torracat",
+      "species": "torracat",
+      "types": [
+        "fire"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "incineroar",
+      "caption": "Incineroar",
+      "species": "incineroar",
+      "types": [
+        "fire",
+        "dark"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "popplio",
+      "caption": "Popplio",
+      "species": "popplio",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "brionne",
+      "caption": "Brionne",
+      "species": "brionne",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "primarina",
+      "caption": "Primarina",
+      "species": "primarina",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "pikipek",
+      "caption": "Pikipek",
+      "species": "pikipek",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "trumbeak",
+      "caption": "Trumbeak",
+      "species": "trumbeak",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "toucannon",
+      "caption": "Toucannon",
+      "species": "toucannon",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "yungoos",
+      "caption": "Yungoos",
+      "species": "yungoos",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "gumshoos",
+      "caption": "Gumshoos",
+      "species": "gumshoos",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "gumshoos-totem",
+      "caption": "Totem Gumshoos",
+      "species": "gumshoos",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-vii",
+      "alternate": true
+    },
+    {
+      "name": "grubbin",
+      "caption": "Grubbin",
+      "species": "grubbin",
+      "types": [
+        "bug"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "charjabug",
+      "caption": "Charjabug",
+      "species": "charjabug",
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "vikavolt",
+      "caption": "Vikavolt",
+      "species": "vikavolt",
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "vikavolt-totem",
+      "caption": "Totem Vikavolt",
+      "species": "vikavolt",
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "gen": "generation-vii",
+      "alternate": true
+    },
+    {
+      "name": "crabrawler",
+      "caption": "Crabrawler",
+      "species": "crabrawler",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "crabominable",
+      "caption": "Crabominable",
+      "species": "crabominable",
+      "types": [
+        "fighting",
+        "ice"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "oricorio-baile",
+      "caption": "Baile Oricorio",
+      "species": "oricorio",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "gen": "generation-vii",
+      "form": "Baile Style"
+    },
+    {
+      "name": "oricorio-pom-pom",
+      "caption": "Pom-pom Oricorio",
+      "species": "oricorio",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Pom-Pom Style"
+    },
+    {
+      "name": "oricorio-pau",
+      "caption": "Pa’u Oricorio",
+      "species": "oricorio",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Pa’u Style"
+    },
+    {
+      "name": "oricorio-sensu",
+      "caption": "Sensu Oricorio",
+      "species": "oricorio",
+      "types": [
+        "ghost",
+        "flying"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Sensu Style"
+    },
+    {
+      "name": "cutiefly",
+      "caption": "Cutiefly",
+      "species": "cutiefly",
+      "types": [
+        "bug",
+        "fairy"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "ribombee",
+      "caption": "Ribombee",
+      "species": "ribombee",
+      "types": [
+        "bug",
+        "fairy"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "ribombee-totem",
+      "caption": "Totem Ribombee",
+      "species": "ribombee",
+      "types": [
+        "bug",
+        "fairy"
+      ],
+      "gen": "generation-vii",
+      "alternate": true
+    },
+    {
+      "name": "rockruff",
+      "caption": "Rockruff",
+      "species": "rockruff",
+      "types": [
+        "rock"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "rockruff-own-tempo",
+      "caption": "Own Tempo Rockruff",
+      "species": "rockruff",
+      "types": [
+        "rock"
+      ],
+      "gen": "generation-vii",
+      "alternate": true
+    },
+    {
+      "name": "lycanroc-midday",
+      "caption": "Midday Lycanroc",
+      "species": "lycanroc",
+      "types": [
+        "rock"
+      ],
+      "gen": "generation-vii",
+      "form": "Midday Form"
+    },
+    {
+      "name": "lycanroc-midnight",
+      "caption": "Midnight Lycanroc",
+      "species": "lycanroc",
+      "types": [
+        "rock"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Midnight Form"
+    },
+    {
+      "name": "lycanroc-dusk",
+      "caption": "Dusk Lycanroc",
+      "species": "lycanroc",
+      "types": [
+        "rock"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Dusk Form"
+    },
+    {
+      "name": "wishiwashi-solo",
+      "caption": "Solo Wishiwashi",
+      "species": "wishiwashi",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-vii",
+      "form": "Solo Form"
+    },
+    {
+      "name": "wishiwashi-school",
+      "caption": "School Wishiwashi",
+      "species": "wishiwashi",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "School Form"
+    },
+    {
+      "name": "mareanie",
+      "caption": "Mareanie",
+      "species": "mareanie",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "toxapex",
+      "caption": "Toxapex",
+      "species": "toxapex",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "mudbray",
+      "caption": "Mudbray",
+      "species": "mudbray",
+      "types": [
+        "ground"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "mudsdale",
+      "caption": "Mudsdale",
+      "species": "mudsdale",
+      "types": [
+        "ground"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "dewpider",
+      "caption": "Dewpider",
+      "species": "dewpider",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "araquanid",
+      "caption": "Araquanid",
+      "species": "araquanid",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "araquanid-totem",
+      "caption": "Totem Araquanid",
+      "species": "araquanid",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "gen": "generation-vii",
+      "alternate": true
+    },
+    {
+      "name": "fomantis",
+      "caption": "Fomantis",
+      "species": "fomantis",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "lurantis",
+      "caption": "Lurantis",
+      "species": "lurantis",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "lurantis-totem",
+      "caption": "Totem Lurantis",
+      "species": "lurantis",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-vii",
+      "alternate": true
+    },
+    {
+      "name": "morelull",
+      "caption": "Morelull",
+      "species": "morelull",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "shiinotic",
+      "caption": "Shiinotic",
+      "species": "shiinotic",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "salandit",
+      "caption": "Salandit",
+      "species": "salandit",
+      "types": [
+        "poison",
+        "fire"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "salazzle",
+      "caption": "Salazzle",
+      "species": "salazzle",
+      "types": [
+        "poison",
+        "fire"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "salazzle-totem",
+      "caption": "Totem Salazzle",
+      "species": "salazzle",
+      "types": [
+        "poison",
+        "fire"
+      ],
+      "gen": "generation-vii",
+      "alternate": true
+    },
+    {
+      "name": "stufful",
+      "caption": "Stufful",
+      "species": "stufful",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "bewear",
+      "caption": "Bewear",
+      "species": "bewear",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "bounsweet",
+      "caption": "Bounsweet",
+      "species": "bounsweet",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "steenee",
+      "caption": "Steenee",
+      "species": "steenee",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "tsareena",
+      "caption": "Tsareena",
+      "species": "tsareena",
+      "types": [
+        "grass"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "comfey",
+      "caption": "Comfey",
+      "species": "comfey",
+      "types": [
+        "fairy"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "oranguru",
+      "caption": "Oranguru",
+      "species": "oranguru",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "passimian",
+      "caption": "Passimian",
+      "species": "passimian",
+      "types": [
+        "fighting"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "wimpod",
+      "caption": "Wimpod",
+      "species": "wimpod",
+      "types": [
+        "bug",
+        "water"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "golisopod",
+      "caption": "Golisopod",
+      "species": "golisopod",
+      "types": [
+        "bug",
+        "water"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "sandygast",
+      "caption": "Sandygast",
+      "species": "sandygast",
+      "types": [
+        "ghost",
+        "ground"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "palossand",
+      "caption": "Palossand",
+      "species": "palossand",
+      "types": [
+        "ghost",
+        "ground"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "pyukumuku",
+      "caption": "Pyukumuku",
+      "species": "pyukumuku",
+      "types": [
+        "water"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "type-null",
+      "caption": "Type: Null",
+      "species": "type-null",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "silvally",
+      "caption": "Silvally",
+      "species": "silvally",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "minior-red-meteor",
+      "caption": "Red Meteor Minior",
+      "species": "minior",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "gen": "generation-vii",
+      "form": "Meteor Form"
+    },
+    {
+      "name": "minior-orange-meteor",
+      "caption": "Orange Meteor Minior",
+      "species": "minior",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Meteor Form"
+    },
+    {
+      "name": "minior-yellow-meteor",
+      "caption": "Yellow Meteor Minior",
+      "species": "minior",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Meteor Form"
+    },
+    {
+      "name": "minior-green-meteor",
+      "caption": "Green Meteor Minior",
+      "species": "minior",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Meteor Form"
+    },
+    {
+      "name": "minior-blue-meteor",
+      "caption": "Blue Meteor Minior",
+      "species": "minior",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Meteor Form"
+    },
+    {
+      "name": "minior-indigo-meteor",
+      "caption": "Indigo Meteor Minior",
+      "species": "minior",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Meteor Form"
+    },
+    {
+      "name": "minior-violet-meteor",
+      "caption": "Violent Meteor Minior",
+      "species": "minior",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Meteor Form"
+    },
+    {
+      "name": "minior-red",
+      "caption": "Red Core Minior",
+      "species": "minior",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Red Core"
+    },
+    {
+      "name": "minior-orange",
+      "caption": "Orange Core Minior",
+      "species": "minior",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Orange Core"
+    },
+    {
+      "name": "minior-yellow",
+      "caption": "Yellow Core Minior",
+      "species": "minior",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Yellow Core"
+    },
+    {
+      "name": "minior-green",
+      "caption": "Green Core Minior",
+      "species": "minior",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Green Core"
+    },
+    {
+      "name": "minior-blue",
+      "caption": "Blue Core Minior",
+      "species": "minior",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Blue Core"
+    },
+    {
+      "name": "minior-indigo",
+      "caption": "Indigo Core Minior",
+      "species": "minior",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Indigo Core"
+    },
+    {
+      "name": "minior-violet",
+      "caption": "Violet Core Minior",
+      "species": "minior",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Violet Core"
+    },
+    {
+      "name": "komala",
+      "caption": "Komala",
+      "species": "komala",
+      "types": [
+        "normal"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "turtonator",
+      "caption": "Turtonator",
+      "species": "turtonator",
+      "types": [
+        "fire",
+        "dragon"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "togedemaru",
+      "caption": "Togedemaru",
+      "species": "togedemaru",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "togedemaru-totem",
+      "caption": "Totem Togedemaru",
+      "species": "togedemaru",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "gen": "generation-vii",
+      "alternate": true
+    },
+    {
+      "name": "mimikyu-disguised",
+      "caption": "Disguised Mimikyu",
+      "species": "mimikyu",
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "gen": "generation-vii",
+      "form": "Disguised Form"
+    },
+    {
+      "name": "mimikyu-busted",
+      "caption": "Busted Mimikyu",
+      "species": "mimikyu",
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Busted Form"
+    },
+    {
+      "name": "mimikyu-totem-disguised",
+      "caption": "Totem Disguised Mimikyu",
+      "species": "mimikyu",
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "gen": "generation-vii",
+      "alternate": true
+    },
+    {
+      "name": "mimikyu-totem-busted",
+      "caption": "Totem Busted Mimikyu",
+      "species": "mimikyu",
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "gen": "generation-vii",
+      "alternate": true
+    },
+    {
+      "name": "bruxish",
+      "caption": "Bruxish",
+      "species": "bruxish",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "drampa",
+      "caption": "Drampa",
+      "species": "drampa",
+      "types": [
+        "normal",
+        "dragon"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "dhelmise",
+      "caption": "Dhelmise",
+      "species": "dhelmise",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "jangmo-o",
+      "caption": "Jangmo-o",
+      "species": "jangmo-o",
+      "types": [
+        "dragon"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "hakamo-o",
+      "caption": "Hakamo-o",
+      "species": "hakamo-o",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "kommo-o",
+      "caption": "Kommo-o",
+      "species": "kommo-o",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "kommo-o-totem",
+      "caption": "Totem Kommo’o",
+      "species": "kommo-o",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "gen": "generation-vii",
+      "alternate": true
+    },
+    {
+      "name": "tapu-koko",
+      "caption": "Tapu Koko",
+      "species": "tapu-koko",
+      "types": [
+        "electric",
+        "fairy"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "tapu-lele",
+      "caption": "Tapu Lele",
+      "species": "tapu-lele",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "tapu-bulu",
+      "caption": "Tapu Bulu",
+      "species": "tapu-bulu",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "tapu-fini",
+      "caption": "Tapu Fini",
+      "species": "tapu-fini",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "cosmog",
+      "caption": "Cosmog",
+      "species": "cosmog",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "cosmoem",
+      "caption": "Cosmoem",
+      "species": "cosmoem",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "solgaleo",
+      "caption": "Solgaleo",
+      "species": "solgaleo",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "lunala",
+      "caption": "Lunala",
+      "species": "lunala",
+      "types": [
+        "psychic",
+        "ghost"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "nihilego",
+      "caption": "Nihilego",
+      "species": "nihilego",
+      "types": [
+        "rock",
+        "poison"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "buzzwole",
+      "caption": "Buzzwole",
+      "species": "buzzwole",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "pheromosa",
+      "caption": "Pheromosa",
+      "species": "pheromosa",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "xurkitree",
+      "caption": "Xurkitree",
+      "species": "xurkitree",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "celesteela",
+      "caption": "Celesteela",
+      "species": "celesteela",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "kartana",
+      "caption": "Kartana",
+      "species": "kartana",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "guzzlord",
+      "caption": "Guzzlord",
+      "species": "guzzlord",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "necrozma",
+      "caption": "Necrozma",
+      "species": "necrozma",
+      "types": [
+        "psychic"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "necrozma-dusk",
+      "caption": "Dusk Necrozma",
+      "species": "necrozma",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Dusk Mane"
+    },
+    {
+      "name": "necrozma-dawn",
+      "caption": "Dawn Necrozma",
+      "species": "necrozma",
+      "types": [
+        "psychic",
+        "ghost"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Dawn Wings"
+    },
+    {
+      "name": "necrozma-ultra",
+      "caption": "Ultra Necrozma",
+      "species": "necrozma",
+      "types": [
+        "psychic",
+        "dragon"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Ultra Necrozma"
+    },
+    {
+      "name": "magearna",
+      "caption": "Magearna",
+      "species": "magearna",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "magearna-original",
+      "caption": "Original Magearna",
+      "species": "magearna",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "gen": "generation-vii",
+      "alternate": true,
+      "form": "Original Color"
+    },
+    {
+      "name": "marshadow",
+      "caption": "Marshadow",
+      "species": "marshadow",
+      "types": [
+        "fighting",
+        "ghost"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "poipole",
+      "caption": "Poipole",
+      "species": "poipole",
+      "types": [
+        "poison"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "naganadel",
+      "caption": "Naganadel",
+      "species": "naganadel",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "stakataka",
+      "caption": "Stakataka",
+      "species": "stakataka",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "blacephalon",
+      "caption": "Blacephalon",
+      "species": "blacephalon",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "gen": "generation-vii"
+    },
+    {
+      "name": "zeraora",
+      "caption": "Zeraora",
+      "species": "zeraora",
+      "types": [
+        "electric"
+      ],
+      "gen": "generation-vii"
+    }
+  ],
+  "moveMethods": [
+    {
+      "name": "level-up",
+      "caption": "Level up",
+      "description": "Learned when a Pokémon reaches a certain level."
+    },
+    {
+      "name": "egg",
+      "caption": "Egg",
+      "description": "Appears on a newly-hatched Pokémon, if the father had the same move."
+    },
+    {
+      "name": "tutor",
+      "caption": "Tutor",
+      "description": "Can be taught at any time by an NPC."
+    },
+    {
+      "name": "machine",
+      "caption": "Machine",
+      "description": "Can be taught at any time by using a TM or HM."
+    },
+    {
+      "name": "light-ball-egg",
+      "caption": "Volt Tackle Pichu",
+      "description": "Appears on a Pichu whose mother was holding a Light Ball.  The father cannot be Ditto."
+    },
+    {
+      "name": "form-change",
+      "caption": "Form Change",
+      "description": "Appears when Rotom or Cosplay Pikachu changes form.  Disappears if the Pokémon becomes another form and this move can only be learned by form change."
+    }
+  ],
+  "evolutionTriggers": [
+    {
+      "name": "level-up",
+      "caption": "Level up"
+    },
+    {
+      "name": "trade",
+      "caption": "Trade"
+    },
+    {
+      "name": "use-item",
+      "caption": "Use item"
+    },
+    {
+      "name": "shed",
+      "caption": "Shed"
+    }
+  ],
+  "stats": [
+    {
+      "name": "hp",
+      "caption": "HP"
+    },
+    {
+      "name": "attack",
+      "caption": "Attack"
+    },
+    {
+      "name": "defense",
+      "caption": "Defense"
+    },
+    {
+      "name": "special-attack",
+      "caption": "Special Attack"
+    },
+    {
+      "name": "special-defense",
+      "caption": "Special Defense"
+    },
+    {
+      "name": "speed",
+      "caption": "Speed"
+    },
+    {
+      "name": "accuracy",
+      "caption": "accuracy"
+    },
+    {
+      "name": "evasion",
+      "caption": "evasion"
+    }
+  ],
+  "natures": [
+    {
+      "name": "hardy",
+      "caption": "Hardy",
+      "plus": "attack",
+      "minus": "attack"
+    },
+    {
+      "name": "bold",
+      "caption": "Bold",
+      "plus": "attack",
+      "minus": "defense"
+    },
+    {
+      "name": "modest",
+      "caption": "Modest",
+      "plus": "attack",
+      "minus": "special-attack"
+    },
+    {
+      "name": "calm",
+      "caption": "Calm",
+      "plus": "attack",
+      "minus": "special-defense"
+    },
+    {
+      "name": "timid",
+      "caption": "Timid",
+      "plus": "attack",
+      "minus": "speed"
+    },
+    {
+      "name": "lonely",
+      "caption": "Lonely",
+      "plus": "defense",
+      "minus": "attack"
+    },
+    {
+      "name": "docile",
+      "caption": "Docile",
+      "plus": "defense",
+      "minus": "defense"
+    },
+    {
+      "name": "mild",
+      "caption": "Mild",
+      "plus": "defense",
+      "minus": "special-attack"
+    },
+    {
+      "name": "gentle",
+      "caption": "Gentle",
+      "plus": "defense",
+      "minus": "special-defense"
+    },
+    {
+      "name": "hasty",
+      "caption": "Hasty",
+      "plus": "defense",
+      "minus": "speed"
+    },
+    {
+      "name": "adamant",
+      "caption": "Adamant",
+      "plus": "special-attack",
+      "minus": "attack"
+    },
+    {
+      "name": "impish",
+      "caption": "Impish",
+      "plus": "special-attack",
+      "minus": "defense"
+    },
+    {
+      "name": "bashful",
+      "caption": "Bashful",
+      "plus": "special-attack",
+      "minus": "special-attack"
+    },
+    {
+      "name": "careful",
+      "caption": "Careful",
+      "plus": "special-attack",
+      "minus": "special-defense"
+    },
+    {
+      "name": "rash",
+      "caption": "Rash",
+      "plus": "special-defense",
+      "minus": "special-attack"
+    },
+    {
+      "name": "jolly",
+      "caption": "Jolly",
+      "plus": "special-attack",
+      "minus": "speed"
+    },
+    {
+      "name": "naughty",
+      "caption": "Naughty",
+      "plus": "special-defense",
+      "minus": "attack"
+    },
+    {
+      "name": "lax",
+      "caption": "Lax",
+      "plus": "special-defense",
+      "minus": "defense"
+    },
+    {
+      "name": "quirky",
+      "caption": "Quirky",
+      "plus": "special-defense",
+      "minus": "special-defense"
+    },
+    {
+      "name": "naive",
+      "caption": "Naive",
+      "plus": "special-defense",
+      "minus": "speed"
+    },
+    {
+      "name": "brave",
+      "caption": "Brave",
+      "plus": "speed",
+      "minus": "attack"
+    },
+    {
+      "name": "relaxed",
+      "caption": "Relaxed",
+      "plus": "speed",
+      "minus": "defense"
+    },
+    {
+      "name": "quiet",
+      "caption": "Quiet",
+      "plus": "speed",
+      "minus": "special-attack"
+    },
+    {
+      "name": "sassy",
+      "caption": "Sassy",
+      "plus": "speed",
+      "minus": "special-defense"
+    },
+    {
+      "name": "serious",
+      "caption": "Serious",
+      "plus": "speed",
+      "minus": "speed"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "name": "dragalge",
+  "caption": "Dragalge",
+  "types": [
+    "poison",
+    "dragon"
+  ],
+  "species": "dragalge",
+  "gen": "generation-vi",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.8,
+  "weight": 81.5,
+  "baseStats": {
+    "hp": 65,
+    "attack": 75,
+    "defense": 90,
+    "special-attack": 97,
+    "special-defense": 123,
+    "speed": 44
+  },
+  "evolutionChain": {
+    "species": "skrelp",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "dragalge",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "This vicious Pokémon sprays a poisonous liquid\non opponents that come near. For whatever\nreason, it gets along really well with Dhelmise.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "acid": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "level-up",
+      "machine"
+    ],
+    "double-team": [
+      "level-up",
+      "machine"
+    ],
+    "smokescreen": [
+      "level-up"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "bubble": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "sludge-bomb": [
+      "level-up",
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "twister": [
+      "level-up"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "camouflage": [
+      "level-up"
+    ],
+    "poison-tail": [
+      "level-up"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "aqua-tail": [
+      "level-up"
+    ],
+    "dragon-pulse": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "draco-meteor": [
+      "tutor"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "dragon-tail": [
+      "level-up",
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "poison-point": 1,
+    "poison-touch": 2,
+    "adaptability": "hidden"
+  }
+}

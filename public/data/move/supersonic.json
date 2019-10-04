@@ -1,0 +1,207 @@
+{
+  "name": "supersonic",
+  "caption": "Supersonic",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 55,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Confuses the target.",
+    "full": "[Confuse]{mechanic:confuse}s the target."
+  },
+  "flavorText": "The user generates odd sound waves from its body\nthat confuse the target.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror",
+    "sound",
+    "authentic"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "butterfree": [
+      "level-up"
+    ],
+    "nidoran-f": [
+      "egg"
+    ],
+    "nidoran-m": [
+      "egg"
+    ],
+    "zubat": [
+      "level-up"
+    ],
+    "golbat": [
+      "level-up"
+    ],
+    "venonat": [
+      "level-up"
+    ],
+    "venomoth": [
+      "level-up"
+    ],
+    "tentacool": [
+      "level-up"
+    ],
+    "tentacruel": [
+      "level-up"
+    ],
+    "magnemite": [
+      "level-up"
+    ],
+    "magneton": [
+      "level-up"
+    ],
+    "doduo": [
+      "egg"
+    ],
+    "shellder": [
+      "level-up"
+    ],
+    "cloyster": [
+      "level-up"
+    ],
+    "lickitung": [
+      "level-up"
+    ],
+    "goldeen": [
+      "level-up"
+    ],
+    "seaking": [
+      "level-up"
+    ],
+    "omanyte": [
+      "egg"
+    ],
+    "aerodactyl": [
+      "level-up"
+    ],
+    "dratini": [
+      "egg"
+    ],
+    "hoothoot": [
+      "egg"
+    ],
+    "ledyba": [
+      "level-up"
+    ],
+    "ledian": [
+      "level-up"
+    ],
+    "crobat": [
+      "level-up"
+    ],
+    "chinchou": [
+      "level-up"
+    ],
+    "lanturn": [
+      "level-up"
+    ],
+    "marill": [
+      "egg"
+    ],
+    "yanma": [
+      "level-up"
+    ],
+    "qwilfish": [
+      "egg"
+    ],
+    "remoraid": [
+      "egg"
+    ],
+    "mantine": [
+      "level-up"
+    ],
+    "taillow": [
+      "egg"
+    ],
+    "wingull": [
+      "level-up"
+    ],
+    "pelipper": [
+      "level-up"
+    ],
+    "whismur": [
+      "level-up"
+    ],
+    "loudred": [
+      "level-up"
+    ],
+    "exploud": [
+      "level-up"
+    ],
+    "vibrava": [
+      "level-up"
+    ],
+    "flygon": [
+      "level-up"
+    ],
+    "clamperl": [
+      "egg"
+    ],
+    "luvdisc": [
+      "egg"
+    ],
+    "piplup": [
+      "egg"
+    ],
+    "chatot": [
+      "egg"
+    ],
+    "mantyke": [
+      "level-up"
+    ],
+    "magnezone": [
+      "level-up"
+    ],
+    "lickilicky": [
+      "level-up"
+    ],
+    "yanmega": [
+      "level-up"
+    ],
+    "phione": [
+      "level-up"
+    ],
+    "manaphy": [
+      "level-up"
+    ],
+    "woobat": [
+      "egg"
+    ],
+    "tympole": [
+      "level-up"
+    ],
+    "palpitoad": [
+      "level-up"
+    ],
+    "seismitoad": [
+      "level-up"
+    ],
+    "vivillon": [
+      "level-up"
+    ],
+    "noibat": [
+      "level-up"
+    ],
+    "noivern": [
+      "level-up"
+    ],
+    "pikipek": [
+      "level-up"
+    ],
+    "trumbeak": [
+      "level-up"
+    ],
+    "toucannon": [
+      "level-up"
+    ],
+    "aerodactyl-mega": [
+      "level-up"
+    ]
+  }
+}

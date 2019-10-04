@@ -1,0 +1,160 @@
+{
+  "name": "seadra",
+  "caption": "Seadra",
+  "types": [
+    "water"
+  ],
+  "species": "seadra",
+  "gen": "generation-i",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.2,
+  "weight": 25,
+  "baseStats": {
+    "hp": 55,
+    "attack": 65,
+    "defense": 95,
+    "special-attack": 95,
+    "special-defense": 45,
+    "speed": 85
+  },
+  "evolutionChain": {
+    "species": "horsea",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "seadra",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "kingdra",
+            "triggers": [
+              "trade"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Seadra sleeps after wriggling itself between the branches of\ncoral. Those trying to harvest coral are occasionally stung by\nthis Pokémon’s poison barbs if they fail to notice it.",
+  "moves": {
+    "leer": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "smokescreen": [
+      "level-up"
+    ],
+    "bubble": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "twister": [
+      "level-up"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "dragon-dance": [
+      "level-up"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "brine": [
+      "level-up"
+    ],
+    "dragon-pulse": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "poison-point": 1,
+    "sniper": 2,
+    "damp": "hidden"
+  }
+}

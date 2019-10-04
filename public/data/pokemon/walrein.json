@@ -1,0 +1,186 @@
+{
+  "name": "walrein",
+  "caption": "Walrein",
+  "types": [
+    "ice",
+    "water"
+  ],
+  "species": "walrein",
+  "gen": "generation-iii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.4,
+  "weight": 150.6,
+  "baseStats": {
+    "hp": 110,
+    "attack": 80,
+    "defense": 90,
+    "special-attack": 95,
+    "special-defense": 90,
+    "speed": 65
+  },
+  "evolutionChain": {
+    "species": "spheal",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "sealeo",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "walrein",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Walrein’s two massively developed tusks can totally shatter\nblocks of ice weighing 10 tons with one blow. This Pokémon’s\nthick coat of blubber insulates it from subzero temperatures.",
+  "moves": {
+    "body-slam": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "level-up",
+      "machine"
+    ],
+    "aurora-beam": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "rest": [
+      "level-up",
+      "machine"
+    ],
+    "snore": [
+      "level-up"
+    ],
+    "powder-snow": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "encore": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "hail": [
+      "level-up",
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "ice-ball": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "sheer-cold": [
+      "level-up"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "rollout": [
+      "level-up"
+    ],
+    "swagger": [
+      "level-up",
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "brine": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "ice-fang": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "frost-breath": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "thick-fat": 1,
+    "ice-body": 2,
+    "oblivious": "hidden"
+  }
+}

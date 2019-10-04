@@ -1,0 +1,731 @@
+{
+  "name": "focus-blast",
+  "caption": "Focus Blast",
+  "type": "fighting",
+  "damageCategory": "special",
+  "power": 120,
+  "accuracy": 70,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a 10% chance to lower the target's Special Defense by one stage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 10% chance to lower the target's [Special Defense]{mechanic:special-defense} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user heightens its mental focus and unleashes\nits power. This may also lower the target’s \nSp. Def stat.",
+  "flags": [
+    "protect",
+    "mirror",
+    "ballistics"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "charizard": [
+      "machine"
+    ],
+    "blastoise": [
+      "machine"
+    ],
+    "raichu": [
+      "machine"
+    ],
+    "sandslash": [
+      "machine"
+    ],
+    "nidoqueen": [
+      "machine"
+    ],
+    "nidoking": [
+      "machine"
+    ],
+    "clefable": [
+      "machine"
+    ],
+    "wigglytuff": [
+      "machine"
+    ],
+    "golduck": [
+      "machine"
+    ],
+    "mankey": [
+      "machine"
+    ],
+    "primeape": [
+      "machine"
+    ],
+    "poliwrath": [
+      "machine"
+    ],
+    "alakazam": [
+      "machine"
+    ],
+    "machop": [
+      "machine"
+    ],
+    "machoke": [
+      "machine"
+    ],
+    "machamp": [
+      "machine"
+    ],
+    "golem": [
+      "machine"
+    ],
+    "slowbro": [
+      "machine"
+    ],
+    "muk": [
+      "machine"
+    ],
+    "gengar": [
+      "machine"
+    ],
+    "hypno": [
+      "machine"
+    ],
+    "marowak": [
+      "machine"
+    ],
+    "hitmonlee": [
+      "machine"
+    ],
+    "hitmonchan": [
+      "machine"
+    ],
+    "rhydon": [
+      "machine"
+    ],
+    "kangaskhan": [
+      "machine"
+    ],
+    "mr-mime": [
+      "machine"
+    ],
+    "jynx": [
+      "machine"
+    ],
+    "electabuzz": [
+      "machine"
+    ],
+    "magmar": [
+      "machine"
+    ],
+    "pinsir": [
+      "machine"
+    ],
+    "snorlax": [
+      "machine"
+    ],
+    "dragonite": [
+      "machine"
+    ],
+    "mewtwo": [
+      "machine"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "typhlosion": [
+      "machine"
+    ],
+    "feraligatr": [
+      "machine"
+    ],
+    "furret": [
+      "machine"
+    ],
+    "ledian": [
+      "machine"
+    ],
+    "ampharos": [
+      "machine"
+    ],
+    "azumarill": [
+      "machine"
+    ],
+    "politoed": [
+      "machine"
+    ],
+    "quagsire": [
+      "machine"
+    ],
+    "slowking": [
+      "machine"
+    ],
+    "granbull": [
+      "machine"
+    ],
+    "heracross": [
+      "machine"
+    ],
+    "ursaring": [
+      "machine"
+    ],
+    "miltank": [
+      "machine"
+    ],
+    "blissey": [
+      "machine"
+    ],
+    "tyranitar": [
+      "machine"
+    ],
+    "sceptile": [
+      "machine"
+    ],
+    "combusken": [
+      "machine"
+    ],
+    "blaziken": [
+      "machine"
+    ],
+    "swampert": [
+      "machine"
+    ],
+    "ludicolo": [
+      "machine"
+    ],
+    "shiftry": [
+      "machine"
+    ],
+    "gardevoir": [
+      "machine"
+    ],
+    "breloom": [
+      "machine"
+    ],
+    "vigoroth": [
+      "machine"
+    ],
+    "slaking": [
+      "machine"
+    ],
+    "exploud": [
+      "machine"
+    ],
+    "makuhita": [
+      "machine"
+    ],
+    "hariyama": [
+      "machine"
+    ],
+    "mawile": [
+      "machine"
+    ],
+    "aggron": [
+      "machine"
+    ],
+    "meditite": [
+      "machine"
+    ],
+    "medicham": [
+      "machine"
+    ],
+    "grumpig": [
+      "machine"
+    ],
+    "cacturne": [
+      "machine"
+    ],
+    "zangoose": [
+      "machine"
+    ],
+    "regirock": [
+      "machine"
+    ],
+    "regice": [
+      "machine"
+    ],
+    "registeel": [
+      "machine"
+    ],
+    "groudon": [
+      "machine"
+    ],
+    "rayquaza": [
+      "machine"
+    ],
+    "deoxys-normal": [
+      "machine"
+    ],
+    "monferno": [
+      "machine"
+    ],
+    "infernape": [
+      "machine"
+    ],
+    "rampardos": [
+      "machine"
+    ],
+    "floatzel": [
+      "machine"
+    ],
+    "lopunny": [
+      "machine"
+    ],
+    "riolu": [
+      "machine"
+    ],
+    "lucario": [
+      "machine"
+    ],
+    "croagunk": [
+      "machine"
+    ],
+    "toxicroak": [
+      "machine"
+    ],
+    "abomasnow": [
+      "machine"
+    ],
+    "weavile": [
+      "machine"
+    ],
+    "lickilicky": [
+      "machine"
+    ],
+    "rhyperior": [
+      "machine"
+    ],
+    "tangrowth": [
+      "machine"
+    ],
+    "electivire": [
+      "machine"
+    ],
+    "magmortar": [
+      "machine"
+    ],
+    "gallade": [
+      "machine"
+    ],
+    "dusknoir": [
+      "machine"
+    ],
+    "palkia": [
+      "machine"
+    ],
+    "regigigas": [
+      "machine"
+    ],
+    "darkrai": [
+      "machine"
+    ],
+    "arceus": [
+      "machine"
+    ],
+    "victini": [
+      "machine"
+    ],
+    "pignite": [
+      "machine"
+    ],
+    "emboar": [
+      "machine"
+    ],
+    "watchog": [
+      "machine"
+    ],
+    "simisage": [
+      "machine"
+    ],
+    "simisear": [
+      "machine"
+    ],
+    "simipour": [
+      "machine"
+    ],
+    "excadrill": [
+      "machine"
+    ],
+    "timburr": [
+      "machine"
+    ],
+    "gurdurr": [
+      "machine"
+    ],
+    "conkeldurr": [
+      "machine"
+    ],
+    "seismitoad": [
+      "machine"
+    ],
+    "throh": [
+      "machine"
+    ],
+    "sawk": [
+      "machine"
+    ],
+    "krookodile": [
+      "machine"
+    ],
+    "darmanitan-standard": [
+      "machine"
+    ],
+    "scraggy": [
+      "machine"
+    ],
+    "scrafty": [
+      "machine"
+    ],
+    "carracosta": [
+      "machine"
+    ],
+    "archeops": [
+      "machine"
+    ],
+    "garbodor": [
+      "machine"
+    ],
+    "zoroark": [
+      "machine"
+    ],
+    "cinccino": [
+      "machine"
+    ],
+    "reuniclus": [
+      "machine"
+    ],
+    "escavalier": [
+      "machine"
+    ],
+    "haxorus": [
+      "machine"
+    ],
+    "beartic": [
+      "machine"
+    ],
+    "accelgor": [
+      "machine"
+    ],
+    "mienfoo": [
+      "machine"
+    ],
+    "mienshao": [
+      "machine"
+    ],
+    "druddigon": [
+      "machine"
+    ],
+    "golett": [
+      "machine"
+    ],
+    "golurk": [
+      "machine"
+    ],
+    "bisharp": [
+      "machine"
+    ],
+    "heatmor": [
+      "machine"
+    ],
+    "hydreigon": [
+      "machine"
+    ],
+    "cobalion": [
+      "machine"
+    ],
+    "terrakion": [
+      "machine"
+    ],
+    "virizion": [
+      "machine"
+    ],
+    "tornadus-incarnate": [
+      "machine"
+    ],
+    "thundurus-incarnate": [
+      "machine"
+    ],
+    "reshiram": [
+      "machine"
+    ],
+    "zekrom": [
+      "machine"
+    ],
+    "landorus-incarnate": [
+      "machine"
+    ],
+    "kyurem": [
+      "machine"
+    ],
+    "keldeo-ordinary": [
+      "machine"
+    ],
+    "meloetta-aria": [
+      "machine"
+    ],
+    "chesnaught": [
+      "machine"
+    ],
+    "pangoro": [
+      "machine"
+    ],
+    "barbaracle": [
+      "machine"
+    ],
+    "dragalge": [
+      "machine"
+    ],
+    "clawitzer": [
+      "machine"
+    ],
+    "heliolisk": [
+      "machine"
+    ],
+    "hawlucha": [
+      "machine"
+    ],
+    "goodra": [
+      "machine"
+    ],
+    "trevenant": [
+      "machine"
+    ],
+    "gourgeist-average": [
+      "machine"
+    ],
+    "noivern": [
+      "machine"
+    ],
+    "xerneas": [
+      "machine"
+    ],
+    "yveltal": [
+      "level-up",
+      "machine"
+    ],
+    "zygarde": [
+      "machine"
+    ],
+    "hoopa": [
+      "machine"
+    ],
+    "volcanion": [
+      "machine"
+    ],
+    "incineroar": [
+      "machine"
+    ],
+    "crabrawler": [
+      "machine"
+    ],
+    "crabominable": [
+      "machine"
+    ],
+    "mudsdale": [
+      "machine"
+    ],
+    "stufful": [
+      "machine"
+    ],
+    "bewear": [
+      "machine"
+    ],
+    "oranguru": [
+      "machine"
+    ],
+    "passimian": [
+      "machine"
+    ],
+    "golisopod": [
+      "machine"
+    ],
+    "turtonator": [
+      "machine"
+    ],
+    "drampa": [
+      "machine"
+    ],
+    "jangmo-o": [
+      "machine"
+    ],
+    "hakamo-o": [
+      "machine"
+    ],
+    "kommo-o": [
+      "machine"
+    ],
+    "tapu-lele": [
+      "machine"
+    ],
+    "tapu-bulu": [
+      "machine"
+    ],
+    "solgaleo": [
+      "machine"
+    ],
+    "lunala": [
+      "machine"
+    ],
+    "pheromosa": [
+      "machine"
+    ],
+    "magearna": [
+      "machine"
+    ],
+    "marshadow": [
+      "machine"
+    ],
+    "zeraora": [
+      "machine"
+    ],
+    "deoxys-attack": [
+      "machine"
+    ],
+    "deoxys-defense": [
+      "machine"
+    ],
+    "deoxys-speed": [
+      "machine"
+    ],
+    "darmanitan-zen": [
+      "machine"
+    ],
+    "meloetta-pirouette": [
+      "machine"
+    ],
+    "tornadus-therian": [
+      "machine"
+    ],
+    "thundurus-therian": [
+      "machine"
+    ],
+    "landorus-therian": [
+      "machine"
+    ],
+    "kyurem-black": [
+      "machine"
+    ],
+    "kyurem-white": [
+      "machine"
+    ],
+    "keldeo-resolute": [
+      "machine"
+    ],
+    "gourgeist-small": [
+      "machine"
+    ],
+    "gourgeist-large": [
+      "machine"
+    ],
+    "gourgeist-super": [
+      "machine"
+    ],
+    "charizard-mega-x": [
+      "machine"
+    ],
+    "charizard-mega-y": [
+      "machine"
+    ],
+    "blastoise-mega": [
+      "machine"
+    ],
+    "alakazam-mega": [
+      "machine"
+    ],
+    "gengar-mega": [
+      "machine"
+    ],
+    "kangaskhan-mega": [
+      "machine"
+    ],
+    "pinsir-mega": [
+      "machine"
+    ],
+    "mewtwo-mega-x": [
+      "machine"
+    ],
+    "mewtwo-mega-y": [
+      "machine"
+    ],
+    "ampharos-mega": [
+      "machine"
+    ],
+    "heracross-mega": [
+      "machine"
+    ],
+    "tyranitar-mega": [
+      "machine"
+    ],
+    "blaziken-mega": [
+      "machine"
+    ],
+    "gardevoir-mega": [
+      "machine"
+    ],
+    "mawile-mega": [
+      "machine"
+    ],
+    "aggron-mega": [
+      "machine"
+    ],
+    "medicham-mega": [
+      "machine"
+    ],
+    "lucario-mega": [
+      "machine"
+    ],
+    "abomasnow-mega": [
+      "machine"
+    ],
+    "swampert-mega": [
+      "machine"
+    ],
+    "sceptile-mega": [
+      "machine"
+    ],
+    "gallade-mega": [
+      "machine"
+    ],
+    "slowbro-mega": [
+      "machine"
+    ],
+    "groudon-primal": [
+      "machine"
+    ],
+    "rayquaza-mega": [
+      "machine"
+    ],
+    "hoopa-unbound": [
+      "machine"
+    ],
+    "lopunny-mega": [
+      "machine"
+    ],
+    "raichu-alola": [
+      "machine"
+    ],
+    "sandslash-alola": [
+      "machine"
+    ],
+    "golem-alola": [
+      "machine"
+    ],
+    "muk-alola": [
+      "machine"
+    ],
+    "marowak-alola": [
+      "machine"
+    ],
+    "zygarde-10": [
+      "machine"
+    ],
+    "zygarde-50": [
+      "machine"
+    ],
+    "zygarde-complete": [
+      "machine"
+    ],
+    "kommo-o-totem": [
+      "machine"
+    ],
+    "magearna-original": [
+      "machine"
+    ],
+    "marowak-totem": [
+      "machine"
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "name": "quagsire",
+  "caption": "Quagsire",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "species": "quagsire",
+  "gen": "generation-ii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.4,
+  "weight": 75,
+  "baseStats": {
+    "hp": 95,
+    "attack": 85,
+    "defense": 85,
+    "special-attack": 65,
+    "special-defense": 65,
+    "speed": 35
+  },
+  "evolutionChain": {
+    "species": "wooper",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "quagsire",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Quagsire hunts for food by leaving its mouth wide open in\nwater and waiting for its prey to blunder in unaware. Because\nthe Pokémon does not move, it does not get very hungry.",
+  "moves": {
+    "slam": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "mist": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "haze": [
+      "level-up"
+    ],
+    "amnesia": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "level-up",
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "yawn": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "mud-shot": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "mud-sport": [
+      "level-up"
+    ],
+    "muddy-water": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "mud-bomb": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "damp": 1,
+    "water-absorb": 2,
+    "unaware": "hidden"
+  }
+}

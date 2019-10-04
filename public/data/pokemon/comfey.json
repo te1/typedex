@@ -1,0 +1,194 @@
+{
+  "name": "comfey",
+  "caption": "Comfey",
+  "types": [
+    "fairy"
+  ],
+  "species": "comfey",
+  "gen": "generation-vii",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.1,
+  "weight": 0.3,
+  "baseStats": {
+    "hp": 51,
+    "attack": 52,
+    "defense": 90,
+    "special-attack": 82,
+    "special-defense": 110,
+    "speed": 100
+  },
+  "flavorText": "It stretches sticky vines out from its head and\npicks flowers to adorn itself with. When it\ndoesn’t have any flowers, it feels uneasy.",
+  "moves": {
+    "vine-whip": [
+      "level-up"
+    ],
+    "wrap": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "leech-seed": [
+      "level-up"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "petal-dance": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "amnesia": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sweet-kiss": [
+      "level-up"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "synthesis": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "helping-hand": [
+      "level-up"
+    ],
+    "aromatherapy": [
+      "level-up"
+    ],
+    "magical-leaf": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "natural-gift": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "lucky-chant": [
+      "egg"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "grass-knot": [
+      "level-up",
+      "machine"
+    ],
+    "after-you": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "petal-blizzard": [
+      "level-up"
+    ],
+    "draining-kiss": [
+      "level-up"
+    ],
+    "flower-shield": [
+      "level-up"
+    ],
+    "grassy-terrain": [
+      "level-up"
+    ],
+    "play-rough": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "floral-healing": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "flower-veil": 1,
+    "triage": 2,
+    "natural-cure": "hidden"
+  }
+}

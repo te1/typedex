@@ -1,0 +1,44 @@
+{
+  "name": "sharpen",
+  "caption": "Sharpen",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Raises the user's Attack by one stage.",
+    "full": "Raises the user's [Attack]{mechanic:attack} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user makes its edges more jagged, \nwhich raises its Attack stat.",
+  "flags": [
+    "snatch"
+  ],
+  "target": "user",
+  "pokemon": {
+    "porygon": [
+      "level-up"
+    ],
+    "cryogonal": [
+      "level-up"
+    ],
+    "carbink": [
+      "level-up"
+    ],
+    "bergmite": [
+      "level-up"
+    ],
+    "avalugg": [
+      "level-up"
+    ],
+    "diancie": [
+      "level-up"
+    ],
+    "diancie-mega": [
+      "level-up"
+    ]
+  }
+}

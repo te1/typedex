@@ -1,0 +1,188 @@
+{
+  "name": "cacturne",
+  "caption": "Cacturne",
+  "types": [
+    "grass",
+    "dark"
+  ],
+  "species": "cacturne",
+  "gen": "generation-iii",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.3,
+  "weight": 77.4,
+  "baseStats": {
+    "hp": 70,
+    "attack": 115,
+    "defense": 60,
+    "special-attack": 115,
+    "special-defense": 60,
+    "speed": 55
+  },
+  "evolutionChain": {
+    "species": "cacnea",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "cacturne",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "During the daytime, Cacturne remains unmoving so that it does\nnot lose any moisture to the harsh desert sun. This Pokémon\nbecomes active at night when the temperature drops.",
+  "moves": {
+    "sand-attack": [
+      "level-up"
+    ],
+    "poison-sting": [
+      "level-up"
+    ],
+    "pin-missile": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "absorb": [
+      "level-up"
+    ],
+    "leech-seed": [
+      "level-up"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "cotton-spore": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "spikes": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "level-up",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "ingrain": [
+      "level-up"
+    ],
+    "needle-arm": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "destiny-bond": [
+      "level-up"
+    ],
+    "revenge": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "payback": [
+      "level-up",
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "energy-ball": [
+      "level-up",
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "spiky-shield": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "sand-veil": 1,
+    "water-absorb": "hidden"
+  }
+}

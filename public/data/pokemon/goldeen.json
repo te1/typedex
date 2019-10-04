@@ -1,0 +1,184 @@
+{
+  "name": "goldeen",
+  "caption": "Goldeen",
+  "types": [
+    "water"
+  ],
+  "species": "goldeen",
+  "gen": "generation-i",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 15,
+  "baseStats": {
+    "hp": 45,
+    "attack": 67,
+    "defense": 60,
+    "special-attack": 35,
+    "special-defense": 50,
+    "speed": 63
+  },
+  "evolutionChain": {
+    "species": "goldeen",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "seaking",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Although known for their splendid tail fins,\nGoldeen apparently compete among themselves\nto see whose horn is thickest and sharpest.",
+  "moves": {
+    "horn-attack": [
+      "level-up"
+    ],
+    "fury-attack": [
+      "level-up"
+    ],
+    "horn-drill": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "supersonic": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "waterfall": [
+      "level-up",
+      "machine"
+    ],
+    "skull-bash": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "hydro-pump": [
+      "egg"
+    ],
+    "psybeam": [
+      "egg"
+    ],
+    "haze": [
+      "egg"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "egg",
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "mud-sport": [
+      "egg"
+    ],
+    "water-sport": [
+      "level-up"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "megahorn": [
+      "level-up"
+    ],
+    "mud-slap": [
+      "egg"
+    ],
+    "aqua-ring": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "aqua-tail": [
+      "egg"
+    ],
+    "body-slam": [
+      "egg"
+    ],
+    "signal-beam": [
+      "egg"
+    ],
+    "mud-shot": [
+      "egg"
+    ],
+    "soak": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "smart-strike": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "swift-swim": 1,
+    "water-veil": 2,
+    "lightning-rod": "hidden"
+  }
+}

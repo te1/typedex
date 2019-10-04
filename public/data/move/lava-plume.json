@@ -1,0 +1,75 @@
+{
+  "name": "lava-plume",
+  "caption": "Lava Plume",
+  "type": "fire",
+  "damageCategory": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a 30% chance to [burn]{mechanic:burn} the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 30% chance to [burn]{mechanic:burn} the target."
+  },
+  "flavorText": "The user torches everything around it in an inferno\nof scarlet flames. This may also leave those it hits\nwith a burn.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "all-other-pokemon",
+  "pokemon": {
+    "magmar": [
+      "level-up"
+    ],
+    "flareon": [
+      "level-up"
+    ],
+    "cyndaquil": [
+      "level-up"
+    ],
+    "quilava": [
+      "level-up"
+    ],
+    "typhlosion": [
+      "level-up"
+    ],
+    "slugma": [
+      "level-up"
+    ],
+    "magcargo": [
+      "level-up"
+    ],
+    "magby": [
+      "level-up"
+    ],
+    "entei": [
+      "level-up"
+    ],
+    "numel": [
+      "level-up"
+    ],
+    "camerupt": [
+      "level-up"
+    ],
+    "torkoal": [
+      "level-up"
+    ],
+    "groudon": [
+      "level-up"
+    ],
+    "magmortar": [
+      "level-up"
+    ],
+    "heatran": [
+      "level-up"
+    ],
+    "groudon-primal": [
+      "level-up"
+    ],
+    "camerupt-mega": [
+      "level-up"
+    ]
+  }
+}

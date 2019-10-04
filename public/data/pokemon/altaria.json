@@ -1,0 +1,212 @@
+{
+  "name": "altaria",
+  "caption": "Altaria",
+  "types": [
+    "dragon",
+    "flying"
+  ],
+  "species": "altaria",
+  "gen": "generation-iii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 1.1,
+  "weight": 20.6,
+  "baseStats": {
+    "hp": 75,
+    "attack": 70,
+    "defense": 90,
+    "special-attack": 70,
+    "special-defense": 105,
+    "speed": 80
+  },
+  "evolutionChain": {
+    "species": "swablu",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "altaria",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Altaria dances and wheels through the sky among billowing,\ncotton-like clouds. By singing melodies in its crystal-clear\nvoice, this Pokémon makes its listeners experience dreamy\nwonderment.",
+  "moves": {
+    "fly": [
+      "machine"
+    ],
+    "fury-attack": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "sing": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "mist": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "sky-attack": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "perish-song": [
+      "level-up"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "level-up",
+      "machine"
+    ],
+    "dragon-breath": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "refresh": [
+      "level-up"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "dragon-claw": [
+      "machine"
+    ],
+    "dragon-dance": [
+      "level-up"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "natural-gift": [
+      "level-up"
+    ],
+    "pluck": [
+      "level-up"
+    ],
+    "dragon-pulse": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "draco-meteor": [
+      "tutor"
+    ],
+    "round": [
+      "level-up",
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "cotton-guard": [
+      "level-up"
+    ],
+    "moonblast": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "disarming-voice": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "natural-cure": 1,
+    "cloud-nine": "hidden"
+  }
+}

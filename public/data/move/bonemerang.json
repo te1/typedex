@@ -1,0 +1,36 @@
+{
+  "name": "bonemerang",
+  "caption": "Bonemerang",
+  "type": "ground",
+  "damageCategory": "physical",
+  "power": 50,
+  "accuracy": 90,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Hits twice in one turn.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Hits twice in one turn."
+  },
+  "flavorText": "The user throws the bone it holds. The bone loops\naround to hit the target twice—coming and going.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "cubone": [
+      "level-up"
+    ],
+    "marowak": [
+      "level-up"
+    ],
+    "marowak-alola": [
+      "level-up"
+    ],
+    "marowak-totem": [
+      "level-up"
+    ]
+  }
+}

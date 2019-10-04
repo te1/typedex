@@ -1,0 +1,29 @@
+{
+  "name": "oblivion-wing",
+  "caption": "Oblivion Wing",
+  "type": "flying",
+  "damageCategory": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Drains 75% of the damage inflicted to heal the user.",
+    "full": "Deals regular damage.  Drains 75% of the damage inflicted to heal the user."
+  },
+  "flavorText": "The user absorbs its target’s HP. The user’s HP is\nrestored by over half of the damage taken by\nthe target.",
+  "flags": [
+    "protect",
+    "mirror",
+    "distance",
+    "heal"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "yveltal": [
+      "level-up"
+    ]
+  }
+}

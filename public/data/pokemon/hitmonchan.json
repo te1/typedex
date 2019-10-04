@@ -1,0 +1,196 @@
+{
+  "name": "hitmonchan",
+  "caption": "Hitmonchan",
+  "types": [
+    "fighting"
+  ],
+  "species": "hitmonchan",
+  "gen": "generation-i",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.4,
+  "weight": 50.2,
+  "baseStats": {
+    "hp": 50,
+    "attack": 105,
+    "defense": 79,
+    "special-attack": 35,
+    "special-defense": 110,
+    "speed": 76
+  },
+  "evolutionChain": {
+    "species": "tyrogue",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "hitmonlee",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "hitmonchan",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "hitmontop",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Hitmonchan is said to possess the spirit of a boxer who had\nbeen working toward a world championship. This Pokémon has\nan indomitable spirit and will never give up in the face\nof adversity.",
+  "moves": {
+    "comet-punch": [
+      "level-up"
+    ],
+    "mega-punch": [
+      "level-up"
+    ],
+    "fire-punch": [
+      "level-up"
+    ],
+    "ice-punch": [
+      "level-up"
+    ],
+    "thunder-punch": [
+      "level-up"
+    ],
+    "counter": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "mach-punch": [
+      "level-up"
+    ],
+    "detect": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "focus-punch": [
+      "level-up"
+    ],
+    "revenge": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "sky-uppercut": [
+      "level-up"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "feint": [
+      "level-up"
+    ],
+    "close-combat": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "vacuum-wave": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "bullet-punch": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "quick-guard": [
+      "level-up"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "keen-eye": 1,
+    "iron-fist": 2,
+    "inner-focus": "hidden"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "cosmoem",
+  "caption": "Cosmoem",
+  "types": [
+    "psychic"
+  ],
+  "species": "cosmoem",
+  "gen": "generation-vii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.1,
+  "weight": 999.9,
+  "baseStats": {
+    "hp": 43,
+    "attack": 29,
+    "defense": 131,
+    "special-attack": 29,
+    "special-defense": 131,
+    "speed": 37
+  },
+  "evolutionChain": {
+    "species": "cosmog",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "cosmoem",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "solgaleo",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          },
+          {
+            "species": "lunala",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "The king who ruled Alola in times of antiquity\ncalled it the “cocoon of the stars” and built\nan altar to worship it.",
+  "moves": {
+    "teleport": [
+      "level-up"
+    ],
+    "cosmic-power": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "sturdy": 1
+  }
+}

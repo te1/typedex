@@ -1,0 +1,51 @@
+{
+  "name": "ion-deluge",
+  "caption": "Ion Deluge",
+  "type": "electric",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 25,
+  "z": false,
+  "priority": 1,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Changes all []{type:normal} moves to []{type:electric} moves for the rest of the turn.",
+    "full": "Changes all Pokémon's []{type:normal} moves to []{type:electric} moves for the rest of the turn."
+  },
+  "flavorText": "The user disperses electrically charged particles,\nwhich changes Normal-type moves to\nElectric-type moves.",
+  "flags": [],
+  "target": "entire-field",
+  "pokemon": {
+    "chinchou": [
+      "level-up"
+    ],
+    "lanturn": [
+      "level-up"
+    ],
+    "ampharos": [
+      "level-up"
+    ],
+    "pachirisu": [
+      "egg"
+    ],
+    "electivire": [
+      "level-up"
+    ],
+    "zebstrika": [
+      "level-up"
+    ],
+    "emolga": [
+      "egg"
+    ],
+    "eelektross": [
+      "level-up"
+    ],
+    "xurkitree": [
+      "level-up"
+    ],
+    "ampharos-mega": [
+      "level-up"
+    ]
+  }
+}

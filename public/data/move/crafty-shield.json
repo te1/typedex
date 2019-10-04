@@ -1,0 +1,36 @@
+{
+  "name": "crafty-shield",
+  "caption": "Crafty Shield",
+  "type": "fairy",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 3,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Protects all friendly Pokémon from non-damaging moves.",
+    "full": "Protects all friendly Pokémon from non-damaging moves for the rest of the turn.\n\nUnlike other blocking moves, this move may be used consecutively without its chance of success falling."
+  },
+  "flavorText": "The user protects itself and its allies from status\nmoves with a mysterious power. This does not stop\nmoves that do damage.",
+  "flags": [],
+  "target": "users-field",
+  "pokemon": {
+    "chimecho": [
+      "egg"
+    ],
+    "yamask": [
+      "egg"
+    ],
+    "klefki": [
+      "level-up"
+    ],
+    "magearna": [
+      "level-up"
+    ],
+    "magearna-original": [
+      "level-up"
+    ]
+  }
+}

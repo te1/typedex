@@ -1,0 +1,192 @@
+{
+  "name": "bouffalant",
+  "caption": "Bouffalant",
+  "types": [
+    "normal"
+  ],
+  "species": "bouffalant",
+  "gen": "generation-v",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.6,
+  "weight": 94.6,
+  "baseStats": {
+    "hp": 95,
+    "attack": 110,
+    "defense": 95,
+    "special-attack": 40,
+    "special-defense": 95,
+    "speed": 55
+  },
+  "flavorText": "They charge wildly and headbutt everything.\nTheir headbutts have enough destructive force to\nderail a train.",
+  "moves": {
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "stomp": [
+      "egg"
+    ],
+    "headbutt": [
+      "egg"
+    ],
+    "horn-attack": [
+      "level-up"
+    ],
+    "fury-attack": [
+      "level-up"
+    ],
+    "thrash": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "rage": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "skull-bash": [
+      "egg"
+    ],
+    "amnesia": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "reversal": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "mud-slap": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "megahorn": [
+      "level-up"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "revenge": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "mud-shot": [
+      "egg"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "giga-impact": [
+      "level-up",
+      "machine"
+    ],
+    "rock-climb": [
+      "egg"
+    ],
+    "iron-head": [
+      "egg"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "head-charge": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "belch": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "smart-strike": [
+      "machine"
+    ],
+    "cotton-guard": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "reckless": 1,
+    "sap-sipper": 2,
+    "soundproof": "hidden"
+  }
+}

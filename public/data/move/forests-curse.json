@@ -1,0 +1,31 @@
+{
+  "name": "forests-curse",
+  "caption": "Forest’s Curse",
+  "type": "grass",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Adds []{type:grass} to the target's types.",
+    "full": "Adds []{type:grass} to the target's types."
+  },
+  "flavorText": "The user puts a forest curse on the target.\nThe target is now Grass type as well.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "phantump": [
+      "level-up"
+    ],
+    "trevenant": [
+      "level-up"
+    ]
+  }
+}

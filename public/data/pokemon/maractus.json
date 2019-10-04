@@ -1,0 +1,180 @@
+{
+  "name": "maractus",
+  "caption": "Maractus",
+  "types": [
+    "grass"
+  ],
+  "species": "maractus",
+  "gen": "generation-v",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1,
+  "weight": 28,
+  "baseStats": {
+    "hp": 75,
+    "attack": 86,
+    "defense": 67,
+    "special-attack": 106,
+    "special-defense": 67,
+    "speed": 60
+  },
+  "flavorText": "It uses an up-tempo song and dance to drive away\nthe bird Pokémon that prey on its flower seeds.",
+  "moves": {
+    "pin-missile": [
+      "level-up"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "absorb": [
+      "level-up"
+    ],
+    "mega-drain": [
+      "level-up"
+    ],
+    "leech-seed": [
+      "egg"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "level-up",
+      "machine"
+    ],
+    "petal-dance": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "cotton-spore": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "spikes": [
+      "egg"
+    ],
+    "giga-drain": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "synthesis": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "level-up",
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "ingrain": [
+      "level-up"
+    ],
+    "needle-arm": [
+      "level-up"
+    ],
+    "grass-whistle": [
+      "egg"
+    ],
+    "bullet-seed": [
+      "egg"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "bounce": [
+      "egg"
+    ],
+    "acupressure": [
+      "level-up"
+    ],
+    "worry-seed": [
+      "egg"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "seed-bomb": [
+      "egg"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "wood-hammer": [
+      "egg"
+    ],
+    "after-you": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "cotton-guard": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "petal-blizzard": [
+      "level-up"
+    ],
+    "grassy-terrain": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "spiky-shield": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "water-absorb": 1,
+    "chlorophyll": 2,
+    "storm-drain": "hidden"
+  }
+}

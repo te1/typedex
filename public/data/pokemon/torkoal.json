@@ -1,0 +1,202 @@
+{
+  "name": "torkoal",
+  "caption": "Torkoal",
+  "types": [
+    "fire"
+  ],
+  "species": "torkoal",
+  "gen": "generation-iii",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 80.4,
+  "baseStats": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 140,
+    "special-attack": 85,
+    "special-defense": 70,
+    "speed": 20
+  },
+  "flavorText": "You can tell how it’s feeling by the smoke\nspouting from its shell. Tremendous velocity\nis a sign of good health.",
+  "moves": {
+    "body-slam": [
+      "level-up"
+    ],
+    "ember": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "level-up",
+      "machine"
+    ],
+    "fire-spin": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "smokescreen": [
+      "level-up"
+    ],
+    "smog": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "amnesia": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "curse": [
+      "level-up"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "egg",
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "heat-wave": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "yawn": [
+      "egg"
+    ],
+    "eruption": [
+      "egg"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "fissure": [
+      "egg"
+    ],
+    "withdraw": [
+      "level-up"
+    ],
+    "rapid-spin": [
+      "level-up"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "lava-plume": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "skull-bash": [
+      "egg"
+    ],
+    "flame-burst": [
+      "egg"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "clear-smog": [
+      "egg"
+    ],
+    "shell-smash": [
+      "level-up"
+    ],
+    "inferno": [
+      "level-up"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "flame-wheel": [
+      "level-up"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "superpower": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "white-smoke": 1,
+    "drought": 2,
+    "shell-armor": "hidden"
+  }
+}

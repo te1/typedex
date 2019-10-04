@@ -1,0 +1,13 @@
+{
+  "name": "slow-start",
+  "caption": "Slow Start",
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Halves [Attack]{mechanic:attack} and [Speed]{mechanic:speed} for five turns upon entering battle.",
+    "full": "This Pokémon's [Attack]{mechanic:attack} and [Speed]{mechanic:speed} are halved for five turns upon entering battle.\n\nThis ability also takes effect when acquired during battle.  If this Pokémon loses its ability before the five turns are up, its Attack and Speed return to normal; if it then regains this ability without leaving battle, its Attack and Speed are halved again, but the counter keeps counting from where it was."
+  },
+  "flavorText": "For five turns, the Pokémon’s Attack and Speed\nstats are halved.",
+  "pokemon": {
+    "regigigas": 1
+  }
+}

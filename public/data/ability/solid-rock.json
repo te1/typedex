@@ -1,0 +1,16 @@
+{
+  "name": "solid-rock",
+  "caption": "Solid Rock",
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Decreases damage taken from [super-effective]{mechanic:super-effective} moves by 1/4.",
+    "full": "This Pokémon takes 0.75× as much damage from moves that are [super effective]{mechanic:super-effective} against it.\n\nThis ability functions identically to []{ability:filter}."
+  },
+  "flavorText": "Reduces the power of supereffective attacks taken.",
+  "pokemon": {
+    "camerupt": 2,
+    "rhyperior": 2,
+    "tirtouga": 1,
+    "carracosta": 1
+  }
+}

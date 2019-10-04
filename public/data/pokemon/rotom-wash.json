@@ -1,0 +1,154 @@
+{
+  "name": "rotom-wash",
+  "caption": "Wash Rotom",
+  "types": [
+    "electric",
+    "water"
+  ],
+  "species": "rotom",
+  "gen": "generation-iv",
+  "color": "red",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": "Wash Rotom",
+  "height": 0.3,
+  "weight": 0.3,
+  "baseStats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 107,
+    "special-attack": 105,
+    "special-defense": 107,
+    "speed": 86
+  },
+  "flavorText": "Research continues on this Pokémon, which could\nbe the power source of a unique motor.",
+  "moves": {
+    "hydro-pump": [
+      "form-change"
+    ],
+    "thunder-shock": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "level-up",
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "level-up",
+      "machine"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "level-up",
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "uproar": [
+      "level-up"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "charge": [
+      "level-up"
+    ],
+    "trick": [
+      "level-up"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "shock-wave": [
+      "level-up"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "discharge": [
+      "level-up"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "ominous-wind": [
+      "level-up"
+    ],
+    "electro-ball": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "hex": [
+      "level-up"
+    ],
+    "volt-switch": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "levitate": 1
+  }
+}

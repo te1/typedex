@@ -1,0 +1,183 @@
+{
+  "name": "cradily",
+  "caption": "Cradily",
+  "types": [
+    "rock",
+    "grass"
+  ],
+  "species": "cradily",
+  "gen": "generation-iii",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.5,
+  "weight": 60.4,
+  "baseStats": {
+    "hp": 86,
+    "attack": 81,
+    "defense": 97,
+    "special-attack": 81,
+    "special-defense": 107,
+    "speed": 43
+  },
+  "evolutionChain": {
+    "species": "lileep",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "cradily",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Normally, it lived on shallow sea shoals. When\nthe tide went out, this Pokémon came up on\nland to search for prey.",
+  "moves": {
+    "acid": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "constrict": [
+      "level-up"
+    ],
+    "amnesia": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "giga-drain": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "stockpile": [
+      "level-up"
+    ],
+    "spit-up": [
+      "level-up"
+    ],
+    "swallow": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "ingrain": [
+      "level-up"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "wring-out": [
+      "level-up"
+    ],
+    "gastro-acid": [
+      "level-up"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "energy-ball": [
+      "level-up",
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "brine": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "suction-cups": 1,
+    "storm-drain": "hidden"
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "name": "psyshock",
+  "caption": "Psyshock",
+  "type": "psychic",
+  "damageCategory": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Inflicts damage based on the target's Defense, not Special Defense.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Damage calculation always uses the target's [Defense]{mechanic:defense}, regardless of this move's damage class."
+  },
+  "flavorText": "The user materializes an odd psychic wave to attack\nthe target. This attack does physical damage.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "clefairy": [
+      "machine"
+    ],
+    "clefable": [
+      "machine"
+    ],
+    "ninetales": [
+      "machine"
+    ],
+    "psyduck": [
+      "machine"
+    ],
+    "golduck": [
+      "machine"
+    ],
+    "abra": [
+      "machine"
+    ],
+    "kadabra": [
+      "machine"
+    ],
+    "alakazam": [
+      "machine"
+    ],
+    "slowpoke": [
+      "machine"
+    ],
+    "slowbro": [
+      "machine"
+    ],
+    "drowzee": [
+      "level-up",
+      "machine"
+    ],
+    "hypno": [
+      "level-up",
+      "machine"
+    ],
+    "exeggutor": [
+      "level-up",
+      "machine"
+    ],
+    "starmie": [
+      "machine"
+    ],
+    "mr-mime": [
+      "machine"
+    ],
+    "jynx": [
+      "machine"
+    ],
+    "porygon": [
+      "machine"
+    ],
+    "mewtwo": [
+      "machine"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "cleffa": [
+      "machine"
+    ],
+    "togepi": [
+      "machine"
+    ],
+    "togetic": [
+      "machine"
+    ],
+    "natu": [
+      "machine"
+    ],
+    "xatu": [
+      "machine"
+    ],
+    "espeon": [
+      "machine"
+    ],
+    "slowking": [
+      "machine"
+    ],
+    "girafarig": [
+      "machine"
+    ],
+    "porygon2": [
+      "machine"
+    ],
+    "stantler": [
+      "machine"
+    ],
+    "smoochum": [
+      "machine"
+    ],
+    "lugia": [
+      "machine"
+    ],
+    "ralts": [
+      "machine"
+    ],
+    "kirlia": [
+      "machine"
+    ],
+    "gardevoir": [
+      "machine"
+    ],
+    "meditite": [
+      "machine"
+    ],
+    "medicham": [
+      "machine"
+    ],
+    "spoink": [
+      "level-up",
+      "machine"
+    ],
+    "grumpig": [
+      "level-up",
+      "machine"
+    ],
+    "lunatone": [
+      "level-up",
+      "machine"
+    ],
+    "solrock": [
+      "machine"
+    ],
+    "baltoy": [
+      "machine"
+    ],
+    "claydol": [
+      "machine"
+    ],
+    "chimecho": [
+      "machine"
+    ],
+    "metang": [
+      "machine"
+    ],
+    "metagross": [
+      "machine"
+    ],
+    "latias": [
+      "machine"
+    ],
+    "latios": [
+      "machine"
+    ],
+    "jirachi": [
+      "machine"
+    ],
+    "deoxys-normal": [
+      "machine"
+    ],
+    "chingling": [
+      "machine"
+    ],
+    "bronzor": [
+      "machine"
+    ],
+    "bronzong": [
+      "machine"
+    ],
+    "mime-jr": [
+      "machine"
+    ],
+    "togekiss": [
+      "machine"
+    ],
+    "porygon-z": [
+      "machine"
+    ],
+    "gallade": [
+      "machine"
+    ],
+    "uxie": [
+      "machine"
+    ],
+    "mesprit": [
+      "machine"
+    ],
+    "azelf": [
+      "machine"
+    ],
+    "cresselia": [
+      "machine"
+    ],
+    "arceus": [
+      "machine"
+    ],
+    "victini": [
+      "machine"
+    ],
+    "munna": [
+      "machine"
+    ],
+    "musharna": [
+      "machine"
+    ],
+    "woobat": [
+      "machine"
+    ],
+    "swoobat": [
+      "machine"
+    ],
+    "audino": [
+      "machine"
+    ],
+    "sigilyph": [
+      "machine"
+    ],
+    "gothita": [
+      "level-up",
+      "machine"
+    ],
+    "gothorita": [
+      "level-up",
+      "machine"
+    ],
+    "gothitelle": [
+      "level-up",
+      "machine"
+    ],
+    "solosis": [
+      "level-up",
+      "machine"
+    ],
+    "duosion": [
+      "level-up",
+      "machine"
+    ],
+    "reuniclus": [
+      "level-up",
+      "machine"
+    ],
+    "elgyem": [
+      "machine"
+    ],
+    "beheeyem": [
+      "machine"
+    ],
+    "meloetta-aria": [
+      "machine"
+    ],
+    "fennekin": [
+      "level-up",
+      "machine"
+    ],
+    "braixen": [
+      "level-up",
+      "machine"
+    ],
+    "delphox": [
+      "level-up",
+      "machine"
+    ],
+    "espurr": [
+      "level-up",
+      "machine"
+    ],
+    "meowstic-male": [
+      "level-up",
+      "machine"
+    ],
+    "aromatisse": [
+      "machine"
+    ],
+    "malamar": [
+      "machine"
+    ],
+    "sylveon": [
+      "machine"
+    ],
+    "klefki": [
+      "machine"
+    ],
+    "xerneas": [
+      "machine"
+    ],
+    "diancie": [
+      "machine"
+    ],
+    "hoopa": [
+      "machine"
+    ],
+    "oranguru": [
+      "machine"
+    ],
+    "tapu-lele": [
+      "level-up",
+      "machine"
+    ],
+    "solgaleo": [
+      "machine"
+    ],
+    "lunala": [
+      "machine"
+    ],
+    "nihilego": [
+      "machine"
+    ],
+    "necrozma": [
+      "machine"
+    ],
+    "blacephalon": [
+      "machine"
+    ],
+    "deoxys-attack": [
+      "machine"
+    ],
+    "deoxys-defense": [
+      "machine"
+    ],
+    "deoxys-speed": [
+      "machine"
+    ],
+    "meloetta-pirouette": [
+      "machine"
+    ],
+    "meowstic-female": [
+      "level-up",
+      "machine"
+    ],
+    "alakazam-mega": [
+      "machine"
+    ],
+    "mewtwo-mega-x": [
+      "machine"
+    ],
+    "mewtwo-mega-y": [
+      "machine"
+    ],
+    "gardevoir-mega": [
+      "machine"
+    ],
+    "medicham-mega": [
+      "machine"
+    ],
+    "latias-mega": [
+      "machine"
+    ],
+    "latios-mega": [
+      "machine"
+    ],
+    "gallade-mega": [
+      "machine"
+    ],
+    "audino-mega": [
+      "machine"
+    ],
+    "slowbro-mega": [
+      "machine"
+    ],
+    "diancie-mega": [
+      "machine"
+    ],
+    "metagross-mega": [
+      "machine"
+    ],
+    "hoopa-unbound": [
+      "machine"
+    ],
+    "raichu-alola": [
+      "machine"
+    ],
+    "ninetales-alola": [
+      "machine"
+    ],
+    "exeggutor-alola": [
+      "level-up",
+      "machine"
+    ],
+    "necrozma-dusk": [
+      "machine"
+    ],
+    "necrozma-dawn": [
+      "machine"
+    ],
+    "necrozma-ultra": [
+      "machine"
+    ]
+  }
+}

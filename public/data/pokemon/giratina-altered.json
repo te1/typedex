@@ -1,0 +1,199 @@
+{
+  "name": "giratina-altered",
+  "caption": "Altered Giratina",
+  "types": [
+    "ghost",
+    "dragon"
+  ],
+  "species": "giratina",
+  "gen": "generation-iv",
+  "color": "black",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": "Altered Forme",
+  "height": 4.5,
+  "weight": 750,
+  "baseStats": {
+    "hp": 150,
+    "attack": 100,
+    "defense": 120,
+    "special-attack": 100,
+    "special-defense": 120,
+    "speed": 90
+  },
+  "flavorText": "This Pokémon is said to live in a world on the\nreverse side of ours, where common knowledge is\ndistorted and strange.",
+  "moves": {
+    "fly": [
+      "machine"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "dragon-breath": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "dragon-claw": [
+      "level-up",
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "aura-sphere": [
+      "level-up"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "earth-power": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "level-up",
+      "machine"
+    ],
+    "draco-meteor": [
+      "tutor"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "ominous-wind": [
+      "level-up"
+    ],
+    "shadow-force": [
+      "level-up"
+    ],
+    "destiny-bond": [
+      "level-up"
+    ],
+    "shadow-sneak": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "hex": [
+      "level-up"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "dragon-tail": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "pressure": 1,
+    "telepathy": "hidden"
+  }
+}

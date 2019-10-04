@@ -1,0 +1,207 @@
+{
+  "name": "draco-meteor",
+  "caption": "Draco Meteor",
+  "type": "dragon",
+  "damageCategory": "special",
+  "power": 130,
+  "accuracy": 90,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Lowers the user's Special Attack by two stages after inflicting damage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}, then lowers the user's [Special Attack]{mechanic:special-attack} by two [stages]{mechanic:stage}."
+  },
+  "flavorText": "Comets are summoned down from the sky onto the\ntarget. The attack’s recoil harshly lowers the user’s\nSp. Atk stat.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "dratini": [
+      "tutor"
+    ],
+    "dragonair": [
+      "tutor"
+    ],
+    "dragonite": [
+      "tutor"
+    ],
+    "kingdra": [
+      "tutor"
+    ],
+    "vibrava": [
+      "tutor"
+    ],
+    "flygon": [
+      "tutor"
+    ],
+    "altaria": [
+      "tutor"
+    ],
+    "bagon": [
+      "tutor"
+    ],
+    "shelgon": [
+      "tutor"
+    ],
+    "salamence": [
+      "tutor"
+    ],
+    "latias": [
+      "tutor"
+    ],
+    "latios": [
+      "tutor"
+    ],
+    "rayquaza": [
+      "tutor"
+    ],
+    "gible": [
+      "tutor"
+    ],
+    "gabite": [
+      "tutor"
+    ],
+    "garchomp": [
+      "tutor"
+    ],
+    "dialga": [
+      "tutor"
+    ],
+    "palkia": [
+      "tutor"
+    ],
+    "giratina-altered": [
+      "tutor"
+    ],
+    "arceus": [
+      "tutor"
+    ],
+    "axew": [
+      "tutor"
+    ],
+    "fraxure": [
+      "tutor"
+    ],
+    "haxorus": [
+      "tutor"
+    ],
+    "druddigon": [
+      "tutor"
+    ],
+    "deino": [
+      "tutor"
+    ],
+    "zweilous": [
+      "tutor"
+    ],
+    "hydreigon": [
+      "tutor"
+    ],
+    "reshiram": [
+      "tutor"
+    ],
+    "zekrom": [
+      "tutor"
+    ],
+    "kyurem": [
+      "tutor"
+    ],
+    "dragalge": [
+      "tutor"
+    ],
+    "tyrunt": [
+      "tutor"
+    ],
+    "tyrantrum": [
+      "tutor"
+    ],
+    "goomy": [
+      "tutor"
+    ],
+    "sliggoo": [
+      "tutor"
+    ],
+    "goodra": [
+      "tutor"
+    ],
+    "noibat": [
+      "tutor"
+    ],
+    "noivern": [
+      "tutor"
+    ],
+    "zygarde": [
+      "tutor"
+    ],
+    "silvally": [
+      "tutor"
+    ],
+    "turtonator": [
+      "tutor"
+    ],
+    "drampa": [
+      "tutor"
+    ],
+    "jangmo-o": [
+      "tutor"
+    ],
+    "hakamo-o": [
+      "tutor"
+    ],
+    "kommo-o": [
+      "tutor"
+    ],
+    "guzzlord": [
+      "tutor"
+    ],
+    "naganadel": [
+      "tutor"
+    ],
+    "giratina-origin": [
+      "tutor"
+    ],
+    "kyurem-black": [
+      "tutor"
+    ],
+    "kyurem-white": [
+      "tutor"
+    ],
+    "garchomp-mega": [
+      "tutor"
+    ],
+    "latias-mega": [
+      "tutor"
+    ],
+    "latios-mega": [
+      "tutor"
+    ],
+    "altaria-mega": [
+      "tutor"
+    ],
+    "rayquaza-mega": [
+      "tutor"
+    ],
+    "salamence-mega": [
+      "tutor"
+    ],
+    "exeggutor-alola": [
+      "tutor"
+    ],
+    "zygarde-10": [
+      "tutor"
+    ],
+    "zygarde-50": [
+      "tutor"
+    ],
+    "zygarde-complete": [
+      "tutor"
+    ],
+    "kommo-o-totem": [
+      "tutor"
+    ]
+  }
+}

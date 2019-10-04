@@ -1,0 +1,234 @@
+{
+  "name": "discharge",
+  "caption": "Discharge",
+  "type": "electric",
+  "damageCategory": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a 30% chance to [paralyze]{mechanic:paralysis} the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 30% chance to [paralyze]{mechanic:paralyze} the target."
+  },
+  "flavorText": "The user strikes everything around it by letting loose\na flare of electricity. This may also cause paralysis.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "all-other-pokemon",
+  "pokemon": {
+    "pikachu": [
+      "level-up"
+    ],
+    "magnemite": [
+      "level-up"
+    ],
+    "magneton": [
+      "level-up"
+    ],
+    "voltorb": [
+      "level-up"
+    ],
+    "electrode": [
+      "level-up"
+    ],
+    "electabuzz": [
+      "level-up"
+    ],
+    "jolteon": [
+      "level-up"
+    ],
+    "porygon": [
+      "level-up"
+    ],
+    "zapdos": [
+      "level-up"
+    ],
+    "chinchou": [
+      "level-up"
+    ],
+    "lanturn": [
+      "level-up"
+    ],
+    "mareep": [
+      "level-up"
+    ],
+    "flaaffy": [
+      "level-up"
+    ],
+    "ampharos": [
+      "level-up"
+    ],
+    "porygon2": [
+      "level-up"
+    ],
+    "elekid": [
+      "level-up"
+    ],
+    "raikou": [
+      "level-up"
+    ],
+    "nosepass": [
+      "level-up"
+    ],
+    "electrike": [
+      "level-up",
+      "egg"
+    ],
+    "manectric": [
+      "level-up"
+    ],
+    "plusle": [
+      "level-up",
+      "egg"
+    ],
+    "minun": [
+      "level-up",
+      "egg"
+    ],
+    "shinx": [
+      "level-up"
+    ],
+    "luxio": [
+      "level-up"
+    ],
+    "luxray": [
+      "level-up"
+    ],
+    "pachirisu": [
+      "level-up"
+    ],
+    "magnezone": [
+      "level-up"
+    ],
+    "electivire": [
+      "level-up"
+    ],
+    "porygon-z": [
+      "level-up"
+    ],
+    "probopass": [
+      "level-up"
+    ],
+    "rotom": [
+      "level-up"
+    ],
+    "blitzle": [
+      "level-up"
+    ],
+    "zebstrika": [
+      "level-up"
+    ],
+    "emolga": [
+      "level-up"
+    ],
+    "joltik": [
+      "level-up"
+    ],
+    "galvantula": [
+      "level-up"
+    ],
+    "klink": [
+      "level-up"
+    ],
+    "klang": [
+      "level-up"
+    ],
+    "klinklang": [
+      "level-up"
+    ],
+    "eelektrik": [
+      "level-up"
+    ],
+    "eelektross": [
+      "level-up"
+    ],
+    "stunfisk": [
+      "level-up"
+    ],
+    "thundurus-incarnate": [
+      "level-up"
+    ],
+    "amaura": [
+      "egg"
+    ],
+    "dedenne": [
+      "level-up"
+    ],
+    "charjabug": [
+      "level-up"
+    ],
+    "togedemaru": [
+      "level-up"
+    ],
+    "tapu-koko": [
+      "level-up"
+    ],
+    "xurkitree": [
+      "level-up"
+    ],
+    "zeraora": [
+      "level-up"
+    ],
+    "rotom-heat": [
+      "level-up"
+    ],
+    "rotom-wash": [
+      "level-up"
+    ],
+    "rotom-frost": [
+      "level-up"
+    ],
+    "rotom-fan": [
+      "level-up"
+    ],
+    "rotom-mow": [
+      "level-up"
+    ],
+    "thundurus-therian": [
+      "level-up"
+    ],
+    "ampharos-mega": [
+      "level-up"
+    ],
+    "manectric-mega": [
+      "level-up"
+    ],
+    "pikachu-original-cap": [
+      "level-up"
+    ],
+    "pikachu-hoenn-cap": [
+      "level-up"
+    ],
+    "pikachu-sinnoh-cap": [
+      "level-up"
+    ],
+    "pikachu-unova-cap": [
+      "level-up"
+    ],
+    "pikachu-kalos-cap": [
+      "level-up"
+    ],
+    "pikachu-alola-cap": [
+      "level-up"
+    ],
+    "geodude-alola": [
+      "level-up"
+    ],
+    "graveler-alola": [
+      "level-up"
+    ],
+    "golem-alola": [
+      "level-up"
+    ],
+    "pikachu-partner-cap": [
+      "level-up"
+    ],
+    "togedemaru-totem": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "sweet-kiss",
+  "caption": "Sweet Kiss",
+  "type": "fairy",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 75,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Confuses the target.",
+    "full": "[Confuse]{mechanic:confuse}s the target."
+  },
+  "flavorText": "The user kisses the target with a sweet, angelic\ncuteness that causes confusion.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "pichu": [
+      "level-up"
+    ],
+    "cleffa": [
+      "level-up"
+    ],
+    "igglybuff": [
+      "level-up"
+    ],
+    "togepi": [
+      "level-up"
+    ],
+    "togetic": [
+      "level-up"
+    ],
+    "smoochum": [
+      "level-up"
+    ],
+    "plusle": [
+      "egg"
+    ],
+    "minun": [
+      "egg"
+    ],
+    "luvdisc": [
+      "level-up"
+    ],
+    "pachirisu": [
+      "level-up"
+    ],
+    "buneary": [
+      "egg"
+    ],
+    "happiny": [
+      "level-up"
+    ],
+    "finneon": [
+      "egg"
+    ],
+    "shaymin-land": [
+      "level-up"
+    ],
+    "audino": [
+      "egg"
+    ],
+    "spritzee": [
+      "level-up"
+    ],
+    "aromatisse": [
+      "level-up"
+    ],
+    "comfey": [
+      "level-up"
+    ],
+    "shaymin-sky": [
+      "level-up"
+    ]
+  }
+}

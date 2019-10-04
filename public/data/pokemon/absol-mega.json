@@ -1,0 +1,224 @@
+{
+  "name": "absol-mega",
+  "caption": "Mega Absol",
+  "types": [
+    "dark"
+  ],
+  "species": "absol",
+  "gen": "generation-iii",
+  "color": "white",
+  "default": false,
+  "alternate": false,
+  "mega": true,
+  "height": 1.2,
+  "weight": 49,
+  "baseStats": {
+    "hp": 65,
+    "attack": 150,
+    "defense": 60,
+    "special-attack": 115,
+    "special-defense": 60,
+    "speed": 115
+  },
+  "flavorText": "The only thing unlucky about Absol is its\nappearance. It protects fields and warns people\nof disaster, so one ought to be grateful for it.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "razor-wind": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "level-up",
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "perish-song": [
+      "level-up"
+    ],
+    "detect": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "future-sight": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "feint": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "me-first": [
+      "level-up"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "psycho-cut": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "magic-bounce": 1
+  }
+}

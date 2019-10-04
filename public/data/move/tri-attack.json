@@ -1,0 +1,66 @@
+{
+  "name": "tri-attack",
+  "caption": "Tri Attack",
+  "type": "normal",
+  "damageCategory": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a 20% chance to [burn]{mechanic:burn}, [freeze]{mechanic:freeze}, or [paralyze]{mechanic:paralysis} the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 20% chance to [burn]{mechanic:burn}, [freeze]{mechanic:freeze}, or [paralyze]{mechanic:paralyze} the target.  One of these effects is selected at random; they do not each have independent chances to occur."
+  },
+  "flavorText": "The user strikes with a simultaneous three-beam\nattack. May also burn, freeze, or paralyze the target.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "spearow": [
+      "egg"
+    ],
+    "dugtrio": [
+      "level-up"
+    ],
+    "magneton": [
+      "level-up"
+    ],
+    "dodrio": [
+      "level-up"
+    ],
+    "porygon": [
+      "level-up"
+    ],
+    "porygon2": [
+      "level-up"
+    ],
+    "magnezone": [
+      "level-up"
+    ],
+    "porygon-z": [
+      "level-up"
+    ],
+    "probopass": [
+      "level-up"
+    ],
+    "hydreigon": [
+      "level-up"
+    ],
+    "genesect": [
+      "level-up"
+    ],
+    "type-null": [
+      "level-up"
+    ],
+    "silvally": [
+      "level-up"
+    ],
+    "dugtrio-alola": [
+      "level-up"
+    ]
+  }
+}

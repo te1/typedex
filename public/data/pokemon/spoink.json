@@ -1,0 +1,206 @@
+{
+  "name": "spoink",
+  "caption": "Spoink",
+  "types": [
+    "psychic"
+  ],
+  "species": "spoink",
+  "gen": "generation-iii",
+  "color": "black",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.7,
+  "weight": 30.6,
+  "baseStats": {
+    "hp": 60,
+    "attack": 25,
+    "defense": 35,
+    "special-attack": 70,
+    "special-defense": 80,
+    "speed": 60
+  },
+  "evolutionChain": {
+    "species": "spoink",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "grumpig",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Spoink bounces around on its tail. The shock of its bouncing\nmakes its heart pump. As a result, this Pokémon cannot afford\nto stop bouncing—if it stops, its heart will stop.",
+  "moves": {
+    "psybeam": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "level-up",
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "psywave": [
+      "level-up"
+    ],
+    "splash": [
+      "level-up"
+    ],
+    "rest": [
+      "level-up",
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "snore": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "level-up",
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "future-sight": [
+      "egg"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "trick": [
+      "egg"
+    ],
+    "magic-coat": [
+      "level-up"
+    ],
+    "skill-swap": [
+      "egg"
+    ],
+    "odor-sleuth": [
+      "level-up"
+    ],
+    "extrasensory": [
+      "egg"
+    ],
+    "bounce": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "amnesia": [
+      "egg"
+    ],
+    "mirror-coat": [
+      "egg"
+    ],
+    "payback": [
+      "level-up",
+      "machine"
+    ],
+    "power-gem": [
+      "level-up"
+    ],
+    "zen-headbutt": [
+      "level-up",
+      "egg"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "whirlwind": [
+      "egg"
+    ],
+    "lucky-chant": [
+      "egg"
+    ],
+    "psyshock": [
+      "level-up",
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "simple-beam": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "thick-fat": 1,
+    "own-tempo": 2,
+    "gluttony": "hidden"
+  }
+}

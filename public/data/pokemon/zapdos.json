@@ -1,0 +1,165 @@
+{
+  "name": "zapdos",
+  "caption": "Zapdos",
+  "types": [
+    "electric",
+    "flying"
+  ],
+  "species": "zapdos",
+  "gen": "generation-i",
+  "color": "yellow",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.6,
+  "weight": 52.6,
+  "baseStats": {
+    "hp": 90,
+    "attack": 90,
+    "defense": 85,
+    "special-attack": 125,
+    "special-defense": 90,
+    "speed": 100
+  },
+  "flavorText": "Zapdos is a legendary bird Pokémon that has the ability to\ncontrol electricity. It usually lives in thunderclouds.\nThe Pokémon gains power if it is stricken by lightning bolts.",
+  "moves": {
+    "fly": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "drill-peck": [
+      "level-up"
+    ],
+    "thunder-shock": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "level-up",
+      "machine"
+    ],
+    "thunder": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "zap-cannon": [
+      "level-up"
+    ],
+    "detect": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "level-up",
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "charge": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "roost": [
+      "level-up",
+      "machine"
+    ],
+    "pluck": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "discharge": [
+      "level-up"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "sky-drop": [
+      "machine"
+    ],
+    "volt-switch": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "magnetic-flux": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "pressure": 1,
+    "static": "hidden"
+  }
+}

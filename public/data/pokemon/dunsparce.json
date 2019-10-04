@@ -1,0 +1,244 @@
+{
+  "name": "dunsparce",
+  "caption": "Dunsparce",
+  "types": [
+    "normal"
+  ],
+  "species": "dunsparce",
+  "gen": "generation-ii",
+  "color": "yellow",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.5,
+  "weight": 14,
+  "baseStats": {
+    "hp": 100,
+    "attack": 70,
+    "defense": 70,
+    "special-attack": 65,
+    "special-defense": 65,
+    "speed": 45
+  },
+  "flavorText": "It travels by digging through the ground.\nDiglett and Dunsparce share one another’s\ntunnels happily.",
+  "moves": {
+    "headbutt": [
+      "egg"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "bite": [
+      "egg"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "dig": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "rage": [
+      "level-up"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "bide": [
+      "egg"
+    ],
+    "glare": [
+      "level-up"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "snore": [
+      "egg"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "spite": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "endure": [
+      "level-up"
+    ],
+    "rollout": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "egg",
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "ancient-power": [
+      "level-up",
+      "egg"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "yawn": [
+      "level-up"
+    ],
+    "endeavor": [
+      "level-up"
+    ],
+    "secret-power": [
+      "egg"
+    ],
+    "astonish": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "body-slam": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "magic-coat": [
+      "egg"
+    ],
+    "roost": [
+      "level-up",
+      "machine"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "trump-card": [
+      "egg"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "agility": [
+      "egg"
+    ],
+    "coil": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "hex": [
+      "egg"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "drill-run": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "dragon-rush": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "serene-grace": 1,
+    "run-away": 2,
+    "rattled": "hidden"
+  }
+}

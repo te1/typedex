@@ -1,0 +1,68 @@
+{
+  "name": "dizzy-punch",
+  "caption": "Dizzy Punch",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a 20% chance to confuse the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 20% chance to [confuse]{mechanic:confuse} the target."
+  },
+  "flavorText": "The target is hit with rhythmically launched\npunches. This may also leave the target confused.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror",
+    "punch"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "kangaskhan": [
+      "level-up"
+    ],
+    "ledyba": [
+      "egg"
+    ],
+    "miltank": [
+      "egg"
+    ],
+    "volbeat": [
+      "egg"
+    ],
+    "spinda": [
+      "level-up"
+    ],
+    "kecleon": [
+      "egg"
+    ],
+    "buneary": [
+      "level-up"
+    ],
+    "lopunny": [
+      "level-up"
+    ],
+    "regigigas": [
+      "level-up"
+    ],
+    "reuniclus": [
+      "level-up"
+    ],
+    "crabrawler": [
+      "level-up"
+    ],
+    "crabominable": [
+      "level-up"
+    ],
+    "kangaskhan-mega": [
+      "level-up"
+    ],
+    "lopunny-mega": [
+      "level-up"
+    ]
+  }
+}

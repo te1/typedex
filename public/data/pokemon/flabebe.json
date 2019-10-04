@@ -1,0 +1,179 @@
+{
+  "name": "flabebe",
+  "caption": "Flabébé",
+  "types": [
+    "fairy"
+  ],
+  "species": "flabebe",
+  "gen": "generation-vi",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": "Red Flower",
+  "height": 0.1,
+  "weight": 0.1,
+  "baseStats": {
+    "hp": 44,
+    "attack": 38,
+    "defense": 39,
+    "special-attack": 61,
+    "special-defense": 79,
+    "speed": 42
+  },
+  "evolutionChain": {
+    "species": "flabebe",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "floette",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "florges",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It’s not safe without the power of a flower, but\nit will keep traveling around until it finds one\nwith the color and shape it wants.",
+  "moves": {
+    "vine-whip": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "razor-leaf": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "level-up",
+      "machine"
+    ],
+    "petal-dance": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "wish": [
+      "level-up"
+    ],
+    "camouflage": [
+      "egg"
+    ],
+    "aromatherapy": [
+      "level-up"
+    ],
+    "magical-leaf": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "lucky-chant": [
+      "level-up"
+    ],
+    "copycat": [
+      "egg"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "captivate": [
+      "egg"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "petal-blizzard": [
+      "level-up"
+    ],
+    "grassy-terrain": [
+      "level-up"
+    ],
+    "misty-terrain": [
+      "level-up"
+    ],
+    "fairy-wind": [
+      "level-up"
+    ],
+    "moonblast": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "tearful-look": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "flower-veil": 1,
+    "symbiosis": "hidden"
+  }
+}

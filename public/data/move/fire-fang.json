@@ -1,0 +1,202 @@
+{
+  "name": "fire-fang",
+  "caption": "Fire Fang",
+  "type": "fire",
+  "damageCategory": "physical",
+  "power": 65,
+  "accuracy": 95,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a 10% chance to [burn]{mechanic:burn} the target and a 10% chance to make the target flinch.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 10% chance to [burn]{mechanic:burn} the target and a separate 10% chance to make the target [flinch]{mechanic:flinch}."
+  },
+  "flavorText": "The user bites with flame-cloaked fangs. This may\nalso make the target flinch or leave it with a burn.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror",
+    "bite"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "charmander": [
+      "level-up"
+    ],
+    "charmeleon": [
+      "level-up"
+    ],
+    "charizard": [
+      "level-up"
+    ],
+    "arbok": [
+      "level-up"
+    ],
+    "growlithe": [
+      "level-up"
+    ],
+    "arcanine": [
+      "level-up"
+    ],
+    "rhyhorn": [
+      "egg"
+    ],
+    "flareon": [
+      "level-up"
+    ],
+    "aerodactyl": [
+      "level-up"
+    ],
+    "steelix": [
+      "level-up"
+    ],
+    "snubbull": [
+      "level-up",
+      "egg"
+    ],
+    "granbull": [
+      "level-up"
+    ],
+    "houndour": [
+      "level-up",
+      "egg"
+    ],
+    "houndoom": [
+      "level-up"
+    ],
+    "donphan": [
+      "level-up"
+    ],
+    "entei": [
+      "level-up"
+    ],
+    "tyranitar": [
+      "level-up"
+    ],
+    "poochyena": [
+      "egg"
+    ],
+    "mightyena": [
+      "level-up"
+    ],
+    "exploud": [
+      "level-up"
+    ],
+    "mawile": [
+      "egg"
+    ],
+    "electrike": [
+      "egg"
+    ],
+    "manectric": [
+      "level-up"
+    ],
+    "bagon": [
+      "egg"
+    ],
+    "salamence": [
+      "level-up"
+    ],
+    "shinx": [
+      "egg"
+    ],
+    "garchomp": [
+      "level-up"
+    ],
+    "hippowdon": [
+      "level-up"
+    ],
+    "drapion": [
+      "level-up"
+    ],
+    "gliscor": [
+      "level-up"
+    ],
+    "heatran": [
+      "level-up"
+    ],
+    "lillipup": [
+      "egg"
+    ],
+    "stoutland": [
+      "level-up"
+    ],
+    "sandile": [
+      "egg"
+    ],
+    "darumaka": [
+      "level-up"
+    ],
+    "darmanitan-standard": [
+      "level-up"
+    ],
+    "druddigon": [
+      "egg"
+    ],
+    "deino": [
+      "egg"
+    ],
+    "reshiram": [
+      "level-up"
+    ],
+    "litleo": [
+      "level-up"
+    ],
+    "pyroar": [
+      "level-up"
+    ],
+    "tyrunt": [
+      "egg"
+    ],
+    "litten": [
+      "level-up"
+    ],
+    "torracat": [
+      "level-up"
+    ],
+    "incineroar": [
+      "level-up"
+    ],
+    "yungoos": [
+      "egg"
+    ],
+    "rockruff": [
+      "egg"
+    ],
+    "silvally": [
+      "level-up"
+    ],
+    "darmanitan-zen": [
+      "level-up"
+    ],
+    "charizard-mega-x": [
+      "level-up"
+    ],
+    "charizard-mega-y": [
+      "level-up"
+    ],
+    "aerodactyl-mega": [
+      "level-up"
+    ],
+    "houndoom-mega": [
+      "level-up"
+    ],
+    "tyranitar-mega": [
+      "level-up"
+    ],
+    "manectric-mega": [
+      "level-up"
+    ],
+    "garchomp-mega": [
+      "level-up"
+    ],
+    "steelix-mega": [
+      "level-up"
+    ],
+    "salamence-mega": [
+      "level-up"
+    ]
+  }
+}

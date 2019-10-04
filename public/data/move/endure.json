@@ -1,0 +1,309 @@
+{
+  "name": "endure",
+  "caption": "Endure",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 4,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Prevents the user's HP from lowering below 1 this turn.",
+    "full": "The user's [HP]{mechanic:hp} cannot be lowered below 1 by any means for the remainder of this turn.\n\nIf the user successfully used []{move:detect}, []{move:endure}, []{move:protect}, []{move:quick-guard}, or []{move:wide-guard} on the last turn, this move has a 50% chance to [fail]{mechanic:fail}.\n\nThis move cannot be selected by []{move:assist} or []{move:metronome}."
+  },
+  "flavorText": "The user endures any attack with at least 1 HP.\nIts chance of failing rises if it is used in succession.",
+  "flags": [],
+  "target": "user",
+  "pokemon": {
+    "bulbasaur": [
+      "egg"
+    ],
+    "sandshrew": [
+      "egg"
+    ],
+    "nidoran-f": [
+      "egg"
+    ],
+    "nidoran-m": [
+      "egg"
+    ],
+    "paras": [
+      "egg"
+    ],
+    "diglett": [
+      "egg"
+    ],
+    "poliwag": [
+      "egg"
+    ],
+    "geodude": [
+      "egg"
+    ],
+    "krabby": [
+      "egg"
+    ],
+    "cubone": [
+      "egg"
+    ],
+    "hitmonlee": [
+      "level-up"
+    ],
+    "chansey": [
+      "egg"
+    ],
+    "kangaskhan": [
+      "level-up"
+    ],
+    "scyther": [
+      "egg"
+    ],
+    "eevee": [
+      "egg"
+    ],
+    "kabuto": [
+      "level-up"
+    ],
+    "kabutops": [
+      "level-up"
+    ],
+    "moltres": [
+      "level-up"
+    ],
+    "ledyba": [
+      "egg"
+    ],
+    "pichu": [
+      "egg"
+    ],
+    "sudowoodo": [
+      "egg"
+    ],
+    "hoppip": [
+      "egg"
+    ],
+    "sunkern": [
+      "egg"
+    ],
+    "pineco": [
+      "egg"
+    ],
+    "dunsparce": [
+      "level-up"
+    ],
+    "heracross": [
+      "level-up"
+    ],
+    "swinub": [
+      "level-up"
+    ],
+    "piloswine": [
+      "level-up"
+    ],
+    "corsola": [
+      "level-up"
+    ],
+    "skarmory": [
+      "egg"
+    ],
+    "phanpy": [
+      "level-up"
+    ],
+    "tyrogue": [
+      "egg"
+    ],
+    "miltank": [
+      "egg"
+    ],
+    "torchic": [
+      "egg"
+    ],
+    "surskit": [
+      "egg"
+    ],
+    "vigoroth": [
+      "level-up"
+    ],
+    "nincada": [
+      "egg"
+    ],
+    "makuhita": [
+      "level-up"
+    ],
+    "hariyama": [
+      "level-up"
+    ],
+    "nosepass": [
+      "egg"
+    ],
+    "meditite": [
+      "level-up"
+    ],
+    "medicham": [
+      "level-up"
+    ],
+    "numel": [
+      "egg"
+    ],
+    "torkoal": [
+      "egg"
+    ],
+    "spoink": [
+      "egg"
+    ],
+    "trapinch": [
+      "egg"
+    ],
+    "lileep": [
+      "egg"
+    ],
+    "clamperl": [
+      "egg"
+    ],
+    "bagon": [
+      "egg"
+    ],
+    "bidoof": [
+      "egg"
+    ],
+    "shieldon": [
+      "level-up"
+    ],
+    "bastiodon": [
+      "level-up"
+    ],
+    "pachirisu": [
+      "level-up"
+    ],
+    "buneary": [
+      "level-up"
+    ],
+    "lopunny": [
+      "level-up"
+    ],
+    "bonsly": [
+      "egg"
+    ],
+    "happiny": [
+      "egg"
+    ],
+    "riolu": [
+      "level-up"
+    ],
+    "mamoswine": [
+      "level-up"
+    ],
+    "uxie": [
+      "level-up"
+    ],
+    "victini": [
+      "level-up"
+    ],
+    "lillipup": [
+      "egg"
+    ],
+    "blitzle": [
+      "egg"
+    ],
+    "timburr": [
+      "egg"
+    ],
+    "throh": [
+      "level-up"
+    ],
+    "sawk": [
+      "level-up"
+    ],
+    "sewaddle": [
+      "level-up"
+    ],
+    "petilil": [
+      "egg"
+    ],
+    "darumaka": [
+      "egg"
+    ],
+    "dwebble": [
+      "egg"
+    ],
+    "yamask": [
+      "egg"
+    ],
+    "minccino": [
+      "egg"
+    ],
+    "karrablast": [
+      "level-up"
+    ],
+    "foongus": [
+      "egg"
+    ],
+    "alomomola": [
+      "egg"
+    ],
+    "litwick": [
+      "egg"
+    ],
+    "axew": [
+      "egg"
+    ],
+    "cubchoo": [
+      "level-up"
+    ],
+    "beartic": [
+      "level-up"
+    ],
+    "shelmet": [
+      "egg"
+    ],
+    "stunfisk": [
+      "level-up"
+    ],
+    "mienfoo": [
+      "egg"
+    ],
+    "durant": [
+      "egg"
+    ],
+    "larvesta": [
+      "egg"
+    ],
+    "clauncher": [
+      "egg"
+    ],
+    "goomy": [
+      "egg"
+    ],
+    "grubbin": [
+      "egg"
+    ],
+    "stufful": [
+      "egg"
+    ],
+    "comfey": [
+      "egg"
+    ],
+    "pyukumuku": [
+      "egg"
+    ],
+    "turtonator": [
+      "level-up"
+    ],
+    "buzzwole": [
+      "level-up"
+    ],
+    "kangaskhan-mega": [
+      "level-up"
+    ],
+    "heracross-mega": [
+      "level-up"
+    ],
+    "medicham-mega": [
+      "level-up"
+    ],
+    "lopunny-mega": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "name": "smokescreen",
+  "caption": "Smokescreen",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Lowers the target's accuracy by one stage.",
+    "full": "Lowers the target's [accuracy]{mechanic:accuracy} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user releases an obscuring cloud of smoke or\nink. This lowers the target’s accuracy.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "charmander": [
+      "level-up"
+    ],
+    "charmeleon": [
+      "level-up"
+    ],
+    "charizard": [
+      "level-up"
+    ],
+    "koffing": [
+      "level-up"
+    ],
+    "weezing": [
+      "level-up"
+    ],
+    "horsea": [
+      "level-up"
+    ],
+    "seadra": [
+      "level-up"
+    ],
+    "magmar": [
+      "level-up"
+    ],
+    "cyndaquil": [
+      "level-up"
+    ],
+    "quilava": [
+      "level-up"
+    ],
+    "typhlosion": [
+      "level-up"
+    ],
+    "slugma": [
+      "egg"
+    ],
+    "kingdra": [
+      "level-up"
+    ],
+    "magby": [
+      "level-up"
+    ],
+    "whismur": [
+      "egg"
+    ],
+    "torkoal": [
+      "level-up"
+    ],
+    "stunky": [
+      "level-up"
+    ],
+    "skuntank": [
+      "level-up"
+    ],
+    "spiritomb": [
+      "egg"
+    ],
+    "magmortar": [
+      "level-up"
+    ],
+    "froakie": [
+      "level-up"
+    ],
+    "frogadier": [
+      "level-up"
+    ],
+    "greninja": [
+      "level-up"
+    ],
+    "skrelp": [
+      "level-up"
+    ],
+    "dragalge": [
+      "level-up"
+    ],
+    "charizard-mega-x": [
+      "level-up"
+    ],
+    "charizard-mega-y": [
+      "level-up"
+    ],
+    "greninja-battle-bond": [
+      "level-up"
+    ],
+    "greninja-ash": [
+      "level-up"
+    ]
+  }
+}

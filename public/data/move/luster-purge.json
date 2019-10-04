@@ -1,0 +1,30 @@
+{
+  "name": "luster-purge",
+  "caption": "Luster Purge",
+  "type": "psychic",
+  "damageCategory": "special",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a 50% chance to lower the target's Special Defense by one stage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 50% chance to lower the target's [Special Defense]{mechanic:special-defense} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user lets loose a damaging burst of light. This\nmay also lower the target’s Sp. Def stat.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "latios": [
+      "level-up"
+    ],
+    "latios-mega": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "zing-zap",
+  "caption": "Zing Zap",
+  "type": "electric",
+  "damageCategory": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Has a 30% chance to make the target flinch.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 30% chance to make the target []{mechanic:flinch}."
+  },
+  "flavorText": "A strong electric blast crashes down on the target,\ngiving it an electric shock. This may also make the\ntarget flinch.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "togedemaru": [
+      "level-up"
+    ],
+    "togedemaru-totem": [
+      "level-up"
+    ]
+  }
+}

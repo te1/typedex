@@ -1,0 +1,76 @@
+{
+  "name": "super-fang",
+  "caption": "Super Fang",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": null,
+  "accuracy": 90,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Inflicts damage equal to half the target's HP.",
+    "full": "Inflicts [typeless]{mechanic:typeless} damage equal to half the target's remaining [HP]{mechanic:hp}."
+  },
+  "flavorText": "The user chomps hard on the target with its sharp\nfront fangs. This cuts the target’s HP in half.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "rattata": [
+      "level-up"
+    ],
+    "raticate": [
+      "level-up"
+    ],
+    "bidoof": [
+      "level-up"
+    ],
+    "bibarel": [
+      "level-up"
+    ],
+    "pachirisu": [
+      "level-up"
+    ],
+    "patrat": [
+      "level-up"
+    ],
+    "watchog": [
+      "level-up"
+    ],
+    "bunnelby": [
+      "level-up"
+    ],
+    "diggersby": [
+      "level-up"
+    ],
+    "noibat": [
+      "level-up"
+    ],
+    "noivern": [
+      "level-up"
+    ],
+    "yungoos": [
+      "level-up"
+    ],
+    "gumshoos": [
+      "level-up"
+    ],
+    "rattata-alola": [
+      "level-up"
+    ],
+    "raticate-alola": [
+      "level-up"
+    ],
+    "raticate-totem-alola": [
+      "level-up"
+    ],
+    "gumshoos-totem": [
+      "level-up"
+    ]
+  }
+}

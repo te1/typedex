@@ -1,0 +1,31 @@
+{
+  "name": "precipice-blades",
+  "caption": "Precipice Blades",
+  "type": "ground",
+  "damageCategory": "physical",
+  "power": 120,
+  "accuracy": 85,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The user attacks opposing Pokémon by manifesting\nthe power of the land in fearsome blades of stone.",
+  "flags": [
+    "protect",
+    "mirror",
+    "non-sky-battle"
+  ],
+  "target": "all-opponents",
+  "pokemon": {
+    "groudon": [
+      "level-up"
+    ],
+    "groudon-primal": [
+      "level-up"
+    ]
+  }
+}

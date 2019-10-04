@@ -1,0 +1,304 @@
+{
+  "name": "overheat",
+  "caption": "Overheat",
+  "type": "fire",
+  "damageCategory": "special",
+  "power": 130,
+  "accuracy": 90,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Lowers the user's Special Attack by two stages after inflicting damage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}, then lowers the user's [Special Attack]{mechanic:special-attack} by two [stages]{mechanic:stage}."
+  },
+  "flavorText": "The user attacks the target at full power. The\nattack’s recoil harshly lowers the user’s Sp. Atk stat.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "charmander": [
+      "machine"
+    ],
+    "charmeleon": [
+      "machine"
+    ],
+    "charizard": [
+      "machine"
+    ],
+    "vulpix": [
+      "machine"
+    ],
+    "ninetales": [
+      "machine"
+    ],
+    "mankey": [
+      "machine"
+    ],
+    "primeape": [
+      "machine"
+    ],
+    "growlithe": [
+      "machine"
+    ],
+    "arcanine": [
+      "machine"
+    ],
+    "ponyta": [
+      "machine"
+    ],
+    "rapidash": [
+      "machine"
+    ],
+    "magmar": [
+      "machine"
+    ],
+    "flareon": [
+      "machine"
+    ],
+    "moltres": [
+      "machine"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "cyndaquil": [
+      "machine"
+    ],
+    "quilava": [
+      "machine"
+    ],
+    "typhlosion": [
+      "machine"
+    ],
+    "snubbull": [
+      "machine"
+    ],
+    "granbull": [
+      "machine"
+    ],
+    "slugma": [
+      "machine"
+    ],
+    "magcargo": [
+      "machine"
+    ],
+    "houndour": [
+      "machine"
+    ],
+    "houndoom": [
+      "machine"
+    ],
+    "magby": [
+      "machine"
+    ],
+    "entei": [
+      "machine"
+    ],
+    "ho-oh": [
+      "machine"
+    ],
+    "torchic": [
+      "machine"
+    ],
+    "combusken": [
+      "machine"
+    ],
+    "blaziken": [
+      "machine"
+    ],
+    "loudred": [
+      "machine"
+    ],
+    "exploud": [
+      "machine"
+    ],
+    "manectric": [
+      "machine"
+    ],
+    "numel": [
+      "machine"
+    ],
+    "camerupt": [
+      "machine"
+    ],
+    "torkoal": [
+      "machine"
+    ],
+    "solrock": [
+      "machine"
+    ],
+    "groudon": [
+      "machine"
+    ],
+    "rayquaza": [
+      "machine"
+    ],
+    "chimchar": [
+      "machine"
+    ],
+    "monferno": [
+      "machine"
+    ],
+    "infernape": [
+      "machine"
+    ],
+    "magmortar": [
+      "machine"
+    ],
+    "dialga": [
+      "machine"
+    ],
+    "heatran": [
+      "machine"
+    ],
+    "arceus": [
+      "machine"
+    ],
+    "victini": [
+      "level-up",
+      "machine"
+    ],
+    "tepig": [
+      "machine"
+    ],
+    "pignite": [
+      "machine"
+    ],
+    "emboar": [
+      "machine"
+    ],
+    "pansear": [
+      "machine"
+    ],
+    "simisear": [
+      "machine"
+    ],
+    "zebstrika": [
+      "machine"
+    ],
+    "darumaka": [
+      "level-up",
+      "machine"
+    ],
+    "darmanitan-standard": [
+      "level-up",
+      "machine"
+    ],
+    "litwick": [
+      "level-up",
+      "machine"
+    ],
+    "lampent": [
+      "level-up",
+      "machine"
+    ],
+    "chandelure": [
+      "machine"
+    ],
+    "heatmor": [
+      "machine"
+    ],
+    "larvesta": [
+      "machine"
+    ],
+    "volcarona": [
+      "machine"
+    ],
+    "reshiram": [
+      "machine"
+    ],
+    "fennekin": [
+      "machine"
+    ],
+    "braixen": [
+      "machine"
+    ],
+    "delphox": [
+      "machine"
+    ],
+    "fletchling": [
+      "machine"
+    ],
+    "fletchinder": [
+      "machine"
+    ],
+    "talonflame": [
+      "machine"
+    ],
+    "litleo": [
+      "level-up",
+      "machine"
+    ],
+    "pyroar": [
+      "level-up",
+      "machine"
+    ],
+    "volcanion": [
+      "level-up",
+      "machine"
+    ],
+    "litten": [
+      "machine"
+    ],
+    "torracat": [
+      "machine"
+    ],
+    "incineroar": [
+      "machine"
+    ],
+    "toucannon": [
+      "machine"
+    ],
+    "salandit": [
+      "machine"
+    ],
+    "salazzle": [
+      "machine"
+    ],
+    "turtonator": [
+      "level-up",
+      "machine"
+    ],
+    "blacephalon": [
+      "machine"
+    ],
+    "rotom-heat": [
+      "form-change"
+    ],
+    "darmanitan-zen": [
+      "level-up",
+      "machine"
+    ],
+    "charizard-mega-x": [
+      "machine"
+    ],
+    "charizard-mega-y": [
+      "machine"
+    ],
+    "houndoom-mega": [
+      "machine"
+    ],
+    "blaziken-mega": [
+      "machine"
+    ],
+    "manectric-mega": [
+      "machine"
+    ],
+    "groudon-primal": [
+      "machine"
+    ],
+    "rayquaza-mega": [
+      "machine"
+    ],
+    "camerupt-mega": [
+      "machine"
+    ],
+    "salazzle-totem": [
+      "machine"
+    ]
+  }
+}

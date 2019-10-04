@@ -1,0 +1,163 @@
+{
+  "name": "fury-cutter",
+  "caption": "Fury Cutter",
+  "type": "bug",
+  "damageCategory": "physical",
+  "power": 40,
+  "accuracy": 95,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Power doubles every turn this move is used in succession after the first, maxing out after five turns.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Power doubles after every time this move is used, whether consecutively or not, maxing out at 16x.  If this move misses or the user leaves the [field]{mechanic:field}, power resets."
+  },
+  "flavorText": "The target is slashed with scythes or claws. This\nattack becomes more powerful if it hits\nin succession.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "sandshrew": [
+      "level-up"
+    ],
+    "sandslash": [
+      "level-up"
+    ],
+    "paras": [
+      "level-up"
+    ],
+    "parasect": [
+      "level-up"
+    ],
+    "farfetchd": [
+      "level-up"
+    ],
+    "scyther": [
+      "level-up"
+    ],
+    "gligar": [
+      "level-up"
+    ],
+    "scizor": [
+      "level-up"
+    ],
+    "grovyle": [
+      "level-up"
+    ],
+    "sceptile": [
+      "level-up"
+    ],
+    "ninjask": [
+      "level-up"
+    ],
+    "trapinch": [
+      "egg"
+    ],
+    "zangoose": [
+      "level-up"
+    ],
+    "anorith": [
+      "level-up"
+    ],
+    "armaldo": [
+      "level-up"
+    ],
+    "kricketune": [
+      "level-up"
+    ],
+    "vespiquen": [
+      "level-up"
+    ],
+    "buizel": [
+      "egg"
+    ],
+    "gliscor": [
+      "level-up"
+    ],
+    "gallade": [
+      "level-up"
+    ],
+    "oshawott": [
+      "level-up"
+    ],
+    "dewott": [
+      "level-up"
+    ],
+    "samurott": [
+      "level-up"
+    ],
+    "dwebble": [
+      "level-up"
+    ],
+    "karrablast": [
+      "level-up"
+    ],
+    "joltik": [
+      "level-up"
+    ],
+    "galvantula": [
+      "level-up"
+    ],
+    "pawniard": [
+      "level-up"
+    ],
+    "bisharp": [
+      "level-up"
+    ],
+    "durant": [
+      "level-up"
+    ],
+    "genesect": [
+      "level-up"
+    ],
+    "honedge": [
+      "level-up"
+    ],
+    "doublade": [
+      "level-up"
+    ],
+    "aegislash-shield": [
+      "level-up"
+    ],
+    "binacle": [
+      "level-up"
+    ],
+    "barbaracle": [
+      "level-up"
+    ],
+    "fomantis": [
+      "level-up"
+    ],
+    "lurantis": [
+      "level-up"
+    ],
+    "golisopod": [
+      "level-up"
+    ],
+    "kartana": [
+      "level-up"
+    ],
+    "aegislash-blade": [
+      "level-up"
+    ],
+    "scizor-mega": [
+      "level-up"
+    ],
+    "sceptile-mega": [
+      "level-up"
+    ],
+    "gallade-mega": [
+      "level-up"
+    ],
+    "sandshrew-alola": [
+      "level-up"
+    ],
+    "lurantis-totem": [
+      "level-up"
+    ]
+  }
+}

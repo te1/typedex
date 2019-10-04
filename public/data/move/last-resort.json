@@ -1,0 +1,130 @@
+{
+  "name": "last-resort",
+  "caption": "Last Resort",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 140,
+  "accuracy": 100,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Can only be used after all of the user's other moves have been used.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  This move can only be used if each of the user's other moves has been used at least once since the user entered the [field]{mechanic:field}.  If this is the user's only move, this move will [fail]{mechanic:fail}."
+  },
+  "flavorText": "This move can be used only after the user has used\nall the other moves it knows in the battle.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "rattata": [
+      "egg"
+    ],
+    "meowth": [
+      "egg"
+    ],
+    "eevee": [
+      "level-up"
+    ],
+    "vaporeon": [
+      "level-up"
+    ],
+    "jolteon": [
+      "level-up"
+    ],
+    "flareon": [
+      "level-up"
+    ],
+    "sentret": [
+      "egg"
+    ],
+    "igglybuff": [
+      "egg"
+    ],
+    "togepi": [
+      "level-up"
+    ],
+    "togetic": [
+      "level-up"
+    ],
+    "aipom": [
+      "level-up"
+    ],
+    "espeon": [
+      "level-up"
+    ],
+    "umbreon": [
+      "level-up"
+    ],
+    "phanpy": [
+      "level-up"
+    ],
+    "torchic": [
+      "egg"
+    ],
+    "skitty": [
+      "egg"
+    ],
+    "plusle": [
+      "level-up"
+    ],
+    "jirachi": [
+      "level-up"
+    ],
+    "pachirisu": [
+      "level-up"
+    ],
+    "ambipom": [
+      "level-up"
+    ],
+    "glameow": [
+      "egg"
+    ],
+    "chingling": [
+      "level-up"
+    ],
+    "happiny": [
+      "egg"
+    ],
+    "munchlax": [
+      "level-up"
+    ],
+    "leafeon": [
+      "level-up"
+    ],
+    "glaceon": [
+      "level-up"
+    ],
+    "azelf": [
+      "level-up"
+    ],
+    "lillipup": [
+      "level-up"
+    ],
+    "herdier": [
+      "level-up"
+    ],
+    "stoutland": [
+      "level-up"
+    ],
+    "audino": [
+      "level-up"
+    ],
+    "minccino": [
+      "level-up"
+    ],
+    "sylveon": [
+      "level-up"
+    ],
+    "yungoos": [
+      "egg"
+    ],
+    "audino-mega": [
+      "level-up"
+    ]
+  }
+}

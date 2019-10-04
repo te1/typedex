@@ -1,0 +1,222 @@
+{
+  "name": "lickilicky",
+  "caption": "Lickilicky",
+  "types": [
+    "normal"
+  ],
+  "species": "lickilicky",
+  "gen": "generation-iv",
+  "color": "pink",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.7,
+  "weight": 140,
+  "baseStats": {
+    "hp": 110,
+    "attack": 85,
+    "defense": 95,
+    "special-attack": 80,
+    "special-defense": 95,
+    "speed": 50
+  },
+  "evolutionChain": {
+    "species": "lickitung",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "lickilicky",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "A contest is under way to determine which one\ncan stick its tongue out the farthest. The\ncurrent record is...more than 82 feet.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "slam": [
+      "level-up"
+    ],
+    "stomp": [
+      "level-up"
+    ],
+    "wrap": [
+      "level-up"
+    ],
+    "supersonic": [
+      "level-up"
+    ],
+    "disable": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "lick": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "rollout": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "knock-off": [
+      "level-up"
+    ],
+    "refresh": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "gyro-ball": [
+      "level-up",
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "wring-out": [
+      "level-up"
+    ],
+    "me-first": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "power-whip": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "chip-away": [
+      "level-up"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "dragon-tail": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "own-tempo": 1,
+    "oblivious": 2,
+    "cloud-nine": "hidden"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "name": "musharna",
+  "caption": "Musharna",
+  "types": [
+    "psychic"
+  ],
+  "species": "musharna",
+  "gen": "generation-v",
+  "color": "pink",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.1,
+  "weight": 60.5,
+  "baseStats": {
+    "hp": 116,
+    "attack": 55,
+    "defense": 85,
+    "special-attack": 107,
+    "special-defense": 95,
+    "speed": 29
+  },
+  "evolutionChain": {
+    "species": "munna",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "musharna",
+        "triggers": [
+          "use-item"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "The mist emanating from their foreheads is packed\nwith the dreams of people and Pokémon.",
+  "moves": {
+    "psybeam": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "hypnosis": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "lucky-chant": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "psychic-terrain": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "forewarn": 1,
+    "synchronize": 2,
+    "telepathy": "hidden"
+  }
+}

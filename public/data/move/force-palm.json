@@ -1,0 +1,61 @@
+{
+  "name": "force-palm",
+  "caption": "Force Palm",
+  "type": "fighting",
+  "damageCategory": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a 30% chance to [paralyze]{mechanic:paralysis} the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 30% chance to [paralyze]{mechanic:paralyze} the target."
+  },
+  "flavorText": "The target is attacked with a shock wave. This may\nalso leave the target with paralysis.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "breloom": [
+      "level-up"
+    ],
+    "makuhita": [
+      "level-up"
+    ],
+    "hariyama": [
+      "level-up"
+    ],
+    "meditite": [
+      "level-up"
+    ],
+    "medicham": [
+      "level-up"
+    ],
+    "riolu": [
+      "level-up"
+    ],
+    "timburr": [
+      "egg"
+    ],
+    "mienfoo": [
+      "level-up"
+    ],
+    "mienshao": [
+      "level-up"
+    ],
+    "stufful": [
+      "egg"
+    ],
+    "marshadow": [
+      "level-up"
+    ],
+    "medicham-mega": [
+      "level-up"
+    ]
+  }
+}

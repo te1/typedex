@@ -1,0 +1,208 @@
+{
+  "name": "lillipup",
+  "caption": "Lillipup",
+  "types": [
+    "normal"
+  ],
+  "species": "lillipup",
+  "gen": "generation-v",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 4.1,
+  "baseStats": {
+    "hp": 45,
+    "attack": 60,
+    "defense": 45,
+    "special-attack": 25,
+    "special-defense": 45,
+    "speed": 55
+  },
+  "evolutionChain": {
+    "species": "lillipup",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "herdier",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "stoutland",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "This Pokémon has excellent judgment.\nIf it decides it can’t defeat an opponent,\nit immediately turns tail and vamooses.",
+  "moves": {
+    "sand-attack": [
+      "egg"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "roar": [
+      "level-up",
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "lick": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "reversal": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "mud-slap": [
+      "egg"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "charm": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "helping-hand": [
+      "level-up"
+    ],
+    "yawn": [
+      "egg"
+    ],
+    "odor-sleuth": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "howl": [
+      "egg"
+    ],
+    "last-resort": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "level-up",
+      "machine"
+    ],
+    "thunder-fang": [
+      "egg"
+    ],
+    "ice-fang": [
+      "egg"
+    ],
+    "fire-fang": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "retaliate": [
+      "level-up"
+    ],
+    "work-up": [
+      "level-up",
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "after-you": [
+      "egg"
+    ],
+    "play-rough": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "baby-doll-eyes": [
+      "level-up"
+    ],
+    "psychic-fangs": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "vital-spirit": 1,
+    "pickup": 2,
+    "run-away": "hidden"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "name": "infernape",
+  "caption": "Infernape",
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "species": "infernape",
+  "gen": "generation-iv",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.2,
+  "weight": 55,
+  "baseStats": {
+    "hp": 76,
+    "attack": 104,
+    "defense": 71,
+    "special-attack": 104,
+    "special-defense": 71,
+    "speed": 108
+  },
+  "evolutionChain": {
+    "species": "chimchar",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "monferno",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "infernape",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Its crown of fire is indicative of its fiery nature.\nIt is beaten by none in terms of quickness.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "ember": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "fire-spin": [
+      "level-up"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "flame-wheel": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "mach-punch": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "blast-burn": [
+      "tutor"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "calm-mind": [
+      "level-up",
+      "machine"
+    ],
+    "feint": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "close-combat": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "punishment": [
+      "level-up"
+    ],
+    "flare-blitz": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "level-up",
+      "machine"
+    ],
+    "fire-pledge": [
+      "tutor"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "blaze": 1,
+    "iron-fist": "hidden"
+  }
+}

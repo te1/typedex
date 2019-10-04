@@ -1,0 +1,501 @@
+{
+  "name": "bite",
+  "caption": "Bite",
+  "type": "dark",
+  "damageCategory": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 25,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a 30% chance to make the target flinch.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 30% chance to make the target []{mechanic:flinch}."
+  },
+  "flavorText": "The target is bitten with viciously sharp fangs.\nThis may also make the target flinch.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror",
+    "bite"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "charmander": [
+      "egg"
+    ],
+    "squirtle": [
+      "level-up"
+    ],
+    "wartortle": [
+      "level-up"
+    ],
+    "blastoise": [
+      "level-up"
+    ],
+    "rattata": [
+      "level-up",
+      "egg"
+    ],
+    "raticate": [
+      "level-up"
+    ],
+    "ekans": [
+      "level-up"
+    ],
+    "arbok": [
+      "level-up"
+    ],
+    "nidoran-f": [
+      "level-up"
+    ],
+    "nidorina": [
+      "level-up"
+    ],
+    "zubat": [
+      "level-up"
+    ],
+    "golbat": [
+      "level-up"
+    ],
+    "meowth": [
+      "level-up"
+    ],
+    "persian": [
+      "level-up"
+    ],
+    "growlithe": [
+      "level-up"
+    ],
+    "arcanine": [
+      "level-up"
+    ],
+    "kangaskhan": [
+      "level-up"
+    ],
+    "gyarados": [
+      "level-up"
+    ],
+    "eevee": [
+      "level-up"
+    ],
+    "flareon": [
+      "level-up"
+    ],
+    "omanyte": [
+      "level-up"
+    ],
+    "omastar": [
+      "level-up"
+    ],
+    "aerodactyl": [
+      "level-up"
+    ],
+    "totodile": [
+      "level-up"
+    ],
+    "croconaw": [
+      "level-up"
+    ],
+    "feraligatr": [
+      "level-up"
+    ],
+    "crobat": [
+      "level-up"
+    ],
+    "dunsparce": [
+      "egg"
+    ],
+    "snubbull": [
+      "level-up"
+    ],
+    "granbull": [
+      "level-up"
+    ],
+    "sneasel": [
+      "egg"
+    ],
+    "swinub": [
+      "egg"
+    ],
+    "houndour": [
+      "level-up"
+    ],
+    "houndoom": [
+      "level-up"
+    ],
+    "stantler": [
+      "egg"
+    ],
+    "raikou": [
+      "level-up"
+    ],
+    "entei": [
+      "level-up"
+    ],
+    "suicune": [
+      "level-up"
+    ],
+    "larvitar": [
+      "level-up"
+    ],
+    "pupitar": [
+      "level-up"
+    ],
+    "tyranitar": [
+      "level-up"
+    ],
+    "mudkip": [
+      "egg"
+    ],
+    "poochyena": [
+      "level-up"
+    ],
+    "mightyena": [
+      "level-up"
+    ],
+    "loudred": [
+      "level-up"
+    ],
+    "exploud": [
+      "level-up"
+    ],
+    "mawile": [
+      "level-up"
+    ],
+    "electrike": [
+      "level-up"
+    ],
+    "manectric": [
+      "level-up"
+    ],
+    "carvanha": [
+      "level-up"
+    ],
+    "sharpedo": [
+      "level-up"
+    ],
+    "trapinch": [
+      "level-up"
+    ],
+    "seviper": [
+      "level-up"
+    ],
+    "absol": [
+      "level-up"
+    ],
+    "snorunt": [
+      "level-up"
+    ],
+    "glalie": [
+      "level-up"
+    ],
+    "huntail": [
+      "level-up"
+    ],
+    "bagon": [
+      "level-up"
+    ],
+    "shelgon": [
+      "level-up"
+    ],
+    "salamence": [
+      "level-up"
+    ],
+    "turtwig": [
+      "level-up"
+    ],
+    "grotle": [
+      "level-up"
+    ],
+    "torterra": [
+      "level-up"
+    ],
+    "shinx": [
+      "level-up"
+    ],
+    "luxio": [
+      "level-up"
+    ],
+    "luxray": [
+      "level-up"
+    ],
+    "pachirisu": [
+      "egg"
+    ],
+    "glameow": [
+      "egg"
+    ],
+    "stunky": [
+      "level-up"
+    ],
+    "skuntank": [
+      "level-up"
+    ],
+    "riolu": [
+      "egg"
+    ],
+    "hippopotas": [
+      "level-up"
+    ],
+    "hippowdon": [
+      "level-up"
+    ],
+    "skorupi": [
+      "level-up"
+    ],
+    "drapion": [
+      "level-up"
+    ],
+    "carnivine": [
+      "level-up"
+    ],
+    "glaceon": [
+      "level-up"
+    ],
+    "patrat": [
+      "level-up"
+    ],
+    "watchog": [
+      "level-up"
+    ],
+    "lillipup": [
+      "level-up"
+    ],
+    "herdier": [
+      "level-up"
+    ],
+    "stoutland": [
+      "level-up"
+    ],
+    "pansage": [
+      "level-up"
+    ],
+    "pansear": [
+      "level-up"
+    ],
+    "panpour": [
+      "level-up"
+    ],
+    "basculin-red-striped": [
+      "level-up"
+    ],
+    "sandile": [
+      "level-up"
+    ],
+    "krokorok": [
+      "level-up"
+    ],
+    "krookodile": [
+      "level-up"
+    ],
+    "tirtouga": [
+      "level-up"
+    ],
+    "carracosta": [
+      "level-up"
+    ],
+    "archen": [
+      "egg"
+    ],
+    "druddigon": [
+      "level-up"
+    ],
+    "durant": [
+      "level-up"
+    ],
+    "deino": [
+      "level-up"
+    ],
+    "zweilous": [
+      "level-up"
+    ],
+    "hydreigon": [
+      "level-up"
+    ],
+    "tornadus-incarnate": [
+      "level-up"
+    ],
+    "thundurus-incarnate": [
+      "level-up"
+    ],
+    "chespin": [
+      "level-up"
+    ],
+    "quilladin": [
+      "level-up"
+    ],
+    "chesnaught": [
+      "level-up"
+    ],
+    "furfrou": [
+      "level-up"
+    ],
+    "tyrunt": [
+      "level-up"
+    ],
+    "tyrantrum": [
+      "level-up"
+    ],
+    "bergmite": [
+      "level-up"
+    ],
+    "avalugg": [
+      "level-up"
+    ],
+    "noibat": [
+      "level-up"
+    ],
+    "noivern": [
+      "level-up"
+    ],
+    "zygarde": [
+      "level-up"
+    ],
+    "litten": [
+      "level-up"
+    ],
+    "torracat": [
+      "level-up"
+    ],
+    "incineroar": [
+      "level-up"
+    ],
+    "yungoos": [
+      "level-up"
+    ],
+    "gumshoos": [
+      "level-up"
+    ],
+    "grubbin": [
+      "level-up"
+    ],
+    "charjabug": [
+      "level-up"
+    ],
+    "vikavolt": [
+      "level-up"
+    ],
+    "rockruff": [
+      "level-up"
+    ],
+    "lycanroc-midday": [
+      "level-up"
+    ],
+    "mareanie": [
+      "level-up"
+    ],
+    "toxapex": [
+      "level-up"
+    ],
+    "dewpider": [
+      "level-up"
+    ],
+    "araquanid": [
+      "level-up"
+    ],
+    "silvally": [
+      "level-up"
+    ],
+    "bruxish": [
+      "level-up"
+    ],
+    "guzzlord": [
+      "level-up"
+    ],
+    "basculin-blue-striped": [
+      "level-up"
+    ],
+    "tornadus-therian": [
+      "level-up"
+    ],
+    "thundurus-therian": [
+      "level-up"
+    ],
+    "blastoise-mega": [
+      "level-up"
+    ],
+    "kangaskhan-mega": [
+      "level-up"
+    ],
+    "gyarados-mega": [
+      "level-up"
+    ],
+    "aerodactyl-mega": [
+      "level-up"
+    ],
+    "houndoom-mega": [
+      "level-up"
+    ],
+    "tyranitar-mega": [
+      "level-up"
+    ],
+    "mawile-mega": [
+      "level-up"
+    ],
+    "manectric-mega": [
+      "level-up"
+    ],
+    "absol-mega": [
+      "level-up"
+    ],
+    "sharpedo-mega": [
+      "level-up"
+    ],
+    "glalie-mega": [
+      "level-up"
+    ],
+    "salamence-mega": [
+      "level-up"
+    ],
+    "rattata-alola": [
+      "level-up"
+    ],
+    "raticate-alola": [
+      "level-up"
+    ],
+    "raticate-totem-alola": [
+      "level-up"
+    ],
+    "meowth-alola": [
+      "level-up"
+    ],
+    "persian-alola": [
+      "level-up"
+    ],
+    "grimer-alola": [
+      "level-up"
+    ],
+    "muk-alola": [
+      "level-up"
+    ],
+    "zygarde-10": [
+      "level-up"
+    ],
+    "zygarde-50": [
+      "level-up"
+    ],
+    "zygarde-complete": [
+      "level-up"
+    ],
+    "gumshoos-totem": [
+      "level-up"
+    ],
+    "vikavolt-totem": [
+      "level-up"
+    ],
+    "lycanroc-midnight": [
+      "level-up"
+    ],
+    "rockruff-own-tempo": [
+      "level-up"
+    ],
+    "lycanroc-dusk": [
+      "level-up"
+    ],
+    "araquanid-totem": [
+      "level-up"
+    ]
+  }
+}

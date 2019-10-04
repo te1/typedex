@@ -1,0 +1,391 @@
+{
+  "name": "screech",
+  "caption": "Screech",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 85,
+  "pp": 40,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Lowers the target's Defense by two stages.",
+    "full": "Lowers the target's [Defense]{mechanic:defense} by two [stages]{mechanic:stage}."
+  },
+  "flavorText": "An earsplitting screech harshly lowers the target’s\nDefense stat.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror",
+    "sound",
+    "authentic"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "rattata": [
+      "egg"
+    ],
+    "ekans": [
+      "level-up"
+    ],
+    "arbok": [
+      "level-up"
+    ],
+    "golbat": [
+      "level-up"
+    ],
+    "paras": [
+      "egg"
+    ],
+    "venonat": [
+      "egg"
+    ],
+    "diglett": [
+      "egg"
+    ],
+    "meowth": [
+      "level-up"
+    ],
+    "persian": [
+      "level-up"
+    ],
+    "psyduck": [
+      "level-up"
+    ],
+    "golduck": [
+      "level-up"
+    ],
+    "mankey": [
+      "level-up"
+    ],
+    "primeape": [
+      "level-up"
+    ],
+    "tentacool": [
+      "level-up"
+    ],
+    "tentacruel": [
+      "level-up"
+    ],
+    "magnemite": [
+      "level-up"
+    ],
+    "magneton": [
+      "level-up"
+    ],
+    "grimer": [
+      "level-up"
+    ],
+    "muk": [
+      "level-up"
+    ],
+    "shellder": [
+      "egg"
+    ],
+    "onix": [
+      "level-up"
+    ],
+    "voltorb": [
+      "level-up"
+    ],
+    "electrode": [
+      "level-up"
+    ],
+    "cubone": [
+      "egg"
+    ],
+    "lickitung": [
+      "level-up"
+    ],
+    "koffing": [
+      "egg"
+    ],
+    "electabuzz": [
+      "level-up"
+    ],
+    "kabuto": [
+      "egg"
+    ],
+    "totodile": [
+      "level-up"
+    ],
+    "croconaw": [
+      "level-up"
+    ],
+    "feraligatr": [
+      "level-up"
+    ],
+    "ledyba": [
+      "egg"
+    ],
+    "crobat": [
+      "level-up"
+    ],
+    "chinchou": [
+      "egg"
+    ],
+    "mareep": [
+      "egg"
+    ],
+    "aipom": [
+      "level-up",
+      "egg"
+    ],
+    "yanma": [
+      "level-up"
+    ],
+    "umbreon": [
+      "level-up"
+    ],
+    "murkrow": [
+      "egg"
+    ],
+    "misdreavus": [
+      "egg"
+    ],
+    "dunsparce": [
+      "level-up"
+    ],
+    "gligar": [
+      "level-up"
+    ],
+    "steelix": [
+      "level-up"
+    ],
+    "sneasel": [
+      "level-up"
+    ],
+    "corsola": [
+      "egg"
+    ],
+    "remoraid": [
+      "egg"
+    ],
+    "elekid": [
+      "level-up"
+    ],
+    "magby": [
+      "egg"
+    ],
+    "larvitar": [
+      "level-up"
+    ],
+    "pupitar": [
+      "level-up"
+    ],
+    "tyranitar": [
+      "level-up"
+    ],
+    "treecko": [
+      "level-up"
+    ],
+    "grovyle": [
+      "level-up"
+    ],
+    "sceptile": [
+      "level-up"
+    ],
+    "ninjask": [
+      "level-up"
+    ],
+    "whismur": [
+      "level-up"
+    ],
+    "loudred": [
+      "level-up"
+    ],
+    "exploud": [
+      "level-up"
+    ],
+    "aron": [
+      "egg"
+    ],
+    "carvanha": [
+      "level-up"
+    ],
+    "sharpedo": [
+      "level-up"
+    ],
+    "vibrava": [
+      "level-up"
+    ],
+    "flygon": [
+      "level-up"
+    ],
+    "seviper": [
+      "level-up"
+    ],
+    "anorith": [
+      "egg"
+    ],
+    "kecleon": [
+      "level-up"
+    ],
+    "shuppet": [
+      "level-up"
+    ],
+    "banette": [
+      "level-up"
+    ],
+    "huntail": [
+      "level-up"
+    ],
+    "kricketune": [
+      "level-up"
+    ],
+    "cranidos": [
+      "level-up"
+    ],
+    "rampardos": [
+      "level-up"
+    ],
+    "shieldon": [
+      "egg"
+    ],
+    "ambipom": [
+      "level-up"
+    ],
+    "stunky": [
+      "level-up"
+    ],
+    "skuntank": [
+      "level-up"
+    ],
+    "munchlax": [
+      "level-up"
+    ],
+    "riolu": [
+      "level-up"
+    ],
+    "skorupi": [
+      "egg"
+    ],
+    "weavile": [
+      "level-up"
+    ],
+    "magnezone": [
+      "level-up"
+    ],
+    "lickilicky": [
+      "level-up"
+    ],
+    "electivire": [
+      "level-up"
+    ],
+    "yanmega": [
+      "level-up"
+    ],
+    "gliscor": [
+      "level-up"
+    ],
+    "oshawott": [
+      "egg"
+    ],
+    "patrat": [
+      "egg"
+    ],
+    "blitzle": [
+      "egg"
+    ],
+    "sewaddle": [
+      "egg"
+    ],
+    "venipede": [
+      "level-up"
+    ],
+    "whirlipede": [
+      "level-up"
+    ],
+    "scolipede": [
+      "level-up"
+    ],
+    "karrablast": [
+      "egg"
+    ],
+    "joltik": [
+      "level-up"
+    ],
+    "galvantula": [
+      "level-up"
+    ],
+    "klink": [
+      "level-up"
+    ],
+    "klang": [
+      "level-up"
+    ],
+    "klinklang": [
+      "level-up"
+    ],
+    "durant": [
+      "egg"
+    ],
+    "deino": [
+      "egg"
+    ],
+    "genesect": [
+      "level-up"
+    ],
+    "noibat": [
+      "level-up"
+    ],
+    "noivern": [
+      "level-up"
+    ],
+    "pikipek": [
+      "level-up"
+    ],
+    "trumbeak": [
+      "level-up"
+    ],
+    "toucannon": [
+      "level-up"
+    ],
+    "bruxish": [
+      "level-up"
+    ],
+    "jangmo-o": [
+      "level-up"
+    ],
+    "hakamo-o": [
+      "level-up"
+    ],
+    "kommo-o": [
+      "level-up"
+    ],
+    "tapu-koko": [
+      "level-up"
+    ],
+    "tyranitar-mega": [
+      "level-up"
+    ],
+    "banette-mega": [
+      "level-up"
+    ],
+    "sceptile-mega": [
+      "level-up"
+    ],
+    "sharpedo-mega": [
+      "level-up"
+    ],
+    "steelix-mega": [
+      "level-up"
+    ],
+    "meowth-alola": [
+      "level-up"
+    ],
+    "persian-alola": [
+      "level-up"
+    ],
+    "grimer-alola": [
+      "level-up"
+    ],
+    "muk-alola": [
+      "level-up"
+    ],
+    "kommo-o-totem": [
+      "level-up"
+    ]
+  }
+}

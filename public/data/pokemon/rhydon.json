@@ -1,0 +1,228 @@
+{
+  "name": "rhydon",
+  "caption": "Rhydon",
+  "types": [
+    "ground",
+    "rock"
+  ],
+  "species": "rhydon",
+  "gen": "generation-i",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.9,
+  "weight": 120,
+  "baseStats": {
+    "hp": 105,
+    "attack": 130,
+    "defense": 120,
+    "special-attack": 45,
+    "special-defense": 45,
+    "speed": 40
+  },
+  "evolutionChain": {
+    "species": "rhyhorn",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "rhydon",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "rhyperior",
+            "triggers": [
+              "trade"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Rhydon’s horn can crush even uncut diamonds. One sweeping\nblow of its tail can topple a building. This Pokémon’s hide is\nextremely tough. Even direct cannon hits don’t leave a scratch.",
+  "moves": {
+    "stomp": [
+      "level-up"
+    ],
+    "horn-attack": [
+      "level-up"
+    ],
+    "fury-attack": [
+      "level-up"
+    ],
+    "horn-drill": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "megahorn": [
+      "level-up"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "rock-blast": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "hammer-arm": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "stone-edge": [
+      "level-up",
+      "machine"
+    ],
+    "smack-down": [
+      "level-up",
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "chip-away": [
+      "level-up"
+    ],
+    "bulldoze": [
+      "level-up",
+      "machine"
+    ],
+    "dragon-tail": [
+      "machine"
+    ],
+    "drill-run": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "smart-strike": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "lightning-rod": 1,
+    "rock-head": 2,
+    "reckless": "hidden"
+  }
+}

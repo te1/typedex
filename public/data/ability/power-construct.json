@@ -1,0 +1,15 @@
+{
+  "name": "power-construct",
+  "caption": "Power Construct",
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Transforms 10% or 50% Zygarde into Complete Forme when its HP is below 50%.",
+    "full": "Transforms 10% or 50% Zygarde into Complete Forme when its HP is below 50%.\n\nThis ability cannot be copied or replaced.  This ability only takes effect for Zygarde."
+  },
+  "flavorText": "Other Cells gather to aid when its HP becomes\nhalf or less. Then the Pokémon changes\nits form to Complete Forme.",
+  "pokemon": {
+    "zygarde-10": 1,
+    "zygarde-50": 1,
+    "zygarde-complete": 1
+  }
+}

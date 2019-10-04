@@ -1,0 +1,220 @@
+{
+  "name": "charmander",
+  "caption": "Charmander",
+  "types": [
+    "fire"
+  ],
+  "species": "charmander",
+  "gen": "generation-i",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 8.5,
+  "baseStats": {
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "special-attack": 60,
+    "special-defense": 50,
+    "speed": 65
+  },
+  "evolutionChain": {
+    "species": "charmander",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "charmeleon",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "charizard",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "The flame that burns at the tip of its tail is an indication\nof its emotions. The flame wavers when Charmander\nis enjoying itself. If the Pokémon becomes enraged,\nthe flame burns fiercely.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "ember": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "level-up",
+      "machine"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "dragon-rage": [
+      "level-up"
+    ],
+    "fire-spin": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "bite": [
+      "egg"
+    ],
+    "smokescreen": [
+      "level-up"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "belly-drum": [
+      "egg"
+    ],
+    "outrage": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "ancient-power": [
+      "egg"
+    ],
+    "beat-up": [
+      "egg"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "focus-punch": [
+      "egg"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "dragon-claw": [
+      "machine"
+    ],
+    "dragon-dance": [
+      "egg"
+    ],
+    "metal-claw": [
+      "egg"
+    ],
+    "crunch": [
+      "egg"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "flare-blitz": [
+      "egg"
+    ],
+    "dragon-rush": [
+      "egg"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "fire-fang": [
+      "level-up"
+    ],
+    "dragon-pulse": [
+      "egg"
+    ],
+    "flame-burst": [
+      "level-up"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "inferno": [
+      "level-up"
+    ],
+    "fire-pledge": [
+      "tutor"
+    ],
+    "air-cutter": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "blaze": 1,
+    "solar-power": "hidden"
+  }
+}

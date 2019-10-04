@@ -1,0 +1,32 @@
+{
+  "name": "dragon-ascent",
+  "caption": "Dragon Ascent",
+  "type": "flying",
+  "damageCategory": "physical",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Lowers the user's Defense and Special Defense by one stage after inflicting damage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}, then lowers the user's [Defense]{mechanic:defense} and [Special Defense]{mechanic:special-defense} by one [stage]{mechanic:stage} each."
+  },
+  "flavorText": "After soaring upward, the user attacks its target by\ndropping out of the sky at high speeds. But it lowers\nits own Defense and Sp. Def stats in the process.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror",
+    "distance"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "rayquaza": [
+      "tutor"
+    ],
+    "rayquaza-mega": [
+      "tutor"
+    ]
+  }
+}

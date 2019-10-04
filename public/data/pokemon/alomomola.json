@@ -1,0 +1,183 @@
+{
+  "name": "alomomola",
+  "caption": "Alomomola",
+  "types": [
+    "water"
+  ],
+  "species": "alomomola",
+  "gen": "generation-v",
+  "color": "pink",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.2,
+  "weight": 31.6,
+  "baseStats": {
+    "hp": 165,
+    "attack": 75,
+    "defense": 80,
+    "special-attack": 40,
+    "special-defense": 45,
+    "speed": 65
+  },
+  "flavorText": "Fishermen take them along on long voyages,\nbecause if you have an Alomomola with you,\nthere’ll be no need for a doctor or medicine.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "double-slap": [
+      "level-up"
+    ],
+    "mist": [
+      "egg"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "level-up",
+      "machine"
+    ],
+    "pain-split": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "mirror-coat": [
+      "egg"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "helping-hand": [
+      "level-up"
+    ],
+    "wish": [
+      "level-up"
+    ],
+    "refresh": [
+      "egg"
+    ],
+    "tickle": [
+      "egg"
+    ],
+    "water-sport": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "wake-up-slap": [
+      "level-up"
+    ],
+    "healing-wish": [
+      "level-up"
+    ],
+    "brine": [
+      "level-up"
+    ],
+    "aqua-ring": [
+      "level-up"
+    ],
+    "aqua-jet": [
+      "level-up"
+    ],
+    "wide-guard": [
+      "level-up"
+    ],
+    "soak": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "heal-pulse": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "whirlpool": [
+      "level-up"
+    ],
+    "play-nice": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "healer": 1,
+    "hydration": 2,
+    "regenerator": "hidden"
+  }
+}

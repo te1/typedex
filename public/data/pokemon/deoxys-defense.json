@@ -1,0 +1,220 @@
+{
+  "name": "deoxys-defense",
+  "caption": "Defense Deoxys",
+  "types": [
+    "psychic"
+  ],
+  "species": "deoxys",
+  "gen": "generation-iii",
+  "color": "red",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": "Defense Forme",
+  "height": 1.7,
+  "weight": 60.8,
+  "baseStats": {
+    "hp": 50,
+    "attack": 70,
+    "defense": 160,
+    "special-attack": 70,
+    "special-defense": 160,
+    "speed": 90
+  },
+  "flavorText": "The DNA of a space virus underwent a sudden mutation upon\nexposure to a laser beam and resulted in Deoxys.\nThe crystalline organ on this Pokémon’s chest appears to be\nits brain.",
+  "moves": {
+    "wrap": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "counter": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "level-up",
+      "machine"
+    ],
+    "teleport": [
+      "level-up"
+    ],
+    "night-shade": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "recover": [
+      "level-up"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "amnesia": [
+      "level-up"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "spikes": [
+      "level-up"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "mirror-coat": [
+      "level-up"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "knock-off": [
+      "level-up"
+    ],
+    "snatch": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "psycho-boost": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "psycho-shift": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "zen-headbutt": [
+      "level-up"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "pressure": 1
+  }
+}

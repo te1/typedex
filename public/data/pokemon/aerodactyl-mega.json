@@ -1,0 +1,191 @@
+{
+  "name": "aerodactyl-mega",
+  "caption": "Mega Aerodactyl",
+  "types": [
+    "rock",
+    "flying"
+  ],
+  "species": "aerodactyl",
+  "gen": "generation-i",
+  "color": "purple",
+  "default": false,
+  "alternate": false,
+  "mega": true,
+  "height": 2.1,
+  "weight": 79,
+  "baseStats": {
+    "hp": 80,
+    "attack": 135,
+    "defense": 85,
+    "special-attack": 70,
+    "special-defense": 95,
+    "speed": 150
+  },
+  "flavorText": "Restored from DNA found in amber, this\nPokémon exhibited ferocity that was greater\nthan expected. Some casualties resulted.",
+  "moves": {
+    "wing-attack": [
+      "level-up"
+    ],
+    "fly": [
+      "machine"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "roar": [
+      "level-up",
+      "machine"
+    ],
+    "supersonic": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "level-up",
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "level-up",
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "dragon-claw": [
+      "machine"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "giga-impact": [
+      "level-up",
+      "machine"
+    ],
+    "thunder-fang": [
+      "level-up"
+    ],
+    "ice-fang": [
+      "level-up"
+    ],
+    "fire-fang": [
+      "level-up"
+    ],
+    "iron-head": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "sky-drop": [
+      "level-up",
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "tough-claws": 1
+  }
+}

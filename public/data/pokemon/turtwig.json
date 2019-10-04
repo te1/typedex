@@ -1,0 +1,213 @@
+{
+  "name": "turtwig",
+  "caption": "Turtwig",
+  "types": [
+    "grass"
+  ],
+  "species": "turtwig",
+  "gen": "generation-iv",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 10.2,
+  "baseStats": {
+    "hp": 55,
+    "attack": 68,
+    "defense": 64,
+    "special-attack": 45,
+    "special-defense": 55,
+    "speed": 31
+  },
+  "evolutionChain": {
+    "species": "turtwig",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "grotle",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "torterra",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Photosynthesis occurs across its body under the\nsun. The shell on its back is actually hardened soil.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "body-slam": [
+      "egg"
+    ],
+    "thrash": [
+      "egg"
+    ],
+    "double-edge": [
+      "egg"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "absorb": [
+      "level-up"
+    ],
+    "mega-drain": [
+      "level-up"
+    ],
+    "leech-seed": [
+      "level-up"
+    ],
+    "growth": [
+      "egg"
+    ],
+    "razor-leaf": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "withdraw": [
+      "level-up"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "amnesia": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "curse": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "giga-drain": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "synthesis": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "superpower": [
+      "egg"
+    ],
+    "tickle": [
+      "egg"
+    ],
+    "sand-tomb": [
+      "egg"
+    ],
+    "worry-seed": [
+      "egg"
+    ],
+    "seed-bomb": [
+      "egg"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "leaf-storm": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "earth-power": [
+      "egg"
+    ],
+    "stockpile": [
+      "egg"
+    ],
+    "spit-up": [
+      "egg"
+    ],
+    "swallow": [
+      "egg"
+    ],
+    "wide-guard": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "grass-pledge": [
+      "tutor"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "grassy-terrain": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "heavy-slam": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "overgrow": 1,
+    "shell-armor": "hidden"
+  }
+}

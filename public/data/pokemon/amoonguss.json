@@ -1,0 +1,160 @@
+{
+  "name": "amoonguss",
+  "caption": "Amoonguss",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "species": "amoonguss",
+  "gen": "generation-v",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 10.5,
+  "baseStats": {
+    "hp": 114,
+    "attack": 85,
+    "defense": 70,
+    "special-attack": 85,
+    "special-defense": 80,
+    "speed": 30
+  },
+  "evolutionChain": {
+    "species": "foongus",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "amoonguss",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "They show off their Poké Ball caps to lure prey,\nbut very few Pokémon are fooled by this.",
+  "moves": {
+    "hyper-beam": [
+      "machine"
+    ],
+    "absorb": [
+      "level-up"
+    ],
+    "mega-drain": [
+      "level-up"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "level-up",
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "spore": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "giga-drain": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "synthesis": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "ingrain": [
+      "level-up"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "rage-powder": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "clear-smog": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "effect-spore": 1,
+    "regenerator": "hidden"
+  }
+}

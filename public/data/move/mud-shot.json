@@ -1,0 +1,143 @@
+{
+  "name": "mud-shot",
+  "caption": "Mud Shot",
+  "type": "ground",
+  "damageCategory": "special",
+  "power": 55,
+  "accuracy": 95,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a 100% chance to lower the target's Speed by one stage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 100% chance to lower the target's [Speed]{mechanic:speed} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user attacks by hurling a blob of mud at the\ntarget. This also lowers the target’s Speed stat.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "sandshrew": [
+      "egg"
+    ],
+    "poliwag": [
+      "level-up",
+      "egg"
+    ],
+    "poliwhirl": [
+      "level-up"
+    ],
+    "shellder": [
+      "egg"
+    ],
+    "krabby": [
+      "level-up"
+    ],
+    "kingler": [
+      "level-up"
+    ],
+    "goldeen": [
+      "egg"
+    ],
+    "omanyte": [
+      "level-up"
+    ],
+    "omastar": [
+      "level-up"
+    ],
+    "kabuto": [
+      "level-up",
+      "egg"
+    ],
+    "kabutops": [
+      "level-up"
+    ],
+    "wooper": [
+      "level-up"
+    ],
+    "quagsire": [
+      "level-up"
+    ],
+    "swinub": [
+      "egg"
+    ],
+    "remoraid": [
+      "egg"
+    ],
+    "marshtomp": [
+      "level-up"
+    ],
+    "swampert": [
+      "level-up"
+    ],
+    "surskit": [
+      "egg"
+    ],
+    "trapinch": [
+      "egg"
+    ],
+    "barboach": [
+      "egg"
+    ],
+    "relicanth": [
+      "egg"
+    ],
+    "groudon": [
+      "level-up"
+    ],
+    "gible": [
+      "egg"
+    ],
+    "tympole": [
+      "level-up"
+    ],
+    "palpitoad": [
+      "level-up"
+    ],
+    "seismitoad": [
+      "level-up"
+    ],
+    "basculin-red-striped": [
+      "egg"
+    ],
+    "stunfisk": [
+      "level-up"
+    ],
+    "bouffalant": [
+      "egg"
+    ],
+    "landorus-incarnate": [
+      "level-up"
+    ],
+    "chespin": [
+      "level-up"
+    ],
+    "quilladin": [
+      "level-up"
+    ],
+    "chesnaught": [
+      "level-up"
+    ],
+    "bunnelby": [
+      "level-up"
+    ],
+    "diggersby": [
+      "level-up"
+    ],
+    "grubbin": [
+      "egg"
+    ],
+    "landorus-therian": [
+      "level-up"
+    ],
+    "swampert-mega": [
+      "level-up"
+    ],
+    "groudon-primal": [
+      "level-up"
+    ]
+  }
+}

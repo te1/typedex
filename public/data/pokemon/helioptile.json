@@ -1,0 +1,187 @@
+{
+  "name": "helioptile",
+  "caption": "Helioptile",
+  "types": [
+    "electric",
+    "normal"
+  ],
+  "species": "helioptile",
+  "gen": "generation-vi",
+  "color": "yellow",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 6,
+  "baseStats": {
+    "hp": 44,
+    "attack": 38,
+    "defense": 33,
+    "special-attack": 61,
+    "special-defense": 43,
+    "speed": 70
+  },
+  "evolutionChain": {
+    "species": "helioptile",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "heliolisk",
+        "triggers": [
+          "use-item"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "They make their home in deserts. They can\ngenerate their energy from basking in the sun,\nso eating food is not a requirement.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "razor-wind": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "thunder-shock": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "level-up",
+      "machine"
+    ],
+    "thunder-wave": [
+      "level-up",
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "egg"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "glare": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "charge": [
+      "level-up"
+    ],
+    "camouflage": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "volt-switch": [
+      "level-up",
+      "machine"
+    ],
+    "bulldoze": [
+      "level-up",
+      "machine"
+    ],
+    "dragon-tail": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "parabolic-charge": [
+      "level-up"
+    ],
+    "electrify": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "electric-terrain": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "dry-skin": 1,
+    "sand-veil": 2,
+    "solar-power": "hidden"
+  }
+}

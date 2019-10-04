@@ -1,0 +1,163 @@
+{
+  "name": "fearow",
+  "caption": "Fearow",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "species": "fearow",
+  "gen": "generation-i",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.2,
+  "weight": 38,
+  "baseStats": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 65,
+    "special-attack": 61,
+    "special-defense": 61,
+    "speed": 100
+  },
+  "evolutionChain": {
+    "species": "spearow",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "fearow",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Carrying food through Fearow’s territory is\ndangerous. It will snatch the food away from\nyou in a flash!",
+  "moves": {
+    "fly": [
+      "machine"
+    ],
+    "fury-attack": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "drill-peck": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "mirror-move": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "level-up",
+      "machine"
+    ],
+    "roost": [
+      "level-up",
+      "machine"
+    ],
+    "pluck": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "assurance": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "drill-run": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "keen-eye": 1,
+    "sniper": "hidden"
+  }
+}

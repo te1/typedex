@@ -1,0 +1,175 @@
+{
+  "name": "giga-drain",
+  "caption": "Giga Drain",
+  "type": "grass",
+  "damageCategory": "special",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Drains half the damage inflicted to heal the user.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  [Drains]{mechanic:drain} half the damage inflicted to heal the user."
+  },
+  "flavorText": "A nutrient-draining attack. The user’s HP is restored\nby half the damage taken by the target.",
+  "flags": [
+    "protect",
+    "mirror",
+    "heal"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "bulbasaur": [
+      "egg"
+    ],
+    "zubat": [
+      "egg"
+    ],
+    "oddish": [
+      "level-up"
+    ],
+    "gloom": [
+      "level-up"
+    ],
+    "paras": [
+      "level-up"
+    ],
+    "parasect": [
+      "level-up"
+    ],
+    "venonat": [
+      "egg"
+    ],
+    "bellsprout": [
+      "egg"
+    ],
+    "exeggcute": [
+      "egg"
+    ],
+    "tangela": [
+      "level-up",
+      "egg"
+    ],
+    "kabuto": [
+      "egg"
+    ],
+    "hoppip": [
+      "level-up"
+    ],
+    "skiploom": [
+      "level-up"
+    ],
+    "jumpluff": [
+      "level-up"
+    ],
+    "sunkern": [
+      "level-up"
+    ],
+    "sunflora": [
+      "level-up"
+    ],
+    "treecko": [
+      "level-up"
+    ],
+    "beautifly": [
+      "level-up"
+    ],
+    "lotad": [
+      "level-up",
+      "egg"
+    ],
+    "shroomish": [
+      "level-up"
+    ],
+    "roselia": [
+      "level-up",
+      "egg"
+    ],
+    "lileep": [
+      "level-up"
+    ],
+    "cradily": [
+      "level-up"
+    ],
+    "turtwig": [
+      "level-up"
+    ],
+    "grotle": [
+      "level-up"
+    ],
+    "torterra": [
+      "level-up"
+    ],
+    "budew": [
+      "egg"
+    ],
+    "carnivine": [
+      "egg"
+    ],
+    "tangrowth": [
+      "level-up"
+    ],
+    "leafeon": [
+      "level-up"
+    ],
+    "snivy": [
+      "level-up"
+    ],
+    "servine": [
+      "level-up"
+    ],
+    "serperior": [
+      "level-up"
+    ],
+    "cottonee": [
+      "level-up"
+    ],
+    "petilil": [
+      "level-up"
+    ],
+    "maractus": [
+      "level-up"
+    ],
+    "foongus": [
+      "level-up"
+    ],
+    "amoonguss": [
+      "level-up"
+    ],
+    "shelmet": [
+      "level-up"
+    ],
+    "accelgor": [
+      "level-up"
+    ],
+    "virizion": [
+      "level-up"
+    ],
+    "fomantis": [
+      "egg"
+    ],
+    "morelull": [
+      "level-up"
+    ],
+    "shiinotic": [
+      "level-up"
+    ],
+    "sandygast": [
+      "level-up"
+    ],
+    "palossand": [
+      "level-up"
+    ],
+    "dhelmise": [
+      "level-up"
+    ],
+    "tapu-bulu": [
+      "level-up"
+    ],
+    "celesteela": [
+      "level-up"
+    ]
+  }
+}

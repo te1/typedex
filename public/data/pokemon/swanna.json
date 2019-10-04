@@ -1,0 +1,159 @@
+{
+  "name": "swanna",
+  "caption": "Swanna",
+  "types": [
+    "water",
+    "flying"
+  ],
+  "species": "swanna",
+  "gen": "generation-v",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.3,
+  "weight": 24.2,
+  "baseStats": {
+    "hp": 75,
+    "attack": 87,
+    "defense": 63,
+    "special-attack": 87,
+    "special-defense": 63,
+    "speed": 98
+  },
+  "evolutionChain": {
+    "species": "ducklett",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "swanna",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Despite their elegant appearance, they can flap\ntheir wings strongly and fly for thousands of miles.",
+  "moves": {
+    "wing-attack": [
+      "level-up"
+    ],
+    "fly": [
+      "machine"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "level-up",
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "feather-dance": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "level-up",
+      "machine"
+    ],
+    "water-sport": [
+      "level-up"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "roost": [
+      "level-up",
+      "machine"
+    ],
+    "tailwind": [
+      "level-up"
+    ],
+    "aqua-ring": [
+      "level-up"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "brave-bird": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "defog": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "hurricane": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "keen-eye": 1,
+    "big-pecks": 2,
+    "hydration": "hidden"
+  }
+}

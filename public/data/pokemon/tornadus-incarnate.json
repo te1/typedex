@@ -1,0 +1,190 @@
+{
+  "name": "tornadus-incarnate",
+  "caption": "Incarnate Tornadus",
+  "types": [
+    "flying"
+  ],
+  "species": "tornadus",
+  "gen": "generation-v",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": "Incarnate Forme",
+  "height": 1.5,
+  "weight": 63,
+  "baseStats": {
+    "hp": 79,
+    "attack": 115,
+    "defense": 70,
+    "special-attack": 125,
+    "special-defense": 80,
+    "speed": 111
+  },
+  "flavorText": "The lower half of its body is wrapped in a cloud of\nenergy. It zooms through the sky at 200 mph.",
+  "moves": {
+    "gust": [
+      "level-up"
+    ],
+    "fly": [
+      "machine"
+    ],
+    "thrash": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "swagger": [
+      "level-up",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "level-up",
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "uproar": [
+      "level-up"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "revenge": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "air-cutter": [
+      "level-up"
+    ],
+    "extrasensory": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "hammer-arm": [
+      "level-up"
+    ],
+    "tailwind": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "level-up",
+      "machine"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "sky-drop": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "hurricane": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "prankster": 1,
+    "defiant": "hidden"
+  }
+}

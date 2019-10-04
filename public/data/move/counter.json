@@ -1,0 +1,243 @@
+{
+  "name": "counter",
+  "caption": "Counter",
+  "type": "fighting",
+  "damageCategory": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": -5,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Inflicts twice the damage the user received from the last physical hit it took.",
+    "full": "Targets the last opposing Pokémon to hit the user with a [physical]{mechanic:physical} move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will [fail]{mechanic:fail}.  Type immunity applies, but other type effects are ignored.\n\nThis move cannot be copied by []{move:mirror-move}, nor selected by []{move:assist} or []{move:metronome}."
+  },
+  "flavorText": "A retaliation move that counters any physical attack,\ninflicting double the damage taken.",
+  "flags": [
+    "contact",
+    "protect"
+  ],
+  "target": "specific-move",
+  "pokemon": {
+    "charmander": [
+      "egg"
+    ],
+    "rattata": [
+      "egg"
+    ],
+    "sandshrew": [
+      "egg"
+    ],
+    "nidoran-f": [
+      "egg"
+    ],
+    "nidoran-m": [
+      "egg"
+    ],
+    "paras": [
+      "egg"
+    ],
+    "mankey": [
+      "egg"
+    ],
+    "machop": [
+      "egg"
+    ],
+    "hitmonchan": [
+      "level-up"
+    ],
+    "rhyhorn": [
+      "egg"
+    ],
+    "chansey": [
+      "egg"
+    ],
+    "kangaskhan": [
+      "egg"
+    ],
+    "scyther": [
+      "egg"
+    ],
+    "snorlax": [
+      "egg"
+    ],
+    "chikorita": [
+      "egg"
+    ],
+    "ledyba": [
+      "egg"
+    ],
+    "sudowoodo": [
+      "level-up"
+    ],
+    "aipom": [
+      "egg"
+    ],
+    "wooper": [
+      "egg"
+    ],
+    "wobbuffet": [
+      "level-up"
+    ],
+    "pineco": [
+      "egg"
+    ],
+    "gligar": [
+      "egg"
+    ],
+    "heracross": [
+      "level-up"
+    ],
+    "sneasel": [
+      "egg"
+    ],
+    "teddiursa": [
+      "egg"
+    ],
+    "delibird": [
+      "egg"
+    ],
+    "houndour": [
+      "egg"
+    ],
+    "phanpy": [
+      "egg"
+    ],
+    "tyrogue": [
+      "egg"
+    ],
+    "hitmontop": [
+      "level-up"
+    ],
+    "torchic": [
+      "egg"
+    ],
+    "mudkip": [
+      "egg"
+    ],
+    "lotad": [
+      "egg"
+    ],
+    "breloom": [
+      "level-up"
+    ],
+    "slakoth": [
+      "level-up"
+    ],
+    "vigoroth": [
+      "level-up"
+    ],
+    "slaking": [
+      "level-up"
+    ],
+    "makuhita": [
+      "egg"
+    ],
+    "meditite": [
+      "level-up"
+    ],
+    "medicham": [
+      "level-up"
+    ],
+    "cacnea": [
+      "egg"
+    ],
+    "zangoose": [
+      "egg"
+    ],
+    "wynaut": [
+      "level-up"
+    ],
+    "chimchar": [
+      "egg"
+    ],
+    "shieldon": [
+      "egg"
+    ],
+    "shellos": [
+      "egg"
+    ],
+    "bonsly": [
+      "level-up"
+    ],
+    "happiny": [
+      "egg"
+    ],
+    "munchlax": [
+      "egg"
+    ],
+    "riolu": [
+      "level-up"
+    ],
+    "lucario": [
+      "level-up"
+    ],
+    "croagunk": [
+      "egg"
+    ],
+    "timburr": [
+      "egg"
+    ],
+    "sawk": [
+      "level-up"
+    ],
+    "sandile": [
+      "egg"
+    ],
+    "dwebble": [
+      "egg"
+    ],
+    "scraggy": [
+      "egg"
+    ],
+    "zorua": [
+      "egg"
+    ],
+    "karrablast": [
+      "egg"
+    ],
+    "axew": [
+      "egg"
+    ],
+    "goomy": [
+      "egg"
+    ],
+    "mudbray": [
+      "level-up"
+    ],
+    "mudsdale": [
+      "level-up"
+    ],
+    "pyukumuku": [
+      "level-up"
+    ],
+    "jangmo-o": [
+      "egg"
+    ],
+    "buzzwole": [
+      "level-up"
+    ],
+    "marshadow": [
+      "level-up"
+    ],
+    "deoxys-defense": [
+      "level-up"
+    ],
+    "heracross-mega": [
+      "level-up"
+    ],
+    "medicham-mega": [
+      "level-up"
+    ],
+    "lucario-mega": [
+      "level-up"
+    ],
+    "lycanroc-midnight": [
+      "level-up"
+    ],
+    "lycanroc-dusk": [
+      "level-up"
+    ]
+  }
+}

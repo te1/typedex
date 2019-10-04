@@ -1,0 +1,227 @@
+{
+  "name": "chimchar",
+  "caption": "Chimchar",
+  "types": [
+    "fire"
+  ],
+  "species": "chimchar",
+  "gen": "generation-iv",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 6.2,
+  "baseStats": {
+    "hp": 44,
+    "attack": 58,
+    "defense": 44,
+    "special-attack": 58,
+    "special-defense": 44,
+    "speed": 61
+  },
+  "evolutionChain": {
+    "species": "chimchar",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "monferno",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "infernape",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Its fiery rear end is fueled by gas made in its belly.\nEven rain can’t extinguish the fire.",
+  "moves": {
+    "fire-punch": [
+      "egg"
+    ],
+    "thunder-punch": [
+      "egg"
+    ],
+    "scratch": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "double-kick": [
+      "egg"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "ember": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "level-up",
+      "machine"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "fire-spin": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "egg"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "flame-wheel": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "encore": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "fake-out": [
+      "egg"
+    ],
+    "heat-wave": [
+      "egg"
+    ],
+    "torment": [
+      "level-up",
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "level-up",
+      "machine"
+    ],
+    "focus-punch": [
+      "egg"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "helping-hand": [
+      "egg"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "blaze-kick": [
+      "egg"
+    ],
+    "slack-off": [
+      "level-up"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "nasty-plot": [
+      "level-up"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "assist": [
+      "egg"
+    ],
+    "submission": [
+      "egg"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "quick-guard": [
+      "egg"
+    ],
+    "acrobatics": [
+      "level-up",
+      "machine"
+    ],
+    "fire-pledge": [
+      "tutor"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "power-up-punch": [
+      "egg"
+    ],
+    "work-up": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "blaze": 1,
+    "iron-fist": "hidden"
+  }
+}

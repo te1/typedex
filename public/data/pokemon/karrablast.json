@@ -1,0 +1,176 @@
+{
+  "name": "karrablast",
+  "caption": "Karrablast",
+  "types": [
+    "bug"
+  ],
+  "species": "karrablast",
+  "gen": "generation-v",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 5.9,
+  "baseStats": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 45,
+    "special-attack": 40,
+    "special-defense": 45,
+    "speed": 60
+  },
+  "evolutionChain": {
+    "species": "karrablast",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "escavalier",
+        "triggers": [
+          "trade"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "These mysterious Pokémon evolve when they\nreceive electrical stimulation while they are in the\nsame place as Shelmet.",
+  "moves": {
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "headbutt": [
+      "level-up"
+    ],
+    "horn-attack": [
+      "egg"
+    ],
+    "fury-attack": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "screech": [
+      "egg"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "feint-attack": [
+      "egg"
+    ],
+    "endure": [
+      "level-up"
+    ],
+    "false-swipe": [
+      "level-up",
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "fury-cutter": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "megahorn": [
+      "egg"
+    ],
+    "pursuit": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "knock-off": [
+      "egg"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "x-scissor": [
+      "level-up",
+      "machine"
+    ],
+    "bug-buzz": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "bug-bite": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "drill-run": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "swarm": 1,
+    "shed-skin": 2,
+    "no-guard": "hidden"
+  }
+}

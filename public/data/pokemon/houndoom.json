@@ -1,0 +1,193 @@
+{
+  "name": "houndoom",
+  "caption": "Houndoom",
+  "types": [
+    "dark",
+    "fire"
+  ],
+  "species": "houndoom",
+  "gen": "generation-ii",
+  "color": "black",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 1.4,
+  "weight": 35,
+  "baseStats": {
+    "hp": 75,
+    "attack": 90,
+    "defense": 50,
+    "special-attack": 110,
+    "special-defense": 80,
+    "speed": 95
+  },
+  "evolutionChain": {
+    "species": "houndour",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "houndoom",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "They spew flames mixed with poison to finish\noff their opponents. They divvy up their prey\nevenly among the members of their pack.",
+  "moves": {
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "roar": [
+      "level-up",
+      "machine"
+    ],
+    "ember": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "level-up",
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "smog": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "odor-sleuth": [
+      "level-up"
+    ],
+    "howl": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "beat-up": [
+      "level-up"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "embargo": [
+      "level-up",
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "nasty-plot": [
+      "level-up"
+    ],
+    "thunder-fang": [
+      "level-up"
+    ],
+    "fire-fang": [
+      "level-up"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "foul-play": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "inferno": [
+      "level-up"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "early-bird": 1,
+    "flash-fire": 2,
+    "unnerve": "hidden"
+  }
+}

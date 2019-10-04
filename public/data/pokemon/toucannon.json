@@ -1,0 +1,178 @@
+{
+  "name": "toucannon",
+  "caption": "Toucannon",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "species": "toucannon",
+  "gen": "generation-vii",
+  "color": "black",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.1,
+  "weight": 26,
+  "baseStats": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 75,
+    "special-attack": 75,
+    "special-defense": 75,
+    "speed": 60
+  },
+  "evolutionChain": {
+    "species": "pikipek",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "trumbeak",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "toucannon",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "They smack beaks with others of their kind to\ncommunicate. The strength and number of hits\ntell each other how they feel.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "fly": [
+      "machine"
+    ],
+    "fury-attack": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "supersonic": [
+      "level-up"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "drill-peck": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "rock-smash": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "feather-dance": [
+      "level-up"
+    ],
+    "hyper-voice": [
+      "level-up"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "bullet-seed": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "rock-blast": [
+      "level-up"
+    ],
+    "roost": [
+      "level-up",
+      "machine"
+    ],
+    "pluck": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "level-up",
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "beak-blast": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "keen-eye": 1,
+    "skill-link": 2,
+    "sheer-force": "hidden"
+  }
+}

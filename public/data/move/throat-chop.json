@@ -1,0 +1,31 @@
+{
+  "name": "throat-chop",
+  "caption": "Throat Chop",
+  "type": "dark",
+  "damageCategory": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Prevents the target from using sound-based moves for two turns.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Silences the target for two turns, preventing it from using any sound-based moves."
+  },
+  "flavorText": "The user attacks the target’s throat, and the\nresultant suffering prevents the target from using\nmoves that emit sound for two turns.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "sneasel": [
+      "egg"
+    ],
+    "incineroar": [
+      "level-up"
+    ]
+  }
+}

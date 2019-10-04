@@ -1,0 +1,84 @@
+{
+  "name": "teleport",
+  "caption": "Teleport",
+  "type": "psychic",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Immediately ends wild battles.  No effect otherwise.",
+    "full": "Does nothing.  Wild battles end immediately."
+  },
+  "flavorText": "Use it to flee from any wild Pokémon.",
+  "flags": [],
+  "target": "user",
+  "pokemon": {
+    "abra": [
+      "level-up"
+    ],
+    "kadabra": [
+      "level-up"
+    ],
+    "alakazam": [
+      "level-up"
+    ],
+    "natu": [
+      "level-up"
+    ],
+    "xatu": [
+      "level-up"
+    ],
+    "ralts": [
+      "level-up"
+    ],
+    "kirlia": [
+      "level-up"
+    ],
+    "gardevoir": [
+      "level-up"
+    ],
+    "claydol": [
+      "level-up"
+    ],
+    "deoxys-normal": [
+      "level-up"
+    ],
+    "gallade": [
+      "level-up"
+    ],
+    "elgyem": [
+      "egg"
+    ],
+    "cosmog": [
+      "level-up"
+    ],
+    "cosmoem": [
+      "level-up"
+    ],
+    "solgaleo": [
+      "level-up"
+    ],
+    "lunala": [
+      "level-up"
+    ],
+    "deoxys-attack": [
+      "level-up"
+    ],
+    "deoxys-defense": [
+      "level-up"
+    ],
+    "alakazam-mega": [
+      "level-up"
+    ],
+    "gardevoir-mega": [
+      "level-up"
+    ],
+    "gallade-mega": [
+      "level-up"
+    ]
+  }
+}

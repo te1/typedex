@@ -1,0 +1,133 @@
+{
+  "name": "iron-tail",
+  "caption": "Iron Tail",
+  "type": "steel",
+  "damageCategory": "physical",
+  "power": 100,
+  "accuracy": 75,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a 30% chance to lower the target's Defense by one stage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 30% chance to lower the target's [Defense]{mechanic:defense} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The target is slammed with a steel-hard tail.\nThis may also lower the target’s Defense stat.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "ekans": [
+      "egg"
+    ],
+    "nidoran-f": [
+      "egg"
+    ],
+    "nidoran-m": [
+      "egg"
+    ],
+    "meowth": [
+      "egg"
+    ],
+    "growlithe": [
+      "egg"
+    ],
+    "seel": [
+      "egg"
+    ],
+    "onix": [
+      "level-up"
+    ],
+    "rhyhorn": [
+      "egg"
+    ],
+    "dratini": [
+      "egg"
+    ],
+    "sentret": [
+      "egg"
+    ],
+    "mareep": [
+      "egg"
+    ],
+    "steelix": [
+      "level-up"
+    ],
+    "magby": [
+      "egg"
+    ],
+    "larvitar": [
+      "egg"
+    ],
+    "aron": [
+      "level-up"
+    ],
+    "lairon": [
+      "level-up"
+    ],
+    "aggron": [
+      "level-up"
+    ],
+    "zangoose": [
+      "egg"
+    ],
+    "seviper": [
+      "egg"
+    ],
+    "feebas": [
+      "egg"
+    ],
+    "cranidos": [
+      "egg"
+    ],
+    "pachirisu": [
+      "egg"
+    ],
+    "stunky": [
+      "egg"
+    ],
+    "gible": [
+      "egg"
+    ],
+    "skorupi": [
+      "egg"
+    ],
+    "dialga": [
+      "level-up"
+    ],
+    "snivy": [
+      "egg"
+    ],
+    "patrat": [
+      "egg"
+    ],
+    "minccino": [
+      "egg"
+    ],
+    "emolga": [
+      "egg"
+    ],
+    "axew": [
+      "egg"
+    ],
+    "druddigon": [
+      "egg"
+    ],
+    "goomy": [
+      "egg"
+    ],
+    "guzzlord": [
+      "level-up"
+    ],
+    "aggron-mega": [
+      "level-up"
+    ],
+    "steelix-mega": [
+      "level-up"
+    ]
+  }
+}

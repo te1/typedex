@@ -1,0 +1,152 @@
+{
+  "name": "raichu",
+  "caption": "Raichu",
+  "types": [
+    "electric"
+  ],
+  "species": "raichu",
+  "gen": "generation-i",
+  "color": "yellow",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 0.8,
+  "weight": 30,
+  "baseStats": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 55,
+    "special-attack": 90,
+    "special-defense": 80,
+    "speed": 110
+  },
+  "evolutionChain": {
+    "species": "pichu",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "pikachu",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "raichu",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "As electricity builds up inside its body, it\nbecomes more aggressive. One theory is that\nthe electricity buildup is actually causing stress.",
+  "moves": {
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunder-shock": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "level-up",
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "volt-switch": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "static": 1,
+    "lightning-rod": "hidden"
+  }
+}

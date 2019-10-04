@@ -1,0 +1,53 @@
+{
+  "name": "shadow-punch",
+  "caption": "Shadow Punch",
+  "type": "ghost",
+  "damageCategory": "physical",
+  "power": 60,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Never misses.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers."
+  },
+  "flavorText": "The user throws a punch from the shadows. This\nattack never misses.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror",
+    "punch"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "grimer": [
+      "egg"
+    ],
+    "haunter": [
+      "level-up"
+    ],
+    "gengar": [
+      "level-up"
+    ],
+    "dusclops": [
+      "level-up"
+    ],
+    "dusknoir": [
+      "level-up"
+    ],
+    "golett": [
+      "level-up"
+    ],
+    "golurk": [
+      "level-up"
+    ],
+    "marshadow": [
+      "level-up"
+    ],
+    "gengar-mega": [
+      "level-up"
+    ]
+  }
+}

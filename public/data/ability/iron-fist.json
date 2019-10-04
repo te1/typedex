@@ -1,0 +1,26 @@
+{
+  "name": "iron-fist",
+  "caption": "Iron Fist",
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Strengthens punch-based moves to 1.2× their power.",
+    "full": "Moves flagged as being punch-based have 1.2× their base power for this Pokémon.\n\n[]{move:sucker-punch} is not flagged as punch-based; its original, Japanese name only means \"surprise attack\"."
+  },
+  "flavorText": "Powers up punching moves.",
+  "pokemon": {
+    "hitmonchan": 2,
+    "ledian": "hidden",
+    "chimchar": "hidden",
+    "monferno": "hidden",
+    "infernape": "hidden",
+    "timburr": "hidden",
+    "gurdurr": "hidden",
+    "conkeldurr": "hidden",
+    "golett": 1,
+    "golurk": 1,
+    "pancham": 1,
+    "pangoro": 1,
+    "crabrawler": 2,
+    "crabominable": 2
+  }
+}

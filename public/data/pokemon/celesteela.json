@@ -1,0 +1,182 @@
+{
+  "name": "celesteela",
+  "caption": "Celesteela",
+  "types": [
+    "steel",
+    "flying"
+  ],
+  "species": "celesteela",
+  "gen": "generation-vii",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 9.2,
+  "weight": 999.9,
+  "baseStats": {
+    "hp": 97,
+    "attack": 101,
+    "defense": 103,
+    "special-attack": 107,
+    "special-defense": 101,
+    "speed": 61
+  },
+  "flavorText": "One of the dangerous UBs, high energy readings\ncan be detected coming from both of its\nhuge arms.",
+  "moves": {
+    "fly": [
+      "machine"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "absorb": [
+      "level-up"
+    ],
+    "mega-drain": [
+      "level-up"
+    ],
+    "leech-seed": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "skull-bash": [
+      "level-up"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "giga-drain": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "ingrain": [
+      "level-up"
+    ],
+    "metal-sound": [
+      "level-up"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "seed-bomb": [
+      "level-up"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "flash-cannon": [
+      "level-up",
+      "machine"
+    ],
+    "iron-head": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "wide-guard": [
+      "level-up"
+    ],
+    "autotomize": [
+      "level-up"
+    ],
+    "smack-down": [
+      "level-up",
+      "machine"
+    ],
+    "heavy-slam": [
+      "level-up"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "smart-strike": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "beast-boost": 1
+  }
+}

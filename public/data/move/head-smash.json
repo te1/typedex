@@ -1,0 +1,92 @@
+{
+  "name": "head-smash",
+  "caption": "Head Smash",
+  "type": "rock",
+  "damageCategory": "physical",
+  "power": 150,
+  "accuracy": 80,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "User receives 1/2 the damage inflicted in recoil.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User takes 1/2 the damage it inflicts in recoil."
+  },
+  "flavorText": "The user attacks the target with a hazardous,\nfull-power headbutt. This also damages the\nuser terribly.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "nidoran-m": [
+      "egg"
+    ],
+    "sudowoodo": [
+      "level-up"
+    ],
+    "corsola": [
+      "egg"
+    ],
+    "phanpy": [
+      "egg"
+    ],
+    "aron": [
+      "egg"
+    ],
+    "relicanth": [
+      "level-up"
+    ],
+    "cranidos": [
+      "level-up"
+    ],
+    "rampardos": [
+      "level-up"
+    ],
+    "tepig": [
+      "level-up"
+    ],
+    "pignite": [
+      "level-up"
+    ],
+    "emboar": [
+      "level-up"
+    ],
+    "basculin-red-striped": [
+      "level-up",
+      "egg"
+    ],
+    "scraggy": [
+      "level-up"
+    ],
+    "scrafty": [
+      "level-up"
+    ],
+    "archen": [
+      "egg"
+    ],
+    "deino": [
+      "egg"
+    ],
+    "aegislash-shield": [
+      "level-up"
+    ],
+    "tyrantrum": [
+      "level-up"
+    ],
+    "turtonator": [
+      "egg"
+    ],
+    "nihilego": [
+      "level-up"
+    ],
+    "basculin-blue-striped": [
+      "level-up"
+    ],
+    "aegislash-blade": [
+      "level-up"
+    ]
+  }
+}

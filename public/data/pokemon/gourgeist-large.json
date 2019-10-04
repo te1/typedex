@@ -1,0 +1,204 @@
+{
+  "name": "gourgeist-large",
+  "caption": "Large Gourgeist",
+  "types": [
+    "ghost",
+    "grass"
+  ],
+  "species": "gourgeist",
+  "gen": "generation-vi",
+  "color": "brown",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": "Large Size",
+  "height": 1.1,
+  "weight": 14,
+  "baseStats": {
+    "hp": 75,
+    "attack": 95,
+    "defense": 122,
+    "special-attack": 58,
+    "special-defense": 75,
+    "speed": 69
+  },
+  "evolutionChain": {
+    "species": "pumpkaboo",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "gourgeist",
+        "triggers": [
+          "trade"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Singing in eerie voices, they wander\ntown streets on the night of the new moon.\nAnyone who hears their song is cursed.",
+  "moves": {
+    "flamethrower": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "leech-seed": [
+      "level-up"
+    ],
+    "razor-leaf": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "explosion": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "pain-split": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "level-up",
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "trick": [
+      "level-up"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "bullet-seed": [
+      "level-up"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "worry-seed": [
+      "level-up"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "seed-bomb": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-sneak": [
+      "level-up"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "phantom-force": [
+      "level-up"
+    ],
+    "trick-or-treat": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "pickup": 1,
+    "frisk": 2,
+    "insomnia": "hidden"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "name": "fissure",
+  "caption": "Fissure",
+  "type": "ground",
+  "damageCategory": "physical",
+  "power": null,
+  "accuracy": 30,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Causes a one-hit KO.",
+    "full": "Inflicts damage equal to the target's max [HP]{mechanic:hp}.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers.  This move's [accuracy]{mechanic:accuracy} is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will [fail]{mechanic:fail}.\n\nBecause this move inflicts a specific and finite amount of damage, []{move:endure} still prevents the target from fainting.\n\nThe effects of []{move:lock-on}, []{move:mind-reader}, and []{ability:no-guard} still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through []{move:detect} or []{move:protect}."
+  },
+  "flavorText": "The user opens up a fissure in the ground and drops\nthe target in. The target faints instantly if this\nattack hits.",
+  "flags": [
+    "protect",
+    "mirror",
+    "non-sky-battle"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "diglett": [
+      "level-up"
+    ],
+    "dugtrio": [
+      "level-up"
+    ],
+    "lapras": [
+      "egg"
+    ],
+    "snorlax": [
+      "egg"
+    ],
+    "swinub": [
+      "egg"
+    ],
+    "phanpy": [
+      "egg"
+    ],
+    "wailmer": [
+      "egg"
+    ],
+    "camerupt": [
+      "level-up"
+    ],
+    "torkoal": [
+      "egg"
+    ],
+    "trapinch": [
+      "level-up"
+    ],
+    "barboach": [
+      "level-up"
+    ],
+    "whiscash": [
+      "level-up"
+    ],
+    "spheal": [
+      "egg"
+    ],
+    "groudon": [
+      "level-up"
+    ],
+    "shieldon": [
+      "egg"
+    ],
+    "shellos": [
+      "egg"
+    ],
+    "hippopotas": [
+      "level-up"
+    ],
+    "hippowdon": [
+      "level-up"
+    ],
+    "drilbur": [
+      "level-up"
+    ],
+    "excadrill": [
+      "level-up"
+    ],
+    "stunfisk": [
+      "level-up"
+    ],
+    "landorus-incarnate": [
+      "level-up"
+    ],
+    "wormadam-sandy": [
+      "level-up"
+    ],
+    "landorus-therian": [
+      "level-up"
+    ],
+    "groudon-primal": [
+      "level-up"
+    ],
+    "camerupt-mega": [
+      "level-up"
+    ],
+    "diglett-alola": [
+      "level-up"
+    ],
+    "dugtrio-alola": [
+      "level-up"
+    ]
+  }
+}

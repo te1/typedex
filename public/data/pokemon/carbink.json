@@ -1,0 +1,165 @@
+{
+  "name": "carbink",
+  "caption": "Carbink",
+  "types": [
+    "rock",
+    "fairy"
+  ],
+  "species": "carbink",
+  "gen": "generation-vi",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.3,
+  "weight": 5.7,
+  "baseStats": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 150,
+    "special-attack": 50,
+    "special-defense": 150,
+    "speed": 50
+  },
+  "flavorText": "Some say that deep beneath the surface of the\nworld, a pack of Carbink live with their queen in\na kingdom of jewels.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "rock-throw": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "light-screen": [
+      "level-up",
+      "machine"
+    ],
+    "reflect": [
+      "level-up",
+      "machine"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "sharpen": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "level-up",
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "skill-swap": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "power-gem": [
+      "level-up"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "stone-edge": [
+      "level-up",
+      "machine"
+    ],
+    "stealth-rock": [
+      "level-up"
+    ],
+    "guard-split": [
+      "level-up"
+    ],
+    "smack-down": [
+      "level-up",
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "moonblast": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "clear-body": 1,
+    "sturdy": "hidden"
+  }
+}

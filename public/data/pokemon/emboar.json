@@ -1,0 +1,232 @@
+{
+  "name": "emboar",
+  "caption": "Emboar",
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "species": "emboar",
+  "gen": "generation-v",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.6,
+  "weight": 150,
+  "baseStats": {
+    "hp": 110,
+    "attack": 123,
+    "defense": 65,
+    "special-attack": 100,
+    "special-defense": 65,
+    "speed": 65
+  },
+  "evolutionChain": {
+    "species": "tepig",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "pignite",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "emboar",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It can throw a fire punch by setting its fists on fire\nwith its fiery chin. It cares deeply about its friends.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "roar": [
+      "level-up",
+      "machine"
+    ],
+    "ember": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "level-up",
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "smog": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "rollout": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "arm-thrust": [
+      "level-up"
+    ],
+    "blast-burn": [
+      "tutor"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "odor-sleuth": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "hammer-arm": [
+      "level-up"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "assurance": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "flare-blitz": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "head-smash": [
+      "level-up"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "flame-charge": [
+      "level-up",
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "fire-pledge": [
+      "tutor"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "heat-crash": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "blaze": 1,
+    "reckless": "hidden"
+  }
+}

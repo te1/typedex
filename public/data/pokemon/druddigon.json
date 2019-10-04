@@ -1,0 +1,231 @@
+{
+  "name": "druddigon",
+  "caption": "Druddigon",
+  "types": [
+    "dragon"
+  ],
+  "species": "druddigon",
+  "gen": "generation-v",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.6,
+  "weight": 139,
+  "baseStats": {
+    "hp": 77,
+    "attack": 120,
+    "defense": 90,
+    "special-attack": 60,
+    "special-defense": 90,
+    "speed": 48
+  },
+  "flavorText": "The red skin on its face is harder than rock.\nIn narrow caves, it squares off against its\nenemies and charges face-first right into them.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "dragon-rage": [
+      "level-up"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "glare": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "feint-attack": [
+      "egg"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "outrage": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "egg"
+    ],
+    "iron-tail": [
+      "egg"
+    ],
+    "metal-claw": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "superpower": [
+      "level-up"
+    ],
+    "revenge": [
+      "level-up"
+    ],
+    "snatch": [
+      "egg"
+    ],
+    "crush-claw": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "dragon-claw": [
+      "level-up",
+      "machine"
+    ],
+    "poison-tail": [
+      "egg"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "sucker-punch": [
+      "egg"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "thunder-fang": [
+      "egg"
+    ],
+    "fire-fang": [
+      "egg"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "rock-climb": [
+      "level-up"
+    ],
+    "draco-meteor": [
+      "tutor"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "hone-claws": [
+      "level-up"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "chip-away": [
+      "level-up"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "dragon-tail": [
+      "level-up",
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "rough-skin": 1,
+    "sheer-force": 2,
+    "mold-breaker": "hidden"
+  }
+}

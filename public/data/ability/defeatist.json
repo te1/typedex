@@ -1,0 +1,14 @@
+{
+  "name": "defeatist",
+  "caption": "Defeatist",
+  "gen": "generation-v",
+  "effect": {
+    "short": "Halves [Attack]{mechanic:attack} and [Special Attack]{mechanic:special-attack} at 50% max [HP]{mechanic:hp} or less.",
+    "full": "This Pokémon's [Attack]{mechanic:attack} and [Special Attack]{mechanic:special-attack} are halved when it has half its [HP]{mechanic:hp} or less."
+  },
+  "flavorText": "Halves the Pokémon’s Attack and Sp. Atk stats\nwhen its HP becomes half or less.",
+  "pokemon": {
+    "archen": 1,
+    "archeops": 1
+  }
+}

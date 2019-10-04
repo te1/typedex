@@ -1,0 +1,216 @@
+{
+  "name": "purrloin",
+  "caption": "Purrloin",
+  "types": [
+    "dark"
+  ],
+  "species": "purrloin",
+  "gen": "generation-v",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 10.1,
+  "baseStats": {
+    "hp": 41,
+    "attack": 50,
+    "defense": 37,
+    "special-attack": 50,
+    "special-defense": 37,
+    "speed": 66
+  },
+  "evolutionChain": {
+    "species": "purrloin",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "liepard",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Its cute act is a ruse. When victims let down their\nguard, they find their items taken. It attacks with\nsharp claws.",
+  "moves": {
+    "pay-day": [
+      "egg"
+    ],
+    "scratch": [
+      "level-up"
+    ],
+    "sand-attack": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "egg"
+    ],
+    "charm": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "encore": [
+      "egg"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "fake-out": [
+      "level-up"
+    ],
+    "torment": [
+      "level-up",
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "assist": [
+      "level-up"
+    ],
+    "yawn": [
+      "egg"
+    ],
+    "snatch": [
+      "level-up"
+    ],
+    "fake-tears": [
+      "egg"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "covet": [
+      "egg"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "assurance": [
+      "level-up"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "nasty-plot": [
+      "level-up"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "captivate": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "hone-claws": [
+      "level-up"
+    ],
+    "foul-play": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "copycat": [
+      "egg"
+    ],
+    "play-rough": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "limber": 1,
+    "unburden": 2,
+    "prankster": "hidden"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "comatose",
+  "caption": "Comatose",
+  "gen": "generation-vii",
+  "effect": {
+    "short": "This Pokémon always  acts as though it were Asleep.",
+    "full": "This Pokémon always acts as though it were Asleep.  It cannot be given another status ailment; it's unaffected by []{move:yawn}; it can use []{move:sleep-talk}; and so on."
+  },
+  "flavorText": "It’s always drowsing and will never wake up.\nIt can attack without waking up.",
+  "pokemon": {
+    "komala": 1
+  }
+}

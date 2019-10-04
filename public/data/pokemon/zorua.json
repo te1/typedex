@@ -1,0 +1,205 @@
+{
+  "name": "zorua",
+  "caption": "Zorua",
+  "types": [
+    "dark"
+  ],
+  "species": "zorua",
+  "gen": "generation-v",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.7,
+  "weight": 12.5,
+  "baseStats": {
+    "hp": 40,
+    "attack": 65,
+    "defense": 40,
+    "special-attack": 80,
+    "special-defense": 40,
+    "speed": 65
+  },
+  "evolutionChain": {
+    "species": "zorua",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "zoroark",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "This Pokémon has a cowardly disposition, so\nwhen it’s not around friends, it basically\nalways stays transformed as something else.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "detect": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "torment": [
+      "level-up",
+      "machine"
+    ],
+    "memento": [
+      "egg"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "imprison": [
+      "level-up"
+    ],
+    "snatch": [
+      "egg"
+    ],
+    "fake-tears": [
+      "level-up"
+    ],
+    "extrasensory": [
+      "egg"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "embargo": [
+      "level-up",
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "punishment": [
+      "level-up"
+    ],
+    "sucker-punch": [
+      "egg"
+    ],
+    "dark-pulse": [
+      "egg",
+      "machine"
+    ],
+    "nasty-plot": [
+      "level-up"
+    ],
+    "captivate": [
+      "egg"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "foul-play": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "night-daze": [
+      "level-up"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "copycat": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "illusion": 1
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "name": "regigigas",
+  "caption": "Regigigas",
+  "types": [
+    "normal"
+  ],
+  "species": "regigigas",
+  "gen": "generation-iv",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 3.7,
+  "weight": 420,
+  "baseStats": {
+    "hp": 110,
+    "attack": 160,
+    "defense": 110,
+    "special-attack": 80,
+    "special-defense": 110,
+    "speed": 100
+  },
+  "flavorText": "It is said to have made Pokémon that look like\nitself from a special ice mountain, rocks,\nand magma.",
+  "moves": {
+    "fire-punch": [
+      "level-up"
+    ],
+    "ice-punch": [
+      "level-up"
+    ],
+    "thunder-punch": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "knock-off": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "level-up",
+      "machine"
+    ],
+    "zen-headbutt": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "crush-grip": [
+      "level-up"
+    ],
+    "dizzy-punch": [
+      "level-up"
+    ],
+    "foresight": [
+      "level-up"
+    ],
+    "revenge": [
+      "level-up"
+    ],
+    "payback": [
+      "level-up",
+      "machine"
+    ],
+    "wide-guard": [
+      "level-up"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "heavy-slam": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "slow-start": 1
+  }
+}

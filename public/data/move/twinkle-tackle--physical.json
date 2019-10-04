@@ -1,0 +1,20 @@
+{
+  "name": "twinkle-tackle--physical",
+  "caption": "Twinkle Tackle",
+  "type": "fairy",
+  "damageCategory": "physical",
+  "power": null,
+  "accuracy": null,
+  "pp": 1,
+  "z": true,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The user creates a very charming space using its\nZ-Power and totally toys with the target. The power\nvaries, depending on the original move.",
+  "flags": [],
+  "target": "selected-pokemon",
+  "pokemon": {}
+}

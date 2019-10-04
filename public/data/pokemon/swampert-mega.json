@@ -1,0 +1,201 @@
+{
+  "name": "swampert-mega",
+  "caption": "Mega Swampert",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "species": "swampert",
+  "gen": "generation-iii",
+  "color": "blue",
+  "default": false,
+  "alternate": false,
+  "mega": true,
+  "height": 1.9,
+  "weight": 102,
+  "baseStats": {
+    "hp": 100,
+    "attack": 150,
+    "defense": 110,
+    "special-attack": 95,
+    "special-defense": 110,
+    "speed": 70
+  },
+  "evolutionChain": {
+    "species": "mudkip",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "marshtomp",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "swampert",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Swampert is very strong. It has enough power to easily drag a\nboulder weighing more than a ton. This Pokémon also has\npowerful vision that lets it see even in murky water.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "level-up",
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "foresight": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "endeavor": [
+      "level-up"
+    ],
+    "hydro-cannon": [
+      "tutor"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "muddy-water": [
+      "level-up"
+    ],
+    "mud-shot": [
+      "level-up"
+    ],
+    "hammer-arm": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "mud-bomb": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "water-pledge": [
+      "tutor"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "swift-swim": 1
+  }
+}

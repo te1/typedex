@@ -1,0 +1,88 @@
+{
+  "name": "flatter",
+  "caption": "Flatter",
+  "type": "dark",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Raises the target's Special Attack by one stage and confuses the target.",
+    "full": "Raises the target's [Special Attack]{mechanic:special-attack} by one [stage]{mechanic:stage}, then [confuses]{mechanic:confuses} it."
+  },
+  "flavorText": "Flattery is used to confuse the target. However,\nthis also raises the target’s Sp. Atk stat.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "nidoran-f": [
+      "level-up"
+    ],
+    "nidorina": [
+      "level-up"
+    ],
+    "nidoran-m": [
+      "level-up"
+    ],
+    "nidorino": [
+      "level-up"
+    ],
+    "drowzee": [
+      "egg"
+    ],
+    "totodile": [
+      "egg"
+    ],
+    "mareep": [
+      "egg"
+    ],
+    "murkrow": [
+      "egg"
+    ],
+    "sableye": [
+      "egg"
+    ],
+    "illumise": [
+      "level-up"
+    ],
+    "pachirisu": [
+      "egg"
+    ],
+    "croagunk": [
+      "level-up"
+    ],
+    "toxicroak": [
+      "level-up"
+    ],
+    "woobat": [
+      "egg"
+    ],
+    "gothita": [
+      "level-up"
+    ],
+    "gothorita": [
+      "level-up"
+    ],
+    "gothitelle": [
+      "level-up"
+    ],
+    "vullaby": [
+      "level-up"
+    ],
+    "mandibuzz": [
+      "level-up"
+    ],
+    "inkay": [
+      "egg"
+    ],
+    "tapu-lele": [
+      "level-up"
+    ]
+  }
+}

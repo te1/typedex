@@ -1,0 +1,30 @@
+{
+  "name": "shore-up",
+  "caption": "Shore Up",
+  "type": "ground",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Heals the user for ½ its max HP, or ⅔ during a sandstorm.",
+    "full": "Heals the user for ½ its max HP.  During a []{move:sandstorm}, the healing is increased to ⅔."
+  },
+  "flavorText": "The user regains up to half of its max HP. It restores\nmore HP in a sandstorm.",
+  "flags": [
+    "snatch",
+    "heal"
+  ],
+  "target": "user",
+  "pokemon": {
+    "sandygast": [
+      "level-up"
+    ],
+    "palossand": [
+      "level-up"
+    ]
+  }
+}

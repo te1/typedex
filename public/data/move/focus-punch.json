@@ -1,0 +1,97 @@
+{
+  "name": "focus-punch",
+  "caption": "Focus Punch",
+  "type": "fighting",
+  "damageCategory": "physical",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": -3,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "If the user takes damage before attacking, the attack is canceled.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  If the user takes damage this turn before hitting, this move will [fail]{mechanic:fail}.\n\nThis move cannot be copied by []{move:mirror-move}, nor selected by []{move:assist}, []{move:metronome}, or []{move:sleep-talk}."
+  },
+  "flavorText": "The user focuses its mind before launching a punch.\nThis move fails if the user is hit before it is used.",
+  "flags": [
+    "contact",
+    "protect",
+    "punch"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "charmander": [
+      "egg"
+    ],
+    "mankey": [
+      "egg"
+    ],
+    "geodude": [
+      "egg"
+    ],
+    "hitmonchan": [
+      "level-up"
+    ],
+    "kangaskhan": [
+      "egg"
+    ],
+    "ledyba": [
+      "egg"
+    ],
+    "snubbull": [
+      "egg"
+    ],
+    "heracross": [
+      "egg"
+    ],
+    "elekid": [
+      "egg"
+    ],
+    "shroomish": [
+      "egg"
+    ],
+    "vigoroth": [
+      "level-up"
+    ],
+    "makuhita": [
+      "egg"
+    ],
+    "chimchar": [
+      "egg"
+    ],
+    "buneary": [
+      "egg"
+    ],
+    "timburr": [
+      "level-up"
+    ],
+    "gurdurr": [
+      "level-up"
+    ],
+    "conkeldurr": [
+      "level-up"
+    ],
+    "darumaka": [
+      "egg"
+    ],
+    "scraggy": [
+      "level-up"
+    ],
+    "scrafty": [
+      "level-up"
+    ],
+    "cubchoo": [
+      "egg"
+    ],
+    "golett": [
+      "level-up"
+    ],
+    "golurk": [
+      "level-up"
+    ],
+    "buzzwole": [
+      "level-up"
+    ]
+  }
+}

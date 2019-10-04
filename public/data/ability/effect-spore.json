@@ -1,0 +1,21 @@
+{
+  "name": "effect-spore",
+  "caption": "Effect Spore",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a 30% chance of inflcting either [paralysis]{mechanic:paralysis}, [poison]{mechanic:poison}, or [sleep]{mechanic:sleep} on attacking Pokémon on contact.",
+    "full": "Whenever a move makes contact with this Pokémon, the move's user has a 30% chance of being [paralyzed]{mechanic:paralysis}, [poisoned]{mechanic:poison}, or put to [sleep]{mechanic:sleep}, chosen at random.\n\nNothing is done to compensate if the move's user is immune to one of these ailments; there is simply a lower chance that the move's user will be affected."
+  },
+  "flavorText": "Contact with the Pokémon may inflict poison, sleep,\nor paralysis on its attacker.",
+  "pokemon": {
+    "vileplume": "hidden",
+    "paras": 1,
+    "parasect": 1,
+    "shroomish": 1,
+    "breloom": 1,
+    "foongus": 1,
+    "amoonguss": 1,
+    "morelull": 2,
+    "shiinotic": 2
+  }
+}

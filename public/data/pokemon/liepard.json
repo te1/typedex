@@ -1,0 +1,193 @@
+{
+  "name": "liepard",
+  "caption": "Liepard",
+  "types": [
+    "dark"
+  ],
+  "species": "liepard",
+  "gen": "generation-v",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.1,
+  "weight": 37.5,
+  "baseStats": {
+    "hp": 64,
+    "attack": 88,
+    "defense": 50,
+    "special-attack": 88,
+    "special-defense": 50,
+    "speed": 106
+  },
+  "evolutionChain": {
+    "species": "purrloin",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "liepard",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Their beautiful form comes from the muscles they\nhave developed. They run silently in the night.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "sand-attack": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "fake-out": [
+      "level-up"
+    ],
+    "torment": [
+      "level-up",
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "assist": [
+      "level-up"
+    ],
+    "snatch": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "assurance": [
+      "level-up"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "nasty-plot": [
+      "level-up"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "hone-claws": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "play-rough": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "limber": 1,
+    "unburden": 2,
+    "prankster": "hidden"
+  }
+}

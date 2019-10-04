@@ -1,0 +1,204 @@
+{
+  "name": "glameow",
+  "caption": "Glameow",
+  "types": [
+    "normal"
+  ],
+  "species": "glameow",
+  "gen": "generation-iv",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 3.9,
+  "baseStats": {
+    "hp": 49,
+    "attack": 55,
+    "defense": 42,
+    "special-attack": 42,
+    "special-defense": 37,
+    "speed": 85
+  },
+  "evolutionChain": {
+    "species": "glameow",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "purugly",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It claws if displeased and purrs when affectionate.\nIts fickleness is very popular among some.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "sand-attack": [
+      "egg"
+    ],
+    "tail-whip": [
+      "egg"
+    ],
+    "bite": [
+      "egg"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "hypnosis": [
+      "level-up"
+    ],
+    "quick-attack": [
+      "egg"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "charm": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "level-up",
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "fake-out": [
+      "level-up"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "assist": [
+      "level-up"
+    ],
+    "snatch": [
+      "egg"
+    ],
+    "fake-tears": [
+      "egg"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "assurance": [
+      "egg"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "captivate": [
+      "level-up"
+    ],
+    "last-resort": [
+      "egg"
+    ],
+    "flail": [
+      "egg"
+    ],
+    "wake-up-slap": [
+      "egg"
+    ],
+    "hone-claws": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "play-rough": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "limber": 1,
+    "own-tempo": 2,
+    "keen-eye": "hidden"
+  }
+}

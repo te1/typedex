@@ -1,0 +1,224 @@
+{
+  "name": "nidoking",
+  "caption": "Nidoking",
+  "types": [
+    "poison",
+    "ground"
+  ],
+  "species": "nidoking",
+  "gen": "generation-i",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.4,
+  "weight": 62,
+  "baseStats": {
+    "hp": 81,
+    "attack": 102,
+    "defense": 77,
+    "special-attack": 85,
+    "special-defense": 75,
+    "speed": 85
+  },
+  "evolutionChain": {
+    "species": "nidoran-m",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "nidorino",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "nidoking",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Nidoking’s thick tail packs enormously destructive power.\nWith one swing, it can topple a metal transmission tower.\nOnce this Pokémon goes on a rampage, there is no stopping it.",
+  "moves": {
+    "thrash": [
+      "level-up"
+    ],
+    "poison-sting": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "double-kick": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "megahorn": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "earth-power": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "chip-away": [
+      "level-up"
+    ],
+    "quash": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "dragon-tail": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "smart-strike": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "poison-point": 1,
+    "rivalry": 2,
+    "sheer-force": "hidden"
+  }
+}

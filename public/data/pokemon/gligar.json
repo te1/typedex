@@ -1,0 +1,247 @@
+{
+  "name": "gligar",
+  "caption": "Gligar",
+  "types": [
+    "ground",
+    "flying"
+  ],
+  "species": "gligar",
+  "gen": "generation-ii",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.1,
+  "weight": 64.8,
+  "baseStats": {
+    "hp": 65,
+    "attack": 75,
+    "defense": 105,
+    "special-attack": 35,
+    "special-defense": 65,
+    "speed": 85
+  },
+  "evolutionChain": {
+    "species": "gligar",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "gliscor",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Gligar glides through the air without a sound as if it were\nsliding. This Pokémon hangs on to the face of its foe using\nits clawed hind legs and the large pincers on its forelegs, then\ninjects the prey with its poison barb.",
+  "moves": {
+    "guillotine": [
+      "level-up"
+    ],
+    "razor-wind": [
+      "egg"
+    ],
+    "wing-attack": [
+      "egg"
+    ],
+    "sand-attack": [
+      "level-up"
+    ],
+    "poison-sting": [
+      "level-up"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "fury-cutter": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "metal-claw": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "sand-tomb": [
+      "egg"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "double-edge": [
+      "egg"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "agility": [
+      "egg"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "baton-pass": [
+      "egg"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "knock-off": [
+      "level-up"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "feint": [
+      "egg"
+    ],
+    "u-turn": [
+      "level-up",
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "night-slash": [
+      "egg"
+    ],
+    "x-scissor": [
+      "level-up",
+      "machine"
+    ],
+    "cross-poison": [
+      "egg"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "power-trick": [
+      "egg"
+    ],
+    "poison-tail": [
+      "egg"
+    ],
+    "rock-climb": [
+      "egg"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "level-up",
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "sky-uppercut": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "hyper-cutter": 1,
+    "sand-veil": 2,
+    "immunity": "hidden"
+  }
+}

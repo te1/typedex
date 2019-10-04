@@ -1,0 +1,205 @@
+{
+  "name": "axew",
+  "caption": "Axew",
+  "types": [
+    "dragon"
+  ],
+  "species": "axew",
+  "gen": "generation-v",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 18,
+  "baseStats": {
+    "hp": 46,
+    "attack": 87,
+    "defense": 60,
+    "special-attack": 30,
+    "special-defense": 40,
+    "speed": 57
+  },
+  "evolutionChain": {
+    "species": "axew",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "fraxure",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "haxorus",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "They use their tusks to crush the berries they eat.\nRepeated regrowth makes their tusks strong\nand sharp.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "guillotine": [
+      "level-up"
+    ],
+    "razor-wind": [
+      "egg"
+    ],
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "dragon-rage": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "egg"
+    ],
+    "focus-energy": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "reversal": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "outrage": [
+      "level-up"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "false-swipe": [
+      "level-up",
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "iron-tail": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "endeavor": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "dragon-claw": [
+      "level-up",
+      "machine"
+    ],
+    "dragon-dance": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "assurance": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "night-slash": [
+      "egg"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "dragon-pulse": [
+      "level-up",
+      "egg"
+    ],
+    "giga-impact": [
+      "level-up",
+      "machine"
+    ],
+    "draco-meteor": [
+      "tutor"
+    ],
+    "round": [
+      "machine"
+    ],
+    "dual-chop": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "rivalry": 1,
+    "mold-breaker": 2,
+    "unnerve": "hidden"
+  }
+}

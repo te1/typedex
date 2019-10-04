@@ -1,0 +1,226 @@
+{
+  "name": "kecleon",
+  "caption": "Kecleon",
+  "types": [
+    "normal"
+  ],
+  "species": "kecleon",
+  "gen": "generation-iii",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1,
+  "weight": 22,
+  "baseStats": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 70,
+    "special-attack": 60,
+    "special-defense": 120,
+    "speed": 40
+  },
+  "flavorText": "It changes its hue to blend into its surroundings.\nIf no one takes notice of it for too long, it will\npout and never reveal itself.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "bind": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "disable": [
+      "egg"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "psybeam": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "lick": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "level-up",
+      "machine"
+    ],
+    "thief": [
+      "level-up",
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "trick": [
+      "egg"
+    ],
+    "magic-coat": [
+      "egg"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "skill-swap": [
+      "egg"
+    ],
+    "snatch": [
+      "egg"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "dizzy-punch": [
+      "egg"
+    ],
+    "fake-out": [
+      "egg"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "nasty-plot": [
+      "egg"
+    ],
+    "shadow-claw": [
+      "level-up",
+      "machine"
+    ],
+    "shadow-sneak": [
+      "level-up"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "feint": [
+      "level-up"
+    ],
+    "recover": [
+      "egg"
+    ],
+    "synchronoise": [
+      "level-up"
+    ],
+    "foul-play": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "camouflage": [
+      "level-up",
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "power-up-punch": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "color-change": 1,
+    "protean": "hidden"
+  }
+}

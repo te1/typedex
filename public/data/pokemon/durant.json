@@ -1,0 +1,171 @@
+{
+  "name": "durant",
+  "caption": "Durant",
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "species": "durant",
+  "gen": "generation-v",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.3,
+  "weight": 33,
+  "baseStats": {
+    "hp": 58,
+    "attack": 109,
+    "defense": 112,
+    "special-attack": 48,
+    "special-defense": 48,
+    "speed": 109
+  },
+  "flavorText": "Individuals each play different roles in driving\nHeatmor, their natural predator, away from\ntheir colony.",
+  "moves": {
+    "vice-grip": [
+      "level-up"
+    ],
+    "guillotine": [
+      "level-up"
+    ],
+    "sand-attack": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "dig": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "screech": [
+      "egg"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "egg"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "fury-cutter": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "baton-pass": [
+      "egg"
+    ],
+    "metal-claw": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "metal-sound": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "x-scissor": [
+      "level-up",
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "thunder-fang": [
+      "egg"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "rock-climb": [
+      "egg"
+    ],
+    "iron-head": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "bug-bite": [
+      "level-up"
+    ],
+    "entrainment": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "swarm": 1,
+    "hustle": 2,
+    "truant": "hidden"
+  }
+}

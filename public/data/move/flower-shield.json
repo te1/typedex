@@ -1,0 +1,35 @@
+{
+  "name": "flower-shield",
+  "caption": "Flower Shield",
+  "type": "fairy",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Raises the Defense of all []{type:grass} Pokémon in battle.",
+    "full": "Raises the Defense of all []{type:grass} Pokémon in battle."
+  },
+  "flavorText": "The user raises the Defense stat of all Grass-type\nPokémon in battle with a mysterious power.",
+  "flags": [
+    "distance"
+  ],
+  "target": "all-pokemon",
+  "pokemon": {
+    "sunflora": [
+      "level-up"
+    ],
+    "cherubi": [
+      "egg"
+    ],
+    "florges": [
+      "level-up"
+    ],
+    "comfey": [
+      "level-up"
+    ]
+  }
+}

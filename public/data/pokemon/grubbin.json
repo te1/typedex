@@ -1,0 +1,160 @@
+{
+  "name": "grubbin",
+  "caption": "Grubbin",
+  "types": [
+    "bug"
+  ],
+  "species": "grubbin",
+  "gen": "generation-vii",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 4.4,
+  "baseStats": {
+    "hp": 47,
+    "attack": 62,
+    "defense": 45,
+    "special-attack": 55,
+    "special-defense": 45,
+    "speed": 46
+  },
+  "evolutionChain": {
+    "species": "grubbin",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "charjabug",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "vikavolt",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "If you find its nest, you shouldn’t stick your\nhand inside. You’ll get bitten by an\nirritated Grubbin.",
+  "moves": {
+    "vice-grip": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "string-shot": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "dig": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "egg"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "spark": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "mud-shot": [
+      "egg"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "x-scissor": [
+      "level-up",
+      "machine"
+    ],
+    "bug-bite": [
+      "level-up"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "level-up",
+      "machine"
+    ],
+    "volt-switch": [
+      "machine"
+    ],
+    "electroweb": [
+      "egg"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "swarm": 1
+  }
+}

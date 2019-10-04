@@ -1,0 +1,181 @@
+{
+  "name": "omastar",
+  "caption": "Omastar",
+  "types": [
+    "rock",
+    "water"
+  ],
+  "species": "omastar",
+  "gen": "generation-i",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1,
+  "weight": 35,
+  "baseStats": {
+    "hp": 70,
+    "attack": 60,
+    "defense": 125,
+    "special-attack": 115,
+    "special-defense": 70,
+    "speed": 55
+  },
+  "evolutionChain": {
+    "species": "omanyte",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "omastar",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Its heavy shell is thought to be the reason this\nancient Pokémon died out. It’s apparently a\ndistant ancestor of Octillery.",
+  "moves": {
+    "leer": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "withdraw": [
+      "level-up"
+    ],
+    "spike-cannon": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "constrict": [
+      "level-up"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "rollout": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "tickle": [
+      "level-up"
+    ],
+    "mud-shot": [
+      "level-up"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "rock-blast": [
+      "level-up"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "brine": [
+      "level-up"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "shell-smash": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "swift-swim": 1,
+    "shell-armor": 2,
+    "weak-armor": "hidden"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "name": "xerneas",
+  "caption": "Xerneas",
+  "types": [
+    "fairy"
+  ],
+  "species": "xerneas",
+  "gen": "generation-vi",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": "Neutral Mode",
+  "height": 3,
+  "weight": 215,
+  "baseStats": {
+    "hp": 126,
+    "attack": 131,
+    "defense": 95,
+    "special-attack": 131,
+    "special-defense": 98,
+    "speed": 99
+  },
+  "flavorText": "Legends say it can share eternal life.\nIt slept for a thousand years in the form\nof a tree before its revival.",
+  "moves": {
+    "take-down": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "aurora-beam": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "level-up",
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "outrage": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "megahorn": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "level-up",
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "level-up",
+      "machine"
+    ],
+    "ingrain": [
+      "level-up"
+    ],
+    "aromatherapy": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "gravity": [
+      "level-up"
+    ],
+    "close-combat": [
+      "level-up"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "level-up",
+      "machine"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "heal-pulse": [
+      "level-up"
+    ],
+    "horn-leech": [
+      "level-up"
+    ],
+    "misty-terrain": [
+      "level-up"
+    ],
+    "moonblast": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "geomancy": [
+      "level-up"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "fairy-aura": 1
+  }
+}

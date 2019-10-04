@@ -1,0 +1,119 @@
+{
+  "name": "thunder-punch",
+  "caption": "Thunder Punch",
+  "type": "electric",
+  "damageCategory": "physical",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a 10% chance to [paralyze]{mechanic:paralysis} the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 10% chance to [paralyze]{mechanic:paralyze} the target."
+  },
+  "flavorText": "The target is punched with an electrified fist.\nThis may also leave the target with paralysis.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror",
+    "punch"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "abra": [
+      "egg"
+    ],
+    "machop": [
+      "egg"
+    ],
+    "gastly": [
+      "egg"
+    ],
+    "drowzee": [
+      "egg"
+    ],
+    "hitmonchan": [
+      "level-up"
+    ],
+    "electabuzz": [
+      "level-up"
+    ],
+    "dragonite": [
+      "level-up"
+    ],
+    "pichu": [
+      "egg"
+    ],
+    "ampharos": [
+      "level-up"
+    ],
+    "elekid": [
+      "level-up"
+    ],
+    "magby": [
+      "egg"
+    ],
+    "meditite": [
+      "egg"
+    ],
+    "medicham": [
+      "level-up"
+    ],
+    "dusclops": [
+      "level-up"
+    ],
+    "chimchar": [
+      "egg"
+    ],
+    "buneary": [
+      "egg"
+    ],
+    "electivire": [
+      "level-up"
+    ],
+    "magmortar": [
+      "level-up"
+    ],
+    "dusknoir": [
+      "level-up"
+    ],
+    "regigigas": [
+      "level-up"
+    ],
+    "scraggy": [
+      "egg"
+    ],
+    "stufful": [
+      "egg"
+    ],
+    "buzzwole": [
+      "level-up"
+    ],
+    "xurkitree": [
+      "level-up"
+    ],
+    "marshadow": [
+      "level-up"
+    ],
+    "zeraora": [
+      "level-up"
+    ],
+    "ampharos-mega": [
+      "level-up"
+    ],
+    "medicham-mega": [
+      "level-up"
+    ],
+    "geodude-alola": [
+      "level-up"
+    ],
+    "graveler-alola": [
+      "level-up"
+    ],
+    "golem-alola": [
+      "level-up"
+    ]
+  }
+}

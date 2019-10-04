@@ -1,0 +1,232 @@
+{
+  "name": "sableye",
+  "caption": "Sableye",
+  "types": [
+    "dark",
+    "ghost"
+  ],
+  "species": "sableye",
+  "gen": "generation-iii",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 0.5,
+  "weight": 11,
+  "baseStats": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 75,
+    "special-attack": 65,
+    "special-defense": 65,
+    "speed": 50
+  },
+  "flavorText": "It digs through the ground with its hard claws\nand crunches down gems with its thick pointy\nteeth. Carbink is its favorite food.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "night-shade": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "recover": [
+      "egg"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "foresight": [
+      "level-up"
+    ],
+    "detect": [
+      "level-up"
+    ],
+    "mean-look": [
+      "level-up",
+      "egg"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "moonlight": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "level-up",
+      "machine"
+    ],
+    "fake-out": [
+      "level-up"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "knock-off": [
+      "level-up"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "flatter": [
+      "egg"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "punishment": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "power-gem": [
+      "level-up"
+    ],
+    "nasty-plot": [
+      "egg"
+    ],
+    "shadow-claw": [
+      "level-up",
+      "machine"
+    ],
+    "shadow-sneak": [
+      "level-up"
+    ],
+    "zen-headbutt": [
+      "level-up"
+    ],
+    "captivate": [
+      "egg"
+    ],
+    "trick": [
+      "egg"
+    ],
+    "sucker-punch": [
+      "egg"
+    ],
+    "feint": [
+      "egg"
+    ],
+    "metal-burst": [
+      "egg"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "foul-play": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "imprison": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "quash": [
+      "level-up",
+      "machine"
+    ]
+  },
+  "abilities": {
+    "keen-eye": 1,
+    "stall": 2,
+    "prankster": "hidden"
+  }
+}

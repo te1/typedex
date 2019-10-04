@@ -1,0 +1,256 @@
+{
+  "name": "headbutt",
+  "caption": "Headbutt",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a 30% chance to make the target flinch.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 30% chance to make the target []{mechanic:flinch}."
+  },
+  "flavorText": "The user sticks out its head and attacks by charging\nstraight into the target. This may also make the\ntarget flinch.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "diglett": [
+      "egg"
+    ],
+    "slowpoke": [
+      "level-up"
+    ],
+    "slowbro": [
+      "level-up"
+    ],
+    "seel": [
+      "level-up"
+    ],
+    "dewgong": [
+      "level-up"
+    ],
+    "drowzee": [
+      "level-up"
+    ],
+    "hypno": [
+      "level-up"
+    ],
+    "cubone": [
+      "level-up"
+    ],
+    "marowak": [
+      "level-up"
+    ],
+    "sudowoodo": [
+      "egg"
+    ],
+    "slowking": [
+      "level-up"
+    ],
+    "dunsparce": [
+      "egg"
+    ],
+    "snubbull": [
+      "level-up"
+    ],
+    "granbull": [
+      "level-up"
+    ],
+    "mantine": [
+      "level-up"
+    ],
+    "zigzagoon": [
+      "level-up"
+    ],
+    "linoone": [
+      "level-up"
+    ],
+    "shroomish": [
+      "level-up"
+    ],
+    "breloom": [
+      "level-up"
+    ],
+    "aron": [
+      "level-up"
+    ],
+    "lairon": [
+      "level-up"
+    ],
+    "aggron": [
+      "level-up"
+    ],
+    "electrike": [
+      "egg"
+    ],
+    "castform": [
+      "level-up"
+    ],
+    "tropius": [
+      "egg"
+    ],
+    "snorunt": [
+      "level-up"
+    ],
+    "glalie": [
+      "level-up"
+    ],
+    "bagon": [
+      "level-up"
+    ],
+    "shelgon": [
+      "level-up"
+    ],
+    "salamence": [
+      "level-up"
+    ],
+    "bidoof": [
+      "level-up"
+    ],
+    "bibarel": [
+      "level-up"
+    ],
+    "cranidos": [
+      "level-up"
+    ],
+    "rampardos": [
+      "level-up"
+    ],
+    "shieldon": [
+      "egg"
+    ],
+    "buizel": [
+      "egg"
+    ],
+    "bonsly": [
+      "egg"
+    ],
+    "croagunk": [
+      "egg"
+    ],
+    "mantyke": [
+      "level-up"
+    ],
+    "victini": [
+      "level-up"
+    ],
+    "roggenrola": [
+      "level-up"
+    ],
+    "boldore": [
+      "level-up"
+    ],
+    "gigalith": [
+      "level-up"
+    ],
+    "basculin-red-striped": [
+      "level-up"
+    ],
+    "darumaka": [
+      "level-up"
+    ],
+    "darmanitan-standard": [
+      "level-up"
+    ],
+    "scraggy": [
+      "level-up"
+    ],
+    "scrafty": [
+      "level-up"
+    ],
+    "deerling": [
+      "egg"
+    ],
+    "karrablast": [
+      "level-up"
+    ],
+    "escavalier": [
+      "level-up"
+    ],
+    "eelektrik": [
+      "level-up"
+    ],
+    "eelektross": [
+      "level-up"
+    ],
+    "elgyem": [
+      "level-up"
+    ],
+    "beheeyem": [
+      "level-up"
+    ],
+    "pawniard": [
+      "egg"
+    ],
+    "bouffalant": [
+      "egg"
+    ],
+    "deino": [
+      "level-up"
+    ],
+    "zweilous": [
+      "level-up"
+    ],
+    "hydreigon": [
+      "level-up"
+    ],
+    "litleo": [
+      "level-up"
+    ],
+    "pyroar": [
+      "level-up"
+    ],
+    "furfrou": [
+      "level-up"
+    ],
+    "jangmo-o": [
+      "level-up"
+    ],
+    "hakamo-o": [
+      "level-up"
+    ],
+    "kommo-o": [
+      "level-up"
+    ],
+    "nihilego": [
+      "level-up"
+    ],
+    "castform-sunny": [
+      "level-up"
+    ],
+    "castform-rainy": [
+      "level-up"
+    ],
+    "castform-snowy": [
+      "level-up"
+    ],
+    "basculin-blue-striped": [
+      "level-up"
+    ],
+    "darmanitan-zen": [
+      "level-up"
+    ],
+    "aggron-mega": [
+      "level-up"
+    ],
+    "slowbro-mega": [
+      "level-up"
+    ],
+    "glalie-mega": [
+      "level-up"
+    ],
+    "salamence-mega": [
+      "level-up"
+    ],
+    "kommo-o-totem": [
+      "level-up"
+    ]
+  }
+}

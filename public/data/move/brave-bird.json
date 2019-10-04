@@ -1,0 +1,105 @@
+{
+  "name": "brave-bird",
+  "caption": "Brave Bird",
+  "type": "flying",
+  "damageCategory": "physical",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "User receives 1/3 the damage inflicted in recoil.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User takes 1/3 the damage it inflicts in recoil."
+  },
+  "flavorText": "The user tucks in its wings and charges from a low\naltitude. This also damages the user quite a lot.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror",
+    "distance"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "pidgey": [
+      "egg"
+    ],
+    "zubat": [
+      "egg"
+    ],
+    "farfetchd": [
+      "level-up"
+    ],
+    "doduo": [
+      "egg"
+    ],
+    "murkrow": [
+      "egg"
+    ],
+    "skarmory": [
+      "egg"
+    ],
+    "ho-oh": [
+      "level-up"
+    ],
+    "blaziken": [
+      "level-up"
+    ],
+    "taillow": [
+      "level-up",
+      "egg"
+    ],
+    "swellow": [
+      "level-up"
+    ],
+    "starly": [
+      "level-up"
+    ],
+    "staravia": [
+      "level-up"
+    ],
+    "staraptor": [
+      "level-up"
+    ],
+    "ducklett": [
+      "level-up"
+    ],
+    "swanna": [
+      "level-up"
+    ],
+    "rufflet": [
+      "level-up"
+    ],
+    "braviary": [
+      "level-up"
+    ],
+    "vullaby": [
+      "level-up"
+    ],
+    "mandibuzz": [
+      "level-up"
+    ],
+    "talonflame": [
+      "level-up"
+    ],
+    "rowlet": [
+      "level-up"
+    ],
+    "dartrix": [
+      "level-up"
+    ],
+    "decidueye": [
+      "level-up"
+    ],
+    "pikipek": [
+      "egg"
+    ],
+    "tapu-koko": [
+      "level-up"
+    ],
+    "blaziken-mega": [
+      "level-up"
+    ]
+  }
+}

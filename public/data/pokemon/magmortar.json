@@ -1,0 +1,199 @@
+{
+  "name": "magmortar",
+  "caption": "Magmortar",
+  "types": [
+    "fire"
+  ],
+  "species": "magmortar",
+  "gen": "generation-iv",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.6,
+  "weight": 68,
+  "baseStats": {
+    "hp": 75,
+    "attack": 95,
+    "defense": 67,
+    "special-attack": 125,
+    "special-defense": 95,
+    "speed": 83
+  },
+  "evolutionChain": {
+    "species": "magby",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "magmar",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "magmortar",
+            "triggers": [
+              "trade"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "There are still quite a few factories that rely on\nthe flames provided by Magmortar to\nprocess metals.",
+  "moves": {
+    "fire-punch": [
+      "level-up"
+    ],
+    "thunder-punch": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "ember": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "level-up",
+      "machine"
+    ],
+    "hyper-beam": [
+      "level-up",
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "fire-spin": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "smokescreen": [
+      "level-up"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "smog": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "level-up",
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "lava-plume": [
+      "level-up"
+    ],
+    "flame-burst": [
+      "level-up"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "clear-smog": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "flame-body": 1,
+    "vital-spirit": "hidden"
+  }
+}

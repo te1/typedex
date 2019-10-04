@@ -1,0 +1,14 @@
+{
+  "name": "soul-heart",
+  "caption": "Soul-Heart",
+  "gen": "generation-vii",
+  "effect": {
+    "short": "This Pokémon's Special Attack rises by one stage every time any Pokémon faints.",
+    "full": "This Pokémon's Special Attack rises by one stage every time any Pokémon faints."
+  },
+  "flavorText": "Boosts its Sp. Atk stat every time a Pokémon faints.",
+  "pokemon": {
+    "magearna": 1,
+    "magearna-original": 1
+  }
+}

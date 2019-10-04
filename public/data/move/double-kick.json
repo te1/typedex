@@ -1,0 +1,142 @@
+{
+  "name": "double-kick",
+  "caption": "Double Kick",
+  "type": "fighting",
+  "damageCategory": "physical",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 30,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Hits twice in one turn.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Hits twice in one turn."
+  },
+  "flavorText": "The target is quickly kicked twice in succession\nusing both feet.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "nidoran-f": [
+      "level-up"
+    ],
+    "nidorina": [
+      "level-up"
+    ],
+    "nidoqueen": [
+      "level-up"
+    ],
+    "nidoran-m": [
+      "level-up"
+    ],
+    "nidorino": [
+      "level-up"
+    ],
+    "nidoking": [
+      "level-up"
+    ],
+    "growlithe": [
+      "egg"
+    ],
+    "ponyta": [
+      "egg"
+    ],
+    "cubone": [
+      "egg"
+    ],
+    "hitmonlee": [
+      "level-up"
+    ],
+    "jolteon": [
+      "level-up"
+    ],
+    "cyndaquil": [
+      "egg"
+    ],
+    "wooper": [
+      "egg"
+    ],
+    "girafarig": [
+      "egg"
+    ],
+    "stantler": [
+      "egg"
+    ],
+    "treecko": [
+      "egg"
+    ],
+    "combusken": [
+      "level-up"
+    ],
+    "blaziken": [
+      "level-up"
+    ],
+    "zangoose": [
+      "egg"
+    ],
+    "chimchar": [
+      "egg"
+    ],
+    "shinx": [
+      "egg"
+    ],
+    "blitzle": [
+      "egg"
+    ],
+    "sawk": [
+      "level-up"
+    ],
+    "deerling": [
+      "level-up"
+    ],
+    "sawsbuck": [
+      "level-up"
+    ],
+    "cobalion": [
+      "level-up"
+    ],
+    "terrakion": [
+      "level-up"
+    ],
+    "virizion": [
+      "level-up"
+    ],
+    "keldeo-ordinary": [
+      "level-up"
+    ],
+    "bunnelby": [
+      "level-up"
+    ],
+    "diggersby": [
+      "level-up"
+    ],
+    "litten": [
+      "level-up"
+    ],
+    "torracat": [
+      "level-up"
+    ],
+    "incineroar": [
+      "level-up"
+    ],
+    "mudbray": [
+      "level-up"
+    ],
+    "mudsdale": [
+      "level-up"
+    ],
+    "pheromosa": [
+      "level-up"
+    ],
+    "keldeo-resolute": [
+      "level-up"
+    ],
+    "blaziken-mega": [
+      "level-up"
+    ]
+  }
+}

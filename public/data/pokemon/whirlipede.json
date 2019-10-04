@@ -1,0 +1,161 @@
+{
+  "name": "whirlipede",
+  "caption": "Whirlipede",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "species": "whirlipede",
+  "gen": "generation-v",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.2,
+  "weight": 58.5,
+  "baseStats": {
+    "hp": 40,
+    "attack": 55,
+    "defense": 99,
+    "special-attack": 40,
+    "special-defense": 79,
+    "speed": 47
+  },
+  "evolutionChain": {
+    "species": "venipede",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "whirlipede",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "scolipede",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Protected by a hard shell, it spins its body like a\nwheel and crashes furiously into its enemies.",
+  "moves": {
+    "double-edge": [
+      "level-up"
+    ],
+    "poison-sting": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "level-up",
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "rollout": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "poison-tail": [
+      "level-up"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "rock-climb": [
+      "level-up"
+    ],
+    "bug-bite": [
+      "level-up"
+    ],
+    "venoshock": [
+      "level-up",
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "steamroller": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "venom-drench": [
+      "level-up"
+    ],
+    "infestation": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "poison-point": 1,
+    "swarm": 2,
+    "speed-boost": "hidden"
+  }
+}

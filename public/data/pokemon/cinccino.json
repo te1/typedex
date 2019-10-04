@@ -1,0 +1,158 @@
+{
+  "name": "cinccino",
+  "caption": "Cinccino",
+  "types": [
+    "normal"
+  ],
+  "species": "cinccino",
+  "gen": "generation-v",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 7.5,
+  "baseStats": {
+    "hp": 75,
+    "attack": 95,
+    "defense": 60,
+    "special-attack": 65,
+    "special-defense": 60,
+    "speed": 115
+  },
+  "evolutionChain": {
+    "species": "minccino",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "cinccino",
+        "triggers": [
+          "use-item"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "The white parts of its coat are covered in an oil\nsecreted from its body, so this Pokémon can\nslide right away from its enemies’ attacks.",
+  "moves": {
+    "sing": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "helping-hand": [
+      "level-up"
+    ],
+    "tickle": [
+      "level-up"
+    ],
+    "bullet-seed": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "rock-blast": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "tail-slap": [
+      "level-up"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "cute-charm": 1,
+    "technician": 2,
+    "skill-link": "hidden"
+  }
+}

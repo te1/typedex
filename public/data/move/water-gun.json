@@ -1,0 +1,288 @@
+{
+  "name": "water-gun",
+  "caption": "Water Gun",
+  "type": "water",
+  "damageCategory": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 25,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The target is blasted with a forceful shot of water.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "squirtle": [
+      "level-up"
+    ],
+    "wartortle": [
+      "level-up"
+    ],
+    "blastoise": [
+      "level-up"
+    ],
+    "psyduck": [
+      "level-up"
+    ],
+    "golduck": [
+      "level-up"
+    ],
+    "poliwag": [
+      "level-up"
+    ],
+    "poliwhirl": [
+      "level-up"
+    ],
+    "slowpoke": [
+      "level-up"
+    ],
+    "slowbro": [
+      "level-up"
+    ],
+    "shellder": [
+      "level-up"
+    ],
+    "horsea": [
+      "level-up"
+    ],
+    "seadra": [
+      "level-up"
+    ],
+    "staryu": [
+      "level-up"
+    ],
+    "starmie": [
+      "level-up"
+    ],
+    "lapras": [
+      "level-up"
+    ],
+    "vaporeon": [
+      "level-up"
+    ],
+    "omanyte": [
+      "level-up"
+    ],
+    "omastar": [
+      "level-up"
+    ],
+    "totodile": [
+      "level-up"
+    ],
+    "croconaw": [
+      "level-up"
+    ],
+    "feraligatr": [
+      "level-up"
+    ],
+    "chinchou": [
+      "level-up"
+    ],
+    "lanturn": [
+      "level-up"
+    ],
+    "marill": [
+      "level-up"
+    ],
+    "azumarill": [
+      "level-up"
+    ],
+    "wooper": [
+      "level-up"
+    ],
+    "quagsire": [
+      "level-up"
+    ],
+    "slowking": [
+      "level-up"
+    ],
+    "qwilfish": [
+      "level-up"
+    ],
+    "remoraid": [
+      "level-up"
+    ],
+    "octillery": [
+      "level-up"
+    ],
+    "kingdra": [
+      "level-up"
+    ],
+    "mudkip": [
+      "level-up"
+    ],
+    "marshtomp": [
+      "level-up"
+    ],
+    "swampert": [
+      "level-up"
+    ],
+    "lotad": [
+      "egg"
+    ],
+    "wingull": [
+      "level-up"
+    ],
+    "pelipper": [
+      "level-up"
+    ],
+    "azurill": [
+      "level-up"
+    ],
+    "wailmer": [
+      "level-up"
+    ],
+    "wailord": [
+      "level-up"
+    ],
+    "barboach": [
+      "level-up"
+    ],
+    "whiscash": [
+      "level-up"
+    ],
+    "anorith": [
+      "level-up"
+    ],
+    "armaldo": [
+      "level-up"
+    ],
+    "milotic": [
+      "level-up"
+    ],
+    "castform": [
+      "level-up"
+    ],
+    "spheal": [
+      "level-up"
+    ],
+    "sealeo": [
+      "level-up"
+    ],
+    "walrein": [
+      "level-up"
+    ],
+    "clamperl": [
+      "level-up"
+    ],
+    "relicanth": [
+      "level-up"
+    ],
+    "luvdisc": [
+      "level-up"
+    ],
+    "bibarel": [
+      "level-up"
+    ],
+    "buizel": [
+      "level-up"
+    ],
+    "floatzel": [
+      "level-up"
+    ],
+    "finneon": [
+      "level-up"
+    ],
+    "lumineon": [
+      "level-up"
+    ],
+    "oshawott": [
+      "level-up"
+    ],
+    "dewott": [
+      "level-up"
+    ],
+    "samurott": [
+      "level-up"
+    ],
+    "panpour": [
+      "level-up"
+    ],
+    "basculin-red-striped": [
+      "level-up"
+    ],
+    "tirtouga": [
+      "level-up"
+    ],
+    "carracosta": [
+      "level-up"
+    ],
+    "ducklett": [
+      "level-up"
+    ],
+    "swanna": [
+      "level-up"
+    ],
+    "stunfisk": [
+      "level-up"
+    ],
+    "binacle": [
+      "level-up"
+    ],
+    "barbaracle": [
+      "level-up"
+    ],
+    "skrelp": [
+      "level-up"
+    ],
+    "dragalge": [
+      "level-up"
+    ],
+    "clauncher": [
+      "level-up"
+    ],
+    "clawitzer": [
+      "level-up"
+    ],
+    "popplio": [
+      "level-up"
+    ],
+    "brionne": [
+      "level-up"
+    ],
+    "primarina": [
+      "level-up"
+    ],
+    "wishiwashi-solo": [
+      "level-up"
+    ],
+    "bruxish": [
+      "level-up"
+    ],
+    "tapu-fini": [
+      "level-up"
+    ],
+    "castform-sunny": [
+      "level-up"
+    ],
+    "castform-rainy": [
+      "level-up"
+    ],
+    "castform-snowy": [
+      "level-up"
+    ],
+    "basculin-blue-striped": [
+      "level-up"
+    ],
+    "blastoise-mega": [
+      "level-up"
+    ],
+    "swampert-mega": [
+      "level-up"
+    ],
+    "slowbro-mega": [
+      "level-up"
+    ],
+    "wishiwashi-school": [
+      "level-up"
+    ]
+  }
+}

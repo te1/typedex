@@ -1,0 +1,29 @@
+{
+  "name": "sap-sipper",
+  "caption": "Sap Sipper",
+  "gen": "generation-v",
+  "effect": {
+    "short": "Absorbs []{type:grass} moves, raising [Attack]{mechanic:attack} one [stage]{mechanic:stat-modifier}.",
+    "full": "Whenever a []{type:grass}-type move hits this Pokémon, its [Attack]{mechanic:attack} rises one [stage]{mechanic:stat-modifier}, negating any other effect on it."
+  },
+  "flavorText": "Boosts the Attack stat if hit by a Grass-type move,\ninstead of taking damage.",
+  "pokemon": {
+    "marill": "hidden",
+    "azumarill": "hidden",
+    "girafarig": "hidden",
+    "stantler": "hidden",
+    "miltank": "hidden",
+    "azurill": "hidden",
+    "blitzle": "hidden",
+    "zebstrika": "hidden",
+    "deerling": 2,
+    "sawsbuck": 2,
+    "bouffalant": 2,
+    "skiddo": 1,
+    "gogoat": 1,
+    "goomy": 1,
+    "sliggoo": 1,
+    "goodra": 1,
+    "drampa": 2
+  }
+}

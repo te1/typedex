@@ -1,0 +1,94 @@
+{
+  "name": "entrainment",
+  "caption": "Entrainment",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Copies the user's ability onto the target.",
+    "full": "Changes the target's ability to match the user's.  This effect ends when the target leaves battle."
+  },
+  "flavorText": "The user dances with an odd rhythm that compels\nthe target to mimic it, making the target’s Ability\nthe same as the user’s.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "seel": [
+      "egg"
+    ],
+    "remoraid": [
+      "egg"
+    ],
+    "plusle": [
+      "level-up"
+    ],
+    "minun": [
+      "level-up"
+    ],
+    "luvdisc": [
+      "egg"
+    ],
+    "buneary": [
+      "level-up"
+    ],
+    "lopunny": [
+      "level-up"
+    ],
+    "chingling": [
+      "level-up"
+    ],
+    "audino": [
+      "level-up"
+    ],
+    "leavanny": [
+      "level-up"
+    ],
+    "petilil": [
+      "level-up"
+    ],
+    "durant": [
+      "level-up"
+    ],
+    "litleo": [
+      "egg"
+    ],
+    "pancham": [
+      "level-up"
+    ],
+    "pangoro": [
+      "level-up"
+    ],
+    "clauncher": [
+      "egg"
+    ],
+    "hawlucha": [
+      "egg"
+    ],
+    "dedenne": [
+      "level-up"
+    ],
+    "dewpider": [
+      "level-up"
+    ],
+    "araquanid": [
+      "level-up"
+    ],
+    "audino-mega": [
+      "level-up"
+    ],
+    "lopunny-mega": [
+      "level-up"
+    ],
+    "araquanid-totem": [
+      "level-up"
+    ]
+  }
+}

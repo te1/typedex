@@ -1,0 +1,154 @@
+{
+  "name": "cloyster",
+  "caption": "Cloyster",
+  "types": [
+    "water",
+    "ice"
+  ],
+  "species": "cloyster",
+  "gen": "generation-i",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.5,
+  "weight": 132.5,
+  "baseStats": {
+    "hp": 50,
+    "attack": 95,
+    "defense": 180,
+    "special-attack": 85,
+    "special-defense": 45,
+    "speed": 70
+  },
+  "evolutionChain": {
+    "species": "shellder",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "cloyster",
+        "triggers": [
+          "use-item"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "If areas of Cloyster’s very hard shell get\ndamaged, those areas swell, gradually growing\ninto large sharp spikes.",
+  "moves": {
+    "supersonic": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "aurora-beam": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "withdraw": [
+      "level-up"
+    ],
+    "spike-cannon": [
+      "level-up"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "spikes": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "toxic-spikes": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "frost-breath": [
+      "machine"
+    ],
+    "icicle-crash": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "shell-smash": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "smart-strike": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "shell-armor": 1,
+    "skill-link": 2,
+    "overcoat": "hidden"
+  }
+}

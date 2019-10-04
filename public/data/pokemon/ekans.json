@@ -1,0 +1,221 @@
+{
+  "name": "ekans",
+  "caption": "Ekans",
+  "types": [
+    "poison"
+  ],
+  "species": "ekans",
+  "gen": "generation-i",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 2,
+  "weight": 6.9,
+  "baseStats": {
+    "hp": 35,
+    "attack": 60,
+    "defense": 44,
+    "special-attack": 40,
+    "special-defense": 54,
+    "speed": 55
+  },
+  "evolutionChain": {
+    "species": "ekans",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "arbok",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "By dislocating its jaw, it can swallow prey larger\nthan itself. After a meal, it curls up and rests.",
+  "moves": {
+    "wrap": [
+      "level-up"
+    ],
+    "poison-sting": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "acid": [
+      "level-up"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "glare": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "slam": [
+      "egg"
+    ],
+    "haze": [
+      "level-up"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "spite": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "beat-up": [
+      "egg"
+    ],
+    "iron-tail": [
+      "egg"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "stockpile": [
+      "level-up"
+    ],
+    "spit-up": [
+      "level-up"
+    ],
+    "swallow": [
+      "level-up"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "snatch": [
+      "egg"
+    ],
+    "poison-fang": [
+      "egg"
+    ],
+    "disable": [
+      "egg"
+    ],
+    "scary-face": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "poison-tail": [
+      "egg"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "gastro-acid": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "mud-bomb": [
+      "level-up"
+    ],
+    "gunk-shot": [
+      "level-up"
+    ],
+    "switcheroo": [
+      "egg"
+    ],
+    "sucker-punch": [
+      "egg"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "coil": [
+      "level-up"
+    ],
+    "acid-spray": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "belch": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "intimidate": 1,
+    "shed-skin": 2,
+    "unnerve": "hidden"
+  }
+}

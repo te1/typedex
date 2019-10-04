@@ -1,0 +1,15 @@
+{
+  "name": "long-reach",
+  "caption": "Long Reach",
+  "gen": "generation-vii",
+  "effect": {
+    "short": "This Pokémon's moves do not make contact.",
+    "full": "A move used by this Pokémon will not make contact."
+  },
+  "flavorText": "The Pokémon uses its moves without making contact\nwith the target.",
+  "pokemon": {
+    "rowlet": "hidden",
+    "dartrix": "hidden",
+    "decidueye": "hidden"
+  }
+}

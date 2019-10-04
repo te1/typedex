@@ -1,0 +1,213 @@
+{
+  "name": "psybeam",
+  "caption": "Psybeam",
+  "type": "psychic",
+  "damageCategory": "special",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a 10% chance to confuse the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 10% chance to [confuse]{mechanic:confuse} the target."
+  },
+  "flavorText": "The target is attacked with a peculiar ray. This may\nalso leave the target confused.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "butterfree": [
+      "level-up"
+    ],
+    "paras": [
+      "egg"
+    ],
+    "venonat": [
+      "level-up"
+    ],
+    "venomoth": [
+      "level-up"
+    ],
+    "psyduck": [
+      "egg"
+    ],
+    "kadabra": [
+      "level-up"
+    ],
+    "alakazam": [
+      "level-up"
+    ],
+    "drowzee": [
+      "level-up"
+    ],
+    "hypno": [
+      "level-up"
+    ],
+    "koffing": [
+      "egg"
+    ],
+    "goldeen": [
+      "egg"
+    ],
+    "mr-mime": [
+      "level-up"
+    ],
+    "porygon": [
+      "level-up"
+    ],
+    "ledyba": [
+      "egg"
+    ],
+    "spinarak": [
+      "egg"
+    ],
+    "chinchou": [
+      "egg"
+    ],
+    "espeon": [
+      "level-up"
+    ],
+    "misdreavus": [
+      "level-up"
+    ],
+    "girafarig": [
+      "level-up"
+    ],
+    "remoraid": [
+      "level-up"
+    ],
+    "octillery": [
+      "level-up"
+    ],
+    "mantine": [
+      "level-up"
+    ],
+    "porygon2": [
+      "level-up"
+    ],
+    "dustox": [
+      "level-up"
+    ],
+    "surskit": [
+      "egg"
+    ],
+    "spoink": [
+      "level-up"
+    ],
+    "grumpig": [
+      "level-up"
+    ],
+    "spinda": [
+      "level-up"
+    ],
+    "baltoy": [
+      "level-up"
+    ],
+    "claydol": [
+      "level-up"
+    ],
+    "kecleon": [
+      "level-up"
+    ],
+    "wormadam-plant": [
+      "level-up"
+    ],
+    "mothim": [
+      "level-up"
+    ],
+    "mime-jr": [
+      "level-up"
+    ],
+    "finneon": [
+      "egg"
+    ],
+    "porygon-z": [
+      "level-up"
+    ],
+    "munna": [
+      "level-up"
+    ],
+    "musharna": [
+      "level-up"
+    ],
+    "sigilyph": [
+      "level-up"
+    ],
+    "gothita": [
+      "level-up"
+    ],
+    "gothorita": [
+      "level-up"
+    ],
+    "gothitelle": [
+      "level-up"
+    ],
+    "elgyem": [
+      "level-up"
+    ],
+    "beheeyem": [
+      "level-up"
+    ],
+    "meloetta-aria": [
+      "level-up"
+    ],
+    "fennekin": [
+      "level-up"
+    ],
+    "braixen": [
+      "level-up"
+    ],
+    "delphox": [
+      "level-up"
+    ],
+    "vivillon": [
+      "level-up"
+    ],
+    "espurr": [
+      "level-up"
+    ],
+    "meowstic-male": [
+      "level-up"
+    ],
+    "inkay": [
+      "level-up"
+    ],
+    "malamar": [
+      "level-up"
+    ],
+    "hoopa": [
+      "level-up"
+    ],
+    "tapu-lele": [
+      "level-up"
+    ],
+    "magearna": [
+      "level-up"
+    ],
+    "wormadam-sandy": [
+      "level-up"
+    ],
+    "wormadam-trash": [
+      "level-up"
+    ],
+    "meloetta-pirouette": [
+      "level-up"
+    ],
+    "meowstic-female": [
+      "level-up"
+    ],
+    "alakazam-mega": [
+      "level-up"
+    ],
+    "hoopa-unbound": [
+      "level-up"
+    ],
+    "magearna-original": [
+      "level-up"
+    ]
+  }
+}

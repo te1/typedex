@@ -1,0 +1,49 @@
+{
+  "name": "submission",
+  "caption": "Submission",
+  "type": "fighting",
+  "damageCategory": "physical",
+  "power": 80,
+  "accuracy": 80,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "User receives 1/4 the damage it inflicts in recoil.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User takes 1/4 the damage it inflicts in recoil."
+  },
+  "flavorText": "The user grabs the target and recklessly dives for\nthe ground. This also damages the user a little.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "poliwrath": [
+      "level-up"
+    ],
+    "machop": [
+      "level-up"
+    ],
+    "machoke": [
+      "level-up"
+    ],
+    "machamp": [
+      "level-up"
+    ],
+    "pinsir": [
+      "level-up"
+    ],
+    "chimchar": [
+      "egg"
+    ],
+    "drilbur": [
+      "egg"
+    ],
+    "pinsir-mega": [
+      "level-up"
+    ]
+  }
+}

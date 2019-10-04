@@ -1,0 +1,187 @@
+{
+  "name": "floatzel",
+  "caption": "Floatzel",
+  "types": [
+    "water"
+  ],
+  "species": "floatzel",
+  "gen": "generation-iv",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.1,
+  "weight": 33.5,
+  "baseStats": {
+    "hp": 85,
+    "attack": 105,
+    "defense": 55,
+    "special-attack": 85,
+    "special-defense": 50,
+    "speed": 115
+  },
+  "evolutionChain": {
+    "species": "buizel",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "floatzel",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It floats using its well-developed flotation sac.\nIt assists in the rescues of drowning people.",
+  "moves": {
+    "razor-wind": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "sonic-boom": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "swift": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "whirlpool": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "water-sport": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "ice-fang": [
+      "level-up"
+    ],
+    "aqua-jet": [
+      "level-up"
+    ],
+    "aqua-tail": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "double-hit": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "swift-swim": 1,
+    "water-veil": "hidden"
+  }
+}

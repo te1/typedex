@@ -1,0 +1,183 @@
+{
+  "name": "glalie",
+  "caption": "Glalie",
+  "types": [
+    "ice"
+  ],
+  "species": "glalie",
+  "gen": "generation-iii",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 1.5,
+  "weight": 256.5,
+  "baseStats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "special-attack": 80,
+    "special-defense": 80,
+    "speed": 80
+  },
+  "evolutionChain": {
+    "species": "snorunt",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "glalie",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "froslass",
+        "triggers": [
+          "use-item"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It freezes its prey and chews them whole.\nHowever, it prefers to eat Pokémon like Vanillite\nthat are already frozen.",
+  "moves": {
+    "headbutt": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "level-up",
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "level-up",
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "powder-snow": [
+      "level-up"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "icy-wind": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "hail": [
+      "level-up",
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "sheer-cold": [
+      "level-up"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "ice-fang": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "frost-breath": [
+      "level-up",
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "ice-shard": [
+      "level-up"
+    ],
+    "freeze-dry": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "inner-focus": 1,
+    "ice-body": 2,
+    "moody": "hidden"
+  }
+}

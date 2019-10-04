@@ -1,0 +1,177 @@
+{
+  "name": "yungoos",
+  "caption": "Yungoos",
+  "types": [
+    "normal"
+  ],
+  "species": "yungoos",
+  "gen": "generation-vii",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 6,
+  "baseStats": {
+    "hp": 48,
+    "attack": 70,
+    "defense": 30,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 45
+  },
+  "evolutionChain": {
+    "species": "yungoos",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "gumshoos",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Its stomach takes up most of its long torso.\nIt’s a big eater, so the amount Trainers have to\nspend on its food is no laughing matter.",
+  "moves": {
+    "sand-attack": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "thrash": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "rest": [
+      "level-up",
+      "machine"
+    ],
+    "hyper-fang": [
+      "level-up"
+    ],
+    "super-fang": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "revenge": [
+      "egg"
+    ],
+    "yawn": [
+      "level-up"
+    ],
+    "odor-sleuth": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "last-resort": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "thunder-fang": [
+      "egg"
+    ],
+    "ice-fang": [
+      "egg"
+    ],
+    "fire-fang": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "stakeout": 1,
+    "strong-jaw": 2,
+    "adaptability": "hidden"
+  }
+}

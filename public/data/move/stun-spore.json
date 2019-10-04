@@ -1,0 +1,126 @@
+{
+  "name": "stun-spore",
+  "caption": "Stun Spore",
+  "type": "grass",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 75,
+  "pp": 30,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Paralyzes the target.",
+    "full": "[Paralyzes]{mechanic:paralyzes} the target."
+  },
+  "flavorText": "The user scatters a cloud of numbing powder that\nparalyzes the target.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror",
+    "powder"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "butterfree": [
+      "level-up"
+    ],
+    "oddish": [
+      "level-up"
+    ],
+    "gloom": [
+      "level-up"
+    ],
+    "vileplume": [
+      "level-up"
+    ],
+    "paras": [
+      "level-up"
+    ],
+    "parasect": [
+      "level-up"
+    ],
+    "venonat": [
+      "level-up"
+    ],
+    "venomoth": [
+      "level-up"
+    ],
+    "bellsprout": [
+      "level-up"
+    ],
+    "weepinbell": [
+      "level-up"
+    ],
+    "exeggcute": [
+      "level-up"
+    ],
+    "tangela": [
+      "level-up"
+    ],
+    "bellossom": [
+      "level-up"
+    ],
+    "hoppip": [
+      "level-up"
+    ],
+    "skiploom": [
+      "level-up"
+    ],
+    "jumpluff": [
+      "level-up"
+    ],
+    "beautifly": [
+      "level-up"
+    ],
+    "masquerain": [
+      "level-up"
+    ],
+    "shroomish": [
+      "level-up"
+    ],
+    "breloom": [
+      "level-up"
+    ],
+    "roselia": [
+      "level-up"
+    ],
+    "budew": [
+      "level-up"
+    ],
+    "carnivine": [
+      "egg"
+    ],
+    "tangrowth": [
+      "level-up"
+    ],
+    "cottonee": [
+      "level-up"
+    ],
+    "petilil": [
+      "level-up"
+    ],
+    "foongus": [
+      "egg"
+    ],
+    "scatterbug": [
+      "level-up",
+      "egg"
+    ],
+    "vivillon": [
+      "level-up"
+    ],
+    "cutiefly": [
+      "level-up"
+    ],
+    "ribombee": [
+      "level-up"
+    ],
+    "morelull": [
+      "egg"
+    ],
+    "ribombee-totem": [
+      "level-up"
+    ]
+  }
+}

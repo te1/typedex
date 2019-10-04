@@ -1,0 +1,180 @@
+{
+  "name": "buzzwole",
+  "caption": "Buzzwole",
+  "types": [
+    "bug",
+    "fighting"
+  ],
+  "species": "buzzwole",
+  "gen": "generation-vii",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 2.4,
+  "weight": 333.6,
+  "baseStats": {
+    "hp": 107,
+    "attack": 139,
+    "defense": 139,
+    "special-attack": 53,
+    "special-defense": 53,
+    "speed": 79
+  },
+  "flavorText": "Although it’s alien to this world and a danger\nhere, it’s apparently a common organism in the\nworld where it normally lives.",
+  "moves": {
+    "comet-punch": [
+      "level-up"
+    ],
+    "mega-punch": [
+      "level-up"
+    ],
+    "ice-punch": [
+      "level-up"
+    ],
+    "thunder-punch": [
+      "level-up"
+    ],
+    "counter": [
+      "level-up"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "leech-life": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "reversal": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "endure": [
+      "level-up"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "dynamic-punch": [
+      "level-up"
+    ],
+    "vital-throw": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "focus-punch": [
+      "level-up"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "superpower": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "bulk-up": [
+      "level-up",
+      "machine"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "hammer-arm": [
+      "level-up"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "fell-stinger": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "power-up-punch": [
+      "level-up"
+    ],
+    "lunge": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "beast-boost": 1
+  }
+}

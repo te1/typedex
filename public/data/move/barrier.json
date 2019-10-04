@@ -1,0 +1,95 @@
+{
+  "name": "barrier",
+  "caption": "Barrier",
+  "type": "psychic",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Raises the user's Defense by two stages.",
+    "full": "Raises the user's [Defense]{mechanic:defense} by two [stages]{mechanic:stage}."
+  },
+  "flavorText": "The user throws up a sturdy wall that sharply raises\nits Defense stat.",
+  "flags": [
+    "snatch"
+  ],
+  "target": "user",
+  "pokemon": {
+    "abra": [
+      "egg"
+    ],
+    "tentacool": [
+      "level-up"
+    ],
+    "tentacruel": [
+      "level-up"
+    ],
+    "shellder": [
+      "egg"
+    ],
+    "drowzee": [
+      "egg"
+    ],
+    "mr-mime": [
+      "level-up"
+    ],
+    "mewtwo": [
+      "level-up"
+    ],
+    "mew": [
+      "level-up"
+    ],
+    "corsola": [
+      "egg"
+    ],
+    "elekid": [
+      "egg"
+    ],
+    "magby": [
+      "egg"
+    ],
+    "mudkip": [
+      "egg"
+    ],
+    "lileep": [
+      "egg"
+    ],
+    "clamperl": [
+      "egg"
+    ],
+    "mime-jr": [
+      "level-up"
+    ],
+    "magnezone": [
+      "level-up"
+    ],
+    "glaceon": [
+      "level-up"
+    ],
+    "munna": [
+      "egg"
+    ],
+    "elgyem": [
+      "egg"
+    ],
+    "espurr": [
+      "egg"
+    ],
+    "amaura": [
+      "egg"
+    ],
+    "bergmite": [
+      "egg"
+    ],
+    "mewtwo-mega-x": [
+      "level-up"
+    ],
+    "mewtwo-mega-y": [
+      "level-up"
+    ]
+  }
+}

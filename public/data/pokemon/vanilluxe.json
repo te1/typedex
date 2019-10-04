@@ -1,0 +1,170 @@
+{
+  "name": "vanilluxe",
+  "caption": "Vanilluxe",
+  "types": [
+    "ice"
+  ],
+  "species": "vanilluxe",
+  "gen": "generation-v",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.3,
+  "weight": 57.5,
+  "baseStats": {
+    "hp": 71,
+    "attack": 95,
+    "defense": 85,
+    "special-attack": 110,
+    "special-defense": 95,
+    "speed": 79
+  },
+  "evolutionChain": {
+    "species": "vanillite",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "vanillish",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "vanilluxe",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It blasts blizzards from its two mouths. It can\ncreate snow anywhere, so it gets a lot of love\nfrom skiers and snowboarders.",
+  "moves": {
+    "mist": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "level-up",
+      "machine"
+    ],
+    "blizzard": [
+      "level-up",
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "acid-armor": [
+      "level-up"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "icy-wind": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "mirror-coat": [
+      "level-up"
+    ],
+    "uproar": [
+      "level-up"
+    ],
+    "hail": [
+      "level-up",
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "weather-ball": [
+      "level-up"
+    ],
+    "sheer-cold": [
+      "level-up"
+    ],
+    "icicle-spear": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "avalanche": [
+      "level-up"
+    ],
+    "mirror-shot": [
+      "level-up"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "frost-breath": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "freeze-dry": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "ice-body": 1,
+    "snow-warning": 2,
+    "weak-armor": "hidden"
+  }
+}

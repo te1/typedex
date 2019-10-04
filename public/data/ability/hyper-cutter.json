@@ -1,0 +1,23 @@
+{
+  "name": "hyper-cutter",
+  "caption": "Hyper Cutter",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Prevents [Attack]{mechanic:attack} from being [lowered]{mechanic:stat-modifiers} by other Pokémon.",
+    "full": "This Pokémon's [Attack]{mechanic:attack} cannot be [lowered]{mechanic:stat-modifier} by other Pokémon.\n\nThis ability does not prevent any Attack losses other than [stat modifiers]{mechanic:stat-modifiers}, such as the Attack cut from a [burn]{mechanic:burn}.  This Pokémon can still be passed negative Attack modifiers through []{move:heart-swap} or []{move:power-swap}."
+  },
+  "flavorText": "The Pokémon’s proud of its powerful pincers. They\nprevent other Pokémon from lowering its Attack stat.",
+  "pokemon": {
+    "krabby": 1,
+    "kingler": 1,
+    "pinsir": 1,
+    "gligar": 1,
+    "mawile": 1,
+    "trapinch": 1,
+    "corphish": 1,
+    "crawdaunt": 1,
+    "gliscor": 1,
+    "crabrawler": 1,
+    "crabominable": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "guardian-of-alola",
+  "caption": "Guardian of Alola",
+  "type": "fairy",
+  "damageCategory": "special",
+  "power": null,
+  "accuracy": null,
+  "pp": 1,
+  "z": true,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Damages the target for 75% of its remaining HP.",
+    "full": "Inflicts direct damage equal to ¾ of the target's remaining HP."
+  },
+  "flavorText": "The user, the Land Spirit Pokémon, obtains Alola’s\nenergy using its Z-Power and attacks the target with\nfull force. This reduces the target’s HP greatly.",
+  "flags": [],
+  "target": "selected-pokemon",
+  "pokemon": {}
+}

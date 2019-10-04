@@ -1,0 +1,155 @@
+{
+  "name": "quick-guard",
+  "caption": "Quick Guard",
+  "type": "fighting",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "z": false,
+  "priority": 3,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Prevents any priority moves from hitting friendly Pokémon this turn.",
+    "full": "Moves with priority greater than 0 will not hit friendly Pokémon for the remainder of this turn.  If the user is last to act this turn, this move will [fail]{mechanic:fail}.\n\nThis move cannot be selected by []{move:assist} or []{move:metronome}."
+  },
+  "flavorText": "The user protects itself and its allies from\npriority moves.",
+  "flags": [
+    "snatch"
+  ],
+  "target": "users-field",
+  "pokemon": {
+    "zubat": [
+      "level-up"
+    ],
+    "golbat": [
+      "level-up"
+    ],
+    "machop": [
+      "egg"
+    ],
+    "hitmonchan": [
+      "level-up"
+    ],
+    "mr-mime": [
+      "level-up"
+    ],
+    "scyther": [
+      "egg"
+    ],
+    "crobat": [
+      "level-up"
+    ],
+    "aipom": [
+      "egg"
+    ],
+    "hitmontop": [
+      "level-up"
+    ],
+    "treecko": [
+      "level-up"
+    ],
+    "grovyle": [
+      "level-up"
+    ],
+    "sceptile": [
+      "level-up"
+    ],
+    "taillow": [
+      "level-up"
+    ],
+    "swellow": [
+      "level-up"
+    ],
+    "meditite": [
+      "egg"
+    ],
+    "zangoose": [
+      "egg"
+    ],
+    "chimchar": [
+      "egg"
+    ],
+    "lucario": [
+      "level-up"
+    ],
+    "croagunk": [
+      "egg"
+    ],
+    "gallade": [
+      "level-up"
+    ],
+    "sawk": [
+      "level-up"
+    ],
+    "scraggy": [
+      "egg"
+    ],
+    "archen": [
+      "level-up"
+    ],
+    "archeops": [
+      "level-up"
+    ],
+    "escavalier": [
+      "level-up"
+    ],
+    "mienfoo": [
+      "level-up"
+    ],
+    "pawniard": [
+      "egg"
+    ],
+    "cobalion": [
+      "level-up"
+    ],
+    "terrakion": [
+      "level-up"
+    ],
+    "virizion": [
+      "level-up"
+    ],
+    "keldeo-ordinary": [
+      "level-up"
+    ],
+    "chespin": [
+      "egg"
+    ],
+    "fletchling": [
+      "egg"
+    ],
+    "pancham": [
+      "egg"
+    ],
+    "meowstic-male": [
+      "level-up"
+    ],
+    "hawlucha": [
+      "egg"
+    ],
+    "lycanroc-midday": [
+      "level-up"
+    ],
+    "passimian": [
+      "egg"
+    ],
+    "pheromosa": [
+      "level-up"
+    ],
+    "zeraora": [
+      "level-up"
+    ],
+    "keldeo-resolute": [
+      "level-up"
+    ],
+    "lucario-mega": [
+      "level-up"
+    ],
+    "sceptile-mega": [
+      "level-up"
+    ],
+    "gallade-mega": [
+      "level-up"
+    ]
+  }
+}

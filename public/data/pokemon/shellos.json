@@ -1,0 +1,182 @@
+{
+  "name": "shellos",
+  "caption": "Shellos",
+  "types": [
+    "water"
+  ],
+  "species": "shellos",
+  "gen": "generation-iv",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": "West Sea",
+  "height": 0.3,
+  "weight": 6.3,
+  "baseStats": {
+    "hp": 76,
+    "attack": 48,
+    "defense": 48,
+    "special-attack": 57,
+    "special-defense": 62,
+    "speed": 34
+  },
+  "evolutionChain": {
+    "species": "shellos",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "gastrodon",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "While they normally live in the sea, they can\nfunction on land, too, until their skin dries out.",
+  "moves": {
+    "body-slam": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "fissure": [
+      "egg"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "recover": [
+      "level-up"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "amnesia": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "level-up",
+      "machine"
+    ],
+    "rain-dance": [
+      "level-up",
+      "machine"
+    ],
+    "mirror-coat": [
+      "egg"
+    ],
+    "stockpile": [
+      "egg"
+    ],
+    "spit-up": [
+      "egg"
+    ],
+    "swallow": [
+      "egg"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "memento": [
+      "egg"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "yawn": [
+      "egg"
+    ],
+    "mud-sport": [
+      "level-up"
+    ],
+    "muddy-water": [
+      "level-up"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "brine": [
+      "egg"
+    ],
+    "mud-bomb": [
+      "level-up"
+    ],
+    "sludge": [
+      "egg"
+    ],
+    "trump-card": [
+      "egg"
+    ],
+    "mist": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "clear-smog": [
+      "egg"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "acid-armor": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "sticky-hold": 1,
+    "storm-drain": 2,
+    "sand-force": "hidden"
+  }
+}

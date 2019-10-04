@@ -1,0 +1,55 @@
+{
+  "name": "kricketot",
+  "caption": "Kricketot",
+  "types": [
+    "bug"
+  ],
+  "species": "kricketot",
+  "gen": "generation-iv",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.3,
+  "weight": 2.2,
+  "baseStats": {
+    "hp": 37,
+    "attack": 25,
+    "defense": 41,
+    "special-attack": 25,
+    "special-defense": 41,
+    "speed": 25
+  },
+  "evolutionChain": {
+    "species": "kricketot",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "kricketune",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It chats with others using the sounds of its colliding\nantennae. These sounds are fall hallmarks.",
+  "moves": {
+    "growl": [
+      "level-up"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "bug-bite": [
+      "level-up"
+    ],
+    "struggle-bug": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "shed-skin": 1,
+    "run-away": "hidden"
+  }
+}

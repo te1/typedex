@@ -1,0 +1,205 @@
+{
+  "name": "salamence",
+  "caption": "Salamence",
+  "types": [
+    "dragon",
+    "flying"
+  ],
+  "species": "salamence",
+  "gen": "generation-iii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 1.5,
+  "weight": 102.6,
+  "baseStats": {
+    "hp": 95,
+    "attack": 135,
+    "defense": 80,
+    "special-attack": 110,
+    "special-defense": 80,
+    "speed": 100
+  },
+  "evolutionChain": {
+    "species": "bagon",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "shelgon",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "salamence",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Overjoyed at finally being able to fly, it flies all\nover the place and usually doesn’t land until it’s\ncompletely exhausted and needs to sleep.",
+  "moves": {
+    "fly": [
+      "level-up",
+      "machine"
+    ],
+    "headbutt": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "ember": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "level-up",
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "rage": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "dragon-breath": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "dragon-claw": [
+      "level-up",
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "thunder-fang": [
+      "level-up"
+    ],
+    "fire-fang": [
+      "level-up"
+    ],
+    "zen-headbutt": [
+      "level-up"
+    ],
+    "draco-meteor": [
+      "tutor"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "dragon-tail": [
+      "level-up",
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "intimidate": 1,
+    "moxie": "hidden"
+  }
+}

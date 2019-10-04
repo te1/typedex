@@ -1,0 +1,445 @@
+{
+  "name": "brutal-swing",
+  "caption": "Brutal Swing",
+  "type": "dark",
+  "damageCategory": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The user swings its body around violently to inflict\ndamage on everything in its vicinity.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "all-other-pokemon",
+  "pokemon": {
+    "charizard": [
+      "machine"
+    ],
+    "beedrill": [
+      "machine"
+    ],
+    "ekans": [
+      "machine"
+    ],
+    "arbok": [
+      "machine"
+    ],
+    "farfetchd": [
+      "machine"
+    ],
+    "onix": [
+      "machine"
+    ],
+    "cubone": [
+      "machine"
+    ],
+    "marowak": [
+      "machine"
+    ],
+    "lickitung": [
+      "machine"
+    ],
+    "rhydon": [
+      "machine"
+    ],
+    "scyther": [
+      "machine"
+    ],
+    "pinsir": [
+      "machine"
+    ],
+    "gyarados": [
+      "machine"
+    ],
+    "aerodactyl": [
+      "machine"
+    ],
+    "dratini": [
+      "machine"
+    ],
+    "dragonair": [
+      "machine"
+    ],
+    "dragonite": [
+      "machine"
+    ],
+    "mewtwo": [
+      "machine"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "sentret": [
+      "machine"
+    ],
+    "furret": [
+      "machine"
+    ],
+    "ampharos": [
+      "machine"
+    ],
+    "steelix": [
+      "machine"
+    ],
+    "scizor": [
+      "machine"
+    ],
+    "heracross": [
+      "machine"
+    ],
+    "delibird": [
+      "machine"
+    ],
+    "donphan": [
+      "machine"
+    ],
+    "tyranitar": [
+      "machine"
+    ],
+    "sceptile": [
+      "machine"
+    ],
+    "shiftry": [
+      "machine"
+    ],
+    "aggron": [
+      "machine"
+    ],
+    "flygon": [
+      "machine"
+    ],
+    "seviper": [
+      "machine"
+    ],
+    "armaldo": [
+      "machine"
+    ],
+    "milotic": [
+      "machine"
+    ],
+    "tropius": [
+      "machine"
+    ],
+    "absol": [
+      "machine"
+    ],
+    "salamence": [
+      "machine"
+    ],
+    "groudon": [
+      "machine"
+    ],
+    "rayquaza": [
+      "machine"
+    ],
+    "deoxys-normal": [
+      "machine"
+    ],
+    "lopunny": [
+      "machine"
+    ],
+    "garchomp": [
+      "machine"
+    ],
+    "drapion": [
+      "machine"
+    ],
+    "lickilicky": [
+      "machine"
+    ],
+    "rhyperior": [
+      "machine"
+    ],
+    "gliscor": [
+      "machine"
+    ],
+    "giratina-altered": [
+      "machine"
+    ],
+    "serperior": [
+      "machine"
+    ],
+    "excadrill": [
+      "machine"
+    ],
+    "timburr": [
+      "machine"
+    ],
+    "gurdurr": [
+      "machine"
+    ],
+    "conkeldurr": [
+      "machine"
+    ],
+    "krokorok": [
+      "machine"
+    ],
+    "krookodile": [
+      "machine"
+    ],
+    "escavalier": [
+      "machine"
+    ],
+    "haxorus": [
+      "machine"
+    ],
+    "hydreigon": [
+      "machine"
+    ],
+    "tornadus-incarnate": [
+      "machine"
+    ],
+    "thundurus-incarnate": [
+      "machine"
+    ],
+    "reshiram": [
+      "machine"
+    ],
+    "zekrom": [
+      "machine"
+    ],
+    "landorus-incarnate": [
+      "machine"
+    ],
+    "kyurem": [
+      "machine"
+    ],
+    "greninja": [
+      "machine"
+    ],
+    "diggersby": [
+      "machine"
+    ],
+    "honedge": [
+      "machine"
+    ],
+    "doublade": [
+      "machine"
+    ],
+    "aegislash-shield": [
+      "machine"
+    ],
+    "malamar": [
+      "machine"
+    ],
+    "barbaracle": [
+      "machine"
+    ],
+    "heliolisk": [
+      "machine"
+    ],
+    "tyrantrum": [
+      "machine"
+    ],
+    "goodra": [
+      "machine"
+    ],
+    "trevenant": [
+      "machine"
+    ],
+    "incineroar": [
+      "machine"
+    ],
+    "crabrawler": [
+      "machine"
+    ],
+    "crabominable": [
+      "machine"
+    ],
+    "stufful": [
+      "level-up",
+      "machine"
+    ],
+    "bewear": [
+      "level-up",
+      "machine"
+    ],
+    "oranguru": [
+      "machine"
+    ],
+    "passimian": [
+      "machine"
+    ],
+    "turtonator": [
+      "machine"
+    ],
+    "dhelmise": [
+      "machine"
+    ],
+    "hakamo-o": [
+      "machine"
+    ],
+    "kommo-o": [
+      "machine"
+    ],
+    "tapu-bulu": [
+      "machine"
+    ],
+    "nihilego": [
+      "machine"
+    ],
+    "xurkitree": [
+      "machine"
+    ],
+    "celesteela": [
+      "machine"
+    ],
+    "guzzlord": [
+      "level-up",
+      "machine"
+    ],
+    "necrozma": [
+      "machine"
+    ],
+    "stakataka": [
+      "machine"
+    ],
+    "zeraora": [
+      "machine"
+    ],
+    "deoxys-attack": [
+      "machine"
+    ],
+    "deoxys-defense": [
+      "machine"
+    ],
+    "deoxys-speed": [
+      "machine"
+    ],
+    "giratina-origin": [
+      "machine"
+    ],
+    "tornadus-therian": [
+      "machine"
+    ],
+    "thundurus-therian": [
+      "machine"
+    ],
+    "landorus-therian": [
+      "machine"
+    ],
+    "kyurem-black": [
+      "machine"
+    ],
+    "kyurem-white": [
+      "machine"
+    ],
+    "aegislash-blade": [
+      "machine"
+    ],
+    "charizard-mega-x": [
+      "machine"
+    ],
+    "charizard-mega-y": [
+      "machine"
+    ],
+    "pinsir-mega": [
+      "machine"
+    ],
+    "gyarados-mega": [
+      "machine"
+    ],
+    "aerodactyl-mega": [
+      "machine"
+    ],
+    "mewtwo-mega-x": [
+      "machine"
+    ],
+    "mewtwo-mega-y": [
+      "machine"
+    ],
+    "ampharos-mega": [
+      "machine"
+    ],
+    "scizor-mega": [
+      "machine"
+    ],
+    "heracross-mega": [
+      "machine"
+    ],
+    "tyranitar-mega": [
+      "machine"
+    ],
+    "aggron-mega": [
+      "machine"
+    ],
+    "absol-mega": [
+      "machine"
+    ],
+    "garchomp-mega": [
+      "machine"
+    ],
+    "sceptile-mega": [
+      "machine"
+    ],
+    "steelix-mega": [
+      "machine"
+    ],
+    "groudon-primal": [
+      "machine"
+    ],
+    "rayquaza-mega": [
+      "machine"
+    ],
+    "lopunny-mega": [
+      "machine"
+    ],
+    "salamence-mega": [
+      "machine"
+    ],
+    "beedrill-mega": [
+      "machine"
+    ],
+    "geodude-alola": [
+      "machine"
+    ],
+    "graveler-alola": [
+      "machine"
+    ],
+    "golem-alola": [
+      "machine"
+    ],
+    "grimer-alola": [
+      "machine"
+    ],
+    "muk-alola": [
+      "machine"
+    ],
+    "exeggutor-alola": [
+      "machine"
+    ],
+    "marowak-alola": [
+      "machine"
+    ],
+    "greninja-battle-bond": [
+      "machine"
+    ],
+    "greninja-ash": [
+      "machine"
+    ],
+    "kommo-o-totem": [
+      "machine"
+    ],
+    "marowak-totem": [
+      "machine"
+    ],
+    "necrozma-dusk": [
+      "machine"
+    ],
+    "necrozma-dawn": [
+      "machine"
+    ],
+    "necrozma-ultra": [
+      "machine"
+    ]
+  }
+}

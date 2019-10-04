@@ -1,0 +1,158 @@
+{
+  "name": "vanillish",
+  "caption": "Vanillish",
+  "types": [
+    "ice"
+  ],
+  "species": "vanillish",
+  "gen": "generation-v",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.1,
+  "weight": 41,
+  "baseStats": {
+    "hp": 51,
+    "attack": 65,
+    "defense": 65,
+    "special-attack": 80,
+    "special-defense": 75,
+    "speed": 59
+  },
+  "evolutionChain": {
+    "species": "vanillite",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "vanillish",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "vanilluxe",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It sprays its enemies with grains of ice to freeze\nthem. Most Vanillish in Alola are smaller\nthan average.",
+  "moves": {
+    "mist": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "level-up",
+      "machine"
+    ],
+    "blizzard": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "acid-armor": [
+      "level-up"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "icy-wind": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "mirror-coat": [
+      "level-up"
+    ],
+    "uproar": [
+      "level-up"
+    ],
+    "hail": [
+      "level-up",
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "sheer-cold": [
+      "level-up"
+    ],
+    "icicle-spear": [
+      "level-up"
+    ],
+    "avalanche": [
+      "level-up"
+    ],
+    "mirror-shot": [
+      "level-up"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "frost-breath": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "ice-body": 1,
+    "snow-cloak": 2,
+    "weak-armor": "hidden"
+  }
+}

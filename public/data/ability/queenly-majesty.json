@@ -1,0 +1,13 @@
+{
+  "name": "queenly-majesty",
+  "caption": "Queenly Majesty",
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Opposing Pokémon cannot use priority attacks.",
+    "full": "When an opposing Pokémon attempts to use a move that targets this Pokémon or an ally, and that move has priority, it will fail."
+  },
+  "flavorText": "Its majesty pressures the opposing Pokémon,\nmaking it unable to attack using priority moves.",
+  "pokemon": {
+    "tsareena": 2
+  }
+}

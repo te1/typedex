@@ -1,0 +1,14 @@
+{
+  "name": "merciless",
+  "caption": "Merciless",
+  "gen": "generation-vii",
+  "effect": {
+    "short": "This Pokémon's moves critical hit against poisoned targets.",
+    "full": "This Pokémon's moves critical hit against poisoned targets."
+  },
+  "flavorText": "The Pokémon’s attacks become critical hits if the\ntarget is poisoned.",
+  "pokemon": {
+    "mareanie": 1,
+    "toxapex": 1
+  }
+}

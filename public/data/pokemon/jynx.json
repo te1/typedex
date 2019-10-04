@@ -1,0 +1,214 @@
+{
+  "name": "jynx",
+  "caption": "Jynx",
+  "types": [
+    "ice",
+    "psychic"
+  ],
+  "species": "jynx",
+  "gen": "generation-i",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.4,
+  "weight": 40.6,
+  "baseStats": {
+    "hp": 65,
+    "attack": 50,
+    "defense": 35,
+    "special-attack": 115,
+    "special-defense": 95,
+    "speed": 95
+  },
+  "evolutionChain": {
+    "species": "smoochum",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "jynx",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It sways its hips to a rhythm all its own. The\nprecise movements of Jynx living in Alola are\ntruly wonderful.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "double-slap": [
+      "level-up"
+    ],
+    "ice-punch": [
+      "level-up"
+    ],
+    "body-slam": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "level-up",
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "lick": [
+      "level-up"
+    ],
+    "lovely-kiss": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "powder-snow": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "perish-song": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "mean-look": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "fake-tears": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "wake-up-slap": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "wring-out": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "avalanche": [
+      "level-up"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "frost-breath": [
+      "machine"
+    ],
+    "heart-stamp": [
+      "level-up"
+    ],
+    "draining-kiss": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "aurora-veil": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "oblivious": 1,
+    "forewarn": 2,
+    "dry-skin": "hidden"
+  }
+}

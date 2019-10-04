@@ -1,0 +1,34 @@
+{
+  "name": "flash",
+  "caption": "Flash",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Lowers the target's accuracy by one stage.",
+    "full": "Lowers the target's [accuracy]{mechanic:accuracy} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user flashes a bright light that cuts the\ntarget’s accuracy.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "volbeat": [
+      "level-up"
+    ],
+    "morelull": [
+      "level-up"
+    ],
+    "shiinotic": [
+      "level-up"
+    ]
+  }
+}

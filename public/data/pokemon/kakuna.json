@@ -1,0 +1,54 @@
+{
+  "name": "kakuna",
+  "caption": "Kakuna",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "species": "kakuna",
+  "gen": "generation-i",
+  "color": "yellow",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 10,
+  "baseStats": {
+    "hp": 45,
+    "attack": 25,
+    "defense": 50,
+    "special-attack": 25,
+    "special-defense": 25,
+    "speed": 35
+  },
+  "evolutionChain": {
+    "species": "weedle",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "kakuna",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "beedrill",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Kakuna remains virtually immobile as it clings to a tree.\nHowever, on the inside, it is extremely busy as it prepares for\nits coming evolution. This is evident from how hot the shell\nbecomes to the touch.",
+  "moves": {
+    "harden": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "shed-skin": 1
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "name": "hone-claws",
+  "caption": "Hone Claws",
+  "type": "dark",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Raises the user's Attack and accuracy by one stage.",
+    "full": "Raises the user's [Attack]{mechanic:attack} and [accuracy]{mechanic:accuracy} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user sharpens its claws to boost its Attack stat\nand accuracy.",
+  "flags": [
+    "snatch"
+  ],
+  "target": "user",
+  "pokemon": {
+    "sandshrew": [
+      "egg"
+    ],
+    "sneasel": [
+      "level-up"
+    ],
+    "zangoose": [
+      "level-up"
+    ],
+    "glameow": [
+      "level-up"
+    ],
+    "purugly": [
+      "level-up"
+    ],
+    "skorupi": [
+      "level-up"
+    ],
+    "drapion": [
+      "level-up"
+    ],
+    "weavile": [
+      "level-up"
+    ],
+    "purrloin": [
+      "level-up"
+    ],
+    "liepard": [
+      "level-up"
+    ],
+    "drilbur": [
+      "level-up"
+    ],
+    "excadrill": [
+      "level-up"
+    ],
+    "zoroark": [
+      "level-up"
+    ],
+    "druddigon": [
+      "level-up"
+    ],
+    "rufflet": [
+      "level-up"
+    ],
+    "braviary": [
+      "level-up"
+    ],
+    "heatmor": [
+      "level-up"
+    ],
+    "binacle": [
+      "level-up"
+    ],
+    "barbaracle": [
+      "level-up"
+    ],
+    "hawlucha": [
+      "level-up"
+    ],
+    "mimikyu-disguised": [
+      "level-up"
+    ],
+    "zeraora": [
+      "level-up"
+    ],
+    "mimikyu-busted": [
+      "level-up"
+    ],
+    "mimikyu-totem-disguised": [
+      "level-up"
+    ],
+    "mimikyu-totem-busted": [
+      "level-up"
+    ]
+  }
+}

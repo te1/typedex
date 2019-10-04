@@ -1,0 +1,220 @@
+{
+  "name": "delphox",
+  "caption": "Delphox",
+  "types": [
+    "fire",
+    "psychic"
+  ],
+  "species": "delphox",
+  "gen": "generation-vi",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.5,
+  "weight": 39,
+  "baseStats": {
+    "hp": 75,
+    "attack": 69,
+    "defense": 72,
+    "special-attack": 114,
+    "special-defense": 100,
+    "speed": 104
+  },
+  "evolutionChain": {
+    "species": "fennekin",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "braixen",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "delphox",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It gazes into the flame at the tip of\nits branch to achieve a focused state,\nwhich allows it to see into the future.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "ember": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "level-up",
+      "machine"
+    ],
+    "psybeam": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "fire-spin": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "level-up",
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "level-up",
+      "machine"
+    ],
+    "fire-blast": [
+      "level-up",
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "level-up",
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "level-up",
+      "machine"
+    ],
+    "future-sight": [
+      "level-up"
+    ],
+    "will-o-wisp": [
+      "level-up",
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "role-play": [
+      "level-up"
+    ],
+    "blast-burn": [
+      "tutor"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "howl": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "lucky-chant": [
+      "level-up"
+    ],
+    "switcheroo": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "psyshock": [
+      "level-up",
+      "machine"
+    ],
+    "magic-room": [
+      "level-up"
+    ],
+    "flame-charge": [
+      "level-up",
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "fire-pledge": [
+      "tutor"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "mystical-fire": [
+      "level-up"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "blaze": 1,
+    "magician": "hidden"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "name": "kangaskhan",
+  "caption": "Kangaskhan",
+  "types": [
+    "normal"
+  ],
+  "species": "kangaskhan",
+  "gen": "generation-i",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 2.2,
+  "weight": 80,
+  "baseStats": {
+    "hp": 105,
+    "attack": 95,
+    "defense": 80,
+    "special-attack": 40,
+    "special-defense": 80,
+    "speed": 90
+  },
+  "flavorText": "Kangaskhan protects its child by keeping it in\nits pouch. It has zero forgiveness for those\nwho harm its child and will beat them down.",
+  "moves": {
+    "comet-punch": [
+      "level-up"
+    ],
+    "mega-punch": [
+      "level-up"
+    ],
+    "double-edge": [
+      "egg"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "rage": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "dizzy-punch": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "stomp": [
+      "egg"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "disable": [
+      "egg"
+    ],
+    "focus-energy": [
+      "egg"
+    ],
+    "reversal": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "foresight": [
+      "egg"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "endure": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "fake-out": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "focus-punch": [
+      "egg"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "crush-claw": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "outrage": [
+      "level-up"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "endeavor": [
+      "egg"
+    ],
+    "hammer-arm": [
+      "egg"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "double-hit": [
+      "level-up"
+    ],
+    "uproar": [
+      "egg"
+    ],
+    "trump-card": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "chip-away": [
+      "level-up"
+    ],
+    "circle-throw": [
+      "egg"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "early-bird": 1,
+    "scrappy": 2,
+    "inner-focus": "hidden"
+  }
+}

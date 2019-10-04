@@ -1,0 +1,14 @@
+{
+  "name": "flare-boost",
+  "caption": "Flare Boost",
+  "gen": "generation-v",
+  "effect": {
+    "short": "Increases [Special Attack]{mechanic:special-attack} to 1.5× when [burned]{mechanic:burn}.",
+    "full": "This Pokémon has 1.5× its [Special Attack]{mechanic:special-attack} when [burned]{mechanic:burn}."
+  },
+  "flavorText": "Powers up special attacks when the Pokémon\nis burned.",
+  "pokemon": {
+    "drifloon": "hidden",
+    "drifblim": "hidden"
+  }
+}

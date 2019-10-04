@@ -1,0 +1,185 @@
+{
+  "name": "anorith",
+  "caption": "Anorith",
+  "types": [
+    "rock",
+    "bug"
+  ],
+  "species": "anorith",
+  "gen": "generation-iii",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.7,
+  "weight": 12.5,
+  "baseStats": {
+    "hp": 45,
+    "attack": 95,
+    "defense": 50,
+    "special-attack": 40,
+    "special-defense": 50,
+    "speed": 75
+  },
+  "evolutionChain": {
+    "species": "anorith",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "armaldo",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "When restored Anorith are released into the\nocean, they don’t thrive, because the water\ncomposition has changed since their era.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "fury-cutter": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "rapid-spin": [
+      "egg"
+    ],
+    "metal-claw": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "knock-off": [
+      "egg"
+    ],
+    "mud-sport": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "rock-blast": [
+      "level-up"
+    ],
+    "water-pulse": [
+      "egg"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "sand-attack": [
+      "egg"
+    ],
+    "screech": [
+      "egg"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "crush-claw": [
+      "level-up"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "x-scissor": [
+      "level-up",
+      "machine"
+    ],
+    "cross-poison": [
+      "egg"
+    ],
+    "iron-defense": [
+      "egg"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "smack-down": [
+      "level-up",
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bug-bite": [
+      "level-up"
+    ],
+    "aqua-jet": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brine": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "battle-armor": 1,
+    "swift-swim": "hidden"
+  }
+}

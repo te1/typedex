@@ -1,0 +1,127 @@
+{
+  "name": "tailwind",
+  "caption": "Tailwind",
+  "type": "flying",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "For three turns, friendly Pokémon have doubled Speed.",
+    "full": "For the next three turns, all Pokémon on the user's side of the [field]{mechanic:field} have their original [Speed]{mechanic:speed} doubled.  This effect remains if the user leaves the [field]{mechanic:field}."
+  },
+  "flavorText": "The user whips up a turbulent whirlwind that ups\nthe Speed stat of the user and its allies for\nfour turns.",
+  "flags": [
+    "snatch"
+  ],
+  "target": "users-field",
+  "pokemon": {
+    "butterfree": [
+      "level-up"
+    ],
+    "pidgey": [
+      "level-up"
+    ],
+    "pidgeotto": [
+      "level-up"
+    ],
+    "pidgeot": [
+      "level-up"
+    ],
+    "aerodactyl": [
+      "egg"
+    ],
+    "articuno": [
+      "level-up"
+    ],
+    "ledyba": [
+      "egg"
+    ],
+    "xatu": [
+      "level-up"
+    ],
+    "murkrow": [
+      "level-up"
+    ],
+    "suicune": [
+      "level-up"
+    ],
+    "pelipper": [
+      "level-up"
+    ],
+    "drifloon": [
+      "egg"
+    ],
+    "mantyke": [
+      "egg"
+    ],
+    "pidove": [
+      "level-up"
+    ],
+    "tranquill": [
+      "level-up"
+    ],
+    "unfezant": [
+      "level-up"
+    ],
+    "whimsicott": [
+      "level-up"
+    ],
+    "sigilyph": [
+      "level-up"
+    ],
+    "ducklett": [
+      "level-up"
+    ],
+    "swanna": [
+      "level-up"
+    ],
+    "rufflet": [
+      "level-up"
+    ],
+    "braviary": [
+      "level-up"
+    ],
+    "vullaby": [
+      "level-up"
+    ],
+    "mandibuzz": [
+      "level-up"
+    ],
+    "tornadus-incarnate": [
+      "level-up"
+    ],
+    "fletchling": [
+      "level-up",
+      "egg"
+    ],
+    "fletchinder": [
+      "level-up"
+    ],
+    "talonflame": [
+      "level-up"
+    ],
+    "noibat": [
+      "level-up",
+      "egg"
+    ],
+    "noivern": [
+      "level-up"
+    ],
+    "pikipek": [
+      "egg"
+    ],
+    "oricorio-baile": [
+      "egg"
+    ],
+    "tornadus-therian": [
+      "level-up"
+    ],
+    "pidgeot-mega": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "fell-stinger",
+  "caption": "Fell Stinger",
+  "type": "bug",
+  "damageCategory": "physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 25,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Raises the user's Attack by two stages if it KOs the target.",
+    "full": "Inflicts regular damage.  Raises the user's Attack by two stages if it KOs the target."
+  },
+  "flavorText": "When the user knocks out a target with this move,\nthe user’s Attack stat rises drastically.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "beedrill": [
+      "level-up"
+    ],
+    "paras": [
+      "egg"
+    ],
+    "ariados": [
+      "level-up"
+    ],
+    "qwilfish": [
+      "level-up"
+    ],
+    "surskit": [
+      "egg"
+    ],
+    "cacnea": [
+      "egg"
+    ],
+    "kricketune": [
+      "level-up"
+    ],
+    "vespiquen": [
+      "level-up"
+    ],
+    "skorupi": [
+      "level-up"
+    ],
+    "drapion": [
+      "level-up"
+    ],
+    "leavanny": [
+      "level-up"
+    ],
+    "escavalier": [
+      "level-up"
+    ],
+    "genesect": [
+      "level-up"
+    ],
+    "togedemaru": [
+      "level-up"
+    ],
+    "buzzwole": [
+      "level-up"
+    ],
+    "poipole": [
+      "level-up"
+    ],
+    "naganadel": [
+      "level-up"
+    ],
+    "beedrill-mega": [
+      "level-up"
+    ],
+    "togedemaru-totem": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "name": "phantom-force",
+  "caption": "Phantom Force",
+  "type": "ghost",
+  "damageCategory": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "User vanishes, dodging all attacks, and hits next turn.  Hits through Protect and Detect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User vanishes for one turn, becoming immune to attack, and hits on the second turn.\n\nThis move ignores the effects of []{move:detect} and []{move:protect}.\n\nThis move cannot be selected by []{move:sleep-talk}."
+  },
+  "flavorText": "The user vanishes somewhere, then strikes the\ntarget on the next turn. This move hits even if the\ntarget protects itself.",
+  "flags": [
+    "contact",
+    "charge",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "shedinja": [
+      "level-up"
+    ],
+    "shuppet": [
+      "level-up",
+      "egg"
+    ],
+    "banette": [
+      "level-up"
+    ],
+    "drifblim": [
+      "level-up"
+    ],
+    "mismagius": [
+      "level-up"
+    ],
+    "golurk": [
+      "level-up"
+    ],
+    "phantump": [
+      "level-up"
+    ],
+    "trevenant": [
+      "level-up"
+    ],
+    "gourgeist-average": [
+      "level-up"
+    ],
+    "yveltal": [
+      "level-up"
+    ],
+    "hoopa": [
+      "level-up"
+    ],
+    "decidueye": [
+      "level-up"
+    ],
+    "dhelmise": [
+      "level-up"
+    ],
+    "lunala": [
+      "level-up"
+    ],
+    "gourgeist-small": [
+      "level-up"
+    ],
+    "gourgeist-large": [
+      "level-up"
+    ],
+    "gourgeist-super": [
+      "level-up"
+    ],
+    "banette-mega": [
+      "level-up"
+    ]
+  }
+}

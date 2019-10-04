@@ -1,0 +1,204 @@
+{
+  "name": "spinarak",
+  "caption": "Spinarak",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "species": "spinarak",
+  "gen": "generation-ii",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 8.5,
+  "baseStats": {
+    "hp": 40,
+    "attack": 60,
+    "defense": 40,
+    "special-attack": 40,
+    "special-defense": 40,
+    "speed": 30
+  },
+  "evolutionChain": {
+    "species": "spinarak",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "ariados",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "With threads from its mouth, it fashions sturdy\nwebs that won’t break even if you set a rock\non them.",
+  "moves": {
+    "poison-sting": [
+      "level-up"
+    ],
+    "sonic-boom": [
+      "egg"
+    ],
+    "disable": [
+      "egg"
+    ],
+    "psybeam": [
+      "egg"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "string-shot": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "level-up",
+      "machine"
+    ],
+    "night-shade": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "constrict": [
+      "level-up"
+    ],
+    "leech-life": [
+      "machine"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "spider-web": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "baton-pass": [
+      "egg"
+    ],
+    "pursuit": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "signal-beam": [
+      "egg"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "pin-missile": [
+      "level-up"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "toxic-spikes": [
+      "egg"
+    ],
+    "poison-jab": [
+      "level-up",
+      "machine"
+    ],
+    "shadow-sneak": [
+      "level-up"
+    ],
+    "twineedle": [
+      "egg"
+    ],
+    "night-slash": [
+      "egg"
+    ],
+    "cross-poison": [
+      "level-up"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "rage-powder": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "electroweb": [
+      "egg"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "megahorn": [
+      "egg"
+    ],
+    "sticky-web": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "level-up",
+      "machine"
+    ],
+    "absorb": [
+      "level-up"
+    ],
+    "toxic-thread": [
+      "level-up"
+    ],
+    "lunge": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "swarm": 1,
+    "insomnia": 2,
+    "sniper": "hidden"
+  }
+}

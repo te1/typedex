@@ -1,0 +1,223 @@
+{
+  "name": "noivern",
+  "caption": "Noivern",
+  "types": [
+    "flying",
+    "dragon"
+  ],
+  "species": "noivern",
+  "gen": "generation-vi",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.5,
+  "weight": 85,
+  "baseStats": {
+    "hp": 85,
+    "attack": 70,
+    "defense": 80,
+    "special-attack": 97,
+    "special-defense": 80,
+    "speed": 123
+  },
+  "evolutionChain": {
+    "species": "noibat",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "noivern",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Although it has a violent disposition, if you give\nit a nice ripe fruit that it loves, Noivern will\nsuddenly become tame.",
+  "moves": {
+    "razor-wind": [
+      "level-up"
+    ],
+    "gust": [
+      "level-up"
+    ],
+    "wing-attack": [
+      "level-up"
+    ],
+    "whirlwind": [
+      "level-up"
+    ],
+    "fly": [
+      "machine"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "supersonic": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "leech-life": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "super-fang": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "moonlight": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "air-cutter": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "dragon-claw": [
+      "machine"
+    ],
+    "roost": [
+      "level-up",
+      "machine"
+    ],
+    "tailwind": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "dragon-pulse": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "draco-meteor": [
+      "tutor"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "hurricane": [
+      "level-up"
+    ],
+    "boomburst": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "absorb": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "frisk": 1,
+    "infiltrator": 2,
+    "telepathy": "hidden"
+  }
+}

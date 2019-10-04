@@ -1,0 +1,202 @@
+{
+  "name": "mienshao",
+  "caption": "Mienshao",
+  "types": [
+    "fighting"
+  ],
+  "species": "mienshao",
+  "gen": "generation-v",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.4,
+  "weight": 35.5,
+  "baseStats": {
+    "hp": 65,
+    "attack": 125,
+    "defense": 60,
+    "special-attack": 95,
+    "special-defense": 60,
+    "speed": 105
+  },
+  "evolutionChain": {
+    "species": "mienfoo",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "mienshao",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It overwhelms its opponents with continuous\nattacks and then slowly stores up power\nbefore delivering the finishing blow.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "double-slap": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "jump-kick": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "meditate": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "swift": [
+      "level-up"
+    ],
+    "high-jump-kick": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "reversal": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "detect": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "fake-out": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "bounce": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "level-up",
+      "machine"
+    ],
+    "u-turn": [
+      "level-up",
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "force-palm": [
+      "level-up"
+    ],
+    "aura-sphere": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "drain-punch": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "wide-guard": [
+      "level-up"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "inner-focus": 1,
+    "regenerator": 2,
+    "reckless": "hidden"
+  }
+}

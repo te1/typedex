@@ -1,0 +1,196 @@
+{
+  "name": "slam",
+  "caption": "Slam",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 80,
+  "accuracy": 75,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The target is slammed with a long tail, vines, or the\nlike to inflict damage.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror",
+    "non-sky-battle"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "ekans": [
+      "egg"
+    ],
+    "pikachu": [
+      "level-up"
+    ],
+    "bellsprout": [
+      "level-up"
+    ],
+    "weepinbell": [
+      "level-up"
+    ],
+    "seel": [
+      "egg"
+    ],
+    "onix": [
+      "level-up"
+    ],
+    "krabby": [
+      "level-up",
+      "egg"
+    ],
+    "kingler": [
+      "level-up"
+    ],
+    "lickitung": [
+      "level-up"
+    ],
+    "tangela": [
+      "level-up"
+    ],
+    "omanyte": [
+      "egg"
+    ],
+    "dratini": [
+      "level-up"
+    ],
+    "dragonair": [
+      "level-up"
+    ],
+    "dragonite": [
+      "level-up"
+    ],
+    "sentret": [
+      "level-up"
+    ],
+    "furret": [
+      "level-up"
+    ],
+    "sudowoodo": [
+      "level-up"
+    ],
+    "aipom": [
+      "egg"
+    ],
+    "wooper": [
+      "level-up"
+    ],
+    "quagsire": [
+      "level-up"
+    ],
+    "steelix": [
+      "level-up"
+    ],
+    "mantine": [
+      "egg"
+    ],
+    "phanpy": [
+      "level-up"
+    ],
+    "donphan": [
+      "level-up"
+    ],
+    "treecko": [
+      "level-up"
+    ],
+    "grovyle": [
+      "level-up"
+    ],
+    "sceptile": [
+      "level-up"
+    ],
+    "azurill": [
+      "level-up",
+      "egg"
+    ],
+    "mawile": [
+      "egg"
+    ],
+    "tropius": [
+      "egg"
+    ],
+    "cranidos": [
+      "egg"
+    ],
+    "carnivine": [
+      "egg"
+    ],
+    "mantyke": [
+      "egg"
+    ],
+    "lickilicky": [
+      "level-up"
+    ],
+    "tangrowth": [
+      "level-up"
+    ],
+    "snivy": [
+      "level-up"
+    ],
+    "servine": [
+      "level-up"
+    ],
+    "serperior": [
+      "level-up"
+    ],
+    "patrat": [
+      "level-up"
+    ],
+    "watchog": [
+      "level-up"
+    ],
+    "tirtouga": [
+      "egg"
+    ],
+    "minccino": [
+      "level-up"
+    ],
+    "deino": [
+      "level-up"
+    ],
+    "zweilous": [
+      "level-up"
+    ],
+    "hydreigon": [
+      "level-up"
+    ],
+    "komala": [
+      "level-up"
+    ],
+    "dhelmise": [
+      "level-up"
+    ],
+    "sceptile-mega": [
+      "level-up"
+    ],
+    "steelix-mega": [
+      "level-up"
+    ],
+    "pikachu-original-cap": [
+      "level-up"
+    ],
+    "pikachu-hoenn-cap": [
+      "level-up"
+    ],
+    "pikachu-sinnoh-cap": [
+      "level-up"
+    ],
+    "pikachu-unova-cap": [
+      "level-up"
+    ],
+    "pikachu-kalos-cap": [
+      "level-up"
+    ],
+    "pikachu-alola-cap": [
+      "level-up"
+    ],
+    "pikachu-partner-cap": [
+      "level-up"
+    ]
+  }
+}

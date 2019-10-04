@@ -1,0 +1,53 @@
+{
+  "name": "frenzy-plant",
+  "caption": "Frenzy Plant",
+  "type": "grass",
+  "damageCategory": "special",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "User foregoes its next turn to recharge.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User loses its next turn to \"recharge\", and cannot attack or [switch]{mechanic:switch} out during that turn."
+  },
+  "flavorText": "The user slams the target with an enormous tree.\nThe user can’t move on the next turn.",
+  "flags": [
+    "recharge",
+    "protect",
+    "mirror",
+    "non-sky-battle"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "venusaur": [
+      "tutor"
+    ],
+    "meganium": [
+      "tutor"
+    ],
+    "sceptile": [
+      "tutor"
+    ],
+    "torterra": [
+      "tutor"
+    ],
+    "serperior": [
+      "tutor"
+    ],
+    "chesnaught": [
+      "tutor"
+    ],
+    "decidueye": [
+      "tutor"
+    ],
+    "venusaur-mega": [
+      "tutor"
+    ],
+    "sceptile-mega": [
+      "tutor"
+    ]
+  }
+}

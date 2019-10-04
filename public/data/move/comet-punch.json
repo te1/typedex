@@ -1,0 +1,53 @@
+{
+  "name": "comet-punch",
+  "caption": "Comet Punch",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 18,
+  "accuracy": 85,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Hits 2-5 times in one turn.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Hits 2–5 times in one turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+  },
+  "flavorText": "The target is hit with a flurry of punches that strike\ntwo to five times in a row.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror",
+    "punch"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "hitmonchan": [
+      "level-up"
+    ],
+    "kangaskhan": [
+      "level-up"
+    ],
+    "ledyba": [
+      "level-up"
+    ],
+    "ledian": [
+      "level-up"
+    ],
+    "timburr": [
+      "egg"
+    ],
+    "pancham": [
+      "level-up"
+    ],
+    "pangoro": [
+      "level-up"
+    ],
+    "buzzwole": [
+      "level-up"
+    ],
+    "kangaskhan-mega": [
+      "level-up"
+    ]
+  }
+}

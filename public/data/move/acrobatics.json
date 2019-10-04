@@ -1,0 +1,428 @@
+{
+  "name": "acrobatics",
+  "caption": "Acrobatics",
+  "type": "flying",
+  "damageCategory": "physical",
+  "power": 55,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Has double power if the user has no held item.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  If the user has no [held item]{mechanic:held-item}, this move has double power."
+  },
+  "flavorText": "The user nimbly strikes the target. If the user is not\nholding an item, this attack inflicts massive damage.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror",
+    "distance"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "butterfree": [
+      "machine"
+    ],
+    "beedrill": [
+      "machine"
+    ],
+    "zubat": [
+      "machine"
+    ],
+    "golbat": [
+      "machine"
+    ],
+    "venomoth": [
+      "machine"
+    ],
+    "mankey": [
+      "machine"
+    ],
+    "primeape": [
+      "machine"
+    ],
+    "farfetchd": [
+      "level-up",
+      "machine"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "ledyba": [
+      "machine"
+    ],
+    "ledian": [
+      "machine"
+    ],
+    "crobat": [
+      "machine"
+    ],
+    "hoppip": [
+      "level-up",
+      "machine"
+    ],
+    "skiploom": [
+      "level-up",
+      "machine"
+    ],
+    "jumpluff": [
+      "level-up",
+      "machine"
+    ],
+    "aipom": [
+      "machine"
+    ],
+    "gligar": [
+      "level-up",
+      "machine"
+    ],
+    "scizor": [
+      "machine"
+    ],
+    "mantine": [
+      "machine"
+    ],
+    "treecko": [
+      "machine"
+    ],
+    "grovyle": [
+      "machine"
+    ],
+    "sceptile": [
+      "machine"
+    ],
+    "blaziken": [
+      "machine"
+    ],
+    "beautifly": [
+      "machine"
+    ],
+    "dustox": [
+      "machine"
+    ],
+    "volbeat": [
+      "machine"
+    ],
+    "illumise": [
+      "machine"
+    ],
+    "lunatone": [
+      "machine"
+    ],
+    "solrock": [
+      "machine"
+    ],
+    "chimchar": [
+      "level-up",
+      "machine"
+    ],
+    "monferno": [
+      "level-up",
+      "machine"
+    ],
+    "infernape": [
+      "level-up",
+      "machine"
+    ],
+    "mothim": [
+      "machine"
+    ],
+    "vespiquen": [
+      "machine"
+    ],
+    "ambipom": [
+      "machine"
+    ],
+    "drifloon": [
+      "machine"
+    ],
+    "drifblim": [
+      "machine"
+    ],
+    "mantyke": [
+      "machine"
+    ],
+    "gliscor": [
+      "level-up",
+      "machine"
+    ],
+    "uxie": [
+      "machine"
+    ],
+    "mesprit": [
+      "machine"
+    ],
+    "azelf": [
+      "machine"
+    ],
+    "pansage": [
+      "level-up",
+      "machine"
+    ],
+    "simisage": [
+      "machine"
+    ],
+    "pansear": [
+      "level-up",
+      "machine"
+    ],
+    "simisear": [
+      "machine"
+    ],
+    "panpour": [
+      "level-up",
+      "machine"
+    ],
+    "simipour": [
+      "machine"
+    ],
+    "woobat": [
+      "machine"
+    ],
+    "swoobat": [
+      "machine"
+    ],
+    "archen": [
+      "level-up",
+      "machine"
+    ],
+    "archeops": [
+      "level-up",
+      "machine"
+    ],
+    "emolga": [
+      "level-up",
+      "machine"
+    ],
+    "eelektrik": [
+      "machine"
+    ],
+    "eelektross": [
+      "machine"
+    ],
+    "cryogonal": [
+      "machine"
+    ],
+    "mienfoo": [
+      "machine"
+    ],
+    "mienshao": [
+      "machine"
+    ],
+    "hydreigon": [
+      "machine"
+    ],
+    "larvesta": [
+      "machine"
+    ],
+    "volcarona": [
+      "machine"
+    ],
+    "tornadus-incarnate": [
+      "machine"
+    ],
+    "meloetta-aria": [
+      "level-up",
+      "machine"
+    ],
+    "froakie": [
+      "machine"
+    ],
+    "frogadier": [
+      "machine"
+    ],
+    "greninja": [
+      "machine"
+    ],
+    "fletchling": [
+      "level-up",
+      "machine"
+    ],
+    "fletchinder": [
+      "level-up",
+      "machine"
+    ],
+    "talonflame": [
+      "level-up",
+      "machine"
+    ],
+    "vivillon": [
+      "machine"
+    ],
+    "hawlucha": [
+      "machine"
+    ],
+    "noibat": [
+      "machine"
+    ],
+    "noivern": [
+      "machine"
+    ],
+    "yveltal": [
+      "machine"
+    ],
+    "decidueye": [
+      "machine"
+    ],
+    "litten": [
+      "machine"
+    ],
+    "torracat": [
+      "machine"
+    ],
+    "incineroar": [
+      "machine"
+    ],
+    "popplio": [
+      "machine"
+    ],
+    "brionne": [
+      "machine"
+    ],
+    "primarina": [
+      "machine"
+    ],
+    "grubbin": [
+      "level-up",
+      "machine"
+    ],
+    "charjabug": [
+      "level-up",
+      "machine"
+    ],
+    "vikavolt": [
+      "level-up",
+      "machine"
+    ],
+    "oricorio-baile": [
+      "machine"
+    ],
+    "cutiefly": [
+      "machine"
+    ],
+    "ribombee": [
+      "machine"
+    ],
+    "salazzle": [
+      "machine"
+    ],
+    "tsareena": [
+      "machine"
+    ],
+    "comfey": [
+      "machine"
+    ],
+    "passimian": [
+      "machine"
+    ],
+    "minior-red-meteor": [
+      "machine"
+    ],
+    "komala": [
+      "machine"
+    ],
+    "tapu-koko": [
+      "machine"
+    ],
+    "lunala": [
+      "machine"
+    ],
+    "celesteela": [
+      "machine"
+    ],
+    "marshadow": [
+      "machine"
+    ],
+    "naganadel": [
+      "machine"
+    ],
+    "zeraora": [
+      "machine"
+    ],
+    "meloetta-pirouette": [
+      "level-up",
+      "machine"
+    ],
+    "tornadus-therian": [
+      "machine"
+    ],
+    "scizor-mega": [
+      "machine"
+    ],
+    "blaziken-mega": [
+      "machine"
+    ],
+    "sceptile-mega": [
+      "machine"
+    ],
+    "beedrill-mega": [
+      "machine"
+    ],
+    "greninja-battle-bond": [
+      "machine"
+    ],
+    "greninja-ash": [
+      "machine"
+    ],
+    "vikavolt-totem": [
+      "level-up",
+      "machine"
+    ],
+    "oricorio-pom-pom": [
+      "machine"
+    ],
+    "oricorio-pau": [
+      "machine"
+    ],
+    "oricorio-sensu": [
+      "machine"
+    ],
+    "salazzle-totem": [
+      "machine"
+    ],
+    "minior-orange-meteor": [
+      "machine"
+    ],
+    "minior-yellow-meteor": [
+      "machine"
+    ],
+    "minior-green-meteor": [
+      "machine"
+    ],
+    "minior-blue-meteor": [
+      "machine"
+    ],
+    "minior-indigo-meteor": [
+      "machine"
+    ],
+    "minior-violet-meteor": [
+      "machine"
+    ],
+    "minior-red": [
+      "machine"
+    ],
+    "minior-orange": [
+      "machine"
+    ],
+    "minior-yellow": [
+      "machine"
+    ],
+    "minior-green": [
+      "machine"
+    ],
+    "minior-blue": [
+      "machine"
+    ],
+    "minior-indigo": [
+      "machine"
+    ],
+    "minior-violet": [
+      "machine"
+    ],
+    "ribombee-totem": [
+      "machine"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "snow-warning",
+  "caption": "Snow Warning",
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Summons [hail]{mechanic:hail} that lasts indefinitely upon entering battle.",
+    "full": "The [weather]{mechanic:weather} changes to [hail]{mechanic:hail} when this Pokémon enters battle and does not end unless cancelled by another weather condition.\n\nIf multiple Pokémon with this ability, []{ability:drizzle}, []{ability:drought}, or []{ability:sand-stream} are sent out at the same time, the abilities will activate in order of [Speed]{mechanic:speed}, respecting []{move:trick-room}.  Each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the Pokémon will stay."
+  },
+  "flavorText": "The Pokémon summons a hailstorm when it enters\na battle.",
+  "pokemon": {
+    "snover": 1,
+    "abomasnow": 1,
+    "vanilluxe": 2,
+    "amaura": "hidden",
+    "aurorus": "hidden",
+    "abomasnow-mega": 1,
+    "vulpix-alola": "hidden",
+    "ninetales-alola": "hidden"
+  }
+}

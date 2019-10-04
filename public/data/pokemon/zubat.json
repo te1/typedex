@@ -1,0 +1,223 @@
+{
+  "name": "zubat",
+  "caption": "Zubat",
+  "types": [
+    "poison",
+    "flying"
+  ],
+  "species": "zubat",
+  "gen": "generation-i",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.8,
+  "weight": 7.5,
+  "baseStats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "special-attack": 30,
+    "special-defense": 40,
+    "speed": 55
+  },
+  "evolutionChain": {
+    "species": "zubat",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "golbat",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "crobat",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It has no eyeballs, so it can’t see. It checks its\nsurroundings via the ultrasonic waves it emits\nfrom its mouth.",
+  "moves": {
+    "wing-attack": [
+      "level-up"
+    ],
+    "whirlwind": [
+      "egg"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "supersonic": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "haze": [
+      "level-up"
+    ],
+    "swift": [
+      "level-up"
+    ],
+    "leech-life": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "gust": [
+      "egg"
+    ],
+    "quick-attack": [
+      "egg"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "egg"
+    ],
+    "giga-drain": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "steel-wing": [
+      "egg",
+      "machine"
+    ],
+    "mean-look": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "poison-fang": [
+      "level-up"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "air-cutter": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "fly": [
+      "machine"
+    ],
+    "hypnosis": [
+      "egg"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "brave-bird": [
+      "egg"
+    ],
+    "nasty-plot": [
+      "egg"
+    ],
+    "zen-headbutt": [
+      "egg"
+    ],
+    "defog": [
+      "egg"
+    ],
+    "venoshock": [
+      "level-up",
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "venom-drench": [
+      "egg"
+    ],
+    "quick-guard": [
+      "level-up"
+    ],
+    "absorb": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "inner-focus": 1,
+    "infiltrator": "hidden"
+  }
+}

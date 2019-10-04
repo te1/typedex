@@ -1,0 +1,155 @@
+{
+  "name": "zygarde-50",
+  "caption": "50% Zygarde",
+  "types": [
+    "dragon",
+    "ground"
+  ],
+  "species": "zygarde",
+  "gen": "generation-vi",
+  "color": "green",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": "50% Forme",
+  "height": 5,
+  "weight": 305,
+  "baseStats": {
+    "hp": 108,
+    "attack": 100,
+    "defense": 121,
+    "special-attack": 81,
+    "special-defense": 95,
+    "speed": 95
+  },
+  "flavorText": "This is Zygarde’s form when about half of its\npieces have been assembled. It plays the role of\nmonitoring the ecosystem.",
+  "moves": {
+    "bind": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "dig": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "haze": [
+      "level-up"
+    ],
+    "glare": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "outrage": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "level-up",
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "level-up",
+      "machine"
+    ],
+    "dragon-breath": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "camouflage": [
+      "level-up"
+    ],
+    "dragon-pulse": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "draco-meteor": [
+      "tutor"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "coil": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "level-up",
+      "machine"
+    ],
+    "dragon-tail": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "lands-wrath": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "power-construct": 1
+  }
+}

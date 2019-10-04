@@ -1,0 +1,170 @@
+{
+  "name": "bellossom",
+  "caption": "Bellossom",
+  "types": [
+    "grass"
+  ],
+  "species": "bellossom",
+  "gen": "generation-ii",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 5.8,
+  "baseStats": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 95,
+    "special-attack": 90,
+    "special-defense": 100,
+    "speed": 50
+  },
+  "evolutionChain": {
+    "species": "oddish",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "gloom",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "vileplume",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          },
+          {
+            "species": "bellossom",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "When Bellossom gets exposed to plenty of sunlight, the leaves\nringing its body begin to spin around. This Pokémon’s dancing\nis renowned in the southern lands.",
+  "moves": {
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "stun-spore": [
+      "level-up"
+    ],
+    "petal-dance": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "level-up",
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "magical-leaf": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "mega-drain": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "leaf-storm": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "leaf-blade": [
+      "level-up"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "petal-blizzard": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "quiver-dance": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "chlorophyll": 1,
+    "healer": "hidden"
+  }
+}

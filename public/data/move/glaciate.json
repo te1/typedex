@@ -1,0 +1,27 @@
+{
+  "name": "glaciate",
+  "caption": "Glaciate",
+  "type": "ice",
+  "damageCategory": "special",
+  "power": 65,
+  "accuracy": 95,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Lowers the target's Speed by one stage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Lowers the target's [Speed]{mechanic:speed} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user attacks by blowing freezing cold air at\nopposing Pokémon. This lowers their Speed stat.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "all-opponents",
+  "pokemon": {
+    "kyurem": [
+      "level-up"
+    ]
+  }
+}

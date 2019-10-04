@@ -1,0 +1,74 @@
+{
+  "name": "gravity",
+  "caption": "Gravity",
+  "type": "psychic",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Disables moves and immunities that involve flying or levitating for five turns.",
+    "full": "For five turns (including this one), all immunities to []{type:ground} moves are disabled.  For the duration of this effect, the [evasion]{mechanic:evasion} of every Pokémon on the field is lowered by two [stages]{mechanic:stage}.  Cancels the effects of []{move:bounce}, []{move:fly}, and []{move:sky-drop}.\n\nSpecifically, []{type:flying} Pokémon and those with []{ability:levitate} or that have used []{move:magnet-rise} are no longer immune to []{type:ground} attacks, []{ability:arena-trap}, []{move:spikes}, or []{move:toxic-spikes}.\n\n[]{move:bounce}, []{move:fly}, []{move:sky-drop}, []{move:high-jump-kick}, []{move:jump-kick}, and []{move:splash} cannot be used while this move is in effect.\n\n*Bug*: If this move is used during a double or triple battle while Pokémon are under the effect of []{move:sky-drop}, Sky Drop's effect is not correctly canceled on its target, and it remains high in the air indefinitely.  As Sky Drop prevents the target from acting, the only way to subsequently remove it from the field is to faint it."
+  },
+  "flavorText": "Enables Flying-type Pokémon or Pokémon with the\nLevitate Ability to be hit by Ground-type moves.\nFlying moves can’t be used.",
+  "flags": [
+    "non-sky-battle"
+  ],
+  "target": "entire-field",
+  "pokemon": {
+    "clefairy": [
+      "level-up"
+    ],
+    "chansey": [
+      "egg"
+    ],
+    "igglybuff": [
+      "egg"
+    ],
+    "dusclops": [
+      "level-up"
+    ],
+    "jirachi": [
+      "level-up"
+    ],
+    "happiny": [
+      "egg"
+    ],
+    "probopass": [
+      "level-up"
+    ],
+    "dusknoir": [
+      "level-up"
+    ],
+    "arceus": [
+      "level-up"
+    ],
+    "roggenrola": [
+      "egg"
+    ],
+    "sigilyph": [
+      "level-up"
+    ],
+    "ferroseed": [
+      "egg"
+    ],
+    "xerneas": [
+      "level-up"
+    ],
+    "necrozma": [
+      "level-up"
+    ],
+    "necrozma-dusk": [
+      "level-up"
+    ],
+    "necrozma-dawn": [
+      "level-up"
+    ],
+    "necrozma-ultra": [
+      "level-up"
+    ]
+  }
+}

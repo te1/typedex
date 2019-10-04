@@ -1,0 +1,220 @@
+{
+  "name": "duskull",
+  "caption": "Duskull",
+  "types": [
+    "ghost"
+  ],
+  "species": "duskull",
+  "gen": "generation-iii",
+  "color": "black",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.8,
+  "weight": 15,
+  "baseStats": {
+    "hp": 20,
+    "attack": 40,
+    "defense": 90,
+    "special-attack": 30,
+    "special-defense": 90,
+    "speed": 25
+  },
+  "evolutionChain": {
+    "species": "duskull",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "dusclops",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "dusknoir",
+            "triggers": [
+              "trade"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Duskull can pass through any wall no matter how thick it may\nbe. Once this Pokémon chooses a target, it will doggedly\npursue the intended victim until the break of dawn.",
+  "moves": {
+    "leer": [
+      "level-up"
+    ],
+    "disable": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "night-shade": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "curse": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "egg"
+    ],
+    "foresight": [
+      "level-up"
+    ],
+    "destiny-bond": [
+      "egg"
+    ],
+    "mean-look": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pain-split": [
+      "egg"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "level-up",
+      "machine"
+    ],
+    "future-sight": [
+      "level-up"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "level-up",
+      "machine"
+    ],
+    "memento": [
+      "egg"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "skill-swap": [
+      "egg"
+    ],
+    "imprison": [
+      "egg"
+    ],
+    "grudge": [
+      "egg"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "payback": [
+      "level-up",
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "egg",
+      "machine"
+    ],
+    "shadow-sneak": [
+      "level-up"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "ominous-wind": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "hex": [
+      "level-up"
+    ],
+    "haze": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "levitate": 1,
+    "frisk": "hidden"
+  }
+}

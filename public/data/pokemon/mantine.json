@@ -1,0 +1,216 @@
+{
+  "name": "mantine",
+  "caption": "Mantine",
+  "types": [
+    "water",
+    "flying"
+  ],
+  "species": "mantine",
+  "gen": "generation-ii",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 2.1,
+  "weight": 220,
+  "baseStats": {
+    "hp": 85,
+    "attack": 40,
+    "defense": 70,
+    "special-attack": 80,
+    "special-defense": 140,
+    "speed": 70
+  },
+  "evolutionChain": {
+    "species": "mantyke",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "mantine",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Postcards and posters featuring Mantine\nleaping elegantly above the waves are popular\nsouvenirs of Alola.",
+  "moves": {
+    "wing-attack": [
+      "level-up"
+    ],
+    "slam": [
+      "egg"
+    ],
+    "headbutt": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "supersonic": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up",
+      "egg"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "haze": [
+      "egg"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "bubble": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "twister": [
+      "egg"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "mud-sport": [
+      "egg"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "psybeam": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "splash": [
+      "egg"
+    ],
+    "mirror-coat": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "signal-beam": [
+      "level-up"
+    ],
+    "bullet-seed": [
+      "level-up"
+    ],
+    "bounce": [
+      "level-up"
+    ],
+    "water-sport": [
+      "egg"
+    ],
+    "aqua-ring": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "amnesia": [
+      "egg"
+    ],
+    "wide-guard": [
+      "level-up",
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "roost": [
+      "level-up",
+      "machine"
+    ]
+  },
+  "abilities": {
+    "swift-swim": 1,
+    "water-absorb": 2,
+    "water-veil": "hidden"
+  }
+}

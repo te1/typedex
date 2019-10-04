@@ -1,0 +1,537 @@
+{
+  "name": "growl",
+  "caption": "Growl",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 40,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Lowers the target's Attack by one stage.",
+    "full": "Lowers the target's [Attack]{mechanic:attack} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user growls in an endearing way, making\nopposing Pokémon less wary. This lowers their\nAttack stat.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror",
+    "sound",
+    "authentic"
+  ],
+  "target": "all-opponents",
+  "pokemon": {
+    "bulbasaur": [
+      "level-up"
+    ],
+    "ivysaur": [
+      "level-up"
+    ],
+    "venusaur": [
+      "level-up"
+    ],
+    "charmander": [
+      "level-up"
+    ],
+    "charmeleon": [
+      "level-up"
+    ],
+    "charizard": [
+      "level-up"
+    ],
+    "spearow": [
+      "level-up"
+    ],
+    "fearow": [
+      "level-up"
+    ],
+    "pikachu": [
+      "level-up"
+    ],
+    "nidoran-f": [
+      "level-up"
+    ],
+    "nidorina": [
+      "level-up"
+    ],
+    "clefairy": [
+      "level-up"
+    ],
+    "diglett": [
+      "level-up"
+    ],
+    "dugtrio": [
+      "level-up"
+    ],
+    "meowth": [
+      "level-up"
+    ],
+    "persian": [
+      "level-up"
+    ],
+    "ponyta": [
+      "level-up"
+    ],
+    "rapidash": [
+      "level-up"
+    ],
+    "slowpoke": [
+      "level-up"
+    ],
+    "slowbro": [
+      "level-up"
+    ],
+    "doduo": [
+      "level-up"
+    ],
+    "dodrio": [
+      "level-up"
+    ],
+    "seel": [
+      "level-up"
+    ],
+    "dewgong": [
+      "level-up"
+    ],
+    "cubone": [
+      "level-up"
+    ],
+    "marowak": [
+      "level-up"
+    ],
+    "chansey": [
+      "level-up"
+    ],
+    "lapras": [
+      "level-up"
+    ],
+    "eevee": [
+      "level-up"
+    ],
+    "chikorita": [
+      "level-up"
+    ],
+    "bayleef": [
+      "level-up"
+    ],
+    "meganium": [
+      "level-up"
+    ],
+    "hoothoot": [
+      "level-up"
+    ],
+    "noctowl": [
+      "level-up"
+    ],
+    "togepi": [
+      "level-up"
+    ],
+    "togetic": [
+      "level-up"
+    ],
+    "mareep": [
+      "level-up"
+    ],
+    "flaaffy": [
+      "level-up"
+    ],
+    "ampharos": [
+      "level-up"
+    ],
+    "slowking": [
+      "level-up"
+    ],
+    "misdreavus": [
+      "level-up"
+    ],
+    "girafarig": [
+      "level-up"
+    ],
+    "phanpy": [
+      "level-up"
+    ],
+    "donphan": [
+      "level-up"
+    ],
+    "miltank": [
+      "level-up"
+    ],
+    "blissey": [
+      "level-up"
+    ],
+    "torchic": [
+      "level-up"
+    ],
+    "combusken": [
+      "level-up"
+    ],
+    "blaziken": [
+      "level-up"
+    ],
+    "mudkip": [
+      "level-up"
+    ],
+    "marshtomp": [
+      "level-up"
+    ],
+    "swampert": [
+      "level-up"
+    ],
+    "zigzagoon": [
+      "level-up"
+    ],
+    "linoone": [
+      "level-up"
+    ],
+    "lotad": [
+      "level-up"
+    ],
+    "lombre": [
+      "level-up"
+    ],
+    "ludicolo": [
+      "level-up"
+    ],
+    "taillow": [
+      "level-up"
+    ],
+    "swellow": [
+      "level-up"
+    ],
+    "wingull": [
+      "level-up"
+    ],
+    "pelipper": [
+      "level-up"
+    ],
+    "ralts": [
+      "level-up"
+    ],
+    "kirlia": [
+      "level-up"
+    ],
+    "gardevoir": [
+      "level-up"
+    ],
+    "skitty": [
+      "level-up"
+    ],
+    "mawile": [
+      "level-up"
+    ],
+    "plusle": [
+      "level-up"
+    ],
+    "minun": [
+      "level-up"
+    ],
+    "wailmer": [
+      "level-up"
+    ],
+    "wailord": [
+      "level-up"
+    ],
+    "numel": [
+      "level-up"
+    ],
+    "camerupt": [
+      "level-up"
+    ],
+    "swablu": [
+      "level-up"
+    ],
+    "altaria": [
+      "level-up"
+    ],
+    "chimecho": [
+      "level-up"
+    ],
+    "spheal": [
+      "level-up"
+    ],
+    "sealeo": [
+      "level-up"
+    ],
+    "walrein": [
+      "level-up"
+    ],
+    "piplup": [
+      "level-up"
+    ],
+    "prinplup": [
+      "level-up"
+    ],
+    "empoleon": [
+      "level-up"
+    ],
+    "starly": [
+      "level-up"
+    ],
+    "staravia": [
+      "level-up"
+    ],
+    "staraptor": [
+      "level-up"
+    ],
+    "bidoof": [
+      "level-up"
+    ],
+    "bibarel": [
+      "level-up"
+    ],
+    "kricketot": [
+      "level-up"
+    ],
+    "kricketune": [
+      "level-up"
+    ],
+    "pachirisu": [
+      "level-up"
+    ],
+    "buizel": [
+      "level-up"
+    ],
+    "floatzel": [
+      "level-up"
+    ],
+    "mismagius": [
+      "level-up"
+    ],
+    "glameow": [
+      "level-up"
+    ],
+    "purugly": [
+      "level-up"
+    ],
+    "chingling": [
+      "level-up"
+    ],
+    "chatot": [
+      "level-up"
+    ],
+    "purrloin": [
+      "level-up"
+    ],
+    "liepard": [
+      "level-up"
+    ],
+    "pidove": [
+      "level-up"
+    ],
+    "tranquill": [
+      "level-up"
+    ],
+    "unfezant": [
+      "level-up"
+    ],
+    "audino": [
+      "level-up"
+    ],
+    "tympole": [
+      "level-up"
+    ],
+    "palpitoad": [
+      "level-up"
+    ],
+    "seismitoad": [
+      "level-up"
+    ],
+    "deerling": [
+      "level-up"
+    ],
+    "sawsbuck": [
+      "level-up"
+    ],
+    "elgyem": [
+      "level-up"
+    ],
+    "beheeyem": [
+      "level-up"
+    ],
+    "cubchoo": [
+      "level-up"
+    ],
+    "beartic": [
+      "level-up"
+    ],
+    "chespin": [
+      "level-up"
+    ],
+    "quilladin": [
+      "level-up"
+    ],
+    "chesnaught": [
+      "level-up"
+    ],
+    "froakie": [
+      "level-up"
+    ],
+    "frogadier": [
+      "level-up"
+    ],
+    "greninja": [
+      "level-up"
+    ],
+    "fletchling": [
+      "level-up"
+    ],
+    "fletchinder": [
+      "level-up"
+    ],
+    "talonflame": [
+      "level-up"
+    ],
+    "furfrou": [
+      "level-up"
+    ],
+    "amaura": [
+      "level-up"
+    ],
+    "aurorus": [
+      "level-up"
+    ],
+    "rowlet": [
+      "level-up"
+    ],
+    "dartrix": [
+      "level-up"
+    ],
+    "decidueye": [
+      "level-up"
+    ],
+    "litten": [
+      "level-up"
+    ],
+    "torracat": [
+      "level-up"
+    ],
+    "incineroar": [
+      "level-up"
+    ],
+    "popplio": [
+      "level-up"
+    ],
+    "brionne": [
+      "level-up"
+    ],
+    "primarina": [
+      "level-up"
+    ],
+    "pikipek": [
+      "level-up"
+    ],
+    "trumbeak": [
+      "level-up"
+    ],
+    "toucannon": [
+      "level-up"
+    ],
+    "oricorio-baile": [
+      "level-up"
+    ],
+    "wishiwashi-solo": [
+      "level-up"
+    ],
+    "poipole": [
+      "level-up"
+    ],
+    "naganadel": [
+      "level-up"
+    ],
+    "venusaur-mega": [
+      "level-up"
+    ],
+    "charizard-mega-x": [
+      "level-up"
+    ],
+    "charizard-mega-y": [
+      "level-up"
+    ],
+    "ampharos-mega": [
+      "level-up"
+    ],
+    "blaziken-mega": [
+      "level-up"
+    ],
+    "gardevoir-mega": [
+      "level-up"
+    ],
+    "mawile-mega": [
+      "level-up"
+    ],
+    "swampert-mega": [
+      "level-up"
+    ],
+    "altaria-mega": [
+      "level-up"
+    ],
+    "audino-mega": [
+      "level-up"
+    ],
+    "slowbro-mega": [
+      "level-up"
+    ],
+    "camerupt-mega": [
+      "level-up"
+    ],
+    "pikachu-original-cap": [
+      "level-up"
+    ],
+    "pikachu-hoenn-cap": [
+      "level-up"
+    ],
+    "pikachu-sinnoh-cap": [
+      "level-up"
+    ],
+    "pikachu-unova-cap": [
+      "level-up"
+    ],
+    "pikachu-kalos-cap": [
+      "level-up"
+    ],
+    "pikachu-alola-cap": [
+      "level-up"
+    ],
+    "diglett-alola": [
+      "level-up"
+    ],
+    "dugtrio-alola": [
+      "level-up"
+    ],
+    "meowth-alola": [
+      "level-up"
+    ],
+    "persian-alola": [
+      "level-up"
+    ],
+    "marowak-alola": [
+      "level-up"
+    ],
+    "greninja-battle-bond": [
+      "level-up"
+    ],
+    "greninja-ash": [
+      "level-up"
+    ],
+    "oricorio-pom-pom": [
+      "level-up"
+    ],
+    "oricorio-pau": [
+      "level-up"
+    ],
+    "oricorio-sensu": [
+      "level-up"
+    ],
+    "wishiwashi-school": [
+      "level-up"
+    ],
+    "pikachu-partner-cap": [
+      "level-up"
+    ],
+    "marowak-totem": [
+      "level-up"
+    ]
+  }
+}

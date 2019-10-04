@@ -1,0 +1,37 @@
+{
+  "name": "revelation-dance",
+  "caption": "Revelation Dance",
+  "type": "normal",
+  "damageCategory": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Has the same type as the user.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  This move's type matches the user's first type, if any; otherwise, it's typeless."
+  },
+  "flavorText": "The user attacks the target by dancing very hard.\nThe user’s type determines the type of this move.",
+  "flags": [
+    "protect",
+    "mirror",
+    "dance"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "oricorio-baile": [
+      "level-up"
+    ],
+    "oricorio-pom-pom": [
+      "level-up"
+    ],
+    "oricorio-pau": [
+      "level-up"
+    ],
+    "oricorio-sensu": [
+      "level-up"
+    ]
+  }
+}

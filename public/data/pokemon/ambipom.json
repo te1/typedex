@@ -1,0 +1,195 @@
+{
+  "name": "ambipom",
+  "caption": "Ambipom",
+  "types": [
+    "normal"
+  ],
+  "species": "ambipom",
+  "gen": "generation-iv",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.2,
+  "weight": 20.3,
+  "baseStats": {
+    "hp": 75,
+    "attack": 100,
+    "defense": 66,
+    "special-attack": 60,
+    "special-defense": 66,
+    "speed": 115
+  },
+  "evolutionChain": {
+    "species": "aipom",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "ambipom",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "In their search for comfortable trees, they get\ninto territorial disputes with groups of\nPassimian. They win about half the time.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "sand-attack": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "swift": [
+      "level-up"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "baton-pass": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "tickle": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "level-up",
+      "machine"
+    ],
+    "last-resort": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "nasty-plot": [
+      "level-up"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "double-hit": [
+      "level-up"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dual-chop": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "technician": 1,
+    "pickup": 2,
+    "skill-link": "hidden"
+  }
+}

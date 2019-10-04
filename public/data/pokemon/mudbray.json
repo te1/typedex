@@ -1,0 +1,163 @@
+{
+  "name": "mudbray",
+  "caption": "Mudbray",
+  "types": [
+    "ground"
+  ],
+  "species": "mudbray",
+  "gen": "generation-vii",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1,
+  "weight": 110,
+  "baseStats": {
+    "hp": 70,
+    "attack": 100,
+    "defense": 70,
+    "special-attack": 45,
+    "special-defense": 55,
+    "speed": 45
+  },
+  "evolutionChain": {
+    "species": "mudbray",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "mudsdale",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It loves playing in the mud. If it isn’t showered\nwith mud on a daily basis, it gets stressed\nout and stops listening to its Trainer.",
+  "moves": {
+    "stomp": [
+      "level-up"
+    ],
+    "double-kick": [
+      "level-up"
+    ],
+    "mega-kick": [
+      "level-up"
+    ],
+    "body-slam": [
+      "egg"
+    ],
+    "double-edge": [
+      "egg"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "counter": [
+      "level-up"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "magnitude": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "superpower": [
+      "level-up"
+    ],
+    "mud-sport": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "close-combat": [
+      "egg"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "mud-bomb": [
+      "egg"
+    ],
+    "heavy-slam": [
+      "level-up"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "level-up",
+      "machine"
+    ],
+    "rototiller": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "high-horsepower": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "own-tempo": 1,
+    "stamina": 2,
+    "inner-focus": "hidden"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "name": "kabutops",
+  "caption": "Kabutops",
+  "types": [
+    "rock",
+    "water"
+  ],
+  "species": "kabutops",
+  "gen": "generation-i",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.3,
+  "weight": 40.5,
+  "baseStats": {
+    "hp": 60,
+    "attack": 115,
+    "defense": 105,
+    "special-attack": 65,
+    "special-defense": 70,
+    "speed": 80
+  },
+  "evolutionChain": {
+    "species": "kabuto",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "kabutops",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Its body had begun to change so it could\nfunction on land. But it didn’t adapt in time and\nwent extinct.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "absorb": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "sand-attack": [
+      "level-up"
+    ],
+    "mega-drain": [
+      "level-up"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "endure": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "metal-sound": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "mud-shot": [
+      "level-up"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "wring-out": [
+      "level-up"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "aqua-jet": [
+      "level-up"
+    ],
+    "feint": [
+      "level-up"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "swift-swim": 1,
+    "battle-armor": 2,
+    "weak-armor": "hidden"
+  }
+}

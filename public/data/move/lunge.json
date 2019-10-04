@@ -1,0 +1,55 @@
+{
+  "name": "lunge",
+  "caption": "Lunge",
+  "type": "bug",
+  "damageCategory": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Lowers the target's Attack by one stage after inflicting damage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Lowers the target's [Attack]{mechanic:attack} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user makes a lunge at the target, attacking with\nfull force. This also lowers the target’s Attack stat.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "spinarak": [
+      "egg"
+    ],
+    "surskit": [
+      "egg"
+    ],
+    "volbeat": [
+      "egg"
+    ],
+    "mothim": [
+      "level-up"
+    ],
+    "joltik": [
+      "egg"
+    ],
+    "dewpider": [
+      "level-up"
+    ],
+    "araquanid": [
+      "level-up"
+    ],
+    "buzzwole": [
+      "level-up"
+    ],
+    "pheromosa": [
+      "level-up"
+    ],
+    "araquanid-totem": [
+      "level-up"
+    ]
+  }
+}

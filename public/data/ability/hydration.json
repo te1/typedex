@@ -1,0 +1,34 @@
+{
+  "name": "hydration",
+  "caption": "Hydration",
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Cures any [major status ailment]{mechanic:major-status-ailment} after each turn during [rain]{mechanic:rain}.",
+    "full": "This Pokémon is cured of any [major status ailment]{mechanic:major-status-ailment} after each turn during [rain]{mechanic:rain}."
+  },
+  "flavorText": "Heals status conditions if it’s raining.",
+  "pokemon": {
+    "seel": 2,
+    "dewgong": 2,
+    "lapras": "hidden",
+    "vaporeon": "hidden",
+    "smoochum": "hidden",
+    "wingull": 2,
+    "barboach": "hidden",
+    "whiscash": "hidden",
+    "gorebyss": "hidden",
+    "luvdisc": "hidden",
+    "phione": 1,
+    "manaphy": 1,
+    "tympole": 2,
+    "palpitoad": 2,
+    "ducklett": "hidden",
+    "swanna": "hidden",
+    "alomomola": 2,
+    "shelmet": 1,
+    "accelgor": 1,
+    "goomy": 2,
+    "sliggoo": 2,
+    "goodra": 2
+  }
+}

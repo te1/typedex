@@ -1,0 +1,191 @@
+{
+  "name": "starly",
+  "caption": "Starly",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "species": "starly",
+  "gen": "generation-iv",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.3,
+  "weight": 2,
+  "baseStats": {
+    "hp": 40,
+    "attack": 55,
+    "defense": 30,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 60
+  },
+  "evolutionChain": {
+    "species": "starly",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "staravia",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "staraptor",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "They flock in great numbers. Though small, they\nflap their wings with great power.",
+  "moves": {
+    "wing-attack": [
+      "level-up"
+    ],
+    "whirlwind": [
+      "level-up"
+    ],
+    "fly": [
+      "machine"
+    ],
+    "sand-attack": [
+      "egg"
+    ],
+    "fury-attack": [
+      "egg"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "double-edge": [
+      "egg"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "foresight": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "steel-wing": [
+      "egg",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "endeavor": [
+      "level-up"
+    ],
+    "feather-dance": [
+      "egg"
+    ],
+    "astonish": [
+      "egg"
+    ],
+    "aerial-ace": [
+      "level-up",
+      "machine"
+    ],
+    "roost": [
+      "egg",
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "brave-bird": [
+      "level-up"
+    ],
+    "detect": [
+      "egg"
+    ],
+    "uproar": [
+      "egg"
+    ],
+    "revenge": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "final-gambit": [
+      "level-up"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "mirror-move": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "keen-eye": 1,
+    "reckless": "hidden"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "name": "shadow-sneak",
+  "caption": "Shadow Sneak",
+  "type": "ghost",
+  "damageCategory": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "z": false,
+  "priority": 1,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The user extends its shadow and attacks the target\nfrom behind. This move always goes first.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "grimer": [
+      "egg"
+    ],
+    "spinarak": [
+      "level-up"
+    ],
+    "ariados": [
+      "level-up"
+    ],
+    "misdreavus": [
+      "egg"
+    ],
+    "ralts": [
+      "egg"
+    ],
+    "shedinja": [
+      "level-up"
+    ],
+    "sableye": [
+      "level-up"
+    ],
+    "kecleon": [
+      "level-up"
+    ],
+    "shuppet": [
+      "level-up",
+      "egg"
+    ],
+    "banette": [
+      "level-up"
+    ],
+    "duskull": [
+      "level-up"
+    ],
+    "dusclops": [
+      "level-up"
+    ],
+    "spiritomb": [
+      "level-up",
+      "egg"
+    ],
+    "dusknoir": [
+      "level-up"
+    ],
+    "giratina-altered": [
+      "level-up"
+    ],
+    "greninja": [
+      "level-up"
+    ],
+    "honedge": [
+      "level-up",
+      "egg"
+    ],
+    "doublade": [
+      "level-up"
+    ],
+    "aegislash-shield": [
+      "level-up"
+    ],
+    "pumpkaboo-average": [
+      "level-up"
+    ],
+    "gourgeist-average": [
+      "level-up"
+    ],
+    "decidueye": [
+      "level-up"
+    ],
+    "mimikyu-disguised": [
+      "level-up"
+    ],
+    "marshadow": [
+      "level-up"
+    ],
+    "giratina-origin": [
+      "level-up"
+    ],
+    "aegislash-blade": [
+      "level-up"
+    ],
+    "pumpkaboo-small": [
+      "level-up"
+    ],
+    "pumpkaboo-large": [
+      "level-up"
+    ],
+    "pumpkaboo-super": [
+      "level-up"
+    ],
+    "gourgeist-small": [
+      "level-up"
+    ],
+    "gourgeist-large": [
+      "level-up"
+    ],
+    "gourgeist-super": [
+      "level-up"
+    ],
+    "banette-mega": [
+      "level-up"
+    ],
+    "sableye-mega": [
+      "level-up"
+    ],
+    "greninja-battle-bond": [
+      "level-up"
+    ],
+    "greninja-ash": [
+      "level-up"
+    ],
+    "mimikyu-busted": [
+      "level-up"
+    ],
+    "mimikyu-totem-disguised": [
+      "level-up"
+    ],
+    "mimikyu-totem-busted": [
+      "level-up"
+    ]
+  }
+}

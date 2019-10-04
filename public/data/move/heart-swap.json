@@ -1,0 +1,34 @@
+{
+  "name": "heart-swap",
+  "caption": "Heart Swap",
+  "type": "psychic",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "User and target swap stat changes.",
+    "full": "User swaps its [stat modifiers]{mechanic:stat-modifiers} with the target."
+  },
+  "flavorText": "The user employs its psychic power to switch stat\nchanges with the target.",
+  "flags": [
+    "protect",
+    "mirror",
+    "authentic"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "manaphy": [
+      "level-up"
+    ],
+    "magearna": [
+      "level-up"
+    ],
+    "magearna-original": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "name": "heal-block",
+  "caption": "Heal Block",
+  "type": "psychic",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Prevents target from restoring its HP for five turns.",
+    "full": "For the next five turns, the target may not use any moves that only restore [HP]{mechanic:hp}, and move effects that heal the target are disabled.  Moves that steal [HP]{mechanic:hp} may still be used, but will only inflict damage and not heal the target."
+  },
+  "flavorText": "For five turns, the user prevents the opposing team\nfrom using any moves, Abilities, or held items that\nrecover HP.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror"
+  ],
+  "target": "all-opponents",
+  "pokemon": {
+    "celebi": [
+      "level-up"
+    ],
+    "shedinja": [
+      "level-up"
+    ],
+    "lunatone": [
+      "level-up"
+    ],
+    "solrock": [
+      "level-up"
+    ],
+    "baltoy": [
+      "level-up"
+    ],
+    "claydol": [
+      "level-up"
+    ],
+    "latios": [
+      "level-up"
+    ],
+    "bronzor": [
+      "level-up"
+    ],
+    "bronzong": [
+      "level-up"
+    ],
+    "yamask": [
+      "egg"
+    ],
+    "gothita": [
+      "level-up"
+    ],
+    "gothorita": [
+      "level-up"
+    ],
+    "gothitelle": [
+      "level-up"
+    ],
+    "solosis": [
+      "level-up"
+    ],
+    "duosion": [
+      "level-up"
+    ],
+    "reuniclus": [
+      "level-up"
+    ],
+    "elgyem": [
+      "level-up"
+    ],
+    "beheeyem": [
+      "level-up"
+    ],
+    "thundurus-incarnate": [
+      "level-up"
+    ],
+    "klefki": [
+      "level-up"
+    ],
+    "type-null": [
+      "level-up"
+    ],
+    "silvally": [
+      "level-up"
+    ],
+    "thundurus-therian": [
+      "level-up"
+    ],
+    "latios-mega": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "name": "mirror-shot",
+  "caption": "Mirror Shot",
+  "type": "steel",
+  "damageCategory": "special",
+  "power": 65,
+  "accuracy": 85,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a 30% chance to lower the target's accuracy by one stage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 30% chance to lower the target's [accuracy]{mechanic:accuracy} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user lets loose a flash of energy at the target\nfrom its polished body. This may also lower the\ntarget’s accuracy.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "magnemite": [
+      "level-up"
+    ],
+    "magneton": [
+      "level-up"
+    ],
+    "forretress": [
+      "level-up"
+    ],
+    "magnezone": [
+      "level-up"
+    ],
+    "vanillite": [
+      "level-up"
+    ],
+    "vanillish": [
+      "level-up"
+    ],
+    "vanilluxe": [
+      "level-up"
+    ],
+    "ferroseed": [
+      "level-up"
+    ],
+    "ferrothorn": [
+      "level-up"
+    ],
+    "klink": [
+      "level-up"
+    ],
+    "klang": [
+      "level-up"
+    ],
+    "klinklang": [
+      "level-up"
+    ],
+    "klefki": [
+      "level-up"
+    ],
+    "necrozma": [
+      "level-up"
+    ],
+    "magearna": [
+      "level-up"
+    ],
+    "wormadam-trash": [
+      "level-up"
+    ],
+    "magearna-original": [
+      "level-up"
+    ],
+    "necrozma-dusk": [
+      "level-up"
+    ],
+    "necrozma-dawn": [
+      "level-up"
+    ],
+    "necrozma-ultra": [
+      "level-up"
+    ]
+  }
+}

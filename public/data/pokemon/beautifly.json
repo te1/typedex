@@ -1,0 +1,191 @@
+{
+  "name": "beautifly",
+  "caption": "Beautifly",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "species": "beautifly",
+  "gen": "generation-iii",
+  "color": "yellow",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1,
+  "weight": 28.4,
+  "baseStats": {
+    "hp": 60,
+    "attack": 70,
+    "defense": 50,
+    "special-attack": 100,
+    "special-defense": 50,
+    "speed": 65
+  },
+  "evolutionChain": {
+    "species": "wurmple",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "silcoon",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "beautifly",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      },
+      {
+        "species": "cascoon",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "dustox",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Beautifly’s favorite food is the sweet pollen of flowers. If you\nwant to see this Pokémon, just leave a potted flower by an\nopen window. Beautifly is sure to come looking for pollen.",
+  "moves": {
+    "gust": [
+      "level-up"
+    ],
+    "whirlwind": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "absorb": [
+      "level-up"
+    ],
+    "mega-drain": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "stun-spore": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "giga-drain": [
+      "level-up"
+    ],
+    "attract": [
+      "level-up",
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "morning-sun": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "silver-wind": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "bug-buzz": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "air-cutter": [
+      "level-up"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "quiver-dance": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "rage": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "swarm": 1,
+    "rivalry": "hidden"
+  }
+}

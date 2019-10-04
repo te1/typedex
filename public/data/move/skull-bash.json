@@ -1,0 +1,89 @@
+{
+  "name": "skull-bash",
+  "caption": "Skull Bash",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 130,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Raises the user's Defense by one stage.  User charges for one turn before attacking.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Raises the user's [Defense]{mechanic:defense} by one [stage]{mechanic:stage}.  User then charges for one turn before attacking.\n\nThis move cannot be selected by []{move:sleep-talk}."
+  },
+  "flavorText": "The user tucks in its head to raise its Defense\nstat on the first turn, then rams the target on the\nnext turn.",
+  "flags": [
+    "contact",
+    "charge",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "bulbasaur": [
+      "egg"
+    ],
+    "squirtle": [
+      "level-up"
+    ],
+    "wartortle": [
+      "level-up"
+    ],
+    "blastoise": [
+      "level-up"
+    ],
+    "nidoran-f": [
+      "egg"
+    ],
+    "cubone": [
+      "egg"
+    ],
+    "rhyhorn": [
+      "egg"
+    ],
+    "goldeen": [
+      "egg"
+    ],
+    "sharpedo": [
+      "level-up"
+    ],
+    "torkoal": [
+      "egg"
+    ],
+    "relicanth": [
+      "egg"
+    ],
+    "bidoof": [
+      "egg"
+    ],
+    "snover": [
+      "egg"
+    ],
+    "drilbur": [
+      "egg"
+    ],
+    "bouffalant": [
+      "egg"
+    ],
+    "barbaracle": [
+      "level-up"
+    ],
+    "avalugg": [
+      "level-up"
+    ],
+    "tapu-bulu": [
+      "level-up"
+    ],
+    "celesteela": [
+      "level-up"
+    ],
+    "blastoise-mega": [
+      "level-up"
+    ],
+    "sharpedo-mega": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "name": "chingling",
+  "caption": "Chingling",
+  "types": [
+    "psychic"
+  ],
+  "species": "chingling",
+  "gen": "generation-iv",
+  "color": "yellow",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.2,
+  "weight": 0.6,
+  "baseStats": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 50,
+    "special-attack": 65,
+    "special-defense": 50,
+    "speed": 45
+  },
+  "evolutionChain": {
+    "species": "chingling",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "chimecho",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Each time it hops, it makes a ringing sound.\nIt deafens foes by emitting high-frequency cries.",
+  "moves": {
+    "wrap": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "disable": [
+      "egg"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "confusion": [
+      "level-up"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "hypnosis": [
+      "egg"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "recover": [
+      "egg"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "future-sight": [
+      "egg"
+    ],
+    "uproar": [
+      "level-up"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "wish": [
+      "egg"
+    ],
+    "skill-swap": [
+      "egg"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "last-resort": [
+      "level-up"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "entrainment": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "stored-power": [
+      "egg"
+    ],
+    "cosmic-power": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "yawn": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "levitate": 1
+  }
+}

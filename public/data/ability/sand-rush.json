@@ -1,0 +1,19 @@
+{
+  "name": "sand-rush",
+  "caption": "Sand Rush",
+  "gen": "generation-v",
+  "effect": {
+    "short": "Doubles [Speed]{mechanic:speed} during a [sandstorm]{mechanic:sandstorm}.  Protects against sandstorm damage.",
+    "full": "This Pokémon's [Speed]{mechanic:speed} is doubled during a [sandstorm]{mechanic:sandstorm}, and it does not take sandstorm damage, regardless of type."
+  },
+  "flavorText": "Boosts the Pokémon’s Speed stat in a sandstorm.",
+  "pokemon": {
+    "sandshrew": "hidden",
+    "sandslash": "hidden",
+    "herdier": 2,
+    "stoutland": 2,
+    "drilbur": 1,
+    "excadrill": 1,
+    "lycanroc-midday": 2
+  }
+}

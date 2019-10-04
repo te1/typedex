@@ -1,0 +1,211 @@
+{
+  "name": "cleffa",
+  "caption": "Cleffa",
+  "types": [
+    "fairy"
+  ],
+  "species": "cleffa",
+  "gen": "generation-ii",
+  "color": "pink",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.3,
+  "weight": 3,
+  "baseStats": {
+    "hp": 50,
+    "attack": 25,
+    "defense": 28,
+    "special-attack": 45,
+    "special-defense": 55,
+    "speed": 15
+  },
+  "evolutionChain": {
+    "species": "cleffa",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "clefairy",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "clefable",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "On nights with many shooting stars,\nthey gather in packs and dance in circles. If you\nshould see them, something good will happen!",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "sing": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "mimic": [
+      "egg"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "metronome": [
+      "egg"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "amnesia": [
+      "egg"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "splash": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sweet-kiss": [
+      "level-up"
+    ],
+    "belly-drum": [
+      "egg"
+    ],
+    "charm": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "present": [
+      "egg"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "encore": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "wish": [
+      "egg"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "magical-leaf": [
+      "level-up"
+    ],
+    "fake-tears": [
+      "egg"
+    ],
+    "covet": [
+      "egg"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "copycat": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "aromatherapy": [
+      "egg"
+    ],
+    "tickle": [
+      "egg"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "stored-power": [
+      "egg"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "heal-pulse": [
+      "egg"
+    ],
+    "misty-terrain": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "cute-charm": 1,
+    "magic-guard": 2,
+    "friend-guard": "hidden"
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "name": "body-slam",
+  "caption": "Body Slam",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a 30% chance to [paralyze]{mechanic:paralysis} the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 30% chance to [paralyze]{mechanic:paralyze} the target."
+  },
+  "flavorText": "The user drops onto the target with its full body\nweight. This may also leave the target with paralysis.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror",
+    "non-sky-battle"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "nidoqueen": [
+      "level-up"
+    ],
+    "clefairy": [
+      "level-up"
+    ],
+    "jigglypuff": [
+      "level-up"
+    ],
+    "growlithe": [
+      "egg"
+    ],
+    "poliwag": [
+      "level-up"
+    ],
+    "poliwhirl": [
+      "level-up"
+    ],
+    "lickitung": [
+      "egg"
+    ],
+    "goldeen": [
+      "egg"
+    ],
+    "jynx": [
+      "level-up"
+    ],
+    "lapras": [
+      "level-up"
+    ],
+    "snorlax": [
+      "level-up"
+    ],
+    "chikorita": [
+      "level-up",
+      "egg"
+    ],
+    "bayleef": [
+      "level-up"
+    ],
+    "meganium": [
+      "level-up"
+    ],
+    "mareep": [
+      "egg"
+    ],
+    "marill": [
+      "egg"
+    ],
+    "wooper": [
+      "egg"
+    ],
+    "dunsparce": [
+      "level-up"
+    ],
+    "slugma": [
+      "level-up"
+    ],
+    "magcargo": [
+      "level-up"
+    ],
+    "swinub": [
+      "egg"
+    ],
+    "phanpy": [
+      "egg"
+    ],
+    "miltank": [
+      "level-up"
+    ],
+    "slakoth": [
+      "egg"
+    ],
+    "azurill": [
+      "egg"
+    ],
+    "aron": [
+      "egg"
+    ],
+    "swalot": [
+      "level-up"
+    ],
+    "wailmer": [
+      "egg"
+    ],
+    "numel": [
+      "egg"
+    ],
+    "torkoal": [
+      "level-up"
+    ],
+    "seviper": [
+      "egg"
+    ],
+    "corphish": [
+      "egg"
+    ],
+    "tropius": [
+      "level-up"
+    ],
+    "spheal": [
+      "level-up"
+    ],
+    "sealeo": [
+      "level-up"
+    ],
+    "walrein": [
+      "level-up"
+    ],
+    "clamperl": [
+      "egg"
+    ],
+    "kyogre": [
+      "level-up"
+    ],
+    "turtwig": [
+      "egg"
+    ],
+    "shieldon": [
+      "egg"
+    ],
+    "shellos": [
+      "level-up"
+    ],
+    "gastrodon": [
+      "level-up"
+    ],
+    "drifloon": [
+      "egg"
+    ],
+    "purugly": [
+      "level-up"
+    ],
+    "gible": [
+      "egg"
+    ],
+    "munchlax": [
+      "level-up"
+    ],
+    "hippopotas": [
+      "egg"
+    ],
+    "tepig": [
+      "egg"
+    ],
+    "throh": [
+      "level-up"
+    ],
+    "tirtouga": [
+      "egg"
+    ],
+    "garbodor": [
+      "level-up"
+    ],
+    "foongus": [
+      "egg"
+    ],
+    "shelmet": [
+      "level-up"
+    ],
+    "heatmor": [
+      "egg"
+    ],
+    "deino": [
+      "level-up"
+    ],
+    "zweilous": [
+      "level-up"
+    ],
+    "hydreigon": [
+      "level-up"
+    ],
+    "chespin": [
+      "level-up"
+    ],
+    "quilladin": [
+      "level-up"
+    ],
+    "chesnaught": [
+      "level-up"
+    ],
+    "pancham": [
+      "level-up"
+    ],
+    "pangoro": [
+      "level-up"
+    ],
+    "goomy": [
+      "level-up"
+    ],
+    "sliggoo": [
+      "level-up"
+    ],
+    "goodra": [
+      "level-up"
+    ],
+    "avalugg": [
+      "level-up"
+    ],
+    "volcanion": [
+      "level-up"
+    ],
+    "litten": [
+      "egg"
+    ],
+    "mudbray": [
+      "egg"
+    ],
+    "turtonator": [
+      "level-up"
+    ],
+    "kyogre-primal": [
+      "level-up"
+    ]
+  }
+}

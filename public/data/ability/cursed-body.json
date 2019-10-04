@@ -1,0 +1,20 @@
+{
+  "name": "cursed-body",
+  "caption": "Cursed Body",
+  "gen": "generation-v",
+  "effect": {
+    "short": "Has a 30% chance of [Disabling]{move:disable} any move that hits the Pokémon.",
+    "full": "Moves that hit this Pokémon have a 30% chance of being [Disabled]{move:disable} afterward."
+  },
+  "flavorText": "May disable a move used on the Pokémon.",
+  "pokemon": {
+    "gengar": 1,
+    "shuppet": "hidden",
+    "banette": "hidden",
+    "froslass": "hidden",
+    "frillish": 2,
+    "jellicent": 2,
+    "marowak-alola": 1,
+    "marowak-totem": 1
+  }
+}

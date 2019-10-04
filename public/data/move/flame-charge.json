@@ -1,0 +1,321 @@
+{
+  "name": "flame-charge",
+  "caption": "Flame Charge",
+  "type": "fire",
+  "damageCategory": "physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Inflicts regular damage.  Raises the user's Speed by one stage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Raises the user's [Speed]{mechanic:speed} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "Cloaking itself in flame, the user attacks. Then,\nbuilding up more power, the user raises its\nSpeed stat.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "charmander": [
+      "machine"
+    ],
+    "charmeleon": [
+      "machine"
+    ],
+    "charizard": [
+      "machine"
+    ],
+    "vulpix": [
+      "machine"
+    ],
+    "ninetales": [
+      "machine"
+    ],
+    "growlithe": [
+      "machine"
+    ],
+    "arcanine": [
+      "machine"
+    ],
+    "ponyta": [
+      "level-up",
+      "machine"
+    ],
+    "rapidash": [
+      "level-up",
+      "machine"
+    ],
+    "magmar": [
+      "machine"
+    ],
+    "flareon": [
+      "machine"
+    ],
+    "moltres": [
+      "machine"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "cyndaquil": [
+      "level-up",
+      "machine"
+    ],
+    "quilava": [
+      "level-up",
+      "machine"
+    ],
+    "typhlosion": [
+      "level-up",
+      "machine"
+    ],
+    "slugma": [
+      "machine"
+    ],
+    "magcargo": [
+      "machine"
+    ],
+    "houndour": [
+      "machine"
+    ],
+    "houndoom": [
+      "machine"
+    ],
+    "magby": [
+      "machine"
+    ],
+    "entei": [
+      "machine"
+    ],
+    "ho-oh": [
+      "machine"
+    ],
+    "torchic": [
+      "machine"
+    ],
+    "combusken": [
+      "level-up",
+      "machine"
+    ],
+    "blaziken": [
+      "level-up",
+      "machine"
+    ],
+    "numel": [
+      "machine"
+    ],
+    "camerupt": [
+      "machine"
+    ],
+    "torkoal": [
+      "machine"
+    ],
+    "chimchar": [
+      "machine"
+    ],
+    "monferno": [
+      "machine"
+    ],
+    "infernape": [
+      "machine"
+    ],
+    "magmortar": [
+      "machine"
+    ],
+    "heatran": [
+      "machine"
+    ],
+    "victini": [
+      "level-up",
+      "machine"
+    ],
+    "tepig": [
+      "level-up",
+      "machine"
+    ],
+    "pignite": [
+      "level-up",
+      "machine"
+    ],
+    "emboar": [
+      "level-up",
+      "machine"
+    ],
+    "pansear": [
+      "machine"
+    ],
+    "simisear": [
+      "machine"
+    ],
+    "blitzle": [
+      "level-up",
+      "machine"
+    ],
+    "zebstrika": [
+      "level-up",
+      "machine"
+    ],
+    "darumaka": [
+      "machine"
+    ],
+    "darmanitan-standard": [
+      "machine"
+    ],
+    "litwick": [
+      "machine"
+    ],
+    "lampent": [
+      "machine"
+    ],
+    "chandelure": [
+      "machine"
+    ],
+    "larvesta": [
+      "level-up",
+      "machine"
+    ],
+    "volcarona": [
+      "machine"
+    ],
+    "reshiram": [
+      "machine"
+    ],
+    "genesect": [
+      "level-up",
+      "machine"
+    ],
+    "fennekin": [
+      "level-up",
+      "machine"
+    ],
+    "braixen": [
+      "level-up",
+      "machine"
+    ],
+    "delphox": [
+      "level-up",
+      "machine"
+    ],
+    "fletchling": [
+      "level-up",
+      "machine"
+    ],
+    "fletchinder": [
+      "level-up",
+      "machine"
+    ],
+    "talonflame": [
+      "level-up",
+      "machine"
+    ],
+    "litleo": [
+      "machine"
+    ],
+    "pyroar": [
+      "machine"
+    ],
+    "pumpkaboo-average": [
+      "machine"
+    ],
+    "gourgeist-average": [
+      "machine"
+    ],
+    "volcanion": [
+      "level-up",
+      "machine"
+    ],
+    "litten": [
+      "machine"
+    ],
+    "torracat": [
+      "machine"
+    ],
+    "incineroar": [
+      "machine"
+    ],
+    "pikipek": [
+      "machine"
+    ],
+    "trumbeak": [
+      "machine"
+    ],
+    "toucannon": [
+      "machine"
+    ],
+    "salandit": [
+      "machine"
+    ],
+    "salazzle": [
+      "machine"
+    ],
+    "type-null": [
+      "machine"
+    ],
+    "silvally": [
+      "machine"
+    ],
+    "turtonator": [
+      "machine"
+    ],
+    "solgaleo": [
+      "machine"
+    ],
+    "celesteela": [
+      "machine"
+    ],
+    "blacephalon": [
+      "machine"
+    ],
+    "darmanitan-zen": [
+      "machine"
+    ],
+    "pumpkaboo-small": [
+      "machine"
+    ],
+    "pumpkaboo-large": [
+      "machine"
+    ],
+    "pumpkaboo-super": [
+      "machine"
+    ],
+    "gourgeist-small": [
+      "machine"
+    ],
+    "gourgeist-large": [
+      "machine"
+    ],
+    "gourgeist-super": [
+      "machine"
+    ],
+    "charizard-mega-x": [
+      "machine"
+    ],
+    "charizard-mega-y": [
+      "machine"
+    ],
+    "houndoom-mega": [
+      "machine"
+    ],
+    "blaziken-mega": [
+      "level-up",
+      "machine"
+    ],
+    "camerupt-mega": [
+      "machine"
+    ],
+    "marowak-alola": [
+      "machine"
+    ],
+    "salazzle-totem": [
+      "machine"
+    ],
+    "marowak-totem": [
+      "machine"
+    ]
+  }
+}

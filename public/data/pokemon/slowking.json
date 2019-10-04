@@ -1,0 +1,230 @@
+{
+  "name": "slowking",
+  "caption": "Slowking",
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "species": "slowking",
+  "gen": "generation-ii",
+  "color": "pink",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 2,
+  "weight": 79.5,
+  "baseStats": {
+    "hp": 95,
+    "attack": 75,
+    "defense": 80,
+    "special-attack": 100,
+    "special-defense": 110,
+    "speed": 30
+  },
+  "evolutionChain": {
+    "species": "slowpoke",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "slowbro",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "slowking",
+        "triggers": [
+          "trade"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It’s constantly coming up with new ideas that\nwould change the world, but as soon as it\nhits upon a new idea, it forgets it.",
+  "moves": {
+    "headbutt": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "disable": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "confusion": [
+      "level-up"
+    ],
+    "psychic": [
+      "level-up",
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "curse": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "level-up",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "level-up",
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "level-up",
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "yawn": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "trump-card": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "nasty-plot": [
+      "level-up"
+    ],
+    "zen-headbutt": [
+      "level-up"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "power-gem": [
+      "level-up"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "heal-pulse": [
+      "level-up"
+    ],
+    "quash": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "dragon-tail": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "oblivious": 1,
+    "own-tempo": 2,
+    "regenerator": "hidden"
+  }
+}

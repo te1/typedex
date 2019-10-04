@@ -1,0 +1,209 @@
+{
+  "name": "swinub",
+  "caption": "Swinub",
+  "types": [
+    "ice",
+    "ground"
+  ],
+  "species": "swinub",
+  "gen": "generation-ii",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 6.5,
+  "baseStats": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 40,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 50
+  },
+  "evolutionChain": {
+    "species": "swinub",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "piloswine",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "mamoswine",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Swinub roots for food by rubbing its snout against the ground.\nIts favorite food is a mushroom that grows under the cover of\ndead grass. This Pokémon occasionally roots out hot springs.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "body-slam": [
+      "egg"
+    ],
+    "take-down": [
+      "level-up",
+      "egg"
+    ],
+    "bite": [
+      "egg"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "mist": [
+      "level-up"
+    ],
+    "blizzard": [
+      "level-up",
+      "machine"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "powder-snow": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "icy-wind": [
+      "level-up"
+    ],
+    "endure": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "ancient-power": [
+      "egg"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "amnesia": [
+      "level-up"
+    ],
+    "double-edge": [
+      "egg"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "odor-sleuth": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "icicle-spear": [
+      "egg"
+    ],
+    "mud-shot": [
+      "egg"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "fissure": [
+      "egg"
+    ],
+    "mud-sport": [
+      "level-up"
+    ],
+    "ice-shard": [
+      "level-up"
+    ],
+    "mud-bomb": [
+      "level-up"
+    ],
+    "stealth-rock": [
+      "egg"
+    ],
+    "avalanche": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "icicle-crash": [
+      "egg"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "freeze-dry": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "oblivious": 1,
+    "snow-cloak": 2,
+    "thick-fat": "hidden"
+  }
+}

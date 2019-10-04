@@ -1,0 +1,99 @@
+{
+  "name": "copycat",
+  "caption": "Copycat",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Uses the target's last used move.",
+    "full": "Uses the last move that was used successfully by any Pokémon, including the user.\n\nThis move cannot copy itself, nor []{move:roar} nor []{move:whirlwind}.\n\nThis move cannot be copied by []{move:mirror-move}, nor selected by []{move:assist}, []{move:metronome}, or []{move:sleep-talk}."
+  },
+  "flavorText": "The user mimics the move used immediately before\nit. The move fails if no other move has been\nused yet.",
+  "flags": [],
+  "target": "user",
+  "pokemon": {
+    "mr-mime": [
+      "level-up"
+    ],
+    "cleffa": [
+      "level-up"
+    ],
+    "igglybuff": [
+      "level-up"
+    ],
+    "sudowoodo": [
+      "level-up"
+    ],
+    "smoochum": [
+      "level-up"
+    ],
+    "azurill": [
+      "egg"
+    ],
+    "skitty": [
+      "level-up"
+    ],
+    "plusle": [
+      "level-up"
+    ],
+    "minun": [
+      "level-up"
+    ],
+    "spinda": [
+      "level-up"
+    ],
+    "buneary": [
+      "egg"
+    ],
+    "bonsly": [
+      "level-up"
+    ],
+    "mime-jr": [
+      "level-up"
+    ],
+    "happiny": [
+      "level-up"
+    ],
+    "riolu": [
+      "level-up"
+    ],
+    "mesprit": [
+      "level-up"
+    ],
+    "oshawott": [
+      "egg"
+    ],
+    "purrloin": [
+      "egg"
+    ],
+    "zorua": [
+      "egg"
+    ],
+    "flabebe": [
+      "egg"
+    ],
+    "swirlix": [
+      "egg"
+    ],
+    "mimikyu-disguised": [
+      "level-up"
+    ],
+    "marshadow": [
+      "level-up"
+    ],
+    "mimikyu-busted": [
+      "level-up"
+    ],
+    "mimikyu-totem-disguised": [
+      "level-up"
+    ],
+    "mimikyu-totem-busted": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "name": "nihilego",
+  "caption": "Nihilego",
+  "types": [
+    "rock",
+    "poison"
+  ],
+  "species": "nihilego",
+  "gen": "generation-vii",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.2,
+  "weight": 55.5,
+  "baseStats": {
+    "hp": 109,
+    "attack": 53,
+    "defense": 47,
+    "special-attack": 127,
+    "special-defense": 131,
+    "speed": 103
+  },
+  "flavorText": "A life-form from another world, it was dubbed\na UB and is thought to produce a\nstrong neurotoxin.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "headbutt": [
+      "level-up"
+    ],
+    "acid": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "constrict": [
+      "level-up"
+    ],
+    "psywave": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "level-up",
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "mirror-coat": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "tickle": [
+      "level-up"
+    ],
+    "toxic-spikes": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "power-gem": [
+      "level-up"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "stealth-rock": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "head-smash": [
+      "level-up"
+    ],
+    "guard-split": [
+      "level-up"
+    ],
+    "power-split": [
+      "level-up"
+    ],
+    "wonder-room": [
+      "level-up"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "venoshock": [
+      "level-up",
+      "machine"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "acid-spray": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "clear-smog": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "venom-drench": [
+      "level-up"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "beast-boost": 1
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "name": "aegislash-shield",
+  "caption": "Shield Aegislash",
+  "types": [
+    "steel",
+    "ghost"
+  ],
+  "species": "aegislash",
+  "gen": "generation-vi",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": "Shield Forme",
+  "height": 1.7,
+  "weight": 53,
+  "baseStats": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 150,
+    "special-attack": 50,
+    "special-defense": 150,
+    "speed": 60
+  },
+  "evolutionChain": {
+    "species": "honedge",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "doublade",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "aegislash",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Generations of kings were attended by these\nPokémon, which used their spectral power to\nmanipulate and control people and Pokémon.",
+  "moves": {
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "fury-cutter": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "level-up",
+      "machine"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "power-trick": [
+      "level-up"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "shadow-sneak": [
+      "level-up"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "iron-head": [
+      "level-up"
+    ],
+    "head-smash": [
+      "level-up"
+    ],
+    "autotomize": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "sacred-sword": [
+      "level-up"
+    ],
+    "kings-shield": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "stance-change": 1
+  }
+}

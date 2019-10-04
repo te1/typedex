@@ -1,0 +1,111 @@
+{
+  "name": "stored-power",
+  "caption": "Stored Power",
+  "type": "psychic",
+  "damageCategory": "special",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Power is higher the more the user's stats have been raised, to a maximum of 31×.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Power is increased by 100% its original value for every [stage]{mechanic:stage} any of the user's stats have been raised.  [Accuracy]{mechanic:accuracy}, [evasion]{mechanic:evasion}, and lowered stats do not affect this move's power.  For a Pokémon with all five stats modified to +6, this move's power is 31×."
+  },
+  "flavorText": "The user attacks the target with stored power. The\nmore the user’s stats are raised, the greater the\nmove’s power.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "clefairy": [
+      "level-up"
+    ],
+    "eevee": [
+      "egg"
+    ],
+    "cleffa": [
+      "egg"
+    ],
+    "togepi": [
+      "egg"
+    ],
+    "natu": [
+      "level-up"
+    ],
+    "xatu": [
+      "level-up"
+    ],
+    "ralts": [
+      "level-up"
+    ],
+    "kirlia": [
+      "level-up"
+    ],
+    "gardevoir": [
+      "level-up"
+    ],
+    "chimecho": [
+      "egg"
+    ],
+    "latias": [
+      "level-up"
+    ],
+    "latios": [
+      "level-up"
+    ],
+    "chingling": [
+      "egg"
+    ],
+    "gallade": [
+      "level-up"
+    ],
+    "victini": [
+      "level-up"
+    ],
+    "munna": [
+      "level-up"
+    ],
+    "woobat": [
+      "egg"
+    ],
+    "sigilyph": [
+      "egg"
+    ],
+    "oranguru": [
+      "level-up"
+    ],
+    "necrozma": [
+      "level-up"
+    ],
+    "blacephalon": [
+      "level-up"
+    ],
+    "meowstic-female": [
+      "level-up"
+    ],
+    "gardevoir-mega": [
+      "level-up"
+    ],
+    "latias-mega": [
+      "level-up"
+    ],
+    "latios-mega": [
+      "level-up"
+    ],
+    "gallade-mega": [
+      "level-up"
+    ],
+    "necrozma-dusk": [
+      "level-up"
+    ],
+    "necrozma-dawn": [
+      "level-up"
+    ],
+    "necrozma-ultra": [
+      "level-up"
+    ]
+  }
+}

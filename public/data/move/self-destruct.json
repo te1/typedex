@@ -1,0 +1,129 @@
+{
+  "name": "self-destruct",
+  "caption": "Self-Destruct",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 200,
+  "accuracy": 100,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "User faints.",
+    "full": "User [faint]{mechanic:faint}s, even if the attack [fail]{mechanic:fail}s or [miss]{mechanic:miss}es.  Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The user attacks everything around it by causing an\nexplosion. The user faints upon using this move.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "all-other-pokemon",
+  "pokemon": {
+    "geodude": [
+      "level-up"
+    ],
+    "graveler": [
+      "level-up"
+    ],
+    "golem": [
+      "level-up"
+    ],
+    "voltorb": [
+      "level-up"
+    ],
+    "electrode": [
+      "level-up"
+    ],
+    "koffing": [
+      "level-up"
+    ],
+    "weezing": [
+      "level-up"
+    ],
+    "sudowoodo": [
+      "egg"
+    ],
+    "pineco": [
+      "level-up"
+    ],
+    "forretress": [
+      "level-up"
+    ],
+    "baltoy": [
+      "level-up"
+    ],
+    "claydol": [
+      "level-up"
+    ],
+    "bonsly": [
+      "egg"
+    ],
+    "munchlax": [
+      "egg"
+    ],
+    "trubbish": [
+      "egg"
+    ],
+    "ferroseed": [
+      "level-up"
+    ],
+    "ferrothorn": [
+      "level-up"
+    ],
+    "genesect": [
+      "level-up"
+    ],
+    "minior-red-meteor": [
+      "level-up"
+    ],
+    "geodude-alola": [
+      "level-up"
+    ],
+    "graveler-alola": [
+      "level-up"
+    ],
+    "golem-alola": [
+      "level-up"
+    ],
+    "minior-orange-meteor": [
+      "level-up"
+    ],
+    "minior-yellow-meteor": [
+      "level-up"
+    ],
+    "minior-green-meteor": [
+      "level-up"
+    ],
+    "minior-blue-meteor": [
+      "level-up"
+    ],
+    "minior-indigo-meteor": [
+      "level-up"
+    ],
+    "minior-violet-meteor": [
+      "level-up"
+    ],
+    "minior-red": [
+      "level-up"
+    ],
+    "minior-orange": [
+      "level-up"
+    ],
+    "minior-yellow": [
+      "level-up"
+    ],
+    "minior-green": [
+      "level-up"
+    ],
+    "minior-blue": [
+      "level-up"
+    ],
+    "minior-indigo": [
+      "level-up"
+    ],
+    "minior-violet": [
+      "level-up"
+    ]
+  }
+}

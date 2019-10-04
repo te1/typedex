@@ -1,0 +1,194 @@
+{
+  "name": "hitmonlee",
+  "caption": "Hitmonlee",
+  "types": [
+    "fighting"
+  ],
+  "species": "hitmonlee",
+  "gen": "generation-i",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.5,
+  "weight": 49.8,
+  "baseStats": {
+    "hp": 50,
+    "attack": 120,
+    "defense": 53,
+    "special-attack": 35,
+    "special-defense": 110,
+    "speed": 87
+  },
+  "evolutionChain": {
+    "species": "tyrogue",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "hitmonlee",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "hitmonchan",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "hitmontop",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Hitmonlee’s legs freely contract and stretch. Using these\nspringlike legs, it bowls over foes with devastating kicks.\nAfter battle, it rubs down its legs and loosens the muscles to\novercome fatigue.",
+  "moves": {
+    "double-kick": [
+      "level-up"
+    ],
+    "mega-kick": [
+      "level-up"
+    ],
+    "jump-kick": [
+      "level-up"
+    ],
+    "rolling-kick": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "meditate": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "high-jump-kick": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "mind-reader": [
+      "level-up"
+    ],
+    "reversal": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "foresight": [
+      "level-up"
+    ],
+    "endure": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "revenge": [
+      "level-up"
+    ],
+    "brick-break": [
+      "level-up",
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "blaze-kick": [
+      "level-up"
+    ],
+    "feint": [
+      "level-up"
+    ],
+    "close-combat": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "wide-guard": [
+      "level-up"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "limber": 1,
+    "reckless": 2,
+    "unburden": "hidden"
+  }
+}

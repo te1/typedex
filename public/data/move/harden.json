@@ -1,0 +1,239 @@
+{
+  "name": "harden",
+  "caption": "Harden",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Raises the user's Defense by one stage.",
+    "full": "Raises the user's [Defense]{mechanic:defense} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+  "flags": [
+    "snatch"
+  ],
+  "target": "user",
+  "pokemon": {
+    "metapod": [
+      "level-up"
+    ],
+    "kakuna": [
+      "level-up"
+    ],
+    "grimer": [
+      "level-up"
+    ],
+    "muk": [
+      "level-up"
+    ],
+    "onix": [
+      "level-up"
+    ],
+    "krabby": [
+      "level-up"
+    ],
+    "kingler": [
+      "level-up"
+    ],
+    "staryu": [
+      "level-up"
+    ],
+    "pinsir": [
+      "level-up"
+    ],
+    "kabuto": [
+      "level-up"
+    ],
+    "kabutops": [
+      "level-up"
+    ],
+    "sudowoodo": [
+      "egg"
+    ],
+    "gligar": [
+      "level-up"
+    ],
+    "steelix": [
+      "level-up"
+    ],
+    "qwilfish": [
+      "level-up"
+    ],
+    "heracross": [
+      "egg"
+    ],
+    "slugma": [
+      "level-up"
+    ],
+    "magcargo": [
+      "level-up"
+    ],
+    "corsola": [
+      "level-up"
+    ],
+    "silcoon": [
+      "level-up"
+    ],
+    "cascoon": [
+      "level-up"
+    ],
+    "seedot": [
+      "level-up"
+    ],
+    "nuzleaf": [
+      "level-up"
+    ],
+    "nincada": [
+      "level-up"
+    ],
+    "ninjask": [
+      "level-up"
+    ],
+    "shedinja": [
+      "level-up"
+    ],
+    "nosepass": [
+      "level-up"
+    ],
+    "aron": [
+      "level-up"
+    ],
+    "lairon": [
+      "level-up"
+    ],
+    "aggron": [
+      "level-up"
+    ],
+    "lunatone": [
+      "level-up"
+    ],
+    "solrock": [
+      "level-up"
+    ],
+    "corphish": [
+      "level-up"
+    ],
+    "crawdaunt": [
+      "level-up"
+    ],
+    "baltoy": [
+      "level-up"
+    ],
+    "claydol": [
+      "level-up"
+    ],
+    "anorith": [
+      "level-up"
+    ],
+    "armaldo": [
+      "level-up"
+    ],
+    "relicanth": [
+      "level-up"
+    ],
+    "shellos": [
+      "level-up"
+    ],
+    "gastrodon": [
+      "level-up"
+    ],
+    "bonsly": [
+      "egg"
+    ],
+    "gliscor": [
+      "level-up"
+    ],
+    "roggenrola": [
+      "level-up"
+    ],
+    "boldore": [
+      "level-up"
+    ],
+    "gigalith": [
+      "level-up"
+    ],
+    "vanillite": [
+      "level-up"
+    ],
+    "vanillish": [
+      "level-up"
+    ],
+    "vanilluxe": [
+      "level-up"
+    ],
+    "ferroseed": [
+      "level-up"
+    ],
+    "ferrothorn": [
+      "level-up"
+    ],
+    "axew": [
+      "egg"
+    ],
+    "larvesta": [
+      "egg"
+    ],
+    "spewpa": [
+      "level-up"
+    ],
+    "carbink": [
+      "level-up"
+    ],
+    "bergmite": [
+      "level-up"
+    ],
+    "avalugg": [
+      "level-up"
+    ],
+    "diancie": [
+      "level-up"
+    ],
+    "grubbin": [
+      "egg"
+    ],
+    "wimpod": [
+      "egg"
+    ],
+    "sandygast": [
+      "level-up"
+    ],
+    "palossand": [
+      "level-up"
+    ],
+    "pyukumuku": [
+      "level-up"
+    ],
+    "buzzwole": [
+      "level-up"
+    ],
+    "celesteela": [
+      "level-up"
+    ],
+    "wormadam-sandy": [
+      "level-up"
+    ],
+    "pinsir-mega": [
+      "level-up"
+    ],
+    "aggron-mega": [
+      "level-up"
+    ],
+    "steelix-mega": [
+      "level-up"
+    ],
+    "diancie-mega": [
+      "level-up"
+    ],
+    "grimer-alola": [
+      "level-up"
+    ],
+    "muk-alola": [
+      "level-up"
+    ]
+  }
+}

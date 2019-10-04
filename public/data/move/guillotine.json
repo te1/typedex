@@ -1,0 +1,76 @@
+{
+  "name": "guillotine",
+  "caption": "Guillotine",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": null,
+  "accuracy": 30,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Causes a one-hit KO.",
+    "full": "Inflicts damage equal to the target's max [HP]{mechanic:hp}.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers.  This move's [accuracy]{mechanic:accuracy} is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will [fail]{mechanic:fail}.\n\nBecause this move inflicts a specific and finite amount of damage, []{move:endure} still prevents the target from fainting.\n\nThe effects of []{move:lock-on}, []{move:mind-reader}, and []{ability:no-guard} still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through []{move:detect} or []{move:protect}."
+  },
+  "flavorText": "A vicious, tearing attack with big pincers. The target\nfaints instantly if this attack hits.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "krabby": [
+      "level-up"
+    ],
+    "kingler": [
+      "level-up"
+    ],
+    "pinsir": [
+      "level-up"
+    ],
+    "gligar": [
+      "level-up"
+    ],
+    "corphish": [
+      "level-up"
+    ],
+    "crawdaunt": [
+      "level-up"
+    ],
+    "gliscor": [
+      "level-up"
+    ],
+    "axew": [
+      "level-up"
+    ],
+    "fraxure": [
+      "level-up"
+    ],
+    "haxorus": [
+      "level-up"
+    ],
+    "pawniard": [
+      "level-up"
+    ],
+    "bisharp": [
+      "level-up"
+    ],
+    "durant": [
+      "level-up"
+    ],
+    "vikavolt": [
+      "level-up"
+    ],
+    "kartana": [
+      "level-up"
+    ],
+    "pinsir-mega": [
+      "level-up"
+    ],
+    "vikavolt-totem": [
+      "level-up"
+    ]
+  }
+}

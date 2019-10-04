@@ -1,0 +1,24 @@
+{
+  "name": "limber",
+  "caption": "Limber",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Prevents [paralysis]{mechanic:paralysis}.",
+    "full": "This Pokémon cannot be [paralyzed]{mechanic:paralysis}.\n\nIf a Pokémon is paralyzed and acquires this ability, its paralysis is healed; this includes when regaining a lost ability upon leaving battle."
+  },
+  "flavorText": "Its limber body protects the Pokémon from paralysis.",
+  "pokemon": {
+    "persian": 1,
+    "hitmonlee": 1,
+    "ditto": 1,
+    "buneary": "hidden",
+    "lopunny": "hidden",
+    "glameow": 1,
+    "purrloin": 1,
+    "liepard": 1,
+    "stunfisk": 2,
+    "hawlucha": 1,
+    "mareanie": 2,
+    "toxapex": 2
+  }
+}

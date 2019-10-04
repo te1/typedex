@@ -1,0 +1,226 @@
+{
+  "name": "drapion",
+  "caption": "Drapion",
+  "types": [
+    "poison",
+    "dark"
+  ],
+  "species": "drapion",
+  "gen": "generation-iv",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.3,
+  "weight": 61.5,
+  "baseStats": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 110,
+    "special-attack": 60,
+    "special-defense": 75,
+    "speed": 95
+  },
+  "evolutionChain": {
+    "species": "skorupi",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "drapion",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It takes pride in its strength. Even though it can\ntear foes apart, it finishes them off with\npowerful poison.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "poison-sting": [
+      "level-up"
+    ],
+    "pin-missile": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "knock-off": [
+      "level-up"
+    ],
+    "poison-fang": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "acupressure": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "toxic-spikes": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "thunder-fang": [
+      "level-up"
+    ],
+    "ice-fang": [
+      "level-up"
+    ],
+    "fire-fang": [
+      "level-up"
+    ],
+    "cross-poison": [
+      "level-up"
+    ],
+    "bug-bite": [
+      "level-up"
+    ],
+    "hone-claws": [
+      "level-up"
+    ],
+    "venoshock": [
+      "level-up",
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "fell-stinger": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "battle-armor": 1,
+    "sniper": 2,
+    "keen-eye": "hidden"
+  }
+}

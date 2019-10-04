@@ -1,0 +1,161 @@
+{
+  "name": "oricorio-pom-pom",
+  "caption": "Pom-pom Oricorio",
+  "types": [
+    "electric",
+    "flying"
+  ],
+  "species": "oricorio",
+  "gen": "generation-vii",
+  "color": "red",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": "Pom-Pom Style",
+  "height": 0.6,
+  "weight": 3.4,
+  "baseStats": {
+    "hp": 75,
+    "attack": 70,
+    "defense": 70,
+    "special-attack": 98,
+    "special-defense": 70,
+    "speed": 93
+  },
+  "flavorText": "It wins the hearts of its enemies with its\npassionate dancing and then uses the opening\nit creates to burn them up with blazing flames.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "double-slap": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "fly": [
+      "machine"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "mirror-move": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "baton-pass": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "helping-hand": [
+      "level-up"
+    ],
+    "feather-dance": [
+      "level-up"
+    ],
+    "teeter-dance": [
+      "level-up"
+    ],
+    "air-cutter": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "roost": [
+      "level-up",
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "captivate": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "quash": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "hurricane": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "revelation-dance": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "dancer": 1
+  }
+}

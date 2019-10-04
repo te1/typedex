@@ -1,0 +1,26 @@
+{
+  "name": "shields-down",
+  "caption": "Shields Down",
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Transforms this Minior between Core Form and Meteor Form.  Prevents major status ailments and drowsiness while in Meteor Form.",
+    "full": "When this Pokémon enters battle and at the end of each turn, if its HP is 50% or above, it changes into Meteor Form; otherwise, it changes into Core Form.  In Meteor Form, it cannot be given a major status ailment (though existing ones are not cured), cannot become drowsy from []{move:yawn}, and cannot use []{move:rest} (which will simply fail).\n\nThis ability cannot be copied, replaced, or nullified.  This ability only takes effect for Minior."
+  },
+  "flavorText": "When its HP becomes half or less, the Pokémon’s\nshell breaks and it becomes aggressive.",
+  "pokemon": {
+    "minior-red-meteor": 1,
+    "minior-orange-meteor": 1,
+    "minior-yellow-meteor": 1,
+    "minior-green-meteor": 1,
+    "minior-blue-meteor": 1,
+    "minior-indigo-meteor": 1,
+    "minior-violet-meteor": 1,
+    "minior-red": 1,
+    "minior-orange": 1,
+    "minior-yellow": 1,
+    "minior-green": 1,
+    "minior-blue": 1,
+    "minior-indigo": 1,
+    "minior-violet": 1
+  }
+}

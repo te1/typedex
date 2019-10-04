@@ -1,0 +1,181 @@
+{
+  "name": "metal-claw",
+  "caption": "Metal Claw",
+  "type": "steel",
+  "damageCategory": "physical",
+  "power": 50,
+  "accuracy": 95,
+  "pp": 35,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a 10% chance to raise the user's Attack by one stage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}. Has a 10% chance to raise the user's [Attack]{mechanic:attack} one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The target is raked with steel claws. This may also\nraise the user’s Attack stat.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "charmander": [
+      "egg"
+    ],
+    "sandshrew": [
+      "egg"
+    ],
+    "paras": [
+      "egg"
+    ],
+    "krabby": [
+      "level-up"
+    ],
+    "kingler": [
+      "level-up"
+    ],
+    "totodile": [
+      "egg"
+    ],
+    "gligar": [
+      "egg"
+    ],
+    "scizor": [
+      "level-up"
+    ],
+    "sneasel": [
+      "level-up"
+    ],
+    "teddiursa": [
+      "egg"
+    ],
+    "skarmory": [
+      "level-up"
+    ],
+    "nincada": [
+      "level-up"
+    ],
+    "aron": [
+      "level-up"
+    ],
+    "lairon": [
+      "level-up"
+    ],
+    "aggron": [
+      "level-up"
+    ],
+    "zangoose": [
+      "egg"
+    ],
+    "corphish": [
+      "egg"
+    ],
+    "anorith": [
+      "level-up"
+    ],
+    "armaldo": [
+      "level-up"
+    ],
+    "metang": [
+      "level-up"
+    ],
+    "metagross": [
+      "level-up"
+    ],
+    "registeel": [
+      "level-up"
+    ],
+    "prinplup": [
+      "level-up"
+    ],
+    "empoleon": [
+      "level-up"
+    ],
+    "gible": [
+      "egg"
+    ],
+    "lucario": [
+      "level-up"
+    ],
+    "weavile": [
+      "level-up"
+    ],
+    "dialga": [
+      "level-up"
+    ],
+    "drilbur": [
+      "level-up"
+    ],
+    "excadrill": [
+      "level-up"
+    ],
+    "ferroseed": [
+      "level-up"
+    ],
+    "ferrothorn": [
+      "level-up"
+    ],
+    "druddigon": [
+      "egg"
+    ],
+    "pawniard": [
+      "level-up"
+    ],
+    "bisharp": [
+      "level-up"
+    ],
+    "durant": [
+      "level-up"
+    ],
+    "cobalion": [
+      "level-up"
+    ],
+    "genesect": [
+      "level-up"
+    ],
+    "wimpod": [
+      "egg"
+    ],
+    "solgaleo": [
+      "level-up"
+    ],
+    "necrozma": [
+      "level-up"
+    ],
+    "scizor-mega": [
+      "level-up"
+    ],
+    "aggron-mega": [
+      "level-up"
+    ],
+    "lucario-mega": [
+      "level-up"
+    ],
+    "metagross-mega": [
+      "level-up"
+    ],
+    "sandshrew-alola": [
+      "level-up"
+    ],
+    "sandslash-alola": [
+      "level-up"
+    ],
+    "diglett-alola": [
+      "level-up"
+    ],
+    "dugtrio-alola": [
+      "level-up"
+    ],
+    "necrozma-dusk": [
+      "level-up"
+    ],
+    "necrozma-dawn": [
+      "level-up"
+    ],
+    "necrozma-ultra": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "name": "defense-curl",
+  "caption": "Defense Curl",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 40,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Raises user's Defense by one stage.",
+    "full": "Raises user's [Defense]{mechanic:defense} by one [stage]{mechanic:stage}.\n\nAfter this move is used, the power of []{move:ice-ball} and []{move:rollout} are doubled until the user leaves the [field]{mechanic:field}."
+  },
+  "flavorText": "The user curls up to conceal weak spots and raise\nits Defense stat.",
+  "flags": [
+    "snatch"
+  ],
+  "target": "user",
+  "pokemon": {
+    "sandshrew": [
+      "level-up"
+    ],
+    "sandslash": [
+      "level-up"
+    ],
+    "clefairy": [
+      "level-up"
+    ],
+    "jigglypuff": [
+      "level-up"
+    ],
+    "wigglytuff": [
+      "level-up"
+    ],
+    "geodude": [
+      "level-up"
+    ],
+    "graveler": [
+      "level-up"
+    ],
+    "golem": [
+      "level-up"
+    ],
+    "onix": [
+      "egg"
+    ],
+    "lickitung": [
+      "level-up"
+    ],
+    "chansey": [
+      "level-up"
+    ],
+    "snorlax": [
+      "level-up"
+    ],
+    "cyndaquil": [
+      "level-up"
+    ],
+    "quilava": [
+      "level-up"
+    ],
+    "typhlosion": [
+      "level-up"
+    ],
+    "sentret": [
+      "level-up"
+    ],
+    "furret": [
+      "level-up"
+    ],
+    "igglybuff": [
+      "level-up"
+    ],
+    "marill": [
+      "level-up"
+    ],
+    "azumarill": [
+      "level-up"
+    ],
+    "sudowoodo": [
+      "egg"
+    ],
+    "dunsparce": [
+      "level-up"
+    ],
+    "phanpy": [
+      "level-up"
+    ],
+    "donphan": [
+      "level-up"
+    ],
+    "porygon2": [
+      "level-up"
+    ],
+    "miltank": [
+      "level-up"
+    ],
+    "blissey": [
+      "level-up"
+    ],
+    "wailmer": [
+      "egg"
+    ],
+    "numel": [
+      "egg"
+    ],
+    "spheal": [
+      "level-up"
+    ],
+    "sealeo": [
+      "level-up"
+    ],
+    "walrein": [
+      "level-up"
+    ],
+    "bagon": [
+      "egg"
+    ],
+    "bidoof": [
+      "level-up",
+      "egg"
+    ],
+    "bibarel": [
+      "level-up"
+    ],
+    "pachirisu": [
+      "egg"
+    ],
+    "cherubi": [
+      "egg"
+    ],
+    "buneary": [
+      "level-up"
+    ],
+    "lopunny": [
+      "level-up"
+    ],
+    "bonsly": [
+      "egg"
+    ],
+    "munchlax": [
+      "level-up"
+    ],
+    "lickilicky": [
+      "level-up"
+    ],
+    "tepig": [
+      "level-up"
+    ],
+    "pignite": [
+      "level-up"
+    ],
+    "emboar": [
+      "level-up"
+    ],
+    "munna": [
+      "level-up"
+    ],
+    "musharna": [
+      "level-up"
+    ],
+    "venipede": [
+      "level-up"
+    ],
+    "whirlipede": [
+      "level-up"
+    ],
+    "scolipede": [
+      "level-up"
+    ],
+    "foongus": [
+      "egg"
+    ],
+    "golett": [
+      "level-up"
+    ],
+    "golurk": [
+      "level-up"
+    ],
+    "chespin": [
+      "egg"
+    ],
+    "bunnelby": [
+      "egg"
+    ],
+    "skiddo": [
+      "egg"
+    ],
+    "minior-red-meteor": [
+      "level-up"
+    ],
+    "komala": [
+      "level-up"
+    ],
+    "togedemaru": [
+      "level-up"
+    ],
+    "magearna": [
+      "level-up"
+    ],
+    "lopunny-mega": [
+      "level-up"
+    ],
+    "sandshrew-alola": [
+      "level-up"
+    ],
+    "sandslash-alola": [
+      "level-up"
+    ],
+    "geodude-alola": [
+      "level-up"
+    ],
+    "graveler-alola": [
+      "level-up"
+    ],
+    "golem-alola": [
+      "level-up"
+    ],
+    "minior-orange-meteor": [
+      "level-up"
+    ],
+    "minior-yellow-meteor": [
+      "level-up"
+    ],
+    "minior-green-meteor": [
+      "level-up"
+    ],
+    "minior-blue-meteor": [
+      "level-up"
+    ],
+    "minior-indigo-meteor": [
+      "level-up"
+    ],
+    "minior-violet-meteor": [
+      "level-up"
+    ],
+    "minior-red": [
+      "level-up"
+    ],
+    "minior-orange": [
+      "level-up"
+    ],
+    "minior-yellow": [
+      "level-up"
+    ],
+    "minior-green": [
+      "level-up"
+    ],
+    "minior-blue": [
+      "level-up"
+    ],
+    "minior-indigo": [
+      "level-up"
+    ],
+    "minior-violet": [
+      "level-up"
+    ],
+    "magearna-original": [
+      "level-up"
+    ],
+    "togedemaru-totem": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "magikarp",
+  "caption": "Magikarp",
+  "types": [
+    "water"
+  ],
+  "species": "magikarp",
+  "gen": "generation-i",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.9,
+  "weight": 10,
+  "baseStats": {
+    "hp": 20,
+    "attack": 10,
+    "defense": 55,
+    "special-attack": 15,
+    "special-defense": 20,
+    "speed": 80
+  },
+  "evolutionChain": {
+    "species": "magikarp",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "gyarados",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "In the distant past, they were fairly strong, but\nthey have become gradually weaker over time.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "splash": [
+      "level-up"
+    ],
+    "flail": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "swift-swim": 1,
+    "rattled": "hidden"
+  }
+}

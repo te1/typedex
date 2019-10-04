@@ -1,0 +1,198 @@
+{
+  "name": "ursaring",
+  "caption": "Ursaring",
+  "types": [
+    "normal"
+  ],
+  "species": "ursaring",
+  "gen": "generation-ii",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.8,
+  "weight": 125.8,
+  "baseStats": {
+    "hp": 90,
+    "attack": 130,
+    "defense": 75,
+    "special-attack": 75,
+    "special-defense": 75,
+    "speed": 55
+  },
+  "evolutionChain": {
+    "species": "teddiursa",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "ursaring",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "In the forests inhabited by Ursaring, it is said that there are\nmany streams and towering trees where they gather food.\nThis Pokémon walks through its forest gathering food\nevery day.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "thrash": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "lick": [
+      "level-up"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "level-up",
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "snore": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "fake-tears": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "covet": [
+      "level-up"
+    ],
+    "hammer-arm": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "play-nice": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "guts": 1,
+    "quick-feet": 2,
+    "unnerve": "hidden"
+  }
+}

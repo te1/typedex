@@ -1,0 +1,97 @@
+{
+  "name": "vine-whip",
+  "caption": "Vine Whip",
+  "type": "grass",
+  "damageCategory": "physical",
+  "power": 45,
+  "accuracy": 100,
+  "pp": 25,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The target is struck with slender, whiplike vines to\ninflict damage.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "bulbasaur": [
+      "level-up"
+    ],
+    "ivysaur": [
+      "level-up"
+    ],
+    "venusaur": [
+      "level-up"
+    ],
+    "bellsprout": [
+      "level-up"
+    ],
+    "weepinbell": [
+      "level-up"
+    ],
+    "victreebel": [
+      "level-up"
+    ],
+    "tangela": [
+      "level-up"
+    ],
+    "chikorita": [
+      "egg"
+    ],
+    "carnivine": [
+      "level-up"
+    ],
+    "tangrowth": [
+      "level-up"
+    ],
+    "snivy": [
+      "level-up"
+    ],
+    "servine": [
+      "level-up"
+    ],
+    "serperior": [
+      "level-up"
+    ],
+    "pansage": [
+      "level-up"
+    ],
+    "chespin": [
+      "level-up"
+    ],
+    "quilladin": [
+      "level-up"
+    ],
+    "chesnaught": [
+      "level-up"
+    ],
+    "flabebe": [
+      "level-up"
+    ],
+    "floette": [
+      "level-up"
+    ],
+    "skiddo": [
+      "level-up"
+    ],
+    "gogoat": [
+      "level-up"
+    ],
+    "comfey": [
+      "level-up"
+    ],
+    "venusaur-mega": [
+      "level-up"
+    ],
+    "floette-eternal": [
+      "level-up"
+    ]
+  }
+}

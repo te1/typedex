@@ -1,0 +1,225 @@
+{
+  "name": "weavile",
+  "caption": "Weavile",
+  "types": [
+    "dark",
+    "ice"
+  ],
+  "species": "weavile",
+  "gen": "generation-iv",
+  "color": "black",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.1,
+  "weight": 34,
+  "baseStats": {
+    "hp": 70,
+    "attack": 120,
+    "defense": 65,
+    "special-attack": 45,
+    "special-defense": 85,
+    "speed": 125
+  },
+  "evolutionChain": {
+    "species": "sneasel",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "weavile",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "One Weavile will trip a Sandshrew and flip it\nover, and then another Weavile will deal the\nfinishing blow with its sharp claws.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "icy-wind": [
+      "level-up"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "metal-claw": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "revenge": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "snatch": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "assurance": [
+      "level-up"
+    ],
+    "embargo": [
+      "level-up",
+      "machine"
+    ],
+    "fling": [
+      "level-up",
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "level-up",
+      "machine"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "nasty-plot": [
+      "level-up"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "hone-claws": [
+      "level-up"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "punishment": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "pressure": 1,
+    "pickpocket": "hidden"
+  }
+}

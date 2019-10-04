@@ -1,0 +1,39 @@
+{
+  "name": "icicle-crash",
+  "caption": "Icicle Crash",
+  "type": "ice",
+  "damageCategory": "physical",
+  "power": 85,
+  "accuracy": 90,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Has a 30% chance to make the target flinch.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 30% chance to make the target []{mechanic:flinch}."
+  },
+  "flavorText": "The user attacks by harshly dropping large icicles\nonto the target. This may also make the target flinch.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "cloyster": [
+      "level-up"
+    ],
+    "sneasel": [
+      "egg"
+    ],
+    "swinub": [
+      "egg"
+    ],
+    "beartic": [
+      "level-up"
+    ],
+    "sandslash-alola": [
+      "level-up"
+    ]
+  }
+}

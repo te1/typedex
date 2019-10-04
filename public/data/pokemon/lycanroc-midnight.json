@@ -1,0 +1,165 @@
+{
+  "name": "lycanroc-midnight",
+  "caption": "Midnight Lycanroc",
+  "types": [
+    "rock"
+  ],
+  "species": "lycanroc",
+  "gen": "generation-vii",
+  "color": "brown",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": "Midnight Form",
+  "height": 1.1,
+  "weight": 25,
+  "baseStats": {
+    "hp": 85,
+    "attack": 115,
+    "defense": 75,
+    "special-attack": 55,
+    "special-defense": 75,
+    "speed": 82
+  },
+  "evolutionChain": {
+    "species": "rockruff",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "lycanroc",
+        "triggers": [
+          "level-up",
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "The sharp rocks in its mane can cut like knives.\nLycanroc wears its prey down by degrees\nbefore finishing them off.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "sand-attack": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "roar": [
+      "level-up",
+      "machine"
+    ],
+    "counter": [
+      "level-up"
+    ],
+    "rock-throw": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "level-up",
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "reversal": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "odor-sleuth": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "level-up",
+      "machine"
+    ],
+    "howl": [
+      "level-up"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "rock-climb": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "level-up",
+      "machine"
+    ],
+    "stealth-rock": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "keen-eye": 1,
+    "vital-spirit": 2,
+    "no-guard": "hidden"
+  }
+}

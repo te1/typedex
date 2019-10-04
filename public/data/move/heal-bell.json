@@ -1,0 +1,50 @@
+{
+  "name": "heal-bell",
+  "caption": "Heal Bell",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Cures the entire party of major status effects.",
+    "full": "Removes [major status effects]{mechanic:major-status-effects} and [confusion]{mechanic:confusion} from every Pokémon in the user's party."
+  },
+  "flavorText": "The user makes a soothing bell chime to heal the\nstatus conditions of all the party Pokémon.",
+  "flags": [
+    "snatch",
+    "sound",
+    "distance",
+    "authentic"
+  ],
+  "target": "user-and-allies",
+  "pokemon": {
+    "chansey": [
+      "egg"
+    ],
+    "snubbull": [
+      "egg"
+    ],
+    "miltank": [
+      "level-up"
+    ],
+    "celebi": [
+      "level-up"
+    ],
+    "skitty": [
+      "level-up"
+    ],
+    "chimecho": [
+      "level-up"
+    ],
+    "happiny": [
+      "egg"
+    ],
+    "audino": [
+      "egg"
+    ]
+  }
+}

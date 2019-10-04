@@ -1,0 +1,65 @@
+{
+  "name": "rage-powder",
+  "caption": "Rage Powder",
+  "type": "bug",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 2,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Redirects the target's single-target effects to the user for this turn.",
+    "full": "Until the end of this turn, any moves that opposing Pokémon target solely at the user's ally will instead target the user.  If both Pokémon on the same side of the [field]{mechanic:field} use this move on the same turn, the Pokémon that uses it last will become the target.\n\nThis effect takes priority over []{ability:lightning-rod} and []{ability:storm-drain}.\n\nIf the user's ally [switches out]{mechanic:switches-out}, opposing Pokémon may still hit it with []{move:pursuit}.\n\nThis move cannot be selected by []{move:assist} or []{move:metronome}."
+  },
+  "flavorText": "The user scatters a cloud of irritating powder to\ndraw attention to itself. Opponents aim only at\nthe user.",
+  "flags": [
+    "powder"
+  ],
+  "target": "user",
+  "pokemon": {
+    "butterfree": [
+      "level-up"
+    ],
+    "paras": [
+      "level-up"
+    ],
+    "parasect": [
+      "level-up"
+    ],
+    "venonat": [
+      "egg"
+    ],
+    "tangela": [
+      "egg"
+    ],
+    "spinarak": [
+      "egg"
+    ],
+    "hoppip": [
+      "level-up"
+    ],
+    "skiploom": [
+      "level-up"
+    ],
+    "jumpluff": [
+      "level-up"
+    ],
+    "carnivine": [
+      "egg"
+    ],
+    "foongus": [
+      "level-up"
+    ],
+    "amoonguss": [
+      "level-up"
+    ],
+    "volcarona": [
+      "level-up"
+    ],
+    "scatterbug": [
+      "egg"
+    ]
+  }
+}

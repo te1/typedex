@@ -1,0 +1,40 @@
+{
+  "name": "tail-slap",
+  "caption": "Tail Slap",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 25,
+  "accuracy": 85,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Hits 2-5 times in one turn.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Hits 2–5 times in one turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use."
+  },
+  "flavorText": "The user attacks by striking the target with its hard\ntail. It hits the target two to five times in a row.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "vulpix": [
+      "egg"
+    ],
+    "aipom": [
+      "egg"
+    ],
+    "buizel": [
+      "egg"
+    ],
+    "minccino": [
+      "level-up"
+    ],
+    "cinccino": [
+      "level-up"
+    ]
+  }
+}

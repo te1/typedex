@@ -1,0 +1,235 @@
+{
+  "name": "corsola",
+  "caption": "Corsola",
+  "types": [
+    "water",
+    "rock"
+  ],
+  "species": "corsola",
+  "gen": "generation-ii",
+  "color": "pink",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 5,
+  "baseStats": {
+    "hp": 65,
+    "attack": 55,
+    "defense": 95,
+    "special-attack": 65,
+    "special-defense": 95,
+    "speed": 35
+  },
+  "flavorText": "The pink of Corsola that live in Alola is deep\nand vibrant, thanks to seas filled with nutrition.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "mist": [
+      "egg"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "screech": [
+      "egg"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "recover": [
+      "level-up"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "spike-cannon": [
+      "level-up"
+    ],
+    "amnesia": [
+      "egg"
+    ],
+    "bubble": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "endure": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "mirror-coat": [
+      "level-up"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "egg"
+    ],
+    "barrier": [
+      "egg"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "ingrain": [
+      "egg"
+    ],
+    "refresh": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "icicle-spear": [
+      "egg"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "rock-blast": [
+      "level-up"
+    ],
+    "water-pulse": [
+      "egg"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "nature-power": [
+      "egg",
+      "machine"
+    ],
+    "brine": [
+      "level-up"
+    ],
+    "lucky-chant": [
+      "level-up"
+    ],
+    "aqua-ring": [
+      "level-up",
+      "egg"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "power-gem": [
+      "level-up"
+    ],
+    "earth-power": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "bide": [
+      "egg"
+    ],
+    "head-smash": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "camouflage": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "liquidation": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "hustle": 1,
+    "natural-cure": 2,
+    "regenerator": "hidden"
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "name": "focus-energy",
+  "caption": "Focus Energy",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Increases the user's chance to score a critical hit.",
+    "full": "User's [critical hit]{mechanic:critical-hit} rate is two levels higher until it leaves the field.  If the user has already used []{move:focus-energy} since entering the field, this move will [fail]{mechanic:fail}.\n\nThis effect is passed on by []{move:baton-pass}."
+  },
+  "flavorText": "The user takes a deep breath and focuses so that\ncritical hits land more easily.",
+  "flags": [
+    "snatch"
+  ],
+  "target": "user",
+  "pokemon": {
+    "beedrill": [
+      "level-up"
+    ],
+    "rattata": [
+      "level-up"
+    ],
+    "raticate": [
+      "level-up"
+    ],
+    "spearow": [
+      "level-up"
+    ],
+    "fearow": [
+      "level-up"
+    ],
+    "nidoran-f": [
+      "egg"
+    ],
+    "nidoran-m": [
+      "level-up"
+    ],
+    "nidorino": [
+      "level-up"
+    ],
+    "nidoking": [
+      "level-up"
+    ],
+    "mankey": [
+      "level-up"
+    ],
+    "primeape": [
+      "level-up"
+    ],
+    "machop": [
+      "level-up"
+    ],
+    "machoke": [
+      "level-up"
+    ],
+    "machamp": [
+      "level-up"
+    ],
+    "cubone": [
+      "level-up"
+    ],
+    "marowak": [
+      "level-up"
+    ],
+    "hitmonlee": [
+      "level-up"
+    ],
+    "kangaskhan": [
+      "egg"
+    ],
+    "horsea": [
+      "level-up"
+    ],
+    "seadra": [
+      "level-up"
+    ],
+    "scyther": [
+      "level-up"
+    ],
+    "pinsir": [
+      "level-up"
+    ],
+    "sentret": [
+      "egg"
+    ],
+    "ariados": [
+      "level-up"
+    ],
+    "scizor": [
+      "level-up"
+    ],
+    "remoraid": [
+      "level-up"
+    ],
+    "octillery": [
+      "level-up"
+    ],
+    "kingdra": [
+      "level-up"
+    ],
+    "phanpy": [
+      "egg"
+    ],
+    "hitmontop": [
+      "level-up"
+    ],
+    "magby": [
+      "egg"
+    ],
+    "larvitar": [
+      "egg"
+    ],
+    "torchic": [
+      "level-up"
+    ],
+    "combusken": [
+      "level-up"
+    ],
+    "blaziken": [
+      "level-up"
+    ],
+    "taillow": [
+      "level-up"
+    ],
+    "swellow": [
+      "level-up"
+    ],
+    "vigoroth": [
+      "level-up"
+    ],
+    "makuhita": [
+      "level-up"
+    ],
+    "hariyama": [
+      "level-up"
+    ],
+    "carvanha": [
+      "level-up"
+    ],
+    "sharpedo": [
+      "level-up"
+    ],
+    "numel": [
+      "level-up"
+    ],
+    "camerupt": [
+      "level-up"
+    ],
+    "trapinch": [
+      "egg"
+    ],
+    "bagon": [
+      "level-up"
+    ],
+    "shelgon": [
+      "level-up"
+    ],
+    "salamence": [
+      "level-up"
+    ],
+    "chimchar": [
+      "egg"
+    ],
+    "kricketune": [
+      "level-up"
+    ],
+    "cranidos": [
+      "level-up"
+    ],
+    "rampardos": [
+      "level-up"
+    ],
+    "shieldon": [
+      "egg"
+    ],
+    "drifloon": [
+      "level-up"
+    ],
+    "drifblim": [
+      "level-up"
+    ],
+    "stunky": [
+      "level-up"
+    ],
+    "skuntank": [
+      "level-up"
+    ],
+    "victini": [
+      "level-up"
+    ],
+    "oshawott": [
+      "level-up"
+    ],
+    "dewott": [
+      "level-up"
+    ],
+    "samurott": [
+      "level-up"
+    ],
+    "patrat": [
+      "level-up"
+    ],
+    "watchog": [
+      "level-up"
+    ],
+    "timburr": [
+      "level-up"
+    ],
+    "gurdurr": [
+      "level-up"
+    ],
+    "conkeldurr": [
+      "level-up"
+    ],
+    "throh": [
+      "level-up"
+    ],
+    "sawk": [
+      "level-up"
+    ],
+    "sandile": [
+      "egg"
+    ],
+    "darumaka": [
+      "egg"
+    ],
+    "axew": [
+      "egg"
+    ],
+    "bouffalant": [
+      "level-up"
+    ],
+    "deino": [
+      "level-up"
+    ],
+    "zweilous": [
+      "level-up"
+    ],
+    "hydreigon": [
+      "level-up"
+    ],
+    "passimian": [
+      "level-up"
+    ],
+    "buzzwole": [
+      "level-up"
+    ],
+    "pinsir-mega": [
+      "level-up"
+    ],
+    "scizor-mega": [
+      "level-up"
+    ],
+    "blaziken-mega": [
+      "level-up"
+    ],
+    "sharpedo-mega": [
+      "level-up"
+    ],
+    "camerupt-mega": [
+      "level-up"
+    ],
+    "salamence-mega": [
+      "level-up"
+    ],
+    "beedrill-mega": [
+      "level-up"
+    ],
+    "rattata-alola": [
+      "level-up"
+    ],
+    "raticate-alola": [
+      "level-up"
+    ],
+    "raticate-totem-alola": [
+      "level-up"
+    ]
+  }
+}

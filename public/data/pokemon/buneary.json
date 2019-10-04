@@ -1,0 +1,225 @@
+{
+  "name": "buneary",
+  "caption": "Buneary",
+  "types": [
+    "normal"
+  ],
+  "species": "buneary",
+  "gen": "generation-iv",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 5.5,
+  "baseStats": {
+    "hp": 55,
+    "attack": 66,
+    "defense": 44,
+    "special-attack": 44,
+    "special-defense": 56,
+    "speed": 85
+  },
+  "evolutionChain": {
+    "species": "buneary",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "lopunny",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Its arms and legs are weak, but when it rolls its\nears up tight and then unleashes them with its\nfull force, it can smash boulders to dust.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "fire-punch": [
+      "egg"
+    ],
+    "ice-punch": [
+      "egg"
+    ],
+    "thunder-punch": [
+      "egg"
+    ],
+    "jump-kick": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "low-kick": [
+      "egg"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "dizzy-punch": [
+      "level-up"
+    ],
+    "splash": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sweet-kiss": [
+      "egg"
+    ],
+    "foresight": [
+      "level-up"
+    ],
+    "endure": [
+      "level-up"
+    ],
+    "charm": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "level-up",
+      "machine"
+    ],
+    "baton-pass": [
+      "level-up"
+    ],
+    "encore": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "fake-out": [
+      "egg"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "focus-punch": [
+      "egg"
+    ],
+    "fake-tears": [
+      "egg"
+    ],
+    "sky-uppercut": [
+      "egg"
+    ],
+    "bounce": [
+      "level-up"
+    ],
+    "healing-wish": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "switcheroo": [
+      "egg"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "double-hit": [
+      "egg"
+    ],
+    "flail": [
+      "egg"
+    ],
+    "copycat": [
+      "egg"
+    ],
+    "entrainment": [
+      "level-up"
+    ],
+    "after-you": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "circle-throw": [
+      "egg"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "teeter-dance": [
+      "egg"
+    ],
+    "mud-sport": [
+      "egg"
+    ],
+    "cosmic-power": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "baby-doll-eyes": [
+      "level-up"
+    ],
+    "power-up-punch": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "run-away": 1,
+    "klutz": 2,
+    "limber": "hidden"
+  }
+}

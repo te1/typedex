@@ -1,0 +1,221 @@
+{
+  "name": "bide",
+  "caption": "Bide",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 1,
+  "gen": "generation-i",
+  "effect": {
+    "short": "User waits for two turns, then hits back for twice the damage it took.",
+    "full": "User waits for two turns.  On the second turn, the user inflicts twice the damage it accumulated on the last Pokémon to hit it.  Damage inflicted is [typeless]{mechanic:typeless}.\n\nThis move cannot be selected by []{move:sleep-talk}."
+  },
+  "flavorText": "The user endures attacks for two turns, then strikes\nback to cause double the damage taken.",
+  "flags": [
+    "contact",
+    "protect"
+  ],
+  "target": "user",
+  "pokemon": {
+    "krabby": [
+      "egg"
+    ],
+    "omanyte": [
+      "egg"
+    ],
+    "ledyba": [
+      "egg"
+    ],
+    "pichu": [
+      "egg"
+    ],
+    "sunkern": [
+      "egg"
+    ],
+    "pineco": [
+      "level-up"
+    ],
+    "forretress": [
+      "level-up"
+    ],
+    "dunsparce": [
+      "egg"
+    ],
+    "shuckle": [
+      "level-up"
+    ],
+    "heracross": [
+      "egg"
+    ],
+    "corsola": [
+      "egg"
+    ],
+    "miltank": [
+      "level-up"
+    ],
+    "mudkip": [
+      "level-up"
+    ],
+    "marshtomp": [
+      "level-up"
+    ],
+    "swampert": [
+      "level-up"
+    ],
+    "seedot": [
+      "level-up"
+    ],
+    "nincada": [
+      "level-up"
+    ],
+    "meditite": [
+      "level-up"
+    ],
+    "medicham": [
+      "level-up"
+    ],
+    "trapinch": [
+      "level-up"
+    ],
+    "vibrava": [
+      "level-up"
+    ],
+    "flygon": [
+      "level-up"
+    ],
+    "snorunt": [
+      "egg"
+    ],
+    "piplup": [
+      "level-up",
+      "egg"
+    ],
+    "prinplup": [
+      "level-up"
+    ],
+    "kricketot": [
+      "level-up"
+    ],
+    "kricketune": [
+      "level-up"
+    ],
+    "pachirisu": [
+      "level-up"
+    ],
+    "patrat": [
+      "level-up"
+    ],
+    "watchog": [
+      "level-up"
+    ],
+    "timburr": [
+      "level-up"
+    ],
+    "gurdurr": [
+      "level-up"
+    ],
+    "conkeldurr": [
+      "level-up"
+    ],
+    "throh": [
+      "level-up"
+    ],
+    "sawk": [
+      "level-up"
+    ],
+    "petilil": [
+      "egg"
+    ],
+    "tirtouga": [
+      "level-up",
+      "egg"
+    ],
+    "carracosta": [
+      "level-up"
+    ],
+    "foongus": [
+      "level-up"
+    ],
+    "amoonguss": [
+      "level-up"
+    ],
+    "cubchoo": [
+      "level-up"
+    ],
+    "beartic": [
+      "level-up"
+    ],
+    "shelmet": [
+      "level-up"
+    ],
+    "stunfisk": [
+      "level-up"
+    ],
+    "tyrunt": [
+      "level-up"
+    ],
+    "tyrantrum": [
+      "level-up"
+    ],
+    "goomy": [
+      "level-up"
+    ],
+    "sliggoo": [
+      "level-up"
+    ],
+    "goodra": [
+      "level-up"
+    ],
+    "yungoos": [
+      "level-up"
+    ],
+    "gumshoos": [
+      "level-up"
+    ],
+    "mudbray": [
+      "level-up"
+    ],
+    "mudsdale": [
+      "level-up"
+    ],
+    "stufful": [
+      "level-up"
+    ],
+    "bewear": [
+      "level-up"
+    ],
+    "pyukumuku": [
+      "level-up"
+    ],
+    "jangmo-o": [
+      "level-up"
+    ],
+    "hakamo-o": [
+      "level-up"
+    ],
+    "kommo-o": [
+      "level-up"
+    ],
+    "stakataka": [
+      "level-up"
+    ],
+    "medicham-mega": [
+      "level-up"
+    ],
+    "swampert-mega": [
+      "level-up"
+    ],
+    "sandshrew-alola": [
+      "level-up"
+    ],
+    "gumshoos-totem": [
+      "level-up"
+    ],
+    "kommo-o-totem": [
+      "level-up"
+    ]
+  }
+}

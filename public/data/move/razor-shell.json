@@ -1,0 +1,52 @@
+{
+  "name": "razor-shell",
+  "caption": "Razor Shell",
+  "type": "water",
+  "damageCategory": "physical",
+  "power": 75,
+  "accuracy": 95,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Has a 50% chance to lower the target's Defense by one stage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 50% chance to lower the target's [Defense]{mechanic:defense} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user cuts its target with sharp shells. This may\nalso lower the target’s Defense stat.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "shellder": [
+      "level-up"
+    ],
+    "corphish": [
+      "level-up"
+    ],
+    "crawdaunt": [
+      "level-up"
+    ],
+    "oshawott": [
+      "level-up"
+    ],
+    "dewott": [
+      "level-up"
+    ],
+    "samurott": [
+      "level-up"
+    ],
+    "binacle": [
+      "level-up"
+    ],
+    "barbaracle": [
+      "level-up"
+    ],
+    "golisopod": [
+      "level-up"
+    ]
+  }
+}

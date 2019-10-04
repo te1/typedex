@@ -1,0 +1,193 @@
+{
+  "name": "spiritomb",
+  "caption": "Spiritomb",
+  "types": [
+    "ghost",
+    "dark"
+  ],
+  "species": "spiritomb",
+  "gen": "generation-iv",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1,
+  "weight": 108,
+  "baseStats": {
+    "hp": 50,
+    "attack": 92,
+    "defense": 108,
+    "special-attack": 92,
+    "special-defense": 108,
+    "speed": 35
+  },
+  "flavorText": "A Pokémon that was formed by 108 spirits. It is\nbound to a fissure in an odd keystone.",
+  "moves": {
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "hypnosis": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "smokescreen": [
+      "egg"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "dream-eater": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "curse": [
+      "level-up"
+    ],
+    "spite": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "destiny-bond": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pain-split": [
+      "egg"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "memento": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "imprison": [
+      "egg"
+    ],
+    "grudge": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "dark-pulse": [
+      "level-up",
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "nasty-plot": [
+      "level-up"
+    ],
+    "shadow-sneak": [
+      "level-up",
+      "egg"
+    ],
+    "captivate": [
+      "egg"
+    ],
+    "ominous-wind": [
+      "level-up"
+    ],
+    "nightmare": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "quash": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "foul-play": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "disable": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "pressure": 1,
+    "infiltrator": "hidden"
+  }
+}

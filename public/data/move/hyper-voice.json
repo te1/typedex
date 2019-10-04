@@ -1,0 +1,137 @@
+{
+  "name": "hyper-voice",
+  "caption": "Hyper Voice",
+  "type": "normal",
+  "damageCategory": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The user lets loose a horribly echoing shout with\nthe power to inflict damage.",
+  "flags": [
+    "protect",
+    "mirror",
+    "sound",
+    "authentic"
+  ],
+  "target": "all-opponents",
+  "pokemon": {
+    "jigglypuff": [
+      "level-up"
+    ],
+    "sentret": [
+      "level-up"
+    ],
+    "furret": [
+      "level-up"
+    ],
+    "politoed": [
+      "level-up"
+    ],
+    "whismur": [
+      "level-up"
+    ],
+    "loudred": [
+      "level-up"
+    ],
+    "exploud": [
+      "level-up"
+    ],
+    "swablu": [
+      "egg"
+    ],
+    "rayquaza": [
+      "level-up"
+    ],
+    "chatot": [
+      "level-up"
+    ],
+    "arceus": [
+      "level-up"
+    ],
+    "audino": [
+      "level-up"
+    ],
+    "tympole": [
+      "level-up"
+    ],
+    "palpitoad": [
+      "level-up"
+    ],
+    "seismitoad": [
+      "level-up"
+    ],
+    "minccino": [
+      "level-up"
+    ],
+    "deino": [
+      "level-up"
+    ],
+    "zweilous": [
+      "level-up"
+    ],
+    "hydreigon": [
+      "level-up"
+    ],
+    "reshiram": [
+      "level-up"
+    ],
+    "zekrom": [
+      "level-up"
+    ],
+    "kyurem": [
+      "level-up"
+    ],
+    "meloetta-aria": [
+      "level-up"
+    ],
+    "litleo": [
+      "level-up"
+    ],
+    "pyroar": [
+      "level-up"
+    ],
+    "popplio": [
+      "level-up"
+    ],
+    "brionne": [
+      "level-up"
+    ],
+    "primarina": [
+      "level-up"
+    ],
+    "pikipek": [
+      "level-up"
+    ],
+    "trumbeak": [
+      "level-up"
+    ],
+    "toucannon": [
+      "level-up"
+    ],
+    "drampa": [
+      "level-up"
+    ],
+    "meloetta-pirouette": [
+      "level-up"
+    ],
+    "kyurem-black": [
+      "level-up"
+    ],
+    "kyurem-white": [
+      "level-up"
+    ],
+    "audino-mega": [
+      "level-up"
+    ],
+    "rayquaza-mega": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "name": "tapu-fini",
+  "caption": "Tapu Fini",
+  "types": [
+    "water",
+    "fairy"
+  ],
+  "species": "tapu-fini",
+  "gen": "generation-vii",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.3,
+  "weight": 21.2,
+  "baseStats": {
+    "hp": 70,
+    "attack": 75,
+    "defense": 115,
+    "special-attack": 95,
+    "special-defense": 130,
+    "speed": 85
+  },
+  "flavorText": "This guardian deity of Poni Island manipulates\nwater. Because it lives deep within a thick fog,\nit came to be both feared and revered.",
+  "moves": {
+    "mist": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "withdraw": [
+      "level-up"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "haze": [
+      "level-up"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "mean-look": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "whirlpool": [
+      "level-up"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "refresh": [
+      "level-up"
+    ],
+    "muddy-water": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "brine": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "aqua-ring": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "defog": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "soak": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "heal-pulse": [
+      "level-up"
+    ],
+    "misty-terrain": [
+      "level-up"
+    ],
+    "moonblast": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "smart-strike": [
+      "machine"
+    ],
+    "natures-madness": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "misty-surge": 1,
+    "telepathy": "hidden"
+  }
+}

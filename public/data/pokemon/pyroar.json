@@ -1,0 +1,185 @@
+{
+  "name": "pyroar",
+  "caption": "Pyroar",
+  "types": [
+    "fire",
+    "normal"
+  ],
+  "species": "pyroar",
+  "gen": "generation-vi",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.5,
+  "weight": 81.5,
+  "baseStats": {
+    "hp": 86,
+    "attack": 68,
+    "defense": 72,
+    "special-attack": 109,
+    "special-defense": 66,
+    "speed": 106
+  },
+  "evolutionChain": {
+    "species": "litleo",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "pyroar",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "The males are usually lazy, but when attacked\nby a strong foe, a male will protect its friends\nwith no regard for its own safety.",
+  "moves": {
+    "headbutt": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "ember": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "level-up",
+      "machine"
+    ],
+    "hyper-beam": [
+      "level-up",
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "endeavor": [
+      "level-up"
+    ],
+    "hyper-voice": [
+      "level-up"
+    ],
+    "overheat": [
+      "level-up",
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "fire-fang": [
+      "level-up"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "level-up",
+      "machine"
+    ],
+    "incinerate": [
+      "level-up"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "work-up": [
+      "level-up",
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "noble-roar": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "rivalry": 1,
+    "unnerve": 2,
+    "moxie": "hidden"
+  }
+}

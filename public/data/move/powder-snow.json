@@ -1,0 +1,111 @@
+{
+  "name": "powder-snow",
+  "caption": "Powder Snow",
+  "type": "ice",
+  "damageCategory": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 25,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a 10% chance to [freeze]{mechanic:freeze} the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 10% chance to [freeze]{mechanic:freeze} the target."
+  },
+  "flavorText": "The user attacks with a chilling gust of powdery\nsnow. This may also freeze the opposing Pokémon.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "all-opponents",
+  "pokemon": {
+    "jynx": [
+      "level-up"
+    ],
+    "articuno": [
+      "level-up"
+    ],
+    "swinub": [
+      "level-up"
+    ],
+    "piloswine": [
+      "level-up"
+    ],
+    "smoochum": [
+      "level-up"
+    ],
+    "castform": [
+      "level-up"
+    ],
+    "snorunt": [
+      "level-up"
+    ],
+    "glalie": [
+      "level-up"
+    ],
+    "spheal": [
+      "level-up"
+    ],
+    "sealeo": [
+      "level-up"
+    ],
+    "walrein": [
+      "level-up"
+    ],
+    "snover": [
+      "level-up"
+    ],
+    "abomasnow": [
+      "level-up"
+    ],
+    "mamoswine": [
+      "level-up"
+    ],
+    "froslass": [
+      "level-up"
+    ],
+    "vanillite": [
+      "egg"
+    ],
+    "cubchoo": [
+      "level-up"
+    ],
+    "beartic": [
+      "level-up"
+    ],
+    "amaura": [
+      "level-up"
+    ],
+    "aurorus": [
+      "level-up"
+    ],
+    "bergmite": [
+      "level-up"
+    ],
+    "avalugg": [
+      "level-up"
+    ],
+    "castform-sunny": [
+      "level-up"
+    ],
+    "castform-rainy": [
+      "level-up"
+    ],
+    "castform-snowy": [
+      "level-up"
+    ],
+    "abomasnow-mega": [
+      "level-up"
+    ],
+    "glalie-mega": [
+      "level-up"
+    ],
+    "sandshrew-alola": [
+      "level-up"
+    ],
+    "vulpix-alola": [
+      "level-up"
+    ]
+  }
+}

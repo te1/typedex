@@ -1,0 +1,14 @@
+{
+  "name": "stamina",
+  "caption": "Stamina",
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Raises this Pokémon's Defense by one stage when it takes damage from a move.",
+    "full": "Raises this Pokémon's Defense by one stage when it takes damage from a move."
+  },
+  "flavorText": "Boosts the Defense stat when hit by an attack.",
+  "pokemon": {
+    "mudbray": 2,
+    "mudsdale": 2
+  }
+}

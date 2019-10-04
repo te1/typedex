@@ -1,0 +1,125 @@
+{
+  "name": "muddy-water",
+  "caption": "Muddy Water",
+  "type": "water",
+  "damageCategory": "special",
+  "power": 90,
+  "accuracy": 85,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a 30% chance to lower the target's accuracy by one stage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 30% chance to lower the target's [accuracy]{mechanic:accuracy} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user attacks by shooting muddy water at the\nopposing Pokémon. This may also lower\ntheir accuracy.",
+  "flags": [
+    "protect",
+    "mirror",
+    "non-sky-battle"
+  ],
+  "target": "all-opponents",
+  "pokemon": {
+    "squirtle": [
+      "egg"
+    ],
+    "tentacool": [
+      "egg"
+    ],
+    "lickitung": [
+      "egg"
+    ],
+    "horsea": [
+      "egg"
+    ],
+    "vaporeon": [
+      "level-up"
+    ],
+    "omanyte": [
+      "egg"
+    ],
+    "marill": [
+      "egg"
+    ],
+    "wooper": [
+      "level-up"
+    ],
+    "quagsire": [
+      "level-up"
+    ],
+    "marshtomp": [
+      "level-up"
+    ],
+    "swampert": [
+      "level-up"
+    ],
+    "azurill": [
+      "egg"
+    ],
+    "barboach": [
+      "level-up",
+      "egg"
+    ],
+    "whiscash": [
+      "level-up"
+    ],
+    "clamperl": [
+      "egg"
+    ],
+    "relicanth": [
+      "egg"
+    ],
+    "kyogre": [
+      "level-up"
+    ],
+    "shellos": [
+      "level-up"
+    ],
+    "gastrodon": [
+      "level-up"
+    ],
+    "tympole": [
+      "level-up"
+    ],
+    "palpitoad": [
+      "level-up"
+    ],
+    "seismitoad": [
+      "level-up"
+    ],
+    "basculin-red-striped": [
+      "egg"
+    ],
+    "stunfisk": [
+      "level-up"
+    ],
+    "clauncher": [
+      "level-up"
+    ],
+    "clawitzer": [
+      "level-up"
+    ],
+    "goomy": [
+      "level-up"
+    ],
+    "sliggoo": [
+      "level-up"
+    ],
+    "goodra": [
+      "level-up"
+    ],
+    "wishiwashi-solo": [
+      "egg"
+    ],
+    "tapu-fini": [
+      "level-up"
+    ],
+    "swampert-mega": [
+      "level-up"
+    ],
+    "kyogre-primal": [
+      "level-up"
+    ]
+  }
+}

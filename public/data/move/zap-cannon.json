@@ -1,0 +1,99 @@
+{
+  "name": "zap-cannon",
+  "caption": "Zap Cannon",
+  "type": "electric",
+  "damageCategory": "special",
+  "power": 120,
+  "accuracy": 50,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a 100% chance to [paralyze]{mechanic:paralysis} the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 100% chance to [paralyze]{mechanic:paralyze} the target."
+  },
+  "flavorText": "The user fires an electric blast like a cannon to inflict\ndamage and cause paralysis.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "magnemite": [
+      "level-up"
+    ],
+    "magneton": [
+      "level-up"
+    ],
+    "porygon": [
+      "level-up"
+    ],
+    "zapdos": [
+      "level-up"
+    ],
+    "ampharos": [
+      "level-up"
+    ],
+    "forretress": [
+      "level-up"
+    ],
+    "porygon2": [
+      "level-up"
+    ],
+    "nosepass": [
+      "level-up"
+    ],
+    "regirock": [
+      "level-up"
+    ],
+    "regice": [
+      "level-up"
+    ],
+    "registeel": [
+      "level-up"
+    ],
+    "magnezone": [
+      "level-up"
+    ],
+    "porygon-z": [
+      "level-up"
+    ],
+    "probopass": [
+      "level-up"
+    ],
+    "klink": [
+      "level-up"
+    ],
+    "klang": [
+      "level-up"
+    ],
+    "klinklang": [
+      "level-up"
+    ],
+    "eelektrik": [
+      "level-up"
+    ],
+    "eelektross": [
+      "level-up"
+    ],
+    "genesect": [
+      "level-up"
+    ],
+    "vikavolt": [
+      "level-up"
+    ],
+    "xurkitree": [
+      "level-up"
+    ],
+    "deoxys-attack": [
+      "level-up"
+    ],
+    "ampharos-mega": [
+      "level-up"
+    ],
+    "vikavolt-totem": [
+      "level-up"
+    ]
+  }
+}

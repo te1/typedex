@@ -1,0 +1,78 @@
+{
+  "name": "aura-sphere",
+  "caption": "Aura Sphere",
+  "type": "fighting",
+  "damageCategory": "special",
+  "power": 80,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Never misses.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers."
+  },
+  "flavorText": "The user lets loose a blast of aura power from deep\nwithin its body at the target. This attack\nnever misses.",
+  "flags": [
+    "protect",
+    "mirror",
+    "distance",
+    "pulse",
+    "ballistics"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "squirtle": [
+      "egg"
+    ],
+    "mewtwo": [
+      "level-up"
+    ],
+    "mew": [
+      "level-up"
+    ],
+    "lucario": [
+      "level-up"
+    ],
+    "togekiss": [
+      "level-up"
+    ],
+    "dialga": [
+      "level-up"
+    ],
+    "palkia": [
+      "level-up"
+    ],
+    "giratina-altered": [
+      "level-up"
+    ],
+    "mienfoo": [
+      "level-up"
+    ],
+    "mienshao": [
+      "level-up"
+    ],
+    "clawitzer": [
+      "level-up"
+    ],
+    "magearna": [
+      "level-up"
+    ],
+    "giratina-origin": [
+      "level-up"
+    ],
+    "mewtwo-mega-x": [
+      "level-up"
+    ],
+    "mewtwo-mega-y": [
+      "level-up"
+    ],
+    "lucario-mega": [
+      "level-up"
+    ],
+    "magearna-original": [
+      "level-up"
+    ]
+  }
+}

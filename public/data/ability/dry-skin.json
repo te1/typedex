@@ -1,0 +1,19 @@
+{
+  "name": "dry-skin",
+  "caption": "Dry Skin",
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Causes 1/8 max [HP]{mechanic:hp} in damage each turn during [strong sunlight]{mechanic:strong-sunlight}, but heals for 1/8 max HP during [rain]{mechanic:rain}.  Increases damage from []{type:fire} moves to 1.25×, but absorbs []{type:water} moves, healing for 1/4 max HP.",
+    "full": "This Pokémon takes 1/8 of its maximum HP in damage after each turn during [strong sunlight]{mechanic:strong-sunlight}, but it heals for 1/8 of its HP each turn during [rain]{mechanic:rain}.  This Pokémon takes 1.25× as much damage from []{type:fire}-type moves, but whenever a []{type:water} move hits it, it heals for 1/4 its maximum HP instead."
+  },
+  "flavorText": "Restores HP in rain or when hit by Water-type\nmoves. Reduces HP in harsh sunlight, and increases\nthe damage received from Fire-type moves.",
+  "pokemon": {
+    "paras": 2,
+    "parasect": 2,
+    "jynx": "hidden",
+    "croagunk": 2,
+    "toxicroak": 2,
+    "helioptile": 1,
+    "heliolisk": 1
+  }
+}

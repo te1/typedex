@@ -1,0 +1,14 @@
+{
+  "name": "power-of-alchemy",
+  "caption": "Power of Alchemy",
+  "gen": "generation-vii",
+  "effect": {
+    "short": "When an ally faints, this Pokémon gains its Ability.",
+    "full": "When an ally faints, this Pokémon gains its Ability."
+  },
+  "flavorText": "The Pokémon copies the Ability of a defeated ally.",
+  "pokemon": {
+    "grimer-alola": "hidden",
+    "muk-alola": "hidden"
+  }
+}

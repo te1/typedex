@@ -1,0 +1,215 @@
+{
+  "name": "leech-seed",
+  "caption": "Leech Seed",
+  "type": "grass",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 90,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Seeds the target, stealing HP from it every turn.",
+    "full": "Plants a seed on the target that [drains]{mechanic:drain} 1/8 of its max [HP]{mechanic:hp} at the end of every turn and heals the user for the amount taken.  Has no effect on []{type:grass} Pokémon.  The seed remains until the target leaves the field.\n\nThe user takes damage instead of being healed if the target has []{ability:liquid-ooze}.\n\n[]{move:rapid-spin} will remove this effect.\n\nThis effect is passed on by []{move:baton-pass}."
+  },
+  "flavorText": "A seed is planted on the target. It steals some HP\nfrom the target every turn.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "bulbasaur": [
+      "level-up"
+    ],
+    "ivysaur": [
+      "level-up"
+    ],
+    "venusaur": [
+      "level-up"
+    ],
+    "paras": [
+      "egg"
+    ],
+    "exeggcute": [
+      "level-up"
+    ],
+    "tangela": [
+      "egg"
+    ],
+    "chikorita": [
+      "egg"
+    ],
+    "hoppip": [
+      "level-up"
+    ],
+    "skiploom": [
+      "level-up"
+    ],
+    "jumpluff": [
+      "level-up"
+    ],
+    "sunkern": [
+      "level-up",
+      "egg"
+    ],
+    "sunflora": [
+      "level-up"
+    ],
+    "celebi": [
+      "level-up"
+    ],
+    "treecko": [
+      "egg"
+    ],
+    "lotad": [
+      "egg"
+    ],
+    "seedot": [
+      "egg"
+    ],
+    "shroomish": [
+      "level-up"
+    ],
+    "breloom": [
+      "level-up"
+    ],
+    "roselia": [
+      "level-up"
+    ],
+    "cacnea": [
+      "level-up"
+    ],
+    "cacturne": [
+      "level-up"
+    ],
+    "tropius": [
+      "egg"
+    ],
+    "turtwig": [
+      "level-up"
+    ],
+    "grotle": [
+      "level-up"
+    ],
+    "torterra": [
+      "level-up"
+    ],
+    "cherubi": [
+      "level-up"
+    ],
+    "cherrim": [
+      "level-up"
+    ],
+    "carnivine": [
+      "egg"
+    ],
+    "snover": [
+      "egg"
+    ],
+    "shaymin-land": [
+      "level-up"
+    ],
+    "snivy": [
+      "level-up"
+    ],
+    "servine": [
+      "level-up"
+    ],
+    "serperior": [
+      "level-up"
+    ],
+    "pansage": [
+      "level-up"
+    ],
+    "cottonee": [
+      "level-up"
+    ],
+    "whimsicott": [
+      "level-up"
+    ],
+    "petilil": [
+      "level-up"
+    ],
+    "lilligant": [
+      "level-up"
+    ],
+    "maractus": [
+      "egg"
+    ],
+    "deerling": [
+      "level-up"
+    ],
+    "sawsbuck": [
+      "level-up"
+    ],
+    "ferroseed": [
+      "egg"
+    ],
+    "chespin": [
+      "level-up"
+    ],
+    "quilladin": [
+      "level-up"
+    ],
+    "chesnaught": [
+      "level-up"
+    ],
+    "skiddo": [
+      "level-up"
+    ],
+    "gogoat": [
+      "level-up"
+    ],
+    "phantump": [
+      "level-up"
+    ],
+    "trevenant": [
+      "level-up"
+    ],
+    "pumpkaboo-average": [
+      "level-up"
+    ],
+    "gourgeist-average": [
+      "level-up"
+    ],
+    "morelull": [
+      "egg"
+    ],
+    "comfey": [
+      "level-up"
+    ],
+    "tapu-bulu": [
+      "level-up"
+    ],
+    "celesteela": [
+      "level-up"
+    ],
+    "shaymin-sky": [
+      "level-up"
+    ],
+    "pumpkaboo-small": [
+      "level-up"
+    ],
+    "pumpkaboo-large": [
+      "level-up"
+    ],
+    "pumpkaboo-super": [
+      "level-up"
+    ],
+    "gourgeist-small": [
+      "level-up"
+    ],
+    "gourgeist-large": [
+      "level-up"
+    ],
+    "gourgeist-super": [
+      "level-up"
+    ],
+    "venusaur-mega": [
+      "level-up"
+    ]
+  }
+}

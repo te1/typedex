@@ -1,0 +1,202 @@
+{
+  "name": "chikorita",
+  "caption": "Chikorita",
+  "types": [
+    "grass"
+  ],
+  "species": "chikorita",
+  "gen": "generation-ii",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.9,
+  "weight": 6.4,
+  "baseStats": {
+    "hp": 45,
+    "attack": 49,
+    "defense": 65,
+    "special-attack": 49,
+    "special-defense": 65,
+    "speed": 45
+  },
+  "evolutionChain": {
+    "species": "chikorita",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "bayleef",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "meganium",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "In battle, Chikorita waves its leaf around to keep the foe at\nbay. However, a sweet fragrance also wafts from the leaf,\nbecalming the battling Pokémon and creating a cozy, friendly\natmosphere all around.",
+  "moves": {
+    "vine-whip": [
+      "egg"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "body-slam": [
+      "level-up",
+      "egg"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "leech-seed": [
+      "egg"
+    ],
+    "razor-leaf": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "level-up",
+      "machine"
+    ],
+    "poison-powder": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "level-up",
+      "machine"
+    ],
+    "reflect": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "flail": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "level-up",
+      "machine"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "synthesis": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "ancient-power": [
+      "egg"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "egg",
+      "machine"
+    ],
+    "ingrain": [
+      "egg"
+    ],
+    "grass-whistle": [
+      "egg"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "aromatherapy": [
+      "level-up",
+      "egg"
+    ],
+    "magical-leaf": [
+      "level-up"
+    ],
+    "natural-gift": [
+      "level-up"
+    ],
+    "wring-out": [
+      "egg"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "leaf-storm": [
+      "egg"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "refresh": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "heal-pulse": [
+      "egg"
+    ],
+    "grass-pledge": [
+      "tutor"
+    ],
+    "grassy-terrain": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "overgrow": 1,
+    "leaf-guard": "hidden"
+  }
+}

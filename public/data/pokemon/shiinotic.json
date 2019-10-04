@@ -1,0 +1,163 @@
+{
+  "name": "shiinotic",
+  "caption": "Shiinotic",
+  "types": [
+    "grass",
+    "fairy"
+  ],
+  "species": "shiinotic",
+  "gen": "generation-vii",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1,
+  "weight": 11.5,
+  "baseStats": {
+    "hp": 60,
+    "attack": 45,
+    "defense": 80,
+    "special-attack": 90,
+    "special-defense": 100,
+    "speed": 30
+  },
+  "evolutionChain": {
+    "species": "morelull",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "shiinotic",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It puts its prey to sleep and siphons off their\nvitality through the tip of its arms. If one of its\nkind is weakened, it helps by sending it vitality.",
+  "moves": {
+    "absorb": [
+      "level-up"
+    ],
+    "mega-drain": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "sleep-powder": [
+      "level-up"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "dream-eater": [
+      "level-up",
+      "machine"
+    ],
+    "spore": [
+      "level-up"
+    ],
+    "flash": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "giga-drain": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "moonlight": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "ingrain": [
+      "level-up"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "moonblast": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "strength-sap": [
+      "level-up"
+    ],
+    "spotlight": [
+      "level-up"
+    ],
+    "sunny-day": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "illuminate": 1,
+    "effect-spore": 2,
+    "rain-dish": "hidden"
+  }
+}

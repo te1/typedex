@@ -1,0 +1,177 @@
+{
+  "name": "gorebyss",
+  "caption": "Gorebyss",
+  "types": [
+    "water"
+  ],
+  "species": "gorebyss",
+  "gen": "generation-iii",
+  "color": "pink",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.8,
+  "weight": 22.6,
+  "baseStats": {
+    "hp": 55,
+    "attack": 84,
+    "defense": 105,
+    "special-attack": 114,
+    "special-defense": 75,
+    "speed": 52
+  },
+  "evolutionChain": {
+    "species": "clamperl",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "huntail",
+        "triggers": [
+          "trade"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "gorebyss",
+        "triggers": [
+          "trade"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "The color of its body changes with the water\ntemperature. The coloration of Gorebyss in Alola\nis almost blindingly vivid.",
+  "moves": {
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "confusion": [
+      "level-up"
+    ],
+    "psychic": [
+      "level-up",
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "amnesia": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "baton-pass": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "whirlpool": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "dive": [
+      "level-up"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "aqua-ring": [
+      "level-up"
+    ],
+    "aqua-tail": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "captivate": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "water-sport": [
+      "level-up"
+    ],
+    "coil": [
+      "level-up"
+    ],
+    "draining-kiss": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "swift-swim": 1,
+    "hydration": "hidden"
+  }
+}

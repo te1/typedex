@@ -1,0 +1,25 @@
+{
+  "name": "clear-body",
+  "caption": "Clear Body",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Prevents stats from being [lowered]{mechanic:stat-modifier} by other Pokémon.",
+    "full": "This Pokémon cannot have its stats [lowered]{mechanic:stat-modifier} by other Pokémon.\n\nThis ability does not prevent any stat losses other than [stat modifiers]{mechanic:stat-modifiers}, such as the [Speed]{mechanic:speed} cut from [paralysis]{mechanic:paralysis}.  This Pokémon can still be passed negative stat modifiers through []{move:guard-swap}, []{move:heart-swap}, or []{move:power-swap}.\n\nThis ability functions identically to []{ability:white-smoke} in battle."
+  },
+  "flavorText": "Prevents other Pokémon’s moves or Abilities from\nlowering the Pokémon’s stats.",
+  "pokemon": {
+    "tentacool": 1,
+    "tentacruel": 1,
+    "beldum": 1,
+    "metang": 1,
+    "metagross": 1,
+    "regirock": 1,
+    "regice": 1,
+    "registeel": 1,
+    "klink": "hidden",
+    "klang": "hidden",
+    "klinklang": "hidden",
+    "carbink": 1,
+    "diancie": 1
+  }
+}

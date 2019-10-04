@@ -1,0 +1,125 @@
+{
+  "name": "belch",
+  "caption": "Belch",
+  "type": "poison",
+  "damageCategory": "special",
+  "power": 120,
+  "accuracy": 90,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Can only be used after the user has eaten a berry.",
+    "full": "Inflicts regular damage.  Can only be used if the user has eaten a berry since the beginning of the battle.\n\nAfter the user eats a berry, it may use this move any number of times until the end of the battle, even if it switches out.  Eating a held berry, eating a berry via []{move:bug-bite} or []{move:pluck}, or being the target of a [Flung]{move:fling} berry will enable this move.  Feeding a Pokémon a berry from the bag or using []{move:natural-gift} will not.\n\nIf the trainer chooses this move when it cannot be used, the choice is rejected outright and the trainer must choose another move."
+  },
+  "flavorText": "The user lets out a damaging belch at the target.\nThe user must eat a held Berry to use this move.",
+  "flags": [
+    "protect"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "ekans": [
+      "level-up"
+    ],
+    "arbok": [
+      "level-up"
+    ],
+    "bellsprout": [
+      "egg"
+    ],
+    "slowpoke": [
+      "egg"
+    ],
+    "seel": [
+      "egg"
+    ],
+    "grimer": [
+      "level-up"
+    ],
+    "muk": [
+      "level-up"
+    ],
+    "lickitung": [
+      "egg"
+    ],
+    "koffing": [
+      "level-up"
+    ],
+    "weezing": [
+      "level-up"
+    ],
+    "snorlax": [
+      "egg"
+    ],
+    "magby": [
+      "egg"
+    ],
+    "miltank": [
+      "egg"
+    ],
+    "gulpin": [
+      "level-up"
+    ],
+    "swalot": [
+      "level-up"
+    ],
+    "grumpig": [
+      "level-up"
+    ],
+    "cacnea": [
+      "egg"
+    ],
+    "seviper": [
+      "level-up"
+    ],
+    "whiscash": [
+      "level-up"
+    ],
+    "stunky": [
+      "level-up"
+    ],
+    "skuntank": [
+      "level-up"
+    ],
+    "munchlax": [
+      "egg"
+    ],
+    "croagunk": [
+      "level-up"
+    ],
+    "toxicroak": [
+      "level-up"
+    ],
+    "pansear": [
+      "egg"
+    ],
+    "trubbish": [
+      "level-up"
+    ],
+    "garbodor": [
+      "level-up"
+    ],
+    "bouffalant": [
+      "egg"
+    ],
+    "heatmor": [
+      "egg"
+    ],
+    "deino": [
+      "egg"
+    ],
+    "salandit": [
+      "egg"
+    ],
+    "guzzlord": [
+      "level-up"
+    ],
+    "grimer-alola": [
+      "level-up"
+    ],
+    "muk-alola": [
+      "level-up"
+    ]
+  }
+}

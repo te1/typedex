@@ -1,0 +1,170 @@
+{
+  "name": "kyogre",
+  "caption": "Kyogre",
+  "types": [
+    "water"
+  ],
+  "species": "kyogre",
+  "gen": "generation-iii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": "Kyogre",
+  "height": 4.5,
+  "weight": 352,
+  "baseStats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 90,
+    "special-attack": 150,
+    "special-defense": 140,
+    "speed": 90
+  },
+  "flavorText": "Through Primal Reversion and with nature’s\nfull power, it will take back its true form. It can\nsummon storms that cause the sea levels to rise.",
+  "moves": {
+    "body-slam": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "level-up",
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "water-spout": [
+      "level-up"
+    ],
+    "sheer-cold": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "level-up",
+      "machine"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "aqua-tail": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "muddy-water": [
+      "level-up"
+    ],
+    "aqua-ring": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "origin-pulse": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "drizzle": 1
+  }
+}

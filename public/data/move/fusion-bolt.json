@@ -1,0 +1,30 @@
+{
+  "name": "fusion-bolt",
+  "caption": "Fusion Bolt",
+  "type": "electric",
+  "damageCategory": "physical",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "With [Fusion Flare]{move:fusion-flare}, inflicts double damage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  If a friendly Pokémon used []{move:fusion-flare} earlier this turn, this move has double power."
+  },
+  "flavorText": "The user throws down a giant lightning bolt. This\nmove’s power is increased when influenced by an\nenormous flame.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "zekrom": [
+      "level-up"
+    ],
+    "kyurem-black": [
+      "level-up"
+    ]
+  }
+}

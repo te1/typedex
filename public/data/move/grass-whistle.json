@@ -1,0 +1,92 @@
+{
+  "name": "grass-whistle",
+  "caption": "Grass Whistle",
+  "type": "grass",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 55,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Puts the target to sleep.",
+    "full": "Puts the target to [sleep]{mechanic:sleep}."
+  },
+  "flavorText": "The user plays a pleasant melody that lulls the\ntarget into a deep sleep.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror",
+    "sound",
+    "authentic"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "bulbasaur": [
+      "egg"
+    ],
+    "chikorita": [
+      "egg"
+    ],
+    "sunkern": [
+      "level-up",
+      "egg"
+    ],
+    "sunflora": [
+      "level-up"
+    ],
+    "treecko": [
+      "egg"
+    ],
+    "roselia": [
+      "level-up",
+      "egg"
+    ],
+    "cacnea": [
+      "egg"
+    ],
+    "budew": [
+      "egg"
+    ],
+    "cherubi": [
+      "egg"
+    ],
+    "carnivine": [
+      "egg"
+    ],
+    "snover": [
+      "level-up"
+    ],
+    "abomasnow": [
+      "level-up"
+    ],
+    "leafeon": [
+      "level-up"
+    ],
+    "pansage": [
+      "egg"
+    ],
+    "swadloon": [
+      "level-up"
+    ],
+    "cottonee": [
+      "egg"
+    ],
+    "petilil": [
+      "egg"
+    ],
+    "maractus": [
+      "egg"
+    ],
+    "deerling": [
+      "egg"
+    ],
+    "bounsweet": [
+      "egg"
+    ],
+    "abomasnow-mega": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "name": "sucker-punch",
+  "caption": "Sucker Punch",
+  "type": "dark",
+  "damageCategory": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 5,
+  "z": false,
+  "priority": 1,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Only works if the target is about to use a damaging move.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  If the target has not selected a damaging move this turn, or if the target has already acted this turn, this move will [fail]{mechanic:fail}.\n\nThis move is not affected by []{ability:iron-fist}."
+  },
+  "flavorText": "This move enables the user to attack first. This move\nfails if the target is not readying an attack.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "rattata": [
+      "level-up"
+    ],
+    "raticate": [
+      "level-up"
+    ],
+    "ekans": [
+      "egg"
+    ],
+    "nidoran-m": [
+      "egg"
+    ],
+    "diglett": [
+      "level-up"
+    ],
+    "dugtrio": [
+      "level-up"
+    ],
+    "gastly": [
+      "level-up"
+    ],
+    "haunter": [
+      "level-up"
+    ],
+    "gengar": [
+      "level-up"
+    ],
+    "kangaskhan": [
+      "level-up"
+    ],
+    "sentret": [
+      "level-up"
+    ],
+    "furret": [
+      "level-up"
+    ],
+    "spinarak": [
+      "level-up"
+    ],
+    "ariados": [
+      "level-up"
+    ],
+    "natu": [
+      "egg"
+    ],
+    "sudowoodo": [
+      "level-up"
+    ],
+    "murkrow": [
+      "level-up"
+    ],
+    "misdreavus": [
+      "egg"
+    ],
+    "houndour": [
+      "egg"
+    ],
+    "poochyena": [
+      "level-up",
+      "egg"
+    ],
+    "mightyena": [
+      "level-up"
+    ],
+    "skitty": [
+      "egg"
+    ],
+    "sableye": [
+      "egg"
+    ],
+    "mawile": [
+      "level-up",
+      "egg"
+    ],
+    "spinda": [
+      "level-up"
+    ],
+    "cacnea": [
+      "level-up"
+    ],
+    "cacturne": [
+      "level-up"
+    ],
+    "kecleon": [
+      "level-up"
+    ],
+    "shuppet": [
+      "level-up"
+    ],
+    "banette": [
+      "level-up"
+    ],
+    "absol": [
+      "level-up",
+      "egg"
+    ],
+    "huntail": [
+      "level-up"
+    ],
+    "wormadam-plant": [
+      "level-up"
+    ],
+    "honchkrow": [
+      "level-up"
+    ],
+    "glameow": [
+      "level-up"
+    ],
+    "stunky": [
+      "level-up"
+    ],
+    "skuntank": [
+      "level-up"
+    ],
+    "bonsly": [
+      "level-up"
+    ],
+    "spiritomb": [
+      "level-up"
+    ],
+    "croagunk": [
+      "level-up"
+    ],
+    "toxicroak": [
+      "level-up"
+    ],
+    "tepig": [
+      "egg"
+    ],
+    "purrloin": [
+      "level-up"
+    ],
+    "liepard": [
+      "level-up"
+    ],
+    "maractus": [
+      "level-up"
+    ],
+    "zorua": [
+      "egg"
+    ],
+    "joltik": [
+      "level-up"
+    ],
+    "galvantula": [
+      "level-up"
+    ],
+    "druddigon": [
+      "egg"
+    ],
+    "pawniard": [
+      "egg"
+    ],
+    "heatmor": [
+      "egg"
+    ],
+    "furfrou": [
+      "level-up"
+    ],
+    "meowstic-male": [
+      "level-up"
+    ],
+    "yveltal": [
+      "level-up"
+    ],
+    "rowlet": [
+      "level-up"
+    ],
+    "dartrix": [
+      "level-up"
+    ],
+    "decidueye": [
+      "level-up"
+    ],
+    "rockruff": [
+      "egg"
+    ],
+    "golisopod": [
+      "level-up"
+    ],
+    "komala": [
+      "level-up"
+    ],
+    "marshadow": [
+      "level-up"
+    ],
+    "wormadam-sandy": [
+      "level-up"
+    ],
+    "wormadam-trash": [
+      "level-up"
+    ],
+    "meowstic-female": [
+      "level-up"
+    ],
+    "gengar-mega": [
+      "level-up"
+    ],
+    "kangaskhan-mega": [
+      "level-up"
+    ],
+    "mawile-mega": [
+      "level-up"
+    ],
+    "banette-mega": [
+      "level-up"
+    ],
+    "absol-mega": [
+      "level-up"
+    ],
+    "rattata-alola": [
+      "level-up"
+    ],
+    "raticate-alola": [
+      "level-up"
+    ],
+    "raticate-totem-alola": [
+      "level-up"
+    ],
+    "diglett-alola": [
+      "level-up"
+    ],
+    "dugtrio-alola": [
+      "level-up"
+    ]
+  }
+}

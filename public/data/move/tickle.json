@@ -1,0 +1,163 @@
+{
+  "name": "tickle",
+  "caption": "Tickle",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Lowers the target's Attack and Defense by one stage.",
+    "full": "Lowers the target's [Attack]{mechanic:attack} and [Defense]{mechanic:defense} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user tickles the target into laughing, reducing its\nAttack and Defense stats.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "oddish": [
+      "egg"
+    ],
+    "machop": [
+      "egg"
+    ],
+    "bellsprout": [
+      "egg"
+    ],
+    "tentacool": [
+      "egg"
+    ],
+    "krabby": [
+      "egg"
+    ],
+    "tangela": [
+      "level-up"
+    ],
+    "lapras": [
+      "egg"
+    ],
+    "eevee": [
+      "egg"
+    ],
+    "omanyte": [
+      "level-up"
+    ],
+    "omastar": [
+      "level-up"
+    ],
+    "pichu": [
+      "egg"
+    ],
+    "cleffa": [
+      "egg"
+    ],
+    "aipom": [
+      "level-up"
+    ],
+    "zigzagoon": [
+      "egg"
+    ],
+    "lotad": [
+      "egg"
+    ],
+    "slakoth": [
+      "egg"
+    ],
+    "azurill": [
+      "egg"
+    ],
+    "skitty": [
+      "egg"
+    ],
+    "mawile": [
+      "egg"
+    ],
+    "wailmer": [
+      "egg"
+    ],
+    "whiscash": [
+      "level-up"
+    ],
+    "lileep": [
+      "egg"
+    ],
+    "feebas": [
+      "egg"
+    ],
+    "turtwig": [
+      "egg"
+    ],
+    "cherubi": [
+      "egg"
+    ],
+    "ambipom": [
+      "level-up"
+    ],
+    "mime-jr": [
+      "level-up"
+    ],
+    "finneon": [
+      "egg"
+    ],
+    "tangrowth": [
+      "level-up"
+    ],
+    "pansage": [
+      "egg"
+    ],
+    "pansear": [
+      "egg"
+    ],
+    "panpour": [
+      "egg"
+    ],
+    "cottonee": [
+      "egg"
+    ],
+    "minccino": [
+      "level-up"
+    ],
+    "cinccino": [
+      "level-up"
+    ],
+    "gothita": [
+      "level-up"
+    ],
+    "gothorita": [
+      "level-up"
+    ],
+    "gothitelle": [
+      "level-up"
+    ],
+    "emolga": [
+      "egg"
+    ],
+    "alomomola": [
+      "egg"
+    ],
+    "heatmor": [
+      "egg"
+    ],
+    "binacle": [
+      "egg"
+    ],
+    "pyukumuku": [
+      "egg"
+    ],
+    "togedemaru": [
+      "egg"
+    ],
+    "tapu-lele": [
+      "level-up"
+    ],
+    "nihilego": [
+      "level-up"
+    ]
+  }
+}

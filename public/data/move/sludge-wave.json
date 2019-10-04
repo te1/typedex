@@ -1,0 +1,241 @@
+{
+  "name": "sludge-wave",
+  "caption": "Sludge Wave",
+  "type": "poison",
+  "damageCategory": "special",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Has a 10% chance to [poison]{mechanic:poison} the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 10% chance to [poison]{mechanic:poison} the target."
+  },
+  "flavorText": "The user strikes everything around it by swamping\nthe area with a giant sludge wave. This may also\npoison those hit.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "all-other-pokemon",
+  "pokemon": {
+    "ekans": [
+      "machine"
+    ],
+    "arbok": [
+      "machine"
+    ],
+    "nidoqueen": [
+      "machine"
+    ],
+    "nidoking": [
+      "machine"
+    ],
+    "dugtrio": [
+      "machine"
+    ],
+    "tentacool": [
+      "level-up",
+      "machine"
+    ],
+    "tentacruel": [
+      "level-up",
+      "machine"
+    ],
+    "grimer": [
+      "level-up",
+      "machine"
+    ],
+    "muk": [
+      "level-up",
+      "machine"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "wooper": [
+      "machine"
+    ],
+    "quagsire": [
+      "machine"
+    ],
+    "qwilfish": [
+      "machine"
+    ],
+    "shuckle": [
+      "machine"
+    ],
+    "octillery": [
+      "machine"
+    ],
+    "mudkip": [
+      "machine"
+    ],
+    "marshtomp": [
+      "machine"
+    ],
+    "swampert": [
+      "machine"
+    ],
+    "gulpin": [
+      "machine"
+    ],
+    "swalot": [
+      "machine"
+    ],
+    "seviper": [
+      "machine"
+    ],
+    "crawdaunt": [
+      "machine"
+    ],
+    "cradily": [
+      "machine"
+    ],
+    "gastrodon": [
+      "machine"
+    ],
+    "croagunk": [
+      "machine"
+    ],
+    "toxicroak": [
+      "machine"
+    ],
+    "tympole": [
+      "machine"
+    ],
+    "palpitoad": [
+      "machine"
+    ],
+    "seismitoad": [
+      "machine"
+    ],
+    "trubbish": [
+      "machine"
+    ],
+    "garbodor": [
+      "machine"
+    ],
+    "frillish": [
+      "machine"
+    ],
+    "jellicent": [
+      "machine"
+    ],
+    "stunfisk": [
+      "machine"
+    ],
+    "tornadus-incarnate": [
+      "machine"
+    ],
+    "thundurus-incarnate": [
+      "machine"
+    ],
+    "landorus-incarnate": [
+      "machine"
+    ],
+    "binacle": [
+      "machine"
+    ],
+    "barbaracle": [
+      "machine"
+    ],
+    "skrelp": [
+      "machine"
+    ],
+    "dragalge": [
+      "machine"
+    ],
+    "clauncher": [
+      "machine"
+    ],
+    "clawitzer": [
+      "machine"
+    ],
+    "goomy": [
+      "machine"
+    ],
+    "sliggoo": [
+      "machine"
+    ],
+    "goodra": [
+      "machine"
+    ],
+    "zygarde": [
+      "machine"
+    ],
+    "volcanion": [
+      "machine"
+    ],
+    "mareanie": [
+      "machine"
+    ],
+    "toxapex": [
+      "machine"
+    ],
+    "salandit": [
+      "machine"
+    ],
+    "salazzle": [
+      "machine"
+    ],
+    "golisopod": [
+      "machine"
+    ],
+    "dhelmise": [
+      "machine"
+    ],
+    "nihilego": [
+      "machine"
+    ],
+    "guzzlord": [
+      "machine"
+    ],
+    "poipole": [
+      "machine"
+    ],
+    "naganadel": [
+      "machine"
+    ],
+    "tornadus-therian": [
+      "machine"
+    ],
+    "thundurus-therian": [
+      "machine"
+    ],
+    "landorus-therian": [
+      "machine"
+    ],
+    "swampert-mega": [
+      "machine"
+    ],
+    "raticate-alola": [
+      "machine"
+    ],
+    "raticate-totem-alola": [
+      "machine"
+    ],
+    "dugtrio-alola": [
+      "machine"
+    ],
+    "grimer-alola": [
+      "machine"
+    ],
+    "muk-alola": [
+      "machine"
+    ],
+    "zygarde-10": [
+      "machine"
+    ],
+    "zygarde-50": [
+      "machine"
+    ],
+    "zygarde-complete": [
+      "machine"
+    ],
+    "salazzle-totem": [
+      "machine"
+    ]
+  }
+}

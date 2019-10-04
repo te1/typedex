@@ -1,0 +1,57 @@
+{
+  "name": "assist",
+  "caption": "Assist",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Randomly selects and uses one of the trainer's other Pokémon's moves.",
+    "full": "Uses a move from another Pokémon in the user's party, both selected at random.  Moves from fainted Pokémon can be used.  If there are no eligible Pokémon or moves, this move will [fail]{mechanic:fail}.\n\nThis move will not select []{move:assist}, []{move:chatter}, []{move:circle-throw}, []{move:copycat}, []{move:counter}, []{move:covet}, []{move:destiny-bond}, []{move:detect}, []{move:dig}, []{move:dive}, []{move:dragon-tail}, []{move:endure}, []{move:feint}, []{move:fly} []{move:focus-punch}, []{move:follow-me}, []{move:helping-hand}, []{move:me-first}, []{move:metronome}, []{move:mimic}, []{move:mirror-coat}, []{move:mirror-move}, []{move:phantom-force} []{move:protect}, []{move:quick-guard}, []{move:roar} []{move:shadow-force}, []{move:sketch}, []{move:sleep-talk}, []{move:snatch}, []{move:struggle}, []{move:switcheroo}, []{move:thief}, []{move:trick}, []{move:whirlwind}, or []{move:wide-guard}.\n\nThis move cannot be copied by []{move:mirror-move}, nor selected by []{move:metronome} or []{move:sleep-talk}."
+  },
+  "flavorText": "The user hurriedly and randomly uses a move among\nthose known by ally Pokémon.",
+  "flags": [],
+  "target": "user",
+  "pokemon": {
+    "meowth": [
+      "egg"
+    ],
+    "drowzee": [
+      "egg"
+    ],
+    "sentret": [
+      "egg"
+    ],
+    "sneasel": [
+      "egg"
+    ],
+    "skitty": [
+      "level-up"
+    ],
+    "spinda": [
+      "egg"
+    ],
+    "chimchar": [
+      "egg"
+    ],
+    "glameow": [
+      "level-up"
+    ],
+    "purugly": [
+      "level-up"
+    ],
+    "purrloin": [
+      "level-up"
+    ],
+    "liepard": [
+      "level-up"
+    ],
+    "espurr": [
+      "egg"
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "name": "wimpod",
+  "caption": "Wimpod",
+  "types": [
+    "bug",
+    "water"
+  ],
+  "species": "wimpod",
+  "gen": "generation-vii",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 12,
+  "baseStats": {
+    "hp": 25,
+    "attack": 35,
+    "defense": 40,
+    "special-attack": 20,
+    "special-defense": 30,
+    "speed": 80
+  },
+  "evolutionChain": {
+    "species": "wimpod",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "golisopod",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It will pick up anything it finds on the ground.\nSometimes it finds coins, so Murkrow and\nMeowth will go after it.",
+  "moves": {
+    "sand-attack": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "egg"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "leech-life": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "spikes": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "metal-claw": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "aqua-jet": [
+      "egg"
+    ],
+    "wide-guard": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "struggle-bug": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "wimp-out": 1
+  }
+}

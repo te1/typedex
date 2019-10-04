@@ -1,0 +1,214 @@
+{
+  "name": "nidoran-f",
+  "caption": "Nidoran♀",
+  "types": [
+    "poison"
+  ],
+  "species": "nidoran-f",
+  "gen": "generation-i",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 7,
+  "baseStats": {
+    "hp": 55,
+    "attack": 47,
+    "defense": 52,
+    "special-attack": 40,
+    "special-defense": 40,
+    "speed": 41
+  },
+  "evolutionChain": {
+    "species": "nidoran-f",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "nidorina",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "nidoqueen",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Nidoran♀ has barbs that secrete a powerful poison.\nThey are thought to have developed as protection for\nthis small-bodied Pokémon. When enraged, it releases\na horrible toxin from its horn.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "double-kick": [
+      "level-up"
+    ],
+    "take-down": [
+      "egg"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "poison-sting": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "skull-bash": [
+      "egg"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "supersonic": [
+      "egg"
+    ],
+    "disable": [
+      "egg"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "focus-energy": [
+      "egg"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "charm": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "iron-tail": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "beat-up": [
+      "egg"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "flatter": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "helping-hand": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "pursuit": [
+      "egg"
+    ],
+    "poison-fang": [
+      "level-up"
+    ],
+    "toxic-spikes": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "captivate": [
+      "level-up"
+    ],
+    "poison-tail": [
+      "egg"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "chip-away": [
+      "egg"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "venom-drench": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "poison-point": 1,
+    "rivalry": 2,
+    "hustle": "hidden"
+  }
+}

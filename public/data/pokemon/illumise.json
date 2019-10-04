@@ -1,0 +1,199 @@
+{
+  "name": "illumise",
+  "caption": "Illumise",
+  "types": [
+    "bug"
+  ],
+  "species": "illumise",
+  "gen": "generation-iii",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 17.7,
+  "baseStats": {
+    "hp": 65,
+    "attack": 47,
+    "defense": 75,
+    "special-attack": 73,
+    "special-defense": 85,
+    "speed": 85
+  },
+  "flavorText": "Illumise attracts a swarm of Volbeat using a sweet fragrance.\nOnce the Volbeat have gathered, this Pokémon leads the\nlit-up swarm in drawing geometric designs on the canvas of\nthe night sky.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "growth": [
+      "egg"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "charm": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "baton-pass": [
+      "egg"
+    ],
+    "encore": [
+      "level-up",
+      "egg"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "moonlight": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "flatter": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "helping-hand": [
+      "level-up"
+    ],
+    "wish": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "silver-wind": [
+      "egg"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "covet": [
+      "level-up"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "bug-buzz": [
+      "level-up",
+      "egg"
+    ],
+    "zen-headbutt": [
+      "level-up"
+    ],
+    "captivate": [
+      "egg"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "egg"
+    ],
+    "fake-tears": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "struggle-bug": [
+      "level-up"
+    ],
+    "play-nice": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "play-rough": [
+      "level-up"
+    ],
+    "infestation": [
+      "level-up",
+      "machine"
+    ],
+    "aromatherapy": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "oblivious": 1,
+    "tinted-lens": 2,
+    "prankster": "hidden"
+  }
+}

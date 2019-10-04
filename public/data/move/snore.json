@@ -1,0 +1,95 @@
+{
+  "name": "snore",
+  "caption": "Snore",
+  "type": "normal",
+  "damageCategory": "special",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a 30% chance to make the target flinch.  Only works if the user is sleeping.",
+    "full": "Only usable if the user is [sleep]{mechanic:sleep}ing.  Inflicts [regular damage]{mechanic:regular-damage}.  Has a 30% chance to make the target []{mechanic:flinch}."
+  },
+  "flavorText": "This attack can be used only if the user is asleep.\nThe harsh noise may also make the target flinch.",
+  "flags": [
+    "protect",
+    "mirror",
+    "sound",
+    "authentic"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "slowpoke": [
+      "egg"
+    ],
+    "lickitung": [
+      "egg"
+    ],
+    "snorlax": [
+      "level-up"
+    ],
+    "dunsparce": [
+      "egg"
+    ],
+    "snubbull": [
+      "egg"
+    ],
+    "teddiursa": [
+      "level-up"
+    ],
+    "ursaring": [
+      "level-up"
+    ],
+    "remoraid": [
+      "egg"
+    ],
+    "phanpy": [
+      "egg"
+    ],
+    "slakoth": [
+      "egg"
+    ],
+    "whismur": [
+      "egg"
+    ],
+    "wailmer": [
+      "egg"
+    ],
+    "spoink": [
+      "level-up"
+    ],
+    "grumpig": [
+      "level-up"
+    ],
+    "barboach": [
+      "level-up"
+    ],
+    "whiscash": [
+      "level-up"
+    ],
+    "spheal": [
+      "level-up"
+    ],
+    "sealeo": [
+      "level-up"
+    ],
+    "walrein": [
+      "level-up"
+    ],
+    "relicanth": [
+      "egg"
+    ],
+    "piplup": [
+      "egg"
+    ],
+    "tympole": [
+      "egg"
+    ],
+    "dedenne": [
+      "level-up"
+    ]
+  }
+}

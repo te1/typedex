@@ -1,0 +1,209 @@
+{
+  "name": "larvitar",
+  "caption": "Larvitar",
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "species": "larvitar",
+  "gen": "generation-ii",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 72,
+  "baseStats": {
+    "hp": 50,
+    "attack": 64,
+    "defense": 50,
+    "special-attack": 45,
+    "special-defense": 50,
+    "speed": 41
+  },
+  "evolutionChain": {
+    "species": "larvitar",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "pupitar",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "tyranitar",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Born underground, it eats its way through dirt to\nthe surface, where its parents are. It doesn’t\ndeal well with the bright light it finds there.",
+  "moves": {
+    "stomp": [
+      "egg"
+    ],
+    "thrash": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "level-up",
+      "machine"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "level-up",
+      "machine"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "outrage": [
+      "egg"
+    ],
+    "sandstorm": [
+      "level-up",
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "ancient-power": [
+      "egg"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "dragon-dance": [
+      "egg"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "iron-defense": [
+      "egg"
+    ],
+    "payback": [
+      "level-up",
+      "machine"
+    ],
+    "assurance": [
+      "egg"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "level-up",
+      "machine"
+    ],
+    "iron-head": [
+      "egg"
+    ],
+    "stone-edge": [
+      "level-up",
+      "machine"
+    ],
+    "stealth-rock": [
+      "egg"
+    ],
+    "iron-tail": [
+      "egg"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "chip-away": [
+      "level-up"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "guts": 1,
+    "sand-veil": "hidden"
+  }
+}

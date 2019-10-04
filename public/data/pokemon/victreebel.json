@@ -1,0 +1,166 @@
+{
+  "name": "victreebel",
+  "caption": "Victreebel",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "species": "victreebel",
+  "gen": "generation-i",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.7,
+  "weight": 15.5,
+  "baseStats": {
+    "hp": 80,
+    "attack": 105,
+    "defense": 65,
+    "special-attack": 100,
+    "special-defense": 70,
+    "speed": 70
+  },
+  "evolutionChain": {
+    "species": "bellsprout",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "weepinbell",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "victreebel",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Victreebel has a long vine that extends from its head.\nThis vine is waved and flicked about as if it were an animal to\nattract prey. When an unsuspecting prey draws near, this\nPokémon swallows it whole.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "razor-leaf": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "sleep-powder": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "vine-whip": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "stockpile": [
+      "level-up"
+    ],
+    "spit-up": [
+      "level-up"
+    ],
+    "swallow": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "leaf-storm": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "leaf-blade": [
+      "level-up"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "leaf-tornado": [
+      "level-up"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "chlorophyll": 1,
+    "gluttony": "hidden"
+  }
+}

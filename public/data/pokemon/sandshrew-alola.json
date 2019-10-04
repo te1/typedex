@@ -1,0 +1,190 @@
+{
+  "name": "sandshrew-alola",
+  "caption": "Alolan Sandshrew",
+  "types": [
+    "ice",
+    "steel"
+  ],
+  "species": "sandshrew",
+  "gen": "generation-i",
+  "color": "yellow",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": "Alola Form",
+  "height": 0.7,
+  "weight": 40,
+  "baseStats": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 90,
+    "special-attack": 10,
+    "special-defense": 35,
+    "speed": 40
+  },
+  "evolutionChain": {
+    "species": "sandshrew",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "sandslash",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It lives in areas of limited rainfall. When danger\napproaches, it curls up into a ball to protect its\nsoft stomach.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "blizzard": [
+      "level-up",
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "swift": [
+      "level-up"
+    ],
+    "leech-life": [
+      "machine"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "powder-snow": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "fury-cutter": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "rapid-spin": [
+      "level-up"
+    ],
+    "metal-claw": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "hail": [
+      "level-up",
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "ice-ball": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "gyro-ball": [
+      "level-up",
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "iron-head": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "frost-breath": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "aurora-veil": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "snow-cloak": 1,
+    "slush-rush": "hidden"
+  }
+}

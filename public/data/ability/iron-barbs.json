@@ -1,0 +1,16 @@
+{
+  "name": "iron-barbs",
+  "caption": "Iron Barbs",
+  "gen": "generation-v",
+  "effect": {
+    "short": "Damages attacking Pokémon for 1/8 their max [HP]{mechanic:hp} on contact.",
+    "full": "Whenever a move makes contact with this Pokémon, the move's user takes 1/8 of its maximum [HP]{mechanic:hp} in damage.\n\nThis ability functions identically to []{ability:rough-skin}."
+  },
+  "flavorText": "Inflicts damage to the attacker on contact with\niron barbs.",
+  "pokemon": {
+    "ferroseed": 1,
+    "ferrothorn": 1,
+    "togedemaru": 1,
+    "togedemaru-totem": 1
+  }
+}

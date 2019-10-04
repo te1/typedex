@@ -1,0 +1,202 @@
+{
+  "name": "rattata",
+  "caption": "Rattata",
+  "types": [
+    "normal"
+  ],
+  "species": "rattata",
+  "gen": "generation-i",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 0.3,
+  "weight": 3.5,
+  "baseStats": {
+    "hp": 30,
+    "attack": 56,
+    "defense": 35,
+    "special-attack": 25,
+    "special-defense": 35,
+    "speed": 72
+  },
+  "evolutionChain": {
+    "species": "rattata",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "raticate",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Its incisors grow continuously throughout its life.\nIf its incisors get too long, this Pokémon\nbecomes unable to eat, and it starves to death.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "hyper-fang": [
+      "level-up"
+    ],
+    "super-fang": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "bite": [
+      "level-up",
+      "egg"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "screech": [
+      "egg"
+    ],
+    "fury-swipes": [
+      "egg"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "flame-wheel": [
+      "egg"
+    ],
+    "reversal": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "uproar": [
+      "egg"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "endeavor": [
+      "level-up"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "assurance": [
+      "level-up"
+    ],
+    "me-first": [
+      "egg"
+    ],
+    "last-resort": [
+      "egg"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "revenge": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "final-gambit": [
+      "egg"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "run-away": 1,
+    "guts": 2,
+    "hustle": "hidden"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "name": "nasty-plot",
+  "caption": "Nasty Plot",
+  "type": "dark",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Raises the user's Special Attack by two stages.",
+    "full": "Raises the user's [Special Attack]{mechanic:special-attack} by two [stages]{mechanic:stage}."
+  },
+  "flavorText": "The user stimulates its brain by thinking bad\nthoughts. This sharply raises the user’s Sp. Atk stat.",
+  "flags": [
+    "snatch"
+  ],
+  "target": "user",
+  "pokemon": {
+    "ninetales": [
+      "level-up"
+    ],
+    "zubat": [
+      "egg"
+    ],
+    "meowth": [
+      "level-up"
+    ],
+    "persian": [
+      "level-up"
+    ],
+    "drowzee": [
+      "level-up",
+      "egg"
+    ],
+    "hypno": [
+      "level-up"
+    ],
+    "mr-mime": [
+      "egg"
+    ],
+    "mew": [
+      "level-up"
+    ],
+    "pichu": [
+      "level-up"
+    ],
+    "togepi": [
+      "egg"
+    ],
+    "aipom": [
+      "level-up"
+    ],
+    "slowking": [
+      "level-up"
+    ],
+    "misdreavus": [
+      "egg"
+    ],
+    "girafarig": [
+      "level-up"
+    ],
+    "houndour": [
+      "level-up",
+      "egg"
+    ],
+    "houndoom": [
+      "level-up"
+    ],
+    "smoochum": [
+      "egg"
+    ],
+    "seedot": [
+      "egg"
+    ],
+    "shiftry": [
+      "level-up"
+    ],
+    "sableye": [
+      "egg"
+    ],
+    "plusle": [
+      "level-up"
+    ],
+    "minun": [
+      "level-up"
+    ],
+    "cacnea": [
+      "egg"
+    ],
+    "kecleon": [
+      "egg"
+    ],
+    "chimchar": [
+      "level-up"
+    ],
+    "ambipom": [
+      "level-up"
+    ],
+    "honchkrow": [
+      "level-up"
+    ],
+    "mime-jr": [
+      "egg"
+    ],
+    "chatot": [
+      "egg"
+    ],
+    "spiritomb": [
+      "level-up"
+    ],
+    "riolu": [
+      "level-up"
+    ],
+    "croagunk": [
+      "level-up"
+    ],
+    "toxicroak": [
+      "level-up"
+    ],
+    "weavile": [
+      "level-up"
+    ],
+    "porygon-z": [
+      "level-up"
+    ],
+    "azelf": [
+      "level-up"
+    ],
+    "darkrai": [
+      "level-up"
+    ],
+    "patrat": [
+      "level-up"
+    ],
+    "watchog": [
+      "level-up"
+    ],
+    "purrloin": [
+      "level-up"
+    ],
+    "liepard": [
+      "level-up"
+    ],
+    "pansage": [
+      "egg"
+    ],
+    "pansear": [
+      "egg"
+    ],
+    "panpour": [
+      "egg"
+    ],
+    "yamask": [
+      "egg"
+    ],
+    "zorua": [
+      "level-up"
+    ],
+    "zoroark": [
+      "level-up"
+    ],
+    "elgyem": [
+      "egg"
+    ],
+    "vullaby": [
+      "level-up"
+    ],
+    "mandibuzz": [
+      "level-up"
+    ],
+    "thundurus-incarnate": [
+      "level-up"
+    ],
+    "spritzee": [
+      "egg"
+    ],
+    "hoopa": [
+      "level-up"
+    ],
+    "rowlet": [
+      "level-up"
+    ],
+    "dartrix": [
+      "level-up"
+    ],
+    "decidueye": [
+      "level-up"
+    ],
+    "litten": [
+      "egg"
+    ],
+    "salandit": [
+      "level-up"
+    ],
+    "salazzle": [
+      "level-up"
+    ],
+    "oranguru": [
+      "level-up"
+    ],
+    "poipole": [
+      "level-up"
+    ],
+    "naganadel": [
+      "level-up"
+    ],
+    "thundurus-therian": [
+      "level-up"
+    ],
+    "houndoom-mega": [
+      "level-up"
+    ],
+    "ninetales-alola": [
+      "level-up"
+    ],
+    "meowth-alola": [
+      "level-up"
+    ],
+    "persian-alola": [
+      "level-up"
+    ],
+    "salazzle-totem": [
+      "level-up"
+    ]
+  }
+}

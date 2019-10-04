@@ -1,0 +1,204 @@
+{
+  "name": "skarmory",
+  "caption": "Skarmory",
+  "types": [
+    "steel",
+    "flying"
+  ],
+  "species": "skarmory",
+  "gen": "generation-ii",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.7,
+  "weight": 50.5,
+  "baseStats": {
+    "hp": 65,
+    "attack": 80,
+    "defense": 140,
+    "special-attack": 40,
+    "special-defense": 70,
+    "speed": 70
+  },
+  "flavorText": "The wing feathers it sheds can be processed\nand made into knives whose sharpness is\nrecognized by the finest chefs.",
+  "moves": {
+    "whirlwind": [
+      "egg"
+    ],
+    "fly": [
+      "machine"
+    ],
+    "sand-attack": [
+      "level-up"
+    ],
+    "fury-attack": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "drill-peck": [
+      "egg"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "swift": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "steel-wing": [
+      "level-up",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "sky-attack": [
+      "egg"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "spikes": [
+      "level-up"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "air-cutter": [
+      "level-up"
+    ],
+    "metal-sound": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "assurance": [
+      "egg"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "brave-bird": [
+      "egg"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "stealth-rock": [
+      "egg"
+    ],
+    "feint": [
+      "level-up"
+    ],
+    "guard-swap": [
+      "egg"
+    ],
+    "autotomize": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "sky-drop": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "metal-claw": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "keen-eye": 1,
+    "sturdy": 2,
+    "weak-armor": "hidden"
+  }
+}

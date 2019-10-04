@@ -1,0 +1,27 @@
+{
+  "name": "spacial-rend",
+  "caption": "Spacial Rend",
+  "type": "dragon",
+  "damageCategory": "special",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has an increased chance for a critical hit.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User's [critical hit]{mechanic:critical-hit} rate is one level higher when using this move."
+  },
+  "flavorText": "The user tears the target along with the space\naround it. Critical hits land more easily.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "palkia": [
+      "level-up"
+    ]
+  }
+}

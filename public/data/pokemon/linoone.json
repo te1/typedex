@@ -1,0 +1,193 @@
+{
+  "name": "linoone",
+  "caption": "Linoone",
+  "types": [
+    "normal"
+  ],
+  "species": "linoone",
+  "gen": "generation-iii",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 32.5,
+  "baseStats": {
+    "hp": 78,
+    "attack": 70,
+    "defense": 61,
+    "special-attack": 50,
+    "special-defense": 61,
+    "speed": 100
+  },
+  "evolutionChain": {
+    "species": "zigzagoon",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "linoone",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Linoone always runs full speed and only in straight lines.\nIf facing an obstacle, it makes a right-angle turn to evade it.\nThis Pokémon is very challenged by gently curving roads.",
+  "moves": {
+    "sand-attack": [
+      "level-up"
+    ],
+    "headbutt": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "level-up",
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "belly-drum": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "mud-sport": [
+      "level-up"
+    ],
+    "odor-sleuth": [
+      "level-up"
+    ],
+    "covet": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "fling": [
+      "level-up",
+      "machine"
+    ],
+    "switcheroo": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "bestow": [
+      "level-up"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "rototiller": [
+      "level-up"
+    ],
+    "play-rough": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "pickup": 1,
+    "gluttony": 2,
+    "quick-feet": "hidden"
+  }
+}

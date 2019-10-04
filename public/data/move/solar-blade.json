@@ -1,0 +1,32 @@
+{
+  "name": "solar-blade",
+  "caption": "Solar Blade",
+  "type": "grass",
+  "damageCategory": "physical",
+  "power": 125,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Requires a turn to charge before attacking.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User charges for one turn before attacking.\n\nDuring []{move:sunny-day}, the charge turn is skipped.\n\nDuring []{move:hail}, []{move:rain-dance}, or []{move:sandstorm}, power is halved.\n\nThis move cannot be selected by []{move:sleep-talk}."
+  },
+  "flavorText": "In this two-turn attack, the user gathers light and\nfills a blade with the light’s energy, attacking the\ntarget on the next turn.",
+  "flags": [
+    "contact",
+    "charge",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "lurantis": [
+      "level-up"
+    ],
+    "lurantis-totem": [
+      "level-up"
+    ]
+  }
+}

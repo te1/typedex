@@ -1,0 +1,215 @@
+{
+  "name": "tangrowth",
+  "caption": "Tangrowth",
+  "types": [
+    "grass"
+  ],
+  "species": "tangrowth",
+  "gen": "generation-iv",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 2,
+  "weight": 128.6,
+  "baseStats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 125,
+    "special-attack": 110,
+    "special-defense": 50,
+    "speed": 50
+  },
+  "evolutionChain": {
+    "species": "tangela",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "tangrowth",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It ensnares prey by extending arms made of vines.\nLosing arms to predators does not trouble it.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "bind": [
+      "level-up"
+    ],
+    "slam": [
+      "level-up"
+    ],
+    "vine-whip": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "absorb": [
+      "level-up"
+    ],
+    "mega-drain": [
+      "level-up"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "poison-powder": [
+      "level-up"
+    ],
+    "stun-spore": [
+      "level-up"
+    ],
+    "sleep-powder": [
+      "level-up"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "constrict": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "giga-drain": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "ingrain": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "knock-off": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "tickle": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "block": [
+      "level-up"
+    ],
+    "natural-gift": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "wring-out": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "power-whip": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "grassy-terrain": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "chlorophyll": 1,
+    "leaf-guard": 2,
+    "regenerator": "hidden"
+  }
+}

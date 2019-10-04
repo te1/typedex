@@ -1,0 +1,14 @@
+{
+  "name": "heatproof",
+  "caption": "Heatproof",
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Halves damage from []{type:fire} moves and [burns]{mechanic:burn}.",
+    "full": "This Pokémon takes half as much damage from []{type:fire}-type moves and [burns]{mechanic:burn}."
+  },
+  "flavorText": "The heatproof body of the Pokémon halves the\ndamage from Fire-type moves that hit it.",
+  "pokemon": {
+    "bronzor": 2,
+    "bronzong": 2
+  }
+}

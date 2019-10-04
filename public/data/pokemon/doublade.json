@@ -1,0 +1,164 @@
+{
+  "name": "doublade",
+  "caption": "Doublade",
+  "types": [
+    "steel",
+    "ghost"
+  ],
+  "species": "doublade",
+  "gen": "generation-vi",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.8,
+  "weight": 4.5,
+  "baseStats": {
+    "hp": 59,
+    "attack": 110,
+    "defense": 150,
+    "special-attack": 45,
+    "special-defense": 49,
+    "speed": 35
+  },
+  "evolutionChain": {
+    "species": "honedge",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "doublade",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "aegislash",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "When Honedge evolves, it divides into two swords,\nwhich cooperate via telepathy to coordinate attacks\nand slash their enemies to ribbons.",
+  "moves": {
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "fury-cutter": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "metal-sound": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "level-up",
+      "machine"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "power-trick": [
+      "level-up"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "shadow-sneak": [
+      "level-up"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "iron-head": [
+      "level-up"
+    ],
+    "autotomize": [
+      "level-up"
+    ],
+    "retaliate": [
+      "level-up"
+    ],
+    "sacred-sword": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "no-guard": 1
+  }
+}

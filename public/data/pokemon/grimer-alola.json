@@ -1,0 +1,206 @@
+{
+  "name": "grimer-alola",
+  "caption": "Alolan Grimer",
+  "types": [
+    "poison",
+    "dark"
+  ],
+  "species": "grimer",
+  "gen": "generation-i",
+  "color": "purple",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": "Alola Form",
+  "height": 0.7,
+  "weight": 42,
+  "baseStats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 50,
+    "special-attack": 40,
+    "special-defense": 50,
+    "speed": 25
+  },
+  "evolutionChain": {
+    "species": "grimer",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "muk",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It was born from sludge on the ocean floor. In a\nsterile environment, the germs within its body\ncan’t multiply, and it dies.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "disable": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "minimize": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "poison-gas": [
+      "level-up"
+    ],
+    "acid-armor": [
+      "level-up"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "memento": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "knock-off": [
+      "level-up"
+    ],
+    "poison-fang": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "fling": [
+      "level-up",
+      "machine"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "gunk-shot": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "acid-spray": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "quash": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "belch": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "poison-touch": 1,
+    "gluttony": 2,
+    "power-of-alchemy": "hidden"
+  }
+}

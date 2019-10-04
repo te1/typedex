@@ -1,0 +1,177 @@
+{
+  "name": "sandslash-alola",
+  "caption": "Alolan Sandslash",
+  "types": [
+    "ice",
+    "steel"
+  ],
+  "species": "sandslash",
+  "gen": "generation-i",
+  "color": "yellow",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": "Alola Form",
+  "height": 1.2,
+  "weight": 55,
+  "baseStats": {
+    "hp": 75,
+    "attack": 100,
+    "defense": 120,
+    "special-attack": 25,
+    "special-defense": 65,
+    "speed": 65
+  },
+  "evolutionChain": {
+    "species": "sandshrew",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "sandslash",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Its claws and horns often break off. The broken\nclaws and horns can be used to carve plows for\ntilling farm fields.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "leech-life": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "metal-claw": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "ice-ball": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "icicle-spear": [
+      "level-up"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "metal-burst": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "frost-breath": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "icicle-crash": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "aurora-veil": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "snow-cloak": 1,
+    "slush-rush": "hidden"
+  }
+}

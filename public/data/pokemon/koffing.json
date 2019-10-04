@@ -1,0 +1,214 @@
+{
+  "name": "koffing",
+  "caption": "Koffing",
+  "types": [
+    "poison"
+  ],
+  "species": "koffing",
+  "gen": "generation-i",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 1,
+  "baseStats": {
+    "hp": 40,
+    "attack": 65,
+    "defense": 95,
+    "special-attack": 60,
+    "special-defense": 45,
+    "speed": 35
+  },
+  "evolutionChain": {
+    "species": "koffing",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "weezing",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "If Koffing becomes agitated, it raises the toxicity of its internal\ngases and jets them out from all over its body. This Pokémon\nmay also overinflate its round body, then explode.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "smokescreen": [
+      "level-up"
+    ],
+    "haze": [
+      "level-up"
+    ],
+    "self-destruct": [
+      "level-up"
+    ],
+    "smog": [
+      "level-up"
+    ],
+    "sludge": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "explosion": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "psybeam": [
+      "egg"
+    ],
+    "screech": [
+      "egg"
+    ],
+    "poison-gas": [
+      "level-up"
+    ],
+    "psywave": [
+      "egg"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "level-up",
+      "machine"
+    ],
+    "destiny-bond": [
+      "level-up",
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pain-split": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "memento": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "spite": [
+      "egg"
+    ],
+    "grudge": [
+      "egg"
+    ],
+    "gyro-ball": [
+      "level-up",
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "assurance": [
+      "level-up"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "stockpile": [
+      "egg"
+    ],
+    "spit-up": [
+      "egg"
+    ],
+    "swallow": [
+      "egg"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "clear-smog": [
+      "level-up"
+    ],
+    "toxic-spikes": [
+      "egg"
+    ],
+    "belch": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "venom-drench": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "levitate": 1
+  }
+}

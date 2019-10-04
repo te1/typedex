@@ -1,0 +1,66 @@
+{
+  "name": "ally-switch",
+  "caption": "Ally Switch",
+  "type": "psychic",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "z": false,
+  "priority": 2,
+  "gen": "generation-v",
+  "effect": {
+    "short": "User switches places with the friendly Pokémon opposite it.",
+    "full": "User switches position on the field with the friendly Pokémon opposite it.  If the user is in the middle position in a triple battle, or there are no other friendly Pokémon, this move will [fail]{mechanic:fail}."
+  },
+  "flavorText": "The user teleports using a strange power and\nswitches places with one of its allies.",
+  "flags": [],
+  "target": "user",
+  "pokemon": {
+    "abra": [
+      "egg"
+    ],
+    "kadabra": [
+      "level-up"
+    ],
+    "alakazam": [
+      "level-up"
+    ],
+    "ponyta": [
+      "egg"
+    ],
+    "krabby": [
+      "egg"
+    ],
+    "natu": [
+      "egg"
+    ],
+    "ralts": [
+      "egg"
+    ],
+    "yamask": [
+      "egg"
+    ],
+    "archen": [
+      "egg"
+    ],
+    "elgyem": [
+      "egg"
+    ],
+    "mienfoo": [
+      "egg"
+    ],
+    "hawlucha": [
+      "egg"
+    ],
+    "hoopa": [
+      "level-up"
+    ],
+    "alakazam-mega": [
+      "level-up"
+    ],
+    "hoopa-unbound": [
+      "level-up"
+    ]
+  }
+}

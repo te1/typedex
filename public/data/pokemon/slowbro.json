@@ -1,0 +1,227 @@
+{
+  "name": "slowbro",
+  "caption": "Slowbro",
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "species": "slowbro",
+  "gen": "generation-i",
+  "color": "pink",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 1.6,
+  "weight": 78.5,
+  "baseStats": {
+    "hp": 95,
+    "attack": 75,
+    "defense": 110,
+    "special-attack": 100,
+    "special-defense": 80,
+    "speed": 30
+  },
+  "evolutionChain": {
+    "species": "slowpoke",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "slowbro",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "slowking",
+        "triggers": [
+          "trade"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Spacing out is basically all it does. It turns back\ninto Slowpoke if its tail, along with Shellder,\nbreaks off.",
+  "moves": {
+    "headbutt": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "disable": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "confusion": [
+      "level-up"
+    ],
+    "psychic": [
+      "level-up",
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "withdraw": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "amnesia": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "curse": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "level-up",
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "level-up",
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "yawn": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "slack-off": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "zen-headbutt": [
+      "level-up"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "heal-pulse": [
+      "level-up"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "oblivious": 1,
+    "own-tempo": 2,
+    "regenerator": "hidden"
+  }
+}

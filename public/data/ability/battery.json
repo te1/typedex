@@ -1,0 +1,13 @@
+{
+  "name": "battery",
+  "caption": "Battery",
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Ally Pokémon's moves have their power increased to 1.3×.",
+    "full": "Ally Pokémon's moves have their power increased to 1.3×."
+  },
+  "flavorText": "Powers up ally Pokémon’s special moves.",
+  "pokemon": {
+    "charjabug": 1
+  }
+}

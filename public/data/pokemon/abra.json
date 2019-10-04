@@ -1,0 +1,202 @@
+{
+  "name": "abra",
+  "caption": "Abra",
+  "types": [
+    "psychic"
+  ],
+  "species": "abra",
+  "gen": "generation-i",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.9,
+  "weight": 19.5,
+  "baseStats": {
+    "hp": 25,
+    "attack": 20,
+    "defense": 15,
+    "special-attack": 105,
+    "special-defense": 55,
+    "speed": 90
+  },
+  "evolutionChain": {
+    "species": "abra",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "kadabra",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "alakazam",
+            "triggers": [
+              "trade"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It uses various psychic powers even while it’s\nsleeping, so you can’t tell whether or not\nit’s awake.",
+  "moves": {
+    "thunder-wave": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "teleport": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "fire-punch": [
+      "egg"
+    ],
+    "ice-punch": [
+      "egg"
+    ],
+    "thunder-punch": [
+      "egg"
+    ],
+    "barrier": [
+      "egg"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "encore": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "knock-off": [
+      "egg"
+    ],
+    "skill-swap": [
+      "egg"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "power-trick": [
+      "egg"
+    ],
+    "guard-swap": [
+      "egg"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "guard-split": [
+      "egg"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "ally-switch": [
+      "egg"
+    ],
+    "psycho-shift": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "psychic-terrain": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "synchronize": 1,
+    "inner-focus": 2,
+    "magic-guard": "hidden"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "insomnia",
+  "caption": "Insomnia",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Prevents [sleep]{mechanic:sleep}.",
+    "full": "This Pokémon cannot be [asleep]{mechanic:sleep}.\n\nThis causes []{move:rest} to fail altogether.  If a Pokémon is asleep and acquires this ability, it will immediately wake up; this includes when regaining a lost ability upon leaving battle.\n\nThis ability functions identically to []{ability:vital-spirit} in battle."
+  },
+  "flavorText": "The Pokémon is suffering from insomnia and cannot\nfall asleep.",
+  "pokemon": {
+    "drowzee": 1,
+    "hypno": 1,
+    "hoothoot": 1,
+    "noctowl": 1,
+    "spinarak": 2,
+    "ariados": 2,
+    "murkrow": 1,
+    "delibird": "hidden",
+    "shuppet": 1,
+    "banette": 1,
+    "honchkrow": 1,
+    "pumpkaboo-average": "hidden",
+    "gourgeist-average": "hidden",
+    "pumpkaboo-small": "hidden",
+    "pumpkaboo-large": "hidden",
+    "pumpkaboo-super": "hidden",
+    "gourgeist-small": "hidden",
+    "gourgeist-large": "hidden",
+    "gourgeist-super": "hidden",
+    "mewtwo-mega-y": 1
+  }
+}

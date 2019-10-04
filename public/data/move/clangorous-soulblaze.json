@@ -1,0 +1,20 @@
+{
+  "name": "clangorous-soulblaze",
+  "caption": "Clangorous Soulblaze",
+  "type": "dragon",
+  "damageCategory": "special",
+  "power": 185,
+  "accuracy": null,
+  "pp": 1,
+  "z": true,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {},
+  "flavorText": "After obtaining Z-Power, the user, Kommo-o,\nattacks the opposing Pokémon with full force. This\nmove boosts the user’s stats.",
+  "flags": [
+    "sound",
+    "authentic"
+  ],
+  "target": "all-opponents",
+  "pokemon": {}
+}

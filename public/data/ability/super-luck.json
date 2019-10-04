@@ -1,0 +1,21 @@
+{
+  "name": "super-luck",
+  "caption": "Super Luck",
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Raises moves' [critical hit]{mechanic:critical-hit} rates one stage.",
+    "full": "This Pokémon's moves have [critical hit]{mechanic:critical-hit} rates one stage higher than normal."
+  },
+  "flavorText": "The Pokémon is so lucky that the critical-hit ratios\nof its moves are boosted.",
+  "pokemon": {
+    "togepi": "hidden",
+    "togetic": "hidden",
+    "murkrow": 2,
+    "absol": 2,
+    "honchkrow": 2,
+    "togekiss": "hidden",
+    "pidove": 2,
+    "tranquill": 2,
+    "unfezant": 2
+  }
+}

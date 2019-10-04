@@ -1,0 +1,103 @@
+{
+  "name": "double-hit",
+  "caption": "Double Hit",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 35,
+  "accuracy": 90,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Hits twice in one turn.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Hits twice in one turn."
+  },
+  "flavorText": "The user slams the target with a long tail, vines, or a\ntentacle. The target is hit twice in a row.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "doduo": [
+      "level-up"
+    ],
+    "dodrio": [
+      "level-up"
+    ],
+    "weezing": [
+      "level-up"
+    ],
+    "kangaskhan": [
+      "level-up"
+    ],
+    "scyther": [
+      "level-up"
+    ],
+    "pinsir": [
+      "level-up"
+    ],
+    "aipom": [
+      "level-up"
+    ],
+    "girafarig": [
+      "level-up"
+    ],
+    "scizor": [
+      "level-up"
+    ],
+    "sneasel": [
+      "egg"
+    ],
+    "zangoose": [
+      "egg"
+    ],
+    "corphish": [
+      "level-up"
+    ],
+    "crawdaunt": [
+      "level-up"
+    ],
+    "piplup": [
+      "egg"
+    ],
+    "buizel": [
+      "level-up"
+    ],
+    "floatzel": [
+      "level-up"
+    ],
+    "ambipom": [
+      "level-up"
+    ],
+    "buneary": [
+      "egg"
+    ],
+    "mamoswine": [
+      "level-up"
+    ],
+    "deino": [
+      "egg"
+    ],
+    "zweilous": [
+      "level-up"
+    ],
+    "type-null": [
+      "level-up"
+    ],
+    "silvally": [
+      "level-up"
+    ],
+    "kangaskhan-mega": [
+      "level-up"
+    ],
+    "pinsir-mega": [
+      "level-up"
+    ],
+    "scizor-mega": [
+      "level-up"
+    ]
+  }
+}

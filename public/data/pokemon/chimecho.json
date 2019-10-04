@@ -1,0 +1,220 @@
+{
+  "name": "chimecho",
+  "caption": "Chimecho",
+  "types": [
+    "psychic"
+  ],
+  "species": "chimecho",
+  "gen": "generation-iii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 1,
+  "baseStats": {
+    "hp": 75,
+    "attack": 50,
+    "defense": 80,
+    "special-attack": 95,
+    "special-defense": 90,
+    "speed": 65
+  },
+  "evolutionChain": {
+    "species": "chingling",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "chimecho",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Chimecho makes its cries echo inside its hollow body.\nWhen this Pokémon becomes enraged, its cries result in\nultrasonic waves that have the power to knock foes flying.",
+  "moves": {
+    "wrap": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "disable": [
+      "egg"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "confusion": [
+      "level-up"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "hypnosis": [
+      "egg"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "psywave": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "heal-bell": [
+      "level-up"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "level-up",
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "uproar": [
+      "level-up"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "yawn": [
+      "level-up"
+    ],
+    "skill-swap": [
+      "egg"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "future-sight": [
+      "egg"
+    ],
+    "wish": [
+      "egg"
+    ],
+    "extrasensory": [
+      "level-up"
+    ],
+    "healing-wish": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "synchronoise": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "stored-power": [
+      "egg"
+    ],
+    "heal-pulse": [
+      "level-up"
+    ],
+    "recover": [
+      "egg"
+    ],
+    "cosmic-power": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "perish-song": [
+      "egg"
+    ],
+    "crafty-shield": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "levitate": 1
+  }
+}

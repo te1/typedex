@@ -1,0 +1,184 @@
+{
+  "name": "dewott",
+  "caption": "Dewott",
+  "types": [
+    "water"
+  ],
+  "species": "dewott",
+  "gen": "generation-v",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.8,
+  "weight": 24.5,
+  "baseStats": {
+    "hp": 75,
+    "attack": 75,
+    "defense": 60,
+    "special-attack": 83,
+    "special-defense": 60,
+    "speed": 60
+  },
+  "evolutionChain": {
+    "species": "oshawott",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "dewott",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "samurott",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Strict training is how it learns its flowing\ndouble-scalchop technique.",
+  "moves": {
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "fury-cutter": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "encore": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "revenge": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "water-sport": [
+      "level-up"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "aqua-tail": [
+      "level-up"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "aqua-jet": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "retaliate": [
+      "level-up"
+    ],
+    "water-pledge": [
+      "tutor"
+    ],
+    "razor-shell": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "torrent": 1,
+    "shell-armor": "hidden"
+  }
+}

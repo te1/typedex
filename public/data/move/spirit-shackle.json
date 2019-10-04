@@ -1,0 +1,27 @@
+{
+  "name": "spirit-shackle",
+  "caption": "Spirit Shackle",
+  "type": "ghost",
+  "damageCategory": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Traps the target.",
+    "full": "Inflicts regular damage.  Traps the target."
+  },
+  "flavorText": "The user attacks while simultaneously stitching the\ntarget’s shadow to the ground to prevent the target\nfrom escaping.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "decidueye": [
+      "level-up"
+    ]
+  }
+}

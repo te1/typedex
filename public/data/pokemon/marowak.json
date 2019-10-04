@@ -1,0 +1,201 @@
+{
+  "name": "marowak",
+  "caption": "Marowak",
+  "types": [
+    "ground"
+  ],
+  "species": "marowak",
+  "gen": "generation-i",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 1,
+  "weight": 45,
+  "baseStats": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 110,
+    "special-attack": 50,
+    "special-defense": 80,
+    "speed": 45
+  },
+  "evolutionChain": {
+    "species": "cubone",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "marowak",
+        "triggers": [
+          "level-up",
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It throws bones at Mandibuzz to knock it down.\nIt’s thought that Marowak is trying to avenge\nits parent.",
+  "moves": {
+    "thrash": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "rage": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "bone-club": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "bonemerang": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "headbutt": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "bone-rush": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "false-swipe": [
+      "level-up",
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "endeavor": [
+      "level-up"
+    ],
+    "fling": [
+      "level-up",
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "retaliate": [
+      "level-up"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ],
+    "stomping-tantrum": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "rock-head": 1,
+    "lightning-rod": 2,
+    "battle-armor": "hidden"
+  }
+}

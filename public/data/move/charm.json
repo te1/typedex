@@ -1,0 +1,252 @@
+{
+  "name": "charm",
+  "caption": "Charm",
+  "type": "fairy",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Lowers the target's Attack by two stages.",
+    "full": "Lowers the target's [Attack]{mechanic:attack} by two [stages]{mechanic:stage}."
+  },
+  "flavorText": "The user gazes at the target rather charmingly,\nmaking it less wary. This harshly lowers its\nAttack stat.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "bulbasaur": [
+      "egg"
+    ],
+    "nidoran-f": [
+      "egg"
+    ],
+    "oddish": [
+      "egg"
+    ],
+    "meowth": [
+      "egg"
+    ],
+    "ponyta": [
+      "egg"
+    ],
+    "eevee": [
+      "level-up",
+      "egg"
+    ],
+    "snorlax": [
+      "egg"
+    ],
+    "sentret": [
+      "egg"
+    ],
+    "pichu": [
+      "level-up"
+    ],
+    "cleffa": [
+      "level-up"
+    ],
+    "igglybuff": [
+      "level-up"
+    ],
+    "togepi": [
+      "level-up"
+    ],
+    "togetic": [
+      "level-up"
+    ],
+    "snubbull": [
+      "level-up"
+    ],
+    "granbull": [
+      "level-up"
+    ],
+    "teddiursa": [
+      "level-up"
+    ],
+    "phanpy": [
+      "level-up"
+    ],
+    "zigzagoon": [
+      "egg"
+    ],
+    "ralts": [
+      "level-up"
+    ],
+    "kirlia": [
+      "level-up"
+    ],
+    "shroomish": [
+      "egg"
+    ],
+    "azurill": [
+      "level-up"
+    ],
+    "skitty": [
+      "level-up"
+    ],
+    "plusle": [
+      "level-up",
+      "egg"
+    ],
+    "minun": [
+      "egg"
+    ],
+    "illumise": [
+      "level-up"
+    ],
+    "wynaut": [
+      "level-up"
+    ],
+    "luvdisc": [
+      "level-up"
+    ],
+    "latias": [
+      "level-up"
+    ],
+    "pachirisu": [
+      "level-up"
+    ],
+    "buneary": [
+      "level-up"
+    ],
+    "lopunny": [
+      "level-up"
+    ],
+    "glameow": [
+      "level-up"
+    ],
+    "purugly": [
+      "level-up"
+    ],
+    "mime-jr": [
+      "egg"
+    ],
+    "happiny": [
+      "level-up"
+    ],
+    "munchlax": [
+      "egg"
+    ],
+    "finneon": [
+      "egg"
+    ],
+    "mesprit": [
+      "level-up"
+    ],
+    "phione": [
+      "level-up"
+    ],
+    "manaphy": [
+      "level-up"
+    ],
+    "lillipup": [
+      "egg"
+    ],
+    "purrloin": [
+      "egg"
+    ],
+    "woobat": [
+      "egg"
+    ],
+    "cottonee": [
+      "level-up"
+    ],
+    "petilil": [
+      "egg"
+    ],
+    "minccino": [
+      "level-up"
+    ],
+    "gothita": [
+      "level-up"
+    ],
+    "gothorita": [
+      "level-up"
+    ],
+    "gothitelle": [
+      "level-up"
+    ],
+    "solosis": [
+      "level-up"
+    ],
+    "duosion": [
+      "level-up"
+    ],
+    "reuniclus": [
+      "level-up"
+    ],
+    "deerling": [
+      "level-up"
+    ],
+    "sawsbuck": [
+      "level-up"
+    ],
+    "emolga": [
+      "egg"
+    ],
+    "cubchoo": [
+      "level-up"
+    ],
+    "furfrou": [
+      "level-up"
+    ],
+    "meowstic-male": [
+      "level-up"
+    ],
+    "spritzee": [
+      "level-up"
+    ],
+    "aromatisse": [
+      "level-up"
+    ],
+    "tyrunt": [
+      "level-up"
+    ],
+    "tyrantrum": [
+      "level-up"
+    ],
+    "dedenne": [
+      "level-up"
+    ],
+    "popplio": [
+      "egg"
+    ],
+    "bounsweet": [
+      "egg"
+    ],
+    "komala": [
+      "egg"
+    ],
+    "mimikyu-disguised": [
+      "level-up"
+    ],
+    "poipole": [
+      "level-up"
+    ],
+    "naganadel": [
+      "level-up"
+    ],
+    "latias-mega": [
+      "level-up"
+    ],
+    "lopunny-mega": [
+      "level-up"
+    ],
+    "mimikyu-busted": [
+      "level-up"
+    ],
+    "mimikyu-totem-disguised": [
+      "level-up"
+    ],
+    "mimikyu-totem-busted": [
+      "level-up"
+    ]
+  }
+}

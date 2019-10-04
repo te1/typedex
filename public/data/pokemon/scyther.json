@@ -1,0 +1,208 @@
+{
+  "name": "scyther",
+  "caption": "Scyther",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "species": "scyther",
+  "gen": "generation-i",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.5,
+  "weight": 56,
+  "baseStats": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 80,
+    "special-attack": 55,
+    "special-defense": 80,
+    "speed": 105
+  },
+  "evolutionChain": {
+    "species": "scyther",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "scizor",
+        "triggers": [
+          "trade"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Its two sharp scythes are more than just\nweapons. It uses them with dexterity to dress\nits prey before eating.",
+  "moves": {
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "level-up",
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "wing-attack": [
+      "level-up"
+    ],
+    "razor-wind": [
+      "level-up",
+      "egg"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "reversal": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "false-swipe": [
+      "level-up",
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "fury-cutter": [
+      "level-up"
+    ],
+    "steel-wing": [
+      "egg",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "baton-pass": [
+      "egg"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "silver-wind": [
+      "egg"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "night-slash": [
+      "level-up",
+      "egg"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "x-scissor": [
+      "level-up",
+      "machine"
+    ],
+    "bug-buzz": [
+      "egg"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "defog": [
+      "egg"
+    ],
+    "double-hit": [
+      "level-up"
+    ],
+    "feint": [
+      "level-up"
+    ],
+    "vacuum-wave": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "quick-guard": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "swarm": 1,
+    "technician": 2,
+    "steadfast": "hidden"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "name": "kingdra",
+  "caption": "Kingdra",
+  "types": [
+    "water",
+    "dragon"
+  ],
+  "species": "kingdra",
+  "gen": "generation-ii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.8,
+  "weight": 152,
+  "baseStats": {
+    "hp": 75,
+    "attack": 95,
+    "defense": 95,
+    "special-attack": 95,
+    "special-defense": 95,
+    "speed": 85
+  },
+  "evolutionChain": {
+    "species": "horsea",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "seadra",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "kingdra",
+            "triggers": [
+              "trade"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Kingdra lives at extreme ocean depths that are otherwise\nuninhabited. It has long been believed that the yawning of this\nPokémon creates spiraling ocean currents.",
+  "moves": {
+    "leer": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "smokescreen": [
+      "level-up"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "bubble": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "twister": [
+      "level-up"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "dragon-dance": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "yawn": [
+      "level-up"
+    ],
+    "brine": [
+      "level-up"
+    ],
+    "dragon-pulse": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "draco-meteor": [
+      "tutor"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "quash": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "swift-swim": 1,
+    "sniper": 2,
+    "damp": "hidden"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "name": "yawn",
+  "caption": "Yawn",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Target sleeps at the end of the next turn.",
+    "full": "Puts the target to [sleep]{mechanic:sleep} at the end of the next turn.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers.  If the target leaves the [field]{mechanic:field}, this effect is canceled.  If the target has a status effect when this move is used, this move will [fail]{mechanic:fail}.\n\nIf the target is protected by []{move:safeguard} when this move is used, this move will [fail]{mechanic:fail}.\n\n[]{ability:insomnia} and []{ability:vital-spirit} prevent the [sleep]{mechanic:sleep} if the target has either at the end of the next turn, but will not cause this move to [fail]{mechanic:fail} on use."
+  },
+  "flavorText": "The user lets loose a huge yawn that lulls the target\ninto falling asleep on the next turn.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "squirtle": [
+      "egg"
+    ],
+    "psyduck": [
+      "egg"
+    ],
+    "slowpoke": [
+      "level-up"
+    ],
+    "slowbro": [
+      "level-up"
+    ],
+    "eevee": [
+      "egg"
+    ],
+    "snorlax": [
+      "level-up"
+    ],
+    "togepi": [
+      "level-up"
+    ],
+    "togetic": [
+      "level-up"
+    ],
+    "wooper": [
+      "level-up"
+    ],
+    "quagsire": [
+      "level-up"
+    ],
+    "slowking": [
+      "level-up"
+    ],
+    "dunsparce": [
+      "level-up"
+    ],
+    "teddiursa": [
+      "egg"
+    ],
+    "slugma": [
+      "level-up"
+    ],
+    "magcargo": [
+      "level-up"
+    ],
+    "kingdra": [
+      "level-up"
+    ],
+    "mudkip": [
+      "egg"
+    ],
+    "poochyena": [
+      "level-up",
+      "egg"
+    ],
+    "mightyena": [
+      "level-up"
+    ],
+    "slakoth": [
+      "level-up"
+    ],
+    "slaking": [
+      "level-up"
+    ],
+    "gulpin": [
+      "level-up"
+    ],
+    "swalot": [
+      "level-up"
+    ],
+    "numel": [
+      "level-up",
+      "egg"
+    ],
+    "camerupt": [
+      "level-up"
+    ],
+    "torkoal": [
+      "egg"
+    ],
+    "chimecho": [
+      "level-up"
+    ],
+    "spheal": [
+      "egg"
+    ],
+    "relicanth": [
+      "level-up"
+    ],
+    "piplup": [
+      "egg"
+    ],
+    "bidoof": [
+      "level-up"
+    ],
+    "bibarel": [
+      "level-up"
+    ],
+    "shellos": [
+      "egg"
+    ],
+    "chingling": [
+      "level-up"
+    ],
+    "hippopotas": [
+      "level-up"
+    ],
+    "hippowdon": [
+      "level-up"
+    ],
+    "uxie": [
+      "level-up"
+    ],
+    "tepig": [
+      "egg"
+    ],
+    "lillipup": [
+      "egg"
+    ],
+    "purrloin": [
+      "egg"
+    ],
+    "pansear": [
+      "level-up"
+    ],
+    "munna": [
+      "level-up"
+    ],
+    "audino": [
+      "egg"
+    ],
+    "darumaka": [
+      "egg"
+    ],
+    "cubchoo": [
+      "egg"
+    ],
+    "shelmet": [
+      "level-up"
+    ],
+    "stunfisk": [
+      "egg"
+    ],
+    "litleo": [
+      "egg"
+    ],
+    "espurr": [
+      "egg"
+    ],
+    "swirlix": [
+      "egg"
+    ],
+    "yungoos": [
+      "level-up"
+    ],
+    "gumshoos": [
+      "level-up"
+    ],
+    "komala": [
+      "level-up"
+    ],
+    "slowbro-mega": [
+      "level-up"
+    ],
+    "camerupt-mega": [
+      "level-up"
+    ],
+    "gumshoos-totem": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "name": "smog",
+  "caption": "Smog",
+  "type": "poison",
+  "damageCategory": "special",
+  "power": 30,
+  "accuracy": 70,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a 40% chance to [poison]{mechanic:poison} the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 40% chance to [poison]{mechanic:poison} the target."
+  },
+  "flavorText": "The target is attacked with a discharge of filthy\ngases. This may also poison the target.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "gastly": [
+      "egg"
+    ],
+    "koffing": [
+      "level-up"
+    ],
+    "weezing": [
+      "level-up"
+    ],
+    "magmar": [
+      "level-up"
+    ],
+    "flareon": [
+      "level-up"
+    ],
+    "slugma": [
+      "level-up"
+    ],
+    "magcargo": [
+      "level-up"
+    ],
+    "houndour": [
+      "level-up"
+    ],
+    "houndoom": [
+      "level-up"
+    ],
+    "magby": [
+      "level-up"
+    ],
+    "gulpin": [
+      "egg"
+    ],
+    "torkoal": [
+      "level-up"
+    ],
+    "stunky": [
+      "egg"
+    ],
+    "magmortar": [
+      "level-up"
+    ],
+    "tepig": [
+      "level-up"
+    ],
+    "pignite": [
+      "level-up"
+    ],
+    "emboar": [
+      "level-up"
+    ],
+    "litwick": [
+      "level-up"
+    ],
+    "lampent": [
+      "level-up"
+    ],
+    "chandelure": [
+      "level-up"
+    ],
+    "salandit": [
+      "level-up"
+    ],
+    "salazzle": [
+      "level-up"
+    ],
+    "turtonator": [
+      "level-up"
+    ],
+    "houndoom-mega": [
+      "level-up"
+    ],
+    "salazzle-totem": [
+      "level-up"
+    ]
+  }
+}

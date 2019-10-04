@@ -1,0 +1,205 @@
+{
+  "name": "stunfisk",
+  "caption": "Stunfisk",
+  "types": [
+    "ground",
+    "electric"
+  ],
+  "species": "stunfisk",
+  "gen": "generation-v",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.7,
+  "weight": 11,
+  "baseStats": {
+    "hp": 109,
+    "attack": 66,
+    "defense": 84,
+    "special-attack": 81,
+    "special-defense": 99,
+    "speed": 32
+  },
+  "flavorText": "Its skin is very hard, so it is unhurt even if stepped\non by sumo wrestlers. It smiles when\ntransmitting electricity.",
+  "moves": {
+    "surf": [
+      "machine"
+    ],
+    "thunder-shock": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "level-up",
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "fissure": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "spite": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "endure": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "spark": [
+      "egg"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "egg",
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pain-split": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "revenge": [
+      "level-up"
+    ],
+    "yawn": [
+      "egg"
+    ],
+    "camouflage": [
+      "level-up"
+    ],
+    "mud-sport": [
+      "level-up"
+    ],
+    "astonish": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "muddy-water": [
+      "level-up"
+    ],
+    "bounce": [
+      "level-up"
+    ],
+    "mud-shot": [
+      "level-up"
+    ],
+    "shock-wave": [
+      "egg"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "earth-power": [
+      "egg"
+    ],
+    "mud-bomb": [
+      "level-up"
+    ],
+    "discharge": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "me-first": [
+      "egg"
+    ],
+    "reflect-type": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "eerie-impulse": [
+      "egg"
+    ],
+    "infestation": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "static": 1,
+    "limber": 2,
+    "sand-veil": "hidden"
+  }
+}

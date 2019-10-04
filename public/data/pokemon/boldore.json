@@ -1,0 +1,159 @@
+{
+  "name": "boldore",
+  "caption": "Boldore",
+  "types": [
+    "rock"
+  ],
+  "species": "boldore",
+  "gen": "generation-v",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.9,
+  "weight": 102,
+  "baseStats": {
+    "hp": 70,
+    "attack": 105,
+    "defense": 105,
+    "special-attack": 50,
+    "special-defense": 40,
+    "speed": 20
+  },
+  "evolutionChain": {
+    "species": "roggenrola",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "boldore",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "gigalith",
+            "triggers": [
+              "trade"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "The energy overflowing from its body has\nturned into orange crystals that are hard\nenough to smash diamonds.",
+  "moves": {
+    "sand-attack": [
+      "level-up"
+    ],
+    "headbutt": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "explosion": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "level-up",
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "level-up",
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "rock-blast": [
+      "level-up"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "power-gem": [
+      "level-up"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "stone-edge": [
+      "level-up",
+      "machine"
+    ],
+    "stealth-rock": [
+      "level-up"
+    ],
+    "smack-down": [
+      "level-up",
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "sturdy": 1,
+    "weak-armor": 2,
+    "sand-force": "hidden"
+  }
+}

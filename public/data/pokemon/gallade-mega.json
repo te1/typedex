@@ -1,0 +1,270 @@
+{
+  "name": "gallade-mega",
+  "caption": "Mega Gallade",
+  "types": [
+    "psychic",
+    "fighting"
+  ],
+  "species": "gallade",
+  "gen": "generation-iv",
+  "color": "white",
+  "default": false,
+  "alternate": false,
+  "mega": true,
+  "height": 1.6,
+  "weight": 56.4,
+  "baseStats": {
+    "hp": 68,
+    "attack": 165,
+    "defense": 95,
+    "special-attack": 65,
+    "special-defense": 115,
+    "speed": 110
+  },
+  "evolutionChain": {
+    "species": "ralts",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "kirlia",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "gardevoir",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          },
+          {
+            "species": "gallade",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Because it can sense what its foe is thinking,\nits attacks burst out first, fast, and fierce.",
+  "moves": {
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "confusion": [
+      "level-up"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "teleport": [
+      "level-up"
+    ],
+    "double-team": [
+      "level-up",
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "false-swipe": [
+      "level-up",
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "fury-cutter": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "helping-hand": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "level-up",
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "leaf-blade": [
+      "level-up"
+    ],
+    "feint": [
+      "level-up"
+    ],
+    "close-combat": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "psycho-cut": [
+      "level-up"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "wide-guard": [
+      "level-up"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "stored-power": [
+      "level-up"
+    ],
+    "quick-guard": [
+      "level-up"
+    ],
+    "heal-pulse": [
+      "level-up"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "inner-focus": 1
+  }
+}

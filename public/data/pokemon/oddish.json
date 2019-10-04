@@ -1,0 +1,208 @@
+{
+  "name": "oddish",
+  "caption": "Oddish",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "species": "oddish",
+  "gen": "generation-i",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 5.4,
+  "baseStats": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 55,
+    "special-attack": 75,
+    "special-defense": 65,
+    "speed": 30
+  },
+  "evolutionChain": {
+    "species": "oddish",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "gloom",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "vileplume",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          },
+          {
+            "species": "bellossom",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "During the daytime, Oddish buries itself in soil to absorb\nnutrients from the ground using its entire body.\nThe more fertile the soil, the glossier its leaves become.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "acid": [
+      "level-up"
+    ],
+    "absorb": [
+      "level-up"
+    ],
+    "mega-drain": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "poison-powder": [
+      "level-up"
+    ],
+    "stun-spore": [
+      "level-up"
+    ],
+    "sleep-powder": [
+      "level-up"
+    ],
+    "petal-dance": [
+      "level-up"
+    ],
+    "toxic": [
+      "level-up",
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "razor-leaf": [
+      "egg"
+    ],
+    "flail": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "giga-drain": [
+      "level-up"
+    ],
+    "charm": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "synthesis": [
+      "egg"
+    ],
+    "moonlight": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "ingrain": [
+      "egg"
+    ],
+    "secret-power": [
+      "egg"
+    ],
+    "tickle": [
+      "egg"
+    ],
+    "natural-gift": [
+      "level-up"
+    ],
+    "lucky-chant": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "teeter-dance": [
+      "egg"
+    ],
+    "nature-power": [
+      "egg",
+      "machine"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "after-you": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "grassy-terrain": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "moonblast": [
+      "level-up"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "strength-sap": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "chlorophyll": 1,
+    "run-away": "hidden"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "name": "natural-gift",
+  "caption": "Natural Gift",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Power and type depend on the held berry.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Power and type are determined by the user's held berry.  The berry is consumed.  If the user is not holding a berry, this move will [fail]{mechanic:fail}."
+  },
+  "flavorText": "The user draws power to attack by using its held\nBerry. The Berry determines the move’s type\nand power.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "oddish": [
+      "level-up"
+    ],
+    "gloom": [
+      "level-up"
+    ],
+    "paras": [
+      "egg"
+    ],
+    "bellsprout": [
+      "egg"
+    ],
+    "doduo": [
+      "egg"
+    ],
+    "exeggcute": [
+      "level-up",
+      "egg"
+    ],
+    "chansey": [
+      "egg"
+    ],
+    "tangela": [
+      "level-up",
+      "egg"
+    ],
+    "eevee": [
+      "egg"
+    ],
+    "snorlax": [
+      "egg"
+    ],
+    "chikorita": [
+      "level-up"
+    ],
+    "bayleef": [
+      "level-up"
+    ],
+    "meganium": [
+      "level-up"
+    ],
+    "sentret": [
+      "egg"
+    ],
+    "sunkern": [
+      "level-up",
+      "egg"
+    ],
+    "sunflora": [
+      "level-up"
+    ],
+    "pineco": [
+      "level-up"
+    ],
+    "forretress": [
+      "level-up"
+    ],
+    "phanpy": [
+      "level-up"
+    ],
+    "miltank": [
+      "egg"
+    ],
+    "lugia": [
+      "level-up"
+    ],
+    "ho-oh": [
+      "level-up"
+    ],
+    "celebi": [
+      "level-up"
+    ],
+    "treecko": [
+      "egg"
+    ],
+    "lotad": [
+      "level-up"
+    ],
+    "shroomish": [
+      "egg"
+    ],
+    "roselia": [
+      "egg"
+    ],
+    "swablu": [
+      "level-up"
+    ],
+    "altaria": [
+      "level-up"
+    ],
+    "tropius": [
+      "level-up",
+      "egg"
+    ],
+    "budew": [
+      "egg"
+    ],
+    "cherubi": [
+      "egg"
+    ],
+    "happiny": [
+      "egg"
+    ],
+    "munchlax": [
+      "level-up",
+      "egg"
+    ],
+    "snover": [
+      "egg"
+    ],
+    "tangrowth": [
+      "level-up"
+    ],
+    "uxie": [
+      "level-up"
+    ],
+    "mesprit": [
+      "level-up"
+    ],
+    "azelf": [
+      "level-up"
+    ],
+    "shaymin-land": [
+      "level-up"
+    ],
+    "arceus": [
+      "level-up"
+    ],
+    "snivy": [
+      "egg"
+    ],
+    "pansage": [
+      "level-up"
+    ],
+    "pansear": [
+      "level-up"
+    ],
+    "panpour": [
+      "level-up"
+    ],
+    "cottonee": [
+      "egg"
+    ],
+    "petilil": [
+      "egg"
+    ],
+    "vanillite": [
+      "egg"
+    ],
+    "deerling": [
+      "egg"
+    ],
+    "fletchling": [
+      "level-up"
+    ],
+    "fletchinder": [
+      "level-up"
+    ],
+    "talonflame": [
+      "level-up"
+    ],
+    "dedenne": [
+      "egg"
+    ],
+    "comfey": [
+      "level-up"
+    ],
+    "drampa": [
+      "level-up"
+    ],
+    "shaymin-sky": [
+      "level-up"
+    ],
+    "altaria-mega": [
+      "level-up"
+    ]
+  }
+}

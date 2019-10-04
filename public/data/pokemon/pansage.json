@@ -1,0 +1,209 @@
+{
+  "name": "pansage",
+  "caption": "Pansage",
+  "types": [
+    "grass"
+  ],
+  "species": "pansage",
+  "gen": "generation-v",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 10.5,
+  "baseStats": {
+    "hp": 50,
+    "attack": 53,
+    "defense": 48,
+    "special-attack": 53,
+    "special-defense": 48,
+    "speed": 64
+  },
+  "evolutionChain": {
+    "species": "pansage",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "simisage",
+        "triggers": [
+          "use-item"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It shares the leaf on its head with weary-looking\nPokémon. These leaves are known to relieve stress.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "vine-whip": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "low-kick": [
+      "egg"
+    ],
+    "leech-seed": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "lick": [
+      "level-up"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "torment": [
+      "level-up",
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "role-play": [
+      "egg"
+    ],
+    "recycle": [
+      "level-up"
+    ],
+    "astonish": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "grass-whistle": [
+      "egg"
+    ],
+    "tickle": [
+      "egg"
+    ],
+    "bullet-seed": [
+      "egg"
+    ],
+    "covet": [
+      "egg"
+    ],
+    "magical-leaf": [
+      "egg"
+    ],
+    "natural-gift": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "level-up",
+      "machine"
+    ],
+    "seed-bomb": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "nasty-plot": [
+      "egg"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "leaf-storm": [
+      "egg"
+    ],
+    "grass-knot": [
+      "level-up",
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "level-up",
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "disarming-voice": [
+      "egg"
+    ],
+    "play-nice": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "grass-pledge": [
+      "tutor"
+    ],
+    "spiky-shield": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "gluttony": 1,
+    "overgrow": "hidden"
+  }
+}

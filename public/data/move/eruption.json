@@ -1,0 +1,51 @@
+{
+  "name": "eruption",
+  "caption": "Eruption",
+  "type": "fire",
+  "damageCategory": "special",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Inflicts more damage when the user has more HP remaining, with a maximum of 150 power.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Power increases with the user's remaining [HP]{mechanic:hp} and is given by `150 * HP / max HP`, to a maximum of 150 when the user has full HP."
+  },
+  "flavorText": "The user attacks opposing Pokémon with explosive\nfury. The lower the user’s HP, the lower the\nmove’s power.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "all-opponents",
+  "pokemon": {
+    "cyndaquil": [
+      "level-up"
+    ],
+    "quilava": [
+      "level-up"
+    ],
+    "typhlosion": [
+      "level-up"
+    ],
+    "entei": [
+      "level-up"
+    ],
+    "camerupt": [
+      "level-up"
+    ],
+    "torkoal": [
+      "egg"
+    ],
+    "groudon": [
+      "level-up"
+    ],
+    "groudon-primal": [
+      "level-up"
+    ],
+    "camerupt-mega": [
+      "level-up"
+    ]
+  }
+}

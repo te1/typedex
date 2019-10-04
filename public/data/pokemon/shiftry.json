@@ -1,0 +1,197 @@
+{
+  "name": "shiftry",
+  "caption": "Shiftry",
+  "types": [
+    "grass",
+    "dark"
+  ],
+  "species": "shiftry",
+  "gen": "generation-iii",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.3,
+  "weight": 59.6,
+  "baseStats": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 60,
+    "special-attack": 90,
+    "special-defense": 60,
+    "speed": 80
+  },
+  "evolutionChain": {
+    "species": "seedot",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "nuzleaf",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "shiftry",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Shiftry is a mysterious Pokémon that is said to live atop\ntowering trees dating back over a thousand years. It creates\nterrific windstorms with the fans it holds.",
+  "moves": {
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "whirlwind": [
+      "level-up"
+    ],
+    "razor-leaf": [
+      "level-up"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "nasty-plot": [
+      "level-up"
+    ],
+    "leaf-storm": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "leaf-tornado": [
+      "level-up"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "hurricane": [
+      "level-up"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "chlorophyll": 1,
+    "early-bird": 2,
+    "pickpocket": "hidden"
+  }
+}

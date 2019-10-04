@@ -1,0 +1,20 @@
+{
+  "name": "competitive",
+  "caption": "Competitive",
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Raises Special Attack by two stages upon having any stat lowered.",
+    "full": "Raises Special Attack by two stages upon having any stat lowered."
+  },
+  "flavorText": "Boosts the Sp. Atk stat sharply when a stat\nis lowered.",
+  "pokemon": {
+    "jigglypuff": 2,
+    "wigglytuff": 2,
+    "igglybuff": 2,
+    "milotic": 2,
+    "gothita": 2,
+    "gothorita": 2,
+    "gothitelle": 2,
+    "meowstic-female": "hidden"
+  }
+}

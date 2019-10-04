@@ -1,0 +1,220 @@
+{
+  "name": "greninja",
+  "caption": "Greninja",
+  "types": [
+    "water",
+    "dark"
+  ],
+  "species": "greninja",
+  "gen": "generation-vi",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 1.5,
+  "weight": 40,
+  "baseStats": {
+    "hp": 72,
+    "attack": 95,
+    "defense": 67,
+    "special-attack": 103,
+    "special-defense": 71,
+    "speed": 122
+  },
+  "evolutionChain": {
+    "species": "froakie",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "frogadier",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "greninja",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It creates throwing stars out of compressed water.\nWhen it spins them and throws them at high speed,\nthese stars can split metal in two.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "level-up",
+      "machine"
+    ],
+    "smokescreen": [
+      "level-up"
+    ],
+    "haze": [
+      "level-up"
+    ],
+    "lick": [
+      "level-up"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "bubble": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "level-up",
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "spikes": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "role-play": [
+      "level-up"
+    ],
+    "hydro-cannon": [
+      "tutor"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "extrasensory": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-sneak": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "water-pledge": [
+      "tutor"
+    ],
+    "mat-block": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "water-shuriken": [
+      "level-up"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "torrent": 1,
+    "protean": "hidden"
+  }
+}

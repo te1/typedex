@@ -1,0 +1,19 @@
+{
+  "name": "cloud-nine",
+  "caption": "Cloud Nine",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Negates all effects of [weather]{mechanic:weather}, but does not prevent the weather itself.",
+    "full": "While this Pokémon is in battle, [weather]{mechanic:weather} can still be in play, but will not have any of its effects.\n\nThis ability functions identically to []{ability:air-lock}."
+  },
+  "flavorText": "Eliminates the effects of weather.",
+  "pokemon": {
+    "psyduck": 2,
+    "golduck": 2,
+    "lickitung": "hidden",
+    "swablu": "hidden",
+    "altaria": "hidden",
+    "lickilicky": "hidden",
+    "drampa": "hidden"
+  }
+}

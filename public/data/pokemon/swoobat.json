@@ -1,0 +1,204 @@
+{
+  "name": "swoobat",
+  "caption": "Swoobat",
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "species": "swoobat",
+  "gen": "generation-v",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.9,
+  "weight": 10.5,
+  "baseStats": {
+    "hp": 67,
+    "attack": 57,
+    "defense": 55,
+    "special-attack": 77,
+    "special-defense": 55,
+    "speed": 114
+  },
+  "evolutionChain": {
+    "species": "woobat",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "swoobat",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It shakes its tail vigorously when it emits ultrasonic\nwaves strong enough to reduce concrete to rubble.",
+  "moves": {
+    "gust": [
+      "level-up"
+    ],
+    "fly": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "confusion": [
+      "level-up"
+    ],
+    "psychic": [
+      "level-up",
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "amnesia": [
+      "level-up"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "level-up",
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "future-sight": [
+      "level-up"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "endeavor": [
+      "level-up"
+    ],
+    "imprison": [
+      "level-up"
+    ],
+    "air-cutter": [
+      "level-up"
+    ],
+    "odor-sleuth": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "calm-mind": [
+      "level-up",
+      "machine"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "assurance": [
+      "level-up"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "heart-stamp": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "unaware": 1,
+    "klutz": 2,
+    "simple": "hidden"
+  }
+}

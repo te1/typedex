@@ -1,0 +1,119 @@
+{
+  "name": "poison-powder",
+  "caption": "Poison Powder",
+  "type": "poison",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 75,
+  "pp": 35,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Poisons the target.",
+    "full": "[Poisons]{mechanic:poisons} the target."
+  },
+  "flavorText": "The user scatters a cloud of poisonous dust that\npoisons the target.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror",
+    "powder"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "bulbasaur": [
+      "level-up"
+    ],
+    "ivysaur": [
+      "level-up"
+    ],
+    "venusaur": [
+      "level-up"
+    ],
+    "butterfree": [
+      "level-up"
+    ],
+    "oddish": [
+      "level-up"
+    ],
+    "gloom": [
+      "level-up"
+    ],
+    "vileplume": [
+      "level-up"
+    ],
+    "paras": [
+      "level-up"
+    ],
+    "parasect": [
+      "level-up"
+    ],
+    "venonat": [
+      "level-up"
+    ],
+    "venomoth": [
+      "level-up"
+    ],
+    "bellsprout": [
+      "level-up"
+    ],
+    "weepinbell": [
+      "level-up"
+    ],
+    "exeggcute": [
+      "level-up"
+    ],
+    "tangela": [
+      "level-up"
+    ],
+    "chikorita": [
+      "level-up"
+    ],
+    "bayleef": [
+      "level-up"
+    ],
+    "meganium": [
+      "level-up"
+    ],
+    "hoppip": [
+      "level-up"
+    ],
+    "skiploom": [
+      "level-up"
+    ],
+    "jumpluff": [
+      "level-up"
+    ],
+    "dustox": [
+      "level-up"
+    ],
+    "shroomish": [
+      "level-up"
+    ],
+    "mothim": [
+      "level-up"
+    ],
+    "tangrowth": [
+      "level-up"
+    ],
+    "cottonee": [
+      "level-up"
+    ],
+    "foongus": [
+      "egg"
+    ],
+    "scatterbug": [
+      "egg"
+    ],
+    "vivillon": [
+      "level-up"
+    ],
+    "morelull": [
+      "egg"
+    ],
+    "venusaur-mega": [
+      "level-up"
+    ]
+  }
+}

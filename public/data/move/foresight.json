@@ -1,0 +1,188 @@
+{
+  "name": "foresight",
+  "caption": "Foresight",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 40,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it's a Ghost.",
+    "full": "Resets the target's [evasion]{mechanic:evasion} to normal and prevents any further boosting until the target leaves the [field]{mechanic:field}.  A []{type:ghost} under this effect takes normal damage from []{type:normal} and []{type:fighting} moves.  This move itself ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers."
+  },
+  "flavorText": "Enables a Ghost-type target to be hit by Normal-\nand Fighting-type attacks. This also enables an\nevasive target to be hit.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror",
+    "authentic"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "squirtle": [
+      "egg"
+    ],
+    "pidgey": [
+      "egg"
+    ],
+    "venonat": [
+      "level-up"
+    ],
+    "venomoth": [
+      "level-up"
+    ],
+    "psyduck": [
+      "egg"
+    ],
+    "mankey": [
+      "egg"
+    ],
+    "machop": [
+      "level-up"
+    ],
+    "machoke": [
+      "level-up"
+    ],
+    "machamp": [
+      "level-up"
+    ],
+    "farfetchd": [
+      "egg"
+    ],
+    "hitmonlee": [
+      "level-up"
+    ],
+    "kangaskhan": [
+      "egg"
+    ],
+    "lapras": [
+      "egg"
+    ],
+    "kabuto": [
+      "egg"
+    ],
+    "aerodactyl": [
+      "egg"
+    ],
+    "cyndaquil": [
+      "egg"
+    ],
+    "sentret": [
+      "level-up"
+    ],
+    "furret": [
+      "level-up"
+    ],
+    "hoothoot": [
+      "level-up"
+    ],
+    "noctowl": [
+      "level-up"
+    ],
+    "togepi": [
+      "egg"
+    ],
+    "yanma": [
+      "level-up"
+    ],
+    "girafarig": [
+      "egg"
+    ],
+    "sneasel": [
+      "egg"
+    ],
+    "tyrogue": [
+      "level-up"
+    ],
+    "mudkip": [
+      "level-up"
+    ],
+    "marshtomp": [
+      "level-up"
+    ],
+    "swampert": [
+      "level-up"
+    ],
+    "surskit": [
+      "egg"
+    ],
+    "makuhita": [
+      "egg"
+    ],
+    "skitty": [
+      "level-up"
+    ],
+    "sableye": [
+      "level-up"
+    ],
+    "meditite": [
+      "egg"
+    ],
+    "shuppet": [
+      "egg"
+    ],
+    "duskull": [
+      "level-up"
+    ],
+    "dusclops": [
+      "level-up"
+    ],
+    "starly": [
+      "egg"
+    ],
+    "buneary": [
+      "level-up"
+    ],
+    "lopunny": [
+      "level-up"
+    ],
+    "riolu": [
+      "level-up"
+    ],
+    "lucario": [
+      "level-up"
+    ],
+    "yanmega": [
+      "level-up"
+    ],
+    "dusknoir": [
+      "level-up"
+    ],
+    "regigigas": [
+      "level-up"
+    ],
+    "patrat": [
+      "egg"
+    ],
+    "timburr": [
+      "egg"
+    ],
+    "larvesta": [
+      "egg"
+    ],
+    "rowlet": [
+      "level-up"
+    ],
+    "dartrix": [
+      "level-up"
+    ],
+    "decidueye": [
+      "level-up"
+    ],
+    "lucario-mega": [
+      "level-up"
+    ],
+    "swampert-mega": [
+      "level-up"
+    ],
+    "sableye-mega": [
+      "level-up"
+    ],
+    "lopunny-mega": [
+      "level-up"
+    ]
+  }
+}

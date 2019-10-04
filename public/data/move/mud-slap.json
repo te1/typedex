@@ -1,0 +1,228 @@
+{
+  "name": "mud-slap",
+  "caption": "Mud-Slap",
+  "type": "ground",
+  "damageCategory": "special",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a 100% chance to lower the target's accuracy by one stage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 100% chance to lower the target's [accuracy]{mechanic:accuracy} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user hurls mud in the target’s face to inflict\ndamage and lower its accuracy.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "diglett": [
+      "level-up"
+    ],
+    "dugtrio": [
+      "level-up"
+    ],
+    "farfetchd": [
+      "egg"
+    ],
+    "grimer": [
+      "level-up"
+    ],
+    "muk": [
+      "level-up"
+    ],
+    "goldeen": [
+      "egg"
+    ],
+    "dunsparce": [
+      "level-up"
+    ],
+    "shuckle": [
+      "egg"
+    ],
+    "swinub": [
+      "level-up"
+    ],
+    "piloswine": [
+      "level-up"
+    ],
+    "phanpy": [
+      "egg"
+    ],
+    "mudkip": [
+      "level-up"
+    ],
+    "marshtomp": [
+      "level-up"
+    ],
+    "swampert": [
+      "level-up"
+    ],
+    "zigzagoon": [
+      "egg"
+    ],
+    "nincada": [
+      "level-up"
+    ],
+    "aron": [
+      "level-up"
+    ],
+    "lairon": [
+      "level-up"
+    ],
+    "aggron": [
+      "level-up"
+    ],
+    "gulpin": [
+      "egg"
+    ],
+    "trapinch": [
+      "level-up"
+    ],
+    "vibrava": [
+      "level-up"
+    ],
+    "flygon": [
+      "level-up"
+    ],
+    "barboach": [
+      "level-up"
+    ],
+    "whiscash": [
+      "level-up"
+    ],
+    "baltoy": [
+      "level-up"
+    ],
+    "claydol": [
+      "level-up"
+    ],
+    "relicanth": [
+      "egg"
+    ],
+    "piplup": [
+      "egg"
+    ],
+    "buizel": [
+      "egg"
+    ],
+    "shellos": [
+      "level-up"
+    ],
+    "gastrodon": [
+      "level-up"
+    ],
+    "croagunk": [
+      "level-up"
+    ],
+    "toxicroak": [
+      "level-up"
+    ],
+    "mamoswine": [
+      "level-up"
+    ],
+    "lillipup": [
+      "egg"
+    ],
+    "roggenrola": [
+      "level-up"
+    ],
+    "boldore": [
+      "level-up"
+    ],
+    "gigalith": [
+      "level-up"
+    ],
+    "drilbur": [
+      "level-up"
+    ],
+    "excadrill": [
+      "level-up"
+    ],
+    "sandile": [
+      "level-up"
+    ],
+    "krokorok": [
+      "level-up"
+    ],
+    "krookodile": [
+      "level-up"
+    ],
+    "minccino": [
+      "egg"
+    ],
+    "shelmet": [
+      "egg"
+    ],
+    "stunfisk": [
+      "level-up"
+    ],
+    "golett": [
+      "level-up"
+    ],
+    "golurk": [
+      "level-up"
+    ],
+    "bouffalant": [
+      "egg"
+    ],
+    "bunnelby": [
+      "level-up"
+    ],
+    "diggersby": [
+      "level-up"
+    ],
+    "binacle": [
+      "level-up"
+    ],
+    "barbaracle": [
+      "level-up"
+    ],
+    "helioptile": [
+      "level-up"
+    ],
+    "yungoos": [
+      "level-up"
+    ],
+    "gumshoos": [
+      "level-up"
+    ],
+    "grubbin": [
+      "level-up"
+    ],
+    "charjabug": [
+      "level-up"
+    ],
+    "vikavolt": [
+      "level-up"
+    ],
+    "mudbray": [
+      "level-up"
+    ],
+    "mudsdale": [
+      "level-up"
+    ],
+    "aggron-mega": [
+      "level-up"
+    ],
+    "swampert-mega": [
+      "level-up"
+    ],
+    "diglett-alola": [
+      "level-up"
+    ],
+    "dugtrio-alola": [
+      "level-up"
+    ],
+    "gumshoos-totem": [
+      "level-up"
+    ],
+    "vikavolt-totem": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "name": "gothita",
+  "caption": "Gothita",
+  "types": [
+    "psychic"
+  ],
+  "species": "gothita",
+  "gen": "generation-v",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 5.8,
+  "baseStats": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 50,
+    "special-attack": 55,
+    "special-defense": 65,
+    "speed": 45
+  },
+  "evolutionChain": {
+    "species": "gothita",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "gothorita",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "gothitelle",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Their ribbonlike feelers increase their psychic\npower. They are always staring at something.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "double-slap": [
+      "level-up"
+    ],
+    "psybeam": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "confusion": [
+      "level-up"
+    ],
+    "psychic": [
+      "level-up",
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up"
+    ],
+    "charm": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "mean-look": [
+      "egg"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "mirror-coat": [
+      "egg"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "future-sight": [
+      "level-up"
+    ],
+    "uproar": [
+      "egg"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "flatter": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "fake-tears": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "tickle": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "miracle-eye": [
+      "egg"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "embargo": [
+      "level-up",
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "heal-block": [
+      "level-up"
+    ],
+    "dark-pulse": [
+      "egg",
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "captivate": [
+      "egg"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "psyshock": [
+      "level-up",
+      "machine"
+    ],
+    "telekinesis": [
+      "level-up"
+    ],
+    "magic-room": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "heal-pulse": [
+      "egg"
+    ],
+    "play-nice": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "frisk": 1,
+    "competitive": 2,
+    "shadow-tag": "hidden"
+  }
+}

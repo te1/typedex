@@ -1,0 +1,193 @@
+{
+  "name": "sweet-scent",
+  "caption": "Sweet Scent",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Lowers the target's evasion by one stage.",
+    "full": "Lowers the target's [evasion]{mechanic:evasion} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "A sweet scent that harshly lowers opposing\nPokémon’s evasiveness.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror"
+  ],
+  "target": "all-opponents",
+  "pokemon": {
+    "bulbasaur": [
+      "level-up"
+    ],
+    "ivysaur": [
+      "level-up"
+    ],
+    "venusaur": [
+      "level-up"
+    ],
+    "oddish": [
+      "level-up"
+    ],
+    "gloom": [
+      "level-up"
+    ],
+    "paras": [
+      "egg"
+    ],
+    "bellsprout": [
+      "level-up"
+    ],
+    "weepinbell": [
+      "level-up"
+    ],
+    "victreebel": [
+      "level-up"
+    ],
+    "chikorita": [
+      "level-up"
+    ],
+    "bayleef": [
+      "level-up"
+    ],
+    "meganium": [
+      "level-up"
+    ],
+    "bellossom": [
+      "level-up"
+    ],
+    "sunkern": [
+      "egg"
+    ],
+    "shuckle": [
+      "egg"
+    ],
+    "teddiursa": [
+      "level-up"
+    ],
+    "ursaring": [
+      "level-up"
+    ],
+    "lotad": [
+      "egg"
+    ],
+    "surskit": [
+      "level-up"
+    ],
+    "masquerain": [
+      "level-up"
+    ],
+    "mawile": [
+      "level-up"
+    ],
+    "illumise": [
+      "level-up"
+    ],
+    "roselia": [
+      "level-up"
+    ],
+    "tropius": [
+      "level-up"
+    ],
+    "roserade": [
+      "level-up"
+    ],
+    "combee": [
+      "level-up"
+    ],
+    "vespiquen": [
+      "level-up"
+    ],
+    "cherubi": [
+      "egg"
+    ],
+    "carnivine": [
+      "level-up"
+    ],
+    "shaymin-land": [
+      "level-up"
+    ],
+    "snivy": [
+      "egg"
+    ],
+    "petilil": [
+      "egg"
+    ],
+    "maractus": [
+      "level-up"
+    ],
+    "foongus": [
+      "level-up"
+    ],
+    "amoonguss": [
+      "level-up"
+    ],
+    "spritzee": [
+      "level-up"
+    ],
+    "aromatisse": [
+      "level-up"
+    ],
+    "swirlix": [
+      "level-up"
+    ],
+    "slurpuff": [
+      "level-up"
+    ],
+    "cutiefly": [
+      "level-up"
+    ],
+    "ribombee": [
+      "level-up"
+    ],
+    "fomantis": [
+      "level-up"
+    ],
+    "lurantis": [
+      "level-up"
+    ],
+    "salandit": [
+      "level-up"
+    ],
+    "salazzle": [
+      "level-up"
+    ],
+    "bounsweet": [
+      "level-up"
+    ],
+    "steenee": [
+      "level-up"
+    ],
+    "tsareena": [
+      "level-up"
+    ],
+    "comfey": [
+      "level-up"
+    ],
+    "tapu-lele": [
+      "level-up"
+    ],
+    "shaymin-sky": [
+      "level-up"
+    ],
+    "venusaur-mega": [
+      "level-up"
+    ],
+    "mawile-mega": [
+      "level-up"
+    ],
+    "lurantis-totem": [
+      "level-up"
+    ],
+    "salazzle-totem": [
+      "level-up"
+    ],
+    "ribombee-totem": [
+      "level-up"
+    ]
+  }
+}

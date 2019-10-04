@@ -1,0 +1,22 @@
+{
+  "name": "no-guard",
+  "caption": "No Guard",
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Ensures all moves used by and against the Pokémon hit.",
+    "full": "Moves used by or against this Pokémon never miss.\n\nOne-hit KO moves are unaffected.  Moves affected by this ability can hit Pokémon during the preparation turn of moves like []{move:dig} or []{move:fly}.\n\nOverworld: If the lead Pokémon has this ability, the wild encounter rate is doubled."
+  },
+  "flavorText": "The Pokémon employs no-guard tactics to ensure\nincoming and outgoing attacks always land.",
+  "pokemon": {
+    "machop": 2,
+    "machoke": 2,
+    "machamp": 2,
+    "karrablast": "hidden",
+    "golett": "hidden",
+    "golurk": "hidden",
+    "honedge": 1,
+    "doublade": 1,
+    "pidgeot-mega": 1,
+    "lycanroc-midnight": "hidden"
+  }
+}

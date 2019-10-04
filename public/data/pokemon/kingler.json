@@ -1,0 +1,183 @@
+{
+  "name": "kingler",
+  "caption": "Kingler",
+  "types": [
+    "water"
+  ],
+  "species": "kingler",
+  "gen": "generation-i",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.3,
+  "weight": 60,
+  "baseStats": {
+    "hp": 55,
+    "attack": 130,
+    "defense": 115,
+    "special-attack": 50,
+    "special-defense": 50,
+    "speed": 75
+  },
+  "evolutionChain": {
+    "species": "krabby",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "kingler",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Kingler has an enormous, oversized claw. It waves this huge\nclaw in the air to communicate with others. However, because\nthe claw is so heavy, the Pokémon quickly tires.",
+  "moves": {
+    "vice-grip": [
+      "level-up"
+    ],
+    "guillotine": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "stomp": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "bubble": [
+      "level-up"
+    ],
+    "crabhammer": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "mud-shot": [
+      "level-up"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "metal-claw": [
+      "level-up"
+    ],
+    "slam": [
+      "level-up"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "mud-sport": [
+      "level-up"
+    ],
+    "brine": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "wide-guard": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "quash": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "hyper-cutter": 1,
+    "shell-armor": 2,
+    "sheer-force": "hidden"
+  }
+}

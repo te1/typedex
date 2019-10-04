@@ -1,0 +1,206 @@
+{
+  "name": "electivire",
+  "caption": "Electivire",
+  "types": [
+    "electric"
+  ],
+  "species": "electivire",
+  "gen": "generation-iv",
+  "color": "yellow",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.8,
+  "weight": 138.6,
+  "baseStats": {
+    "hp": 75,
+    "attack": 123,
+    "defense": 67,
+    "special-attack": 95,
+    "special-defense": 85,
+    "speed": 95
+  },
+  "evolutionChain": {
+    "species": "elekid",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "electabuzz",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "electivire",
+            "triggers": [
+              "trade"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It grips its tail, which spews electricity, and\nthen beats down opponents with the power of\nits electrified fist.",
+  "moves": {
+    "fire-punch": [
+      "level-up"
+    ],
+    "thunder-punch": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "low-kick": [
+      "level-up"
+    ],
+    "thunder-shock": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "level-up",
+      "machine"
+    ],
+    "thunder-wave": [
+      "level-up",
+      "machine"
+    ],
+    "thunder": [
+      "level-up",
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "level-up",
+      "machine"
+    ],
+    "swift": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "shock-wave": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "level-up",
+      "machine"
+    ],
+    "discharge": [
+      "level-up"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "electro-ball": [
+      "level-up"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "volt-switch": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "ion-deluge": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "electric-terrain": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "motor-drive": 1,
+    "vital-spirit": "hidden"
+  }
+}

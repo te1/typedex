@@ -1,0 +1,139 @@
+{
+  "name": "kartana",
+  "caption": "Kartana",
+  "types": [
+    "grass",
+    "steel"
+  ],
+  "species": "kartana",
+  "gen": "generation-vii",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.3,
+  "weight": 0.1,
+  "baseStats": {
+    "hp": 59,
+    "attack": 181,
+    "defense": 131,
+    "special-attack": 59,
+    "special-defense": 31,
+    "speed": 109
+  },
+  "flavorText": "This Ultra Beast’s body, which is as thin as\npaper, is like a sharpened sword.",
+  "moves": {
+    "guillotine": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "cut": [
+      "level-up"
+    ],
+    "razor-leaf": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "detect": [
+      "level-up"
+    ],
+    "false-swipe": [
+      "level-up",
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "fury-cutter": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "synthesis": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "air-cutter": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "level-up",
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "leaf-blade": [
+      "level-up"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "x-scissor": [
+      "level-up",
+      "machine"
+    ],
+    "vacuum-wave": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "psycho-cut": [
+      "level-up"
+    ],
+    "defog": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "sacred-sword": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "laser-focus": [
+      "level-up"
+    ],
+    "smart-strike": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "beast-boost": 1
+  }
+}

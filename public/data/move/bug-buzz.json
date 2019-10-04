@@ -1,0 +1,140 @@
+{
+  "name": "bug-buzz",
+  "caption": "Bug Buzz",
+  "type": "bug",
+  "damageCategory": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a 10% chance to lower the target's Special Defense by one stage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 10% chance to lower the target's [Special Defense]{mechanic:special-defense} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user generates a damaging sound wave by\nvibration. This may also lower the target’s\nSp. Def stat.",
+  "flags": [
+    "protect",
+    "mirror",
+    "sound",
+    "authentic"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "butterfree": [
+      "level-up"
+    ],
+    "venomoth": [
+      "level-up"
+    ],
+    "scyther": [
+      "egg"
+    ],
+    "ledyba": [
+      "level-up",
+      "egg"
+    ],
+    "ledian": [
+      "level-up"
+    ],
+    "yanma": [
+      "level-up"
+    ],
+    "beautifly": [
+      "level-up"
+    ],
+    "dustox": [
+      "level-up"
+    ],
+    "masquerain": [
+      "level-up"
+    ],
+    "nincada": [
+      "egg"
+    ],
+    "volbeat": [
+      "level-up",
+      "egg"
+    ],
+    "illumise": [
+      "level-up",
+      "egg"
+    ],
+    "vibrava": [
+      "level-up"
+    ],
+    "kricketune": [
+      "level-up"
+    ],
+    "wormadam-plant": [
+      "level-up"
+    ],
+    "mothim": [
+      "level-up"
+    ],
+    "combee": [
+      "level-up"
+    ],
+    "yanmega": [
+      "level-up"
+    ],
+    "sewaddle": [
+      "level-up"
+    ],
+    "karrablast": [
+      "level-up"
+    ],
+    "escavalier": [
+      "level-up"
+    ],
+    "joltik": [
+      "level-up"
+    ],
+    "galvantula": [
+      "level-up"
+    ],
+    "shelmet": [
+      "level-up"
+    ],
+    "accelgor": [
+      "level-up"
+    ],
+    "larvesta": [
+      "level-up"
+    ],
+    "volcarona": [
+      "level-up"
+    ],
+    "genesect": [
+      "level-up"
+    ],
+    "vivillon": [
+      "level-up"
+    ],
+    "vikavolt": [
+      "level-up"
+    ],
+    "cutiefly": [
+      "level-up"
+    ],
+    "ribombee": [
+      "level-up"
+    ],
+    "pheromosa": [
+      "level-up"
+    ],
+    "wormadam-sandy": [
+      "level-up"
+    ],
+    "wormadam-trash": [
+      "level-up"
+    ],
+    "vikavolt-totem": [
+      "level-up"
+    ],
+    "ribombee-totem": [
+      "level-up"
+    ]
+  }
+}

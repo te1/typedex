@@ -1,0 +1,112 @@
+{
+  "name": "venom-drench",
+  "caption": "Venom Drench",
+  "type": "poison",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Lowers the target's Attack, Special Attack, and Speed by one stage if it is poisoned.",
+    "full": "Lowers the target's Attack, Special Attack, and Speed by one stage if it is poisoned."
+  },
+  "flavorText": "Opposing Pokémon are drenched in an odd\npoisonous liquid. This lowers the Attack, Sp. Atk, and\nSpeed stats of a poisoned target.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror"
+  ],
+  "target": "all-opponents",
+  "pokemon": {
+    "nidoran-f": [
+      "egg"
+    ],
+    "nidoran-m": [
+      "egg"
+    ],
+    "zubat": [
+      "egg"
+    ],
+    "muk": [
+      "level-up"
+    ],
+    "koffing": [
+      "egg"
+    ],
+    "ariados": [
+      "level-up"
+    ],
+    "gulpin": [
+      "egg"
+    ],
+    "swalot": [
+      "level-up"
+    ],
+    "seviper": [
+      "level-up"
+    ],
+    "roserade": [
+      "level-up"
+    ],
+    "stunky": [
+      "level-up"
+    ],
+    "skuntank": [
+      "level-up"
+    ],
+    "woobat": [
+      "egg"
+    ],
+    "tympole": [
+      "egg"
+    ],
+    "venipede": [
+      "level-up"
+    ],
+    "whirlipede": [
+      "level-up"
+    ],
+    "scolipede": [
+      "level-up"
+    ],
+    "skrelp": [
+      "egg"
+    ],
+    "phantump": [
+      "egg"
+    ],
+    "mareanie": [
+      "level-up"
+    ],
+    "toxapex": [
+      "level-up"
+    ],
+    "salandit": [
+      "level-up"
+    ],
+    "salazzle": [
+      "level-up"
+    ],
+    "pyukumuku": [
+      "egg"
+    ],
+    "nihilego": [
+      "level-up"
+    ],
+    "poipole": [
+      "level-up"
+    ],
+    "naganadel": [
+      "level-up"
+    ],
+    "muk-alola": [
+      "level-up"
+    ],
+    "salazzle-totem": [
+      "level-up"
+    ]
+  }
+}

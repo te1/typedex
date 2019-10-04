@@ -1,0 +1,125 @@
+{
+  "name": "cosmic-power",
+  "caption": "Cosmic Power",
+  "type": "psychic",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Raises the user's Defense and Special Defense by one stage.",
+    "full": "Raises the user's [Defense]{mechanic:defense} and [Special Defense]{mechanic:special-defense} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user absorbs a mystical power from space to\nraise its Defense and Sp. Def stats.",
+  "flags": [
+    "snatch"
+  ],
+  "target": "user",
+  "pokemon": {
+    "clefairy": [
+      "level-up"
+    ],
+    "staryu": [
+      "level-up"
+    ],
+    "skitty": [
+      "egg"
+    ],
+    "lunatone": [
+      "level-up"
+    ],
+    "solrock": [
+      "level-up"
+    ],
+    "baltoy": [
+      "level-up"
+    ],
+    "claydol": [
+      "level-up"
+    ],
+    "castform": [
+      "egg"
+    ],
+    "chimecho": [
+      "egg"
+    ],
+    "jirachi": [
+      "level-up"
+    ],
+    "deoxys-normal": [
+      "level-up"
+    ],
+    "buneary": [
+      "egg"
+    ],
+    "chingling": [
+      "egg"
+    ],
+    "arceus": [
+      "level-up"
+    ],
+    "sigilyph": [
+      "level-up"
+    ],
+    "elgyem": [
+      "egg"
+    ],
+    "minior-red-meteor": [
+      "level-up"
+    ],
+    "cosmoem": [
+      "level-up"
+    ],
+    "solgaleo": [
+      "level-up"
+    ],
+    "lunala": [
+      "level-up"
+    ],
+    "deoxys-attack": [
+      "level-up"
+    ],
+    "minior-orange-meteor": [
+      "level-up"
+    ],
+    "minior-yellow-meteor": [
+      "level-up"
+    ],
+    "minior-green-meteor": [
+      "level-up"
+    ],
+    "minior-blue-meteor": [
+      "level-up"
+    ],
+    "minior-indigo-meteor": [
+      "level-up"
+    ],
+    "minior-violet-meteor": [
+      "level-up"
+    ],
+    "minior-red": [
+      "level-up"
+    ],
+    "minior-orange": [
+      "level-up"
+    ],
+    "minior-yellow": [
+      "level-up"
+    ],
+    "minior-green": [
+      "level-up"
+    ],
+    "minior-blue": [
+      "level-up"
+    ],
+    "minior-indigo": [
+      "level-up"
+    ],
+    "minior-violet": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "name": "scraggy",
+  "caption": "Scraggy",
+  "types": [
+    "dark",
+    "fighting"
+  ],
+  "species": "scraggy",
+  "gen": "generation-v",
+  "color": "yellow",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 11.8,
+  "baseStats": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 70,
+    "special-attack": 35,
+    "special-defense": 70,
+    "speed": 48
+  },
+  "evolutionChain": {
+    "species": "scraggy",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "scrafty",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "They move in small groups, walking around lazily.\nAnyone who makes eye contact gets smacked\nwith a headbutt.",
+  "moves": {
+    "fire-punch": [
+      "egg"
+    ],
+    "ice-punch": [
+      "egg"
+    ],
+    "thunder-punch": [
+      "egg"
+    ],
+    "sand-attack": [
+      "level-up"
+    ],
+    "headbutt": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "low-kick": [
+      "level-up"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "amnesia": [
+      "egg"
+    ],
+    "high-jump-kick": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "feint-attack": [
+      "level-up",
+      "egg"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "detect": [
+      "egg"
+    ],
+    "swagger": [
+      "level-up",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "fake-out": [
+      "egg"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "level-up",
+      "machine"
+    ],
+    "focus-punch": [
+      "level-up"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "level-up",
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "dragon-claw": [
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "dragon-dance": [
+      "egg"
+    ],
+    "payback": [
+      "level-up",
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "drain-punch": [
+      "egg"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "zen-headbutt": [
+      "egg"
+    ],
+    "rock-climb": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "head-smash": [
+      "level-up"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "chip-away": [
+      "level-up"
+    ],
+    "dragon-tail": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "quick-guard": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "power-up-punch": [
+      "egg"
+    ],
+    "acid-spray": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "shed-skin": 1,
+    "moxie": 2,
+    "intimidate": "hidden"
+  }
+}

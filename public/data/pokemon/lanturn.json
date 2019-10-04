@@ -1,0 +1,196 @@
+{
+  "name": "lanturn",
+  "caption": "Lanturn",
+  "types": [
+    "water",
+    "electric"
+  ],
+  "species": "lanturn",
+  "gen": "generation-ii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.2,
+  "weight": 22.5,
+  "baseStats": {
+    "hp": 125,
+    "attack": 58,
+    "defense": 58,
+    "special-attack": 76,
+    "special-defense": 76,
+    "speed": 67
+  },
+  "evolutionChain": {
+    "species": "chinchou",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "lanturn",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "When the bacteria living inside its antennae\nabsorb Lanturn’s bodily fluids, a strong\nluminescent effect is produced.",
+  "moves": {
+    "take-down": [
+      "level-up"
+    ],
+    "supersonic": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "level-up",
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "bubble": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "spark": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "charge": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "stockpile": [
+      "level-up"
+    ],
+    "spit-up": [
+      "level-up"
+    ],
+    "swallow": [
+      "level-up"
+    ],
+    "signal-beam": [
+      "level-up"
+    ],
+    "aqua-ring": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "discharge": [
+      "level-up"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "electro-ball": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "volt-switch": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "ion-deluge": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "eerie-impulse": [
+      "level-up"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "spotlight": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "volt-absorb": 1,
+    "illuminate": 2,
+    "water-absorb": "hidden"
+  }
+}

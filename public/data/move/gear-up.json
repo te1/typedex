@@ -1,0 +1,33 @@
+{
+  "name": "gear-up",
+  "caption": "Gear Up",
+  "type": "steel",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Raises the Attack and Special Attack of all friendly Pokémon with []{ability:plus} or []{ability:minus} by one stage.",
+    "full": "Raises the Attack and Special Attack of all friendly Pokémon with []{ability:plus} or []{ability:minus} by one stage."
+  },
+  "flavorText": "The user engages its gears to raise the Attack and\nSp. Atk stats of ally Pokémon with the Plus or\nMinus Ability.",
+  "flags": [
+    "snatch",
+    "authentic"
+  ],
+  "target": "user-and-allies",
+  "pokemon": {
+    "klinklang": [
+      "level-up"
+    ],
+    "magearna": [
+      "level-up"
+    ],
+    "magearna-original": [
+      "level-up"
+    ]
+  }
+}

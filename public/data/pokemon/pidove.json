@@ -1,0 +1,184 @@
+{
+  "name": "pidove",
+  "caption": "Pidove",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "species": "pidove",
+  "gen": "generation-v",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.3,
+  "weight": 2.1,
+  "baseStats": {
+    "hp": 50,
+    "attack": 55,
+    "defense": 50,
+    "special-attack": 36,
+    "special-defense": 30,
+    "speed": 43
+  },
+  "evolutionChain": {
+    "species": "pidove",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "tranquill",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "unfezant",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "This very forgetful Pokémon will wait for a new\norder from its Trainer even though it already\nhas one.",
+  "moves": {
+    "razor-wind": [
+      "level-up"
+    ],
+    "gust": [
+      "level-up"
+    ],
+    "fly": [
+      "machine"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "hypnosis": [
+      "egg"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "sky-attack": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "detect": [
+      "level-up"
+    ],
+    "swagger": [
+      "level-up",
+      "machine"
+    ],
+    "steel-wing": [
+      "egg",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "morning-sun": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "uproar": [
+      "egg"
+    ],
+    "facade": [
+      "level-up",
+      "machine"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "wish": [
+      "egg"
+    ],
+    "feather-dance": [
+      "level-up"
+    ],
+    "air-cutter": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "roost": [
+      "level-up",
+      "machine"
+    ],
+    "tailwind": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "lucky-chant": [
+      "egg"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "bestow": [
+      "egg"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "night-slash": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "big-pecks": 1,
+    "super-luck": 2,
+    "rivalry": "hidden"
+  }
+}

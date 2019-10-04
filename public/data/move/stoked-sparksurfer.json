@@ -1,0 +1,20 @@
+{
+  "name": "stoked-sparksurfer",
+  "caption": "Stoked Sparksurfer",
+  "type": "electric",
+  "damageCategory": "special",
+  "power": 175,
+  "accuracy": null,
+  "pp": 1,
+  "z": true,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Has a 100% chance to [paralyze]{mechanic:paralysis} the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 100% chance to [paralyze]{mechanic:paralyze} the target."
+  },
+  "flavorText": "After obtaining Z-Power, the user, Alolan Raichu,\nattacks the target with full force. This move leaves\nthe target with paralysis.",
+  "flags": [],
+  "target": "selected-pokemon",
+  "pokemon": {}
+}

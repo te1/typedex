@@ -1,0 +1,194 @@
+{
+  "name": "tentacruel",
+  "caption": "Tentacruel",
+  "types": [
+    "water",
+    "poison"
+  ],
+  "species": "tentacruel",
+  "gen": "generation-i",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.6,
+  "weight": 55,
+  "baseStats": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 65,
+    "special-attack": 80,
+    "special-defense": 120,
+    "speed": 100
+  },
+  "evolutionChain": {
+    "species": "tentacool",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "tentacruel",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It fires off ultrasonic waves from its red orbs\nto weaken its prey, and then it wraps them up\nin its 80 tentacles.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "wrap": [
+      "level-up"
+    ],
+    "poison-sting": [
+      "level-up"
+    ],
+    "supersonic": [
+      "level-up"
+    ],
+    "acid": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "barrier": [
+      "level-up"
+    ],
+    "constrict": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "brine": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "wring-out": [
+      "level-up"
+    ],
+    "toxic-spikes": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "level-up",
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "sludge-wave": [
+      "level-up",
+      "machine"
+    ],
+    "acid-spray": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "hex": [
+      "level-up"
+    ],
+    "reflect-type": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "clear-body": 1,
+    "liquid-ooze": 2,
+    "rain-dish": "hidden"
+  }
+}

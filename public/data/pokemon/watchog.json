@@ -1,0 +1,195 @@
+{
+  "name": "watchog",
+  "caption": "Watchog",
+  "types": [
+    "normal"
+  ],
+  "species": "watchog",
+  "gen": "generation-v",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.1,
+  "weight": 27,
+  "baseStats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 69,
+    "special-attack": 60,
+    "special-defense": 69,
+    "speed": 77
+  },
+  "evolutionChain": {
+    "species": "patrat",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "watchog",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Using luminescent matter, it makes its eyes and\nbody glow and stuns attacking opponents.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "slam": [
+      "level-up"
+    ],
+    "sand-attack": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "low-kick": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "hypnosis": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "hyper-fang": [
+      "level-up"
+    ],
+    "super-fang": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "detect": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "mean-look": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "baton-pass": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "psych-up": [
+      "level-up",
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "after-you": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "rototiller": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "nasty-plot": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "illuminate": 1,
+    "keen-eye": 2,
+    "analytic": "hidden"
+  }
+}

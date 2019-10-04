@@ -1,0 +1,37 @@
+{
+  "name": "mega-kick",
+  "caption": "Mega Kick",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 120,
+  "accuracy": 75,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The target is attacked by a kick launched with\nmuscle-packed power.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "hitmonlee": [
+      "level-up"
+    ],
+    "mudbray": [
+      "level-up"
+    ],
+    "mudsdale": [
+      "level-up"
+    ],
+    "stufful": [
+      "egg"
+    ]
+  }
+}

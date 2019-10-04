@@ -1,0 +1,173 @@
+{
+  "name": "regice",
+  "caption": "Regice",
+  "types": [
+    "ice"
+  ],
+  "species": "regice",
+  "gen": "generation-iii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.8,
+  "weight": 175,
+  "baseStats": {
+    "hp": 80,
+    "attack": 50,
+    "defense": 100,
+    "special-attack": 100,
+    "special-defense": 200,
+    "speed": 50
+  },
+  "flavorText": "Regice’s body was made during an ice age. The deep-frozen\nbody can’t be melted, even by fire. This Pokémon controls\nfrigid air of -328 degrees Fahrenheit.",
+  "moves": {
+    "ice-beam": [
+      "level-up",
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "level-up",
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "amnesia": [
+      "level-up"
+    ],
+    "explosion": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "curse": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "zap-cannon": [
+      "level-up"
+    ],
+    "icy-wind": [
+      "level-up"
+    ],
+    "lock-on": [
+      "level-up"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "superpower": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "hammer-arm": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "charge-beam": [
+      "level-up",
+      "machine"
+    ],
+    "stomp": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "level-up",
+      "machine"
+    ],
+    "frost-breath": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "aurora-veil": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "clear-body": 1,
+    "ice-body": "hidden"
+  }
+}

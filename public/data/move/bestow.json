@@ -1,0 +1,87 @@
+{
+  "name": "bestow",
+  "caption": "Bestow",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Gives the user's held item to the target.",
+    "full": "Transfers the user's [held item]{mechanic:held-item} to the target.  If the user has no held item, or the target already has a held item, this move will [fail]{mechanic:fail}."
+  },
+  "flavorText": "The user passes its held item to the target when the\ntarget isn’t holding an item.",
+  "flags": [
+    "mirror",
+    "authentic"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "clefairy": [
+      "level-up"
+    ],
+    "exeggcute": [
+      "level-up"
+    ],
+    "chansey": [
+      "level-up"
+    ],
+    "pichu": [
+      "egg"
+    ],
+    "togepi": [
+      "level-up"
+    ],
+    "togetic": [
+      "level-up"
+    ],
+    "delibird": [
+      "egg"
+    ],
+    "blissey": [
+      "level-up"
+    ],
+    "zigzagoon": [
+      "level-up"
+    ],
+    "linoone": [
+      "level-up"
+    ],
+    "plusle": [
+      "level-up"
+    ],
+    "tropius": [
+      "level-up"
+    ],
+    "pachirisu": [
+      "egg"
+    ],
+    "pidove": [
+      "egg"
+    ],
+    "audino": [
+      "egg"
+    ],
+    "froakie": [
+      "egg"
+    ],
+    "phantump": [
+      "egg"
+    ],
+    "pumpkaboo-average": [
+      "egg"
+    ],
+    "cutiefly": [
+      "egg"
+    ],
+    "passimian": [
+      "level-up"
+    ],
+    "pyukumuku": [
+      "egg"
+    ]
+  }
+}

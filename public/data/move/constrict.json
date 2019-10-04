@@ -1,0 +1,79 @@
+{
+  "name": "constrict",
+  "caption": "Constrict",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 10,
+  "accuracy": 100,
+  "pp": 35,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has a 10% chance to lower the target's Speed by one stage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 10% chance to lower the target's [Speed]{mechanic:speed} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The target is attacked with long, creeping tentacles,\nvines, or the like. This may also lower the target’s \nSpeed stat.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "tentacool": [
+      "level-up"
+    ],
+    "tentacruel": [
+      "level-up"
+    ],
+    "tangela": [
+      "level-up"
+    ],
+    "omanyte": [
+      "level-up"
+    ],
+    "omastar": [
+      "level-up"
+    ],
+    "spinarak": [
+      "level-up"
+    ],
+    "ariados": [
+      "level-up"
+    ],
+    "shuckle": [
+      "level-up"
+    ],
+    "octillery": [
+      "level-up"
+    ],
+    "lileep": [
+      "level-up"
+    ],
+    "cradily": [
+      "level-up"
+    ],
+    "drifloon": [
+      "level-up"
+    ],
+    "drifblim": [
+      "level-up"
+    ],
+    "tangrowth": [
+      "level-up"
+    ],
+    "frillish": [
+      "egg"
+    ],
+    "inkay": [
+      "level-up"
+    ],
+    "malamar": [
+      "level-up"
+    ],
+    "nihilego": [
+      "level-up"
+    ]
+  }
+}

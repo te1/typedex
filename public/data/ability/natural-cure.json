@@ -1,0 +1,28 @@
+{
+  "name": "natural-cure",
+  "caption": "Natural Cure",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Cures any [major status ailment]{mechanic:major-status-ailment} upon switching out.",
+    "full": "This Pokémon is cured of any [major status ailment]{mechanic:major-status-ailment} when it is switched out for another Pokémon.\n\nIf this ability is acquired during battle, the Pokémon is cured upon leaving battle before losing the temporary ability."
+  },
+  "flavorText": "All status conditions heal when the Pokémon\nswitches out.",
+  "pokemon": {
+    "chansey": 1,
+    "staryu": 2,
+    "starmie": 2,
+    "corsola": 2,
+    "blissey": 1,
+    "celebi": 1,
+    "roselia": 1,
+    "swablu": 1,
+    "altaria": 1,
+    "budew": 1,
+    "roserade": 1,
+    "happiny": 1,
+    "shaymin-land": 1,
+    "phantump": 1,
+    "trevenant": 1,
+    "comfey": "hidden"
+  }
+}

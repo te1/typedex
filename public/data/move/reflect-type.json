@@ -1,0 +1,51 @@
+{
+  "name": "reflect-type",
+  "caption": "Reflect Type",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "User becomes the target's type.",
+    "full": "User's type changes to match the target's."
+  },
+  "flavorText": "The user reflects the target’s type, making it the\nsame type as the target.",
+  "flags": [
+    "protect",
+    "authentic"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "tentacruel": [
+      "level-up"
+    ],
+    "gastly": [
+      "egg"
+    ],
+    "staryu": [
+      "level-up"
+    ],
+    "omanyte": [
+      "egg"
+    ],
+    "mew": [
+      "level-up"
+    ],
+    "castform": [
+      "egg"
+    ],
+    "latias": [
+      "level-up"
+    ],
+    "stunfisk": [
+      "egg"
+    ],
+    "latias-mega": [
+      "level-up"
+    ]
+  }
+}

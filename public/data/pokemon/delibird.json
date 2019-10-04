@@ -1,0 +1,161 @@
+{
+  "name": "delibird",
+  "caption": "Delibird",
+  "types": [
+    "ice",
+    "flying"
+  ],
+  "species": "delibird",
+  "gen": "generation-ii",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.9,
+  "weight": 16,
+  "baseStats": {
+    "hp": 45,
+    "attack": 55,
+    "defense": 45,
+    "special-attack": 65,
+    "special-defense": 45,
+    "speed": 75
+  },
+  "flavorText": "It shares its food with people who are stranded.\nBecause Delibird is omnivorous, sometimes\nit gives those people bug Pokémon.",
+  "moves": {
+    "fly": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "aurora-beam": [
+      "egg"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "egg"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "splash": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "icy-wind": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "present": [
+      "level-up"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "rapid-spin": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "future-sight": [
+      "egg"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "ice-ball": [
+      "egg"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "ice-punch": [
+      "egg"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "ice-shard": [
+      "egg"
+    ],
+    "fake-out": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bestow": [
+      "egg"
+    ],
+    "frost-breath": [
+      "machine"
+    ],
+    "spikes": [
+      "egg"
+    ],
+    "destiny-bond": [
+      "egg"
+    ],
+    "freeze-dry": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "drill-peck": [
+      "level-up"
+    ],
+    "brutal-swing": [
+      "machine"
+    ],
+    "aurora-veil": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "vital-spirit": 1,
+    "hustle": 2,
+    "insomnia": "hidden"
+  }
+}

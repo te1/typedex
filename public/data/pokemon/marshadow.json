@@ -1,0 +1,199 @@
+{
+  "name": "marshadow",
+  "caption": "Marshadow",
+  "types": [
+    "fighting",
+    "ghost"
+  ],
+  "species": "marshadow",
+  "gen": "generation-vii",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.7,
+  "weight": 22.2,
+  "baseStats": {
+    "hp": 90,
+    "attack": 125,
+    "defense": 80,
+    "special-attack": 90,
+    "special-defense": 90,
+    "speed": 125
+  },
+  "flavorText": "It slips into the shadows of others and mimics\ntheir powers and movements. As it improves, it\nbecomes stronger than those it’s imitating.",
+  "moves": {
+    "fire-punch": [
+      "level-up"
+    ],
+    "ice-punch": [
+      "level-up"
+    ],
+    "thunder-punch": [
+      "level-up"
+    ],
+    "jump-kick": [
+      "level-up"
+    ],
+    "rolling-kick": [
+      "level-up"
+    ],
+    "counter": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "psych-up": [
+      "level-up",
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "role-play": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "endeavor": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "shadow-punch": [
+      "level-up"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "feint": [
+      "level-up"
+    ],
+    "close-combat": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "assurance": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "copycat": [
+      "level-up"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "force-palm": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "drain-punch": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "shadow-sneak": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "laser-focus": [
+      "level-up"
+    ],
+    "spectral-thief": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "technician": 1
+  }
+}

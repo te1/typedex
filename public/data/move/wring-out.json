@@ -1,0 +1,117 @@
+{
+  "name": "wring-out",
+  "caption": "Wring Out",
+  "type": "normal",
+  "damageCategory": "special",
+  "power": null,
+  "accuracy": 100,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Power increases against targets with more HP remaining, up to a maximum of 121 power.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Power directly relates to the target's relative remaining [HP]{mechanic:hp}, given by `1 + 120 * current HP / max HP`, to a maximum of 121."
+  },
+  "flavorText": "The user powerfully wrings the target. The more HP\nthe target has, the greater the move’s power.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "bellsprout": [
+      "level-up"
+    ],
+    "weepinbell": [
+      "level-up"
+    ],
+    "tentacool": [
+      "level-up"
+    ],
+    "tentacruel": [
+      "level-up"
+    ],
+    "lickitung": [
+      "level-up"
+    ],
+    "tangela": [
+      "level-up"
+    ],
+    "jynx": [
+      "level-up"
+    ],
+    "omanyte": [
+      "egg"
+    ],
+    "kabuto": [
+      "level-up"
+    ],
+    "kabutops": [
+      "level-up"
+    ],
+    "chikorita": [
+      "egg"
+    ],
+    "octillery": [
+      "level-up"
+    ],
+    "gulpin": [
+      "level-up"
+    ],
+    "swalot": [
+      "level-up"
+    ],
+    "seviper": [
+      "level-up",
+      "egg"
+    ],
+    "lileep": [
+      "level-up",
+      "egg"
+    ],
+    "cradily": [
+      "level-up"
+    ],
+    "carnivine": [
+      "level-up"
+    ],
+    "lickilicky": [
+      "level-up"
+    ],
+    "tangrowth": [
+      "level-up"
+    ],
+    "snivy": [
+      "level-up"
+    ],
+    "servine": [
+      "level-up"
+    ],
+    "serperior": [
+      "level-up"
+    ],
+    "frillish": [
+      "level-up"
+    ],
+    "jellicent": [
+      "level-up"
+    ],
+    "guzzlord": [
+      "level-up"
+    ],
+    "necrozma": [
+      "level-up"
+    ],
+    "necrozma-dusk": [
+      "level-up"
+    ],
+    "necrozma-dawn": [
+      "level-up"
+    ],
+    "necrozma-ultra": [
+      "level-up"
+    ]
+  }
+}

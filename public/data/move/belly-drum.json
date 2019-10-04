@@ -1,0 +1,101 @@
+{
+  "name": "belly-drum",
+  "caption": "Belly Drum",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "User pays half its max HP to max out its Attack.",
+    "full": "User pays half its max [HP]{mechanic:hp} to raise its [Attack]{mechanic:attack} to +6 [stages]{mechanic:stage}.  If the user cannot pay the [HP]{mechanic:hp} cost, this move will [fail]{mechanic:fail}."
+  },
+  "flavorText": "The user maximizes its Attack stat in exchange for\nHP equal to half its max HP.",
+  "flags": [
+    "snatch"
+  ],
+  "target": "user",
+  "pokemon": {
+    "charmander": [
+      "egg"
+    ],
+    "poliwag": [
+      "level-up"
+    ],
+    "poliwhirl": [
+      "level-up"
+    ],
+    "slowpoke": [
+      "egg"
+    ],
+    "cubone": [
+      "egg"
+    ],
+    "lickitung": [
+      "egg"
+    ],
+    "snorlax": [
+      "level-up"
+    ],
+    "cleffa": [
+      "egg"
+    ],
+    "marill": [
+      "egg"
+    ],
+    "teddiursa": [
+      "egg"
+    ],
+    "magby": [
+      "egg"
+    ],
+    "zigzagoon": [
+      "level-up"
+    ],
+    "linoone": [
+      "level-up"
+    ],
+    "makuhita": [
+      "level-up"
+    ],
+    "hariyama": [
+      "level-up"
+    ],
+    "zangoose": [
+      "egg"
+    ],
+    "spheal": [
+      "egg"
+    ],
+    "munchlax": [
+      "level-up"
+    ],
+    "darumaka": [
+      "level-up"
+    ],
+    "darmanitan-standard": [
+      "level-up"
+    ],
+    "chespin": [
+      "egg"
+    ],
+    "chesnaught": [
+      "level-up"
+    ],
+    "swirlix": [
+      "egg"
+    ],
+    "kommo-o": [
+      "level-up"
+    ],
+    "darmanitan-zen": [
+      "level-up"
+    ],
+    "kommo-o-totem": [
+      "level-up"
+    ]
+  }
+}

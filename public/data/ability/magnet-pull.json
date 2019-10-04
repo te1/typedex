@@ -1,0 +1,20 @@
+{
+  "name": "magnet-pull",
+  "caption": "Magnet Pull",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Prevents []{type:steel} opponents from fleeing or switching out.",
+    "full": "While this Pokémon is in battle, opposing []{type:steel}-type Pokémon cannot flee or switch out.\n\nPokémon with []{ability:run-away} can still flee.  Pokémon can still switch out with the use of a move or item.\n\nOverworld: If the lead Pokémon has this ability, Steel-type Pokémon have a higher encounter rate."
+  },
+  "flavorText": "Prevents Steel-type Pokémon from escaping using\nits magnetic force.",
+  "pokemon": {
+    "magnemite": 1,
+    "magneton": 1,
+    "nosepass": 2,
+    "magnezone": 1,
+    "probopass": 2,
+    "geodude-alola": 1,
+    "graveler-alola": 1,
+    "golem-alola": 1
+  }
+}

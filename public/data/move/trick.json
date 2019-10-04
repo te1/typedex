@@ -1,0 +1,128 @@
+{
+  "name": "trick",
+  "caption": "Trick",
+  "type": "psychic",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "User and target swap items.",
+    "full": "User and target permanently swap [held item]{mechanic:held-item}s.  Works even if one of the Pokémon isn't holding anything.  If either Pokémon is holding mail, this move will [fail]{mechanic:fail}.\n\nIf either Pokémon has []{ability:multitype} or []{ability:sticky-hold}, this move will [fail]{mechanic:fail}.\n\nIf this move results in a Pokémon obtaining []{item:choice-band}, []{item:choice-scarf}, or []{item:choice-specs}, and that Pokémon was the latter of the pair to move this turn, then the move it used this turn becomes its chosen forced move.  This applies even if both Pokémon had a choice item before this move was used.  If the first of the two Pokémon gains a choice item, it may select whatever choice move it wishes next turn.\n\nNeither the user nor the target can recover its item with []{move:recycle}.\n\nThis move cannot be selected by []{move:assist} or []{move:metronome}."
+  },
+  "flavorText": "The user catches the target off guard and swaps its\nheld item with its own.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "kadabra": [
+      "level-up"
+    ],
+    "alakazam": [
+      "level-up"
+    ],
+    "mr-mime": [
+      "level-up",
+      "egg"
+    ],
+    "sentret": [
+      "egg"
+    ],
+    "zigzagoon": [
+      "egg"
+    ],
+    "sableye": [
+      "egg"
+    ],
+    "volbeat": [
+      "egg"
+    ],
+    "spoink": [
+      "egg"
+    ],
+    "spinda": [
+      "egg"
+    ],
+    "kecleon": [
+      "egg"
+    ],
+    "shuppet": [
+      "level-up"
+    ],
+    "banette": [
+      "level-up"
+    ],
+    "mime-jr": [
+      "level-up",
+      "egg"
+    ],
+    "rotom": [
+      "level-up"
+    ],
+    "solosis": [
+      "egg"
+    ],
+    "espurr": [
+      "egg"
+    ],
+    "pumpkaboo-average": [
+      "level-up"
+    ],
+    "gourgeist-average": [
+      "level-up"
+    ],
+    "hoopa": [
+      "level-up"
+    ],
+    "blacephalon": [
+      "level-up"
+    ],
+    "rotom-heat": [
+      "level-up"
+    ],
+    "rotom-wash": [
+      "level-up"
+    ],
+    "rotom-frost": [
+      "level-up"
+    ],
+    "rotom-fan": [
+      "level-up"
+    ],
+    "rotom-mow": [
+      "level-up"
+    ],
+    "pumpkaboo-small": [
+      "level-up"
+    ],
+    "pumpkaboo-large": [
+      "level-up"
+    ],
+    "pumpkaboo-super": [
+      "level-up"
+    ],
+    "gourgeist-small": [
+      "level-up"
+    ],
+    "gourgeist-large": [
+      "level-up"
+    ],
+    "gourgeist-super": [
+      "level-up"
+    ],
+    "alakazam-mega": [
+      "level-up"
+    ],
+    "banette-mega": [
+      "level-up"
+    ],
+    "hoopa-unbound": [
+      "level-up"
+    ]
+  }
+}

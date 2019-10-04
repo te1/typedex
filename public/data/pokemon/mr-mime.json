@@ -1,0 +1,280 @@
+{
+  "name": "mr-mime",
+  "caption": "Mr. Mime",
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "species": "mr-mime",
+  "gen": "generation-i",
+  "color": "pink",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.3,
+  "weight": 54.5,
+  "baseStats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 65,
+    "special-attack": 100,
+    "special-defense": 120,
+    "speed": 90
+  },
+  "evolutionChain": {
+    "species": "mime-jr",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "mr-mime",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Its pantomime skills are wonderful. You may\nbecome enraptured while watching it, but next\nthing you know, Mr. Mime has made a real wall.",
+  "moves": {
+    "double-slap": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "confusion": [
+      "level-up"
+    ],
+    "psychic": [
+      "level-up",
+      "machine"
+    ],
+    "meditate": [
+      "level-up"
+    ],
+    "mimic": [
+      "level-up",
+      "egg"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "barrier": [
+      "level-up"
+    ],
+    "light-screen": [
+      "level-up",
+      "machine"
+    ],
+    "reflect": [
+      "level-up",
+      "machine"
+    ],
+    "psywave": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "level-up",
+      "machine"
+    ],
+    "psybeam": [
+      "level-up"
+    ],
+    "hypnosis": [
+      "egg"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "level-up",
+      "machine"
+    ],
+    "baton-pass": [
+      "level-up"
+    ],
+    "encore": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "future-sight": [
+      "egg"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "fake-out": [
+      "egg"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "trick": [
+      "level-up",
+      "egg"
+    ],
+    "role-play": [
+      "level-up"
+    ],
+    "recycle": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "magical-leaf": [
+      "level-up"
+    ],
+    "confuse-ray": [
+      "egg"
+    ],
+    "teeter-dance": [
+      "egg"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "wake-up-slap": [
+      "egg"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "copycat": [
+      "level-up"
+    ],
+    "power-swap": [
+      "level-up"
+    ],
+    "guard-swap": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "nasty-plot": [
+      "egg"
+    ],
+    "icy-wind": [
+      "egg"
+    ],
+    "wide-guard": [
+      "level-up"
+    ],
+    "power-split": [
+      "egg"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "magic-room": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "quick-guard": [
+      "level-up"
+    ],
+    "misty-terrain": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "pound": [
+      "level-up"
+    ],
+    "psychic-terrain": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "soundproof": 1,
+    "filter": 2,
+    "technician": "hidden"
+  }
+}

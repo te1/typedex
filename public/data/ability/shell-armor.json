@@ -1,0 +1,35 @@
+{
+  "name": "shell-armor",
+  "caption": "Shell Armor",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Protects against [critical hits]{mechanic:critical-hit}.",
+    "full": "Moves cannot score [critical hits]{mechanic:critical-hit} against this Pokémon.\n\nThis ability functions identically to []{ability:battle-armor}."
+  },
+  "flavorText": "A hard shell protects the Pokémon from critical hits.",
+  "pokemon": {
+    "shellder": 1,
+    "cloyster": 1,
+    "krabby": 2,
+    "kingler": 2,
+    "lapras": 2,
+    "omanyte": 2,
+    "omastar": 2,
+    "torkoal": "hidden",
+    "corphish": 2,
+    "crawdaunt": 2,
+    "clamperl": 1,
+    "turtwig": "hidden",
+    "grotle": "hidden",
+    "torterra": "hidden",
+    "oshawott": "hidden",
+    "dewott": "hidden",
+    "samurott": "hidden",
+    "dwebble": 2,
+    "crustle": 2,
+    "escavalier": 2,
+    "shelmet": 2,
+    "turtonator": 1,
+    "slowbro-mega": 1
+  }
+}

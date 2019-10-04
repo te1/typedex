@@ -1,0 +1,188 @@
+{
+  "name": "garbodor",
+  "caption": "Garbodor",
+  "types": [
+    "poison"
+  ],
+  "species": "garbodor",
+  "gen": "generation-v",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.9,
+  "weight": 107.3,
+  "baseStats": {
+    "hp": 80,
+    "attack": 95,
+    "defense": 82,
+    "special-attack": 60,
+    "special-defense": 82,
+    "speed": 75
+  },
+  "evolutionChain": {
+    "species": "trubbish",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "garbodor",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It locks opponents in place with its left hand,\nimmobilizing them by entirely dousing their\nbodies with poisonous liquid.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "double-slap": [
+      "level-up"
+    ],
+    "body-slam": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "toxic": [
+      "level-up",
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "sludge": [
+      "level-up"
+    ],
+    "amnesia": [
+      "level-up"
+    ],
+    "poison-gas": [
+      "level-up"
+    ],
+    "explosion": [
+      "level-up",
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "level-up",
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "stockpile": [
+      "level-up"
+    ],
+    "swallow": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "recycle": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "toxic-spikes": [
+      "level-up"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "gunk-shot": [
+      "level-up"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "acid-spray": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "clear-smog": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "belch": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "stench": 1,
+    "weak-armor": 2,
+    "aftermath": "hidden"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "name": "dratini",
+  "caption": "Dratini",
+  "types": [
+    "dragon"
+  ],
+  "species": "dratini",
+  "gen": "generation-i",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.8,
+  "weight": 3.3,
+  "baseStats": {
+    "hp": 41,
+    "attack": 64,
+    "defense": 45,
+    "special-attack": 50,
+    "special-defense": 50,
+    "speed": 50
+  },
+  "evolutionChain": {
+    "species": "dratini",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "dragonair",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "dragonite",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It’s still weak, so it lurks on the floor of bodies\nof water, eating whatever food sinks down and\nliving a quiet life.",
+  "moves": {
+    "slam": [
+      "level-up"
+    ],
+    "wrap": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "level-up",
+      "machine"
+    ],
+    "dragon-rage": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "level-up",
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "supersonic": [
+      "egg"
+    ],
+    "mist": [
+      "egg"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "haze": [
+      "egg"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "outrage": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "level-up",
+      "machine"
+    ],
+    "dragon-breath": [
+      "egg"
+    ],
+    "iron-tail": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "twister": [
+      "level-up"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "dragon-dance": [
+      "level-up",
+      "egg"
+    ],
+    "water-pulse": [
+      "egg"
+    ],
+    "aqua-tail": [
+      "level-up"
+    ],
+    "dragon-pulse": [
+      "egg"
+    ],
+    "dragon-rush": [
+      "level-up",
+      "egg"
+    ],
+    "draco-meteor": [
+      "tutor"
+    ],
+    "extreme-speed": [
+      "egg"
+    ],
+    "aqua-jet": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "dragon-tail": [
+      "level-up",
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "shed-skin": 1,
+    "marvel-scale": "hidden"
+  }
+}

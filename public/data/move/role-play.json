@@ -1,0 +1,80 @@
+{
+  "name": "role-play",
+  "caption": "Role Play",
+  "type": "psychic",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Copies the target's ability.",
+    "full": "User's ability is replaced with the target's until the user leaves the [field]{mechanic:field}.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers.\n\nIf the target has []{ability:flower-gift}, []{ability:forecast}, []{ability:illusion}, []{ability:imposter}, []{ability:multitype}, []{ability:stance-change}, []{ability:trace}, []{ability:wonder-guard}, or []{ability:zen-mode}, this move will [fail]{mechanic:fail}.\n\nThis move cannot be copied by []{move:mirror-move}."
+  },
+  "flavorText": "The user mimics the target completely, copying the\ntarget’s natural Ability.",
+  "flags": [
+    "authentic"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "kadabra": [
+      "level-up"
+    ],
+    "drowzee": [
+      "egg"
+    ],
+    "mr-mime": [
+      "level-up"
+    ],
+    "stantler": [
+      "level-up"
+    ],
+    "spinda": [
+      "egg"
+    ],
+    "mime-jr": [
+      "level-up"
+    ],
+    "pansage": [
+      "egg"
+    ],
+    "pansear": [
+      "egg"
+    ],
+    "panpour": [
+      "egg"
+    ],
+    "meloetta-aria": [
+      "level-up"
+    ],
+    "delphox": [
+      "level-up"
+    ],
+    "greninja": [
+      "level-up"
+    ],
+    "furfrou": [
+      "egg"
+    ],
+    "meowstic-male": [
+      "level-up"
+    ],
+    "marshadow": [
+      "level-up"
+    ],
+    "meloetta-pirouette": [
+      "level-up"
+    ],
+    "meowstic-female": [
+      "level-up"
+    ],
+    "greninja-battle-bond": [
+      "level-up"
+    ],
+    "greninja-ash": [
+      "level-up"
+    ]
+  }
+}

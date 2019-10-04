@@ -1,0 +1,215 @@
+{
+  "name": "shieldon",
+  "caption": "Shieldon",
+  "types": [
+    "rock",
+    "steel"
+  ],
+  "species": "shieldon",
+  "gen": "generation-iv",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 57,
+  "baseStats": {
+    "hp": 30,
+    "attack": 42,
+    "defense": 118,
+    "special-attack": 42,
+    "special-defense": 88,
+    "speed": 30
+  },
+  "evolutionChain": {
+    "species": "shieldon",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "bastiodon",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "A mild-mannered, herbivorous Pokémon, it used\nits face to dig up tree roots to eat. The skin on\nits face was plenty tough.",
+  "moves": {
+    "headbutt": [
+      "egg"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "body-slam": [
+      "egg"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "double-edge": [
+      "egg"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "fissure": [
+      "egg"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "screech": [
+      "egg"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "egg"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "scary-face": [
+      "egg"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "endure": [
+      "level-up"
+    ],
+    "swagger": [
+      "level-up",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "metal-sound": [
+      "level-up"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "rock-blast": [
+      "egg"
+    ],
+    "metal-burst": [
+      "level-up"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "iron-head": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "stealth-rock": [
+      "egg"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "wide-guard": [
+      "egg"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "heavy-slam": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "guard-split": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "sturdy": 1,
+    "soundproof": "hidden"
+  }
+}

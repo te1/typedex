@@ -1,0 +1,86 @@
+{
+  "name": "shock-wave",
+  "caption": "Shock Wave",
+  "type": "electric",
+  "damageCategory": "special",
+  "power": 60,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Never misses.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers."
+  },
+  "flavorText": "The user strikes the target with a quick jolt of\nelectricity. This attack never misses.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "electabuzz": [
+      "level-up"
+    ],
+    "chinchou": [
+      "egg"
+    ],
+    "elekid": [
+      "level-up"
+    ],
+    "electrike": [
+      "egg"
+    ],
+    "shinx": [
+      "egg"
+    ],
+    "electivire": [
+      "level-up"
+    ],
+    "rotom": [
+      "level-up"
+    ],
+    "blitzle": [
+      "level-up",
+      "egg"
+    ],
+    "zebstrika": [
+      "level-up"
+    ],
+    "emolga": [
+      "level-up",
+      "egg"
+    ],
+    "stunfisk": [
+      "egg"
+    ],
+    "thundurus-incarnate": [
+      "level-up"
+    ],
+    "tapu-koko": [
+      "level-up"
+    ],
+    "xurkitree": [
+      "level-up"
+    ],
+    "rotom-heat": [
+      "level-up"
+    ],
+    "rotom-wash": [
+      "level-up"
+    ],
+    "rotom-frost": [
+      "level-up"
+    ],
+    "rotom-fan": [
+      "level-up"
+    ],
+    "rotom-mow": [
+      "level-up"
+    ],
+    "thundurus-therian": [
+      "level-up"
+    ]
+  }
+}

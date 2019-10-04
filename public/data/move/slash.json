@@ -1,0 +1,385 @@
+{
+  "name": "slash",
+  "caption": "Slash",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Has an increased chance for a critical hit.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User's [critical hit]{mechanic:critical-hit} rate is one level higher when using this move."
+  },
+  "flavorText": "The target is attacked with a slash of claws or\nblades. Critical hits land more easily.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "charmander": [
+      "level-up"
+    ],
+    "charmeleon": [
+      "level-up"
+    ],
+    "charizard": [
+      "level-up"
+    ],
+    "sandshrew": [
+      "level-up"
+    ],
+    "sandslash": [
+      "level-up"
+    ],
+    "paras": [
+      "level-up"
+    ],
+    "parasect": [
+      "level-up"
+    ],
+    "diglett": [
+      "level-up"
+    ],
+    "dugtrio": [
+      "level-up"
+    ],
+    "meowth": [
+      "level-up"
+    ],
+    "persian": [
+      "level-up"
+    ],
+    "farfetchd": [
+      "level-up"
+    ],
+    "scyther": [
+      "level-up"
+    ],
+    "kabutops": [
+      "level-up"
+    ],
+    "totodile": [
+      "level-up"
+    ],
+    "croconaw": [
+      "level-up"
+    ],
+    "feraligatr": [
+      "level-up"
+    ],
+    "sentret": [
+      "egg"
+    ],
+    "gligar": [
+      "level-up"
+    ],
+    "scizor": [
+      "level-up"
+    ],
+    "sneasel": [
+      "level-up"
+    ],
+    "teddiursa": [
+      "level-up"
+    ],
+    "ursaring": [
+      "level-up"
+    ],
+    "skarmory": [
+      "level-up"
+    ],
+    "torchic": [
+      "level-up"
+    ],
+    "combusken": [
+      "level-up"
+    ],
+    "blaziken": [
+      "level-up"
+    ],
+    "linoone": [
+      "level-up"
+    ],
+    "slakoth": [
+      "egg"
+    ],
+    "vigoroth": [
+      "level-up"
+    ],
+    "ninjask": [
+      "level-up"
+    ],
+    "sharpedo": [
+      "level-up"
+    ],
+    "zangoose": [
+      "level-up"
+    ],
+    "anorith": [
+      "level-up"
+    ],
+    "armaldo": [
+      "level-up"
+    ],
+    "kecleon": [
+      "level-up"
+    ],
+    "absol": [
+      "level-up"
+    ],
+    "kricketune": [
+      "level-up"
+    ],
+    "vespiquen": [
+      "level-up"
+    ],
+    "buizel": [
+      "egg"
+    ],
+    "glameow": [
+      "level-up"
+    ],
+    "purugly": [
+      "level-up"
+    ],
+    "stunky": [
+      "level-up"
+    ],
+    "skuntank": [
+      "level-up"
+    ],
+    "gible": [
+      "level-up"
+    ],
+    "gabite": [
+      "level-up"
+    ],
+    "garchomp": [
+      "level-up"
+    ],
+    "skorupi": [
+      "egg"
+    ],
+    "yanmega": [
+      "level-up"
+    ],
+    "gallade": [
+      "level-up"
+    ],
+    "dialga": [
+      "level-up"
+    ],
+    "palkia": [
+      "level-up"
+    ],
+    "giratina-altered": [
+      "level-up"
+    ],
+    "cresselia": [
+      "level-up"
+    ],
+    "samurott": [
+      "level-up"
+    ],
+    "purrloin": [
+      "level-up"
+    ],
+    "liepard": [
+      "level-up"
+    ],
+    "drilbur": [
+      "level-up"
+    ],
+    "excadrill": [
+      "level-up"
+    ],
+    "leavanny": [
+      "level-up"
+    ],
+    "dwebble": [
+      "level-up"
+    ],
+    "crustle": [
+      "level-up"
+    ],
+    "karrablast": [
+      "level-up"
+    ],
+    "escavalier": [
+      "level-up"
+    ],
+    "joltik": [
+      "level-up"
+    ],
+    "galvantula": [
+      "level-up"
+    ],
+    "axew": [
+      "level-up"
+    ],
+    "fraxure": [
+      "level-up"
+    ],
+    "haxorus": [
+      "level-up"
+    ],
+    "cubchoo": [
+      "level-up"
+    ],
+    "beartic": [
+      "level-up"
+    ],
+    "cryogonal": [
+      "level-up"
+    ],
+    "druddigon": [
+      "level-up"
+    ],
+    "pawniard": [
+      "level-up"
+    ],
+    "bisharp": [
+      "level-up"
+    ],
+    "rufflet": [
+      "level-up"
+    ],
+    "braviary": [
+      "level-up"
+    ],
+    "heatmor": [
+      "level-up"
+    ],
+    "reshiram": [
+      "level-up"
+    ],
+    "zekrom": [
+      "level-up"
+    ],
+    "kyurem": [
+      "level-up"
+    ],
+    "genesect": [
+      "level-up"
+    ],
+    "pancham": [
+      "level-up"
+    ],
+    "pangoro": [
+      "level-up"
+    ],
+    "honedge": [
+      "level-up"
+    ],
+    "doublade": [
+      "level-up"
+    ],
+    "aegislash-shield": [
+      "level-up"
+    ],
+    "inkay": [
+      "level-up"
+    ],
+    "malamar": [
+      "level-up"
+    ],
+    "binacle": [
+      "level-up"
+    ],
+    "barbaracle": [
+      "level-up"
+    ],
+    "fomantis": [
+      "level-up"
+    ],
+    "lurantis": [
+      "level-up"
+    ],
+    "golisopod": [
+      "level-up"
+    ],
+    "mimikyu-disguised": [
+      "level-up"
+    ],
+    "necrozma": [
+      "level-up"
+    ],
+    "zeraora": [
+      "level-up"
+    ],
+    "giratina-origin": [
+      "level-up"
+    ],
+    "kyurem-black": [
+      "level-up"
+    ],
+    "kyurem-white": [
+      "level-up"
+    ],
+    "aegislash-blade": [
+      "level-up"
+    ],
+    "charizard-mega-x": [
+      "level-up"
+    ],
+    "charizard-mega-y": [
+      "level-up"
+    ],
+    "scizor-mega": [
+      "level-up"
+    ],
+    "blaziken-mega": [
+      "level-up"
+    ],
+    "absol-mega": [
+      "level-up"
+    ],
+    "garchomp-mega": [
+      "level-up"
+    ],
+    "gallade-mega": [
+      "level-up"
+    ],
+    "sharpedo-mega": [
+      "level-up"
+    ],
+    "sandshrew-alola": [
+      "level-up"
+    ],
+    "sandslash-alola": [
+      "level-up"
+    ],
+    "meowth-alola": [
+      "level-up"
+    ],
+    "persian-alola": [
+      "level-up"
+    ],
+    "lurantis-totem": [
+      "level-up"
+    ],
+    "mimikyu-busted": [
+      "level-up"
+    ],
+    "mimikyu-totem-disguised": [
+      "level-up"
+    ],
+    "mimikyu-totem-busted": [
+      "level-up"
+    ],
+    "necrozma-dusk": [
+      "level-up"
+    ],
+    "necrozma-dawn": [
+      "level-up"
+    ],
+    "necrozma-ultra": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "heat-wave",
+  "caption": "Heat Wave",
+  "type": "fire",
+  "damageCategory": "special",
+  "power": 95,
+  "accuracy": 90,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a 10% chance to [burn]{mechanic:burn} the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 10% chance to [burn]{mechanic:burn} the target."
+  },
+  "flavorText": "The user attacks by exhaling hot breath on the\nopposing Pokémon. This may also leave those\nPokémon with a burn.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "all-opponents",
+  "pokemon": {
+    "charizard": [
+      "level-up"
+    ],
+    "vulpix": [
+      "egg"
+    ],
+    "growlithe": [
+      "level-up",
+      "egg"
+    ],
+    "moltres": [
+      "level-up"
+    ],
+    "slugma": [
+      "egg"
+    ],
+    "numel": [
+      "egg"
+    ],
+    "torkoal": [
+      "level-up"
+    ],
+    "chimchar": [
+      "egg"
+    ],
+    "heatran": [
+      "level-up"
+    ],
+    "pansear": [
+      "egg"
+    ],
+    "litwick": [
+      "egg"
+    ],
+    "heatmor": [
+      "egg"
+    ],
+    "volcarona": [
+      "level-up"
+    ],
+    "fennekin": [
+      "egg"
+    ],
+    "litten": [
+      "egg"
+    ],
+    "charizard-mega-x": [
+      "level-up"
+    ],
+    "charizard-mega-y": [
+      "level-up"
+    ]
+  }
+}

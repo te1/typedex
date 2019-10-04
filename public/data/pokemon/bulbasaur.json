@@ -1,0 +1,218 @@
+{
+  "name": "bulbasaur",
+  "caption": "Bulbasaur",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "species": "bulbasaur",
+  "gen": "generation-i",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.7,
+  "weight": 6.9,
+  "baseStats": {
+    "hp": 45,
+    "attack": 49,
+    "defense": 49,
+    "special-attack": 65,
+    "special-defense": 65,
+    "speed": 45
+  },
+  "evolutionChain": {
+    "species": "bulbasaur",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "ivysaur",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "venusaur",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Bulbasaur can be seen napping in bright sunlight.\nThere is a seed on its back. By soaking up the sun’s rays,\nthe seed grows progressively larger.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "vine-whip": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "leech-seed": [
+      "level-up"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "razor-leaf": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "poison-powder": [
+      "level-up"
+    ],
+    "sleep-powder": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "petal-dance": [
+      "egg"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "skull-bash": [
+      "egg"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "giga-drain": [
+      "egg"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "charm": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "synthesis": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "grass-whistle": [
+      "egg"
+    ],
+    "magical-leaf": [
+      "egg"
+    ],
+    "amnesia": [
+      "egg"
+    ],
+    "nature-power": [
+      "egg",
+      "machine"
+    ],
+    "ingrain": [
+      "egg"
+    ],
+    "worry-seed": [
+      "level-up"
+    ],
+    "seed-bomb": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "leaf-storm": [
+      "egg"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "sludge": [
+      "egg"
+    ],
+    "power-whip": [
+      "egg"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "grass-pledge": [
+      "tutor"
+    ],
+    "grassy-terrain": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "overgrow": 1,
+    "chlorophyll": "hidden"
+  }
+}

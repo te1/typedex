@@ -1,0 +1,159 @@
+{
+  "name": "lumineon",
+  "caption": "Lumineon",
+  "types": [
+    "water"
+  ],
+  "species": "lumineon",
+  "gen": "generation-iv",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.2,
+  "weight": 24,
+  "baseStats": {
+    "hp": 69,
+    "attack": 69,
+    "defense": 76,
+    "special-attack": 69,
+    "special-defense": 86,
+    "speed": 91
+  },
+  "evolutionChain": {
+    "species": "finneon",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "lumineon",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Deep down at the bottom of the ocean, prey is\nscarce. Lumineon get into fierce disputes with\nLanturn over food.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "gust": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "level-up",
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "level-up",
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "level-up",
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "whirlpool": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "silver-wind": [
+      "level-up"
+    ],
+    "bounce": [
+      "level-up"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "u-turn": [
+      "level-up",
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "aqua-ring": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "captivate": [
+      "level-up"
+    ],
+    "soak": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "swift-swim": 1,
+    "storm-drain": 2,
+    "water-veil": "hidden"
+  }
+}

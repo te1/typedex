@@ -1,0 +1,227 @@
+{
+  "name": "aipom",
+  "caption": "Aipom",
+  "types": [
+    "normal"
+  ],
+  "species": "aipom",
+  "gen": "generation-ii",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.8,
+  "weight": 11.5,
+  "baseStats": {
+    "hp": 55,
+    "attack": 70,
+    "defense": 55,
+    "special-attack": 40,
+    "special-defense": 55,
+    "speed": 85
+  },
+  "evolutionChain": {
+    "species": "aipom",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "ambipom",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "As it did more and more with its tail, its hands\nbecame clumsy. It makes its nest high in\nthe treetops.",
+  "moves": {
+    "double-slap": [
+      "egg"
+    ],
+    "scratch": [
+      "level-up"
+    ],
+    "slam": [
+      "egg"
+    ],
+    "sand-attack": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "agility": [
+      "level-up",
+      "egg"
+    ],
+    "screech": [
+      "level-up",
+      "egg"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "swift": [
+      "level-up"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "spite": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "baton-pass": [
+      "level-up"
+    ],
+    "pursuit": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "beat-up": [
+      "egg"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "tickle": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "fake-out": [
+      "egg"
+    ],
+    "bounce": [
+      "egg"
+    ],
+    "covet": [
+      "egg"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "level-up",
+      "machine"
+    ],
+    "last-resort": [
+      "level-up"
+    ],
+    "nasty-plot": [
+      "level-up"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "double-hit": [
+      "level-up"
+    ],
+    "revenge": [
+      "egg"
+    ],
+    "switcheroo": [
+      "egg"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "quick-guard": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "tail-slap": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "run-away": 1,
+    "pickup": 2,
+    "skill-link": "hidden"
+  }
+}

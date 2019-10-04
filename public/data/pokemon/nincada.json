@@ -1,0 +1,169 @@
+{
+  "name": "nincada",
+  "caption": "Nincada",
+  "types": [
+    "bug",
+    "ground"
+  ],
+  "species": "nincada",
+  "gen": "generation-iii",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 5.5,
+  "baseStats": {
+    "hp": 31,
+    "attack": 45,
+    "defense": 90,
+    "special-attack": 30,
+    "special-defense": 30,
+    "speed": 40
+  },
+  "evolutionChain": {
+    "species": "nincada",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "ninjask",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "shedinja",
+        "triggers": [
+          "shed"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Nincada lives underground for many years in complete\ndarkness. This Pokémon absorbs nutrients from the roots of\ntrees. It stays motionless as it waits for evolution.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "gust": [
+      "egg"
+    ],
+    "sand-attack": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "dig": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "leech-life": [
+      "machine"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "mind-reader": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "egg"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "false-swipe": [
+      "level-up",
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "metal-claw": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "silver-wind": [
+      "egg"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "night-slash": [
+      "egg"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "bug-buzz": [
+      "egg"
+    ],
+    "bug-bite": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "final-gambit": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "absorb": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "compound-eyes": 1,
+    "run-away": "hidden"
+  }
+}

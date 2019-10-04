@@ -1,0 +1,28 @@
+{
+  "name": "head-charge",
+  "caption": "Head Charge",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "User receives 1/4 the damage it inflicts in recoil.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User takes 1/4 the damage it inflicts in recoil."
+  },
+  "flavorText": "The user charges its head into its target, using its\npowerful guard hair. This also damages the user\na little.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "bouffalant": [
+      "level-up"
+    ]
+  }
+}

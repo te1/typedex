@@ -1,0 +1,216 @@
+{
+  "name": "munna",
+  "caption": "Munna",
+  "types": [
+    "psychic"
+  ],
+  "species": "munna",
+  "gen": "generation-v",
+  "color": "pink",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 23.3,
+  "baseStats": {
+    "hp": 76,
+    "attack": 25,
+    "defense": 45,
+    "special-attack": 67,
+    "special-defense": 55,
+    "speed": 24
+  },
+  "evolutionChain": {
+    "species": "munna",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "musharna",
+        "triggers": [
+          "use-item"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "This Pokémon appears before people and Pokémon\nwho are having nightmares and eats those dreams.",
+  "moves": {
+    "sonic-boom": [
+      "egg"
+    ],
+    "psybeam": [
+      "level-up"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "level-up",
+      "machine"
+    ],
+    "hypnosis": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "barrier": [
+      "egg"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "swift": [
+      "egg"
+    ],
+    "dream-eater": [
+      "level-up",
+      "machine"
+    ],
+    "psywave": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "nightmare": [
+      "level-up"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "egg",
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "baton-pass": [
+      "egg"
+    ],
+    "moonlight": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "future-sight": [
+      "level-up"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "helping-hand": [
+      "egg"
+    ],
+    "magic-coat": [
+      "egg"
+    ],
+    "yawn": [
+      "level-up"
+    ],
+    "imprison": [
+      "level-up"
+    ],
+    "secret-power": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "calm-mind": [
+      "level-up",
+      "machine"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "lucky-chant": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "zen-headbutt": [
+      "level-up"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "telekinesis": [
+      "level-up"
+    ],
+    "synchronoise": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "stored-power": [
+      "level-up"
+    ],
+    "healing-wish": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "forewarn": 1,
+    "synchronize": 2,
+    "telepathy": "hidden"
+  }
+}

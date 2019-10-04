@@ -1,0 +1,204 @@
+{
+  "name": "remoraid",
+  "caption": "Remoraid",
+  "types": [
+    "water"
+  ],
+  "species": "remoraid",
+  "gen": "generation-ii",
+  "color": "gray",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 12,
+  "baseStats": {
+    "hp": 35,
+    "attack": 65,
+    "defense": 35,
+    "special-attack": 65,
+    "special-defense": 35,
+    "speed": 65
+  },
+  "evolutionChain": {
+    "species": "remoraid",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "octillery",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "This Pokémon clings to Mantine and shares in\nits prosperity. When its Mantine is attacked,\nRemoraid will fight alongside it!",
+  "moves": {
+    "supersonic": [
+      "egg"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "level-up",
+      "machine"
+    ],
+    "psybeam": [
+      "level-up"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "aurora-beam": [
+      "level-up",
+      "egg"
+    ],
+    "hyper-beam": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "screech": [
+      "egg"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "haze": [
+      "egg"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "swift": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "snore": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "octazooka": [
+      "egg"
+    ],
+    "lock-on": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "rock-blast": [
+      "egg"
+    ],
+    "water-pulse": [
+      "level-up",
+      "egg"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "flail": [
+      "egg"
+    ],
+    "signal-beam": [
+      "level-up"
+    ],
+    "bullet-seed": [
+      "level-up"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "water-spout": [
+      "egg"
+    ],
+    "mud-shot": [
+      "egg"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "soak": [
+      "level-up"
+    ],
+    "acid-spray": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "entrainment": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "hustle": 1,
+    "sniper": 2,
+    "moody": "hidden"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "metapod",
+  "caption": "Metapod",
+  "types": [
+    "bug"
+  ],
+  "species": "metapod",
+  "gen": "generation-i",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.7,
+  "weight": 9.9,
+  "baseStats": {
+    "hp": 50,
+    "attack": 20,
+    "defense": 55,
+    "special-attack": 25,
+    "special-defense": 25,
+    "speed": 30
+  },
+  "evolutionChain": {
+    "species": "caterpie",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "metapod",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "butterfree",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Its shell is filled with a thick liquid. All of the\ncells throughout its body are being rebuilt in\npreparation for evolution.",
+  "moves": {
+    "harden": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "shed-skin": 1
+  }
+}

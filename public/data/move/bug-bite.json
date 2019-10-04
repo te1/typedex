@@ -1,0 +1,175 @@
+{
+  "name": "bug-bite",
+  "caption": "Bug Bite",
+  "type": "bug",
+  "damageCategory": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "If target has a berry, inflicts double damage and uses the berry.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a []{item:jaboca-berry} or []{item:rowap-berry}, the berry is still removed, but has no effect.\n\nIf this move is [super effective]{mechanic:super-effective} and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen."
+  },
+  "flavorText": "The user bites the target. If the target is holding a\nBerry, the user eats it and gains its effect.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "caterpie": [
+      "level-up"
+    ],
+    "weedle": [
+      "level-up"
+    ],
+    "paras": [
+      "egg"
+    ],
+    "venonat": [
+      "egg"
+    ],
+    "pinsir": [
+      "egg"
+    ],
+    "ledyba": [
+      "egg"
+    ],
+    "ariados": [
+      "level-up"
+    ],
+    "pineco": [
+      "level-up"
+    ],
+    "forretress": [
+      "level-up"
+    ],
+    "shuckle": [
+      "level-up"
+    ],
+    "wurmple": [
+      "level-up"
+    ],
+    "surskit": [
+      "egg"
+    ],
+    "nincada": [
+      "egg"
+    ],
+    "ninjask": [
+      "level-up"
+    ],
+    "trapinch": [
+      "egg"
+    ],
+    "anorith": [
+      "level-up"
+    ],
+    "armaldo": [
+      "level-up"
+    ],
+    "kricketot": [
+      "level-up"
+    ],
+    "burmy": [
+      "level-up"
+    ],
+    "wormadam-plant": [
+      "level-up"
+    ],
+    "mothim": [
+      "level-up"
+    ],
+    "combee": [
+      "level-up"
+    ],
+    "skorupi": [
+      "level-up"
+    ],
+    "drapion": [
+      "level-up"
+    ],
+    "yanmega": [
+      "level-up"
+    ],
+    "sewaddle": [
+      "level-up"
+    ],
+    "swadloon": [
+      "level-up"
+    ],
+    "leavanny": [
+      "level-up"
+    ],
+    "venipede": [
+      "level-up"
+    ],
+    "whirlipede": [
+      "level-up"
+    ],
+    "scolipede": [
+      "level-up"
+    ],
+    "dwebble": [
+      "level-up"
+    ],
+    "crustle": [
+      "level-up"
+    ],
+    "karrablast": [
+      "egg"
+    ],
+    "joltik": [
+      "level-up"
+    ],
+    "galvantula": [
+      "level-up"
+    ],
+    "heatmor": [
+      "level-up"
+    ],
+    "durant": [
+      "level-up"
+    ],
+    "larvesta": [
+      "level-up"
+    ],
+    "scatterbug": [
+      "level-up"
+    ],
+    "grubbin": [
+      "level-up"
+    ],
+    "charjabug": [
+      "level-up"
+    ],
+    "vikavolt": [
+      "level-up"
+    ],
+    "dewpider": [
+      "level-up"
+    ],
+    "araquanid": [
+      "level-up"
+    ],
+    "golisopod": [
+      "level-up"
+    ],
+    "wormadam-sandy": [
+      "level-up"
+    ],
+    "wormadam-trash": [
+      "level-up"
+    ],
+    "vikavolt-totem": [
+      "level-up"
+    ],
+    "araquanid-totem": [
+      "level-up"
+    ]
+  }
+}

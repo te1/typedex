@@ -1,0 +1,37 @@
+{
+  "name": "lands-wrath",
+  "caption": "Land’s Wrath",
+  "type": "ground",
+  "damageCategory": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The user gathers the energy of the land and focuses\nthat power on opposing Pokémon to damage them.",
+  "flags": [
+    "protect",
+    "mirror",
+    "non-sky-battle"
+  ],
+  "target": "all-opponents",
+  "pokemon": {
+    "zygarde": [
+      "level-up"
+    ],
+    "zygarde-10": [
+      "level-up"
+    ],
+    "zygarde-50": [
+      "level-up"
+    ],
+    "zygarde-complete": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "name": "leech-life",
+  "caption": "Leech Life",
+  "type": "bug",
+  "damageCategory": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Drains half the damage inflicted to heal the user.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  [Drains]{mechanic:drain} half the damage inflicted to heal the user."
+  },
+  "flavorText": "The user drains the target’s blood. The user’s HP is\nrestored by half the damage taken by the target.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror",
+    "heal"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "zubat": [
+      "level-up",
+      "machine"
+    ],
+    "golbat": [
+      "level-up",
+      "machine"
+    ],
+    "paras": [
+      "machine"
+    ],
+    "parasect": [
+      "machine"
+    ],
+    "venonat": [
+      "level-up",
+      "machine"
+    ],
+    "venomoth": [
+      "level-up",
+      "machine"
+    ],
+    "bellsprout": [
+      "egg"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "spinarak": [
+      "machine"
+    ],
+    "ariados": [
+      "machine"
+    ],
+    "crobat": [
+      "level-up",
+      "machine"
+    ],
+    "yanma": [
+      "egg"
+    ],
+    "nincada": [
+      "machine"
+    ],
+    "ninjask": [
+      "machine"
+    ],
+    "shedinja": [
+      "machine"
+    ],
+    "kricketune": [
+      "machine"
+    ],
+    "yanmega": [
+      "machine"
+    ],
+    "joltik": [
+      "machine"
+    ],
+    "galvantula": [
+      "machine"
+    ],
+    "shelmet": [
+      "machine"
+    ],
+    "accelgor": [
+      "machine"
+    ],
+    "larvesta": [
+      "machine"
+    ],
+    "volcarona": [
+      "machine"
+    ],
+    "noibat": [
+      "machine"
+    ],
+    "noivern": [
+      "machine"
+    ],
+    "litten": [
+      "machine"
+    ],
+    "torracat": [
+      "machine"
+    ],
+    "incineroar": [
+      "machine"
+    ],
+    "cutiefly": [
+      "machine"
+    ],
+    "ribombee": [
+      "machine"
+    ],
+    "dewpider": [
+      "level-up",
+      "machine"
+    ],
+    "araquanid": [
+      "level-up",
+      "machine"
+    ],
+    "fomantis": [
+      "machine"
+    ],
+    "lurantis": [
+      "machine"
+    ],
+    "salandit": [
+      "machine"
+    ],
+    "salazzle": [
+      "machine"
+    ],
+    "wimpod": [
+      "machine"
+    ],
+    "golisopod": [
+      "machine"
+    ],
+    "mimikyu-disguised": [
+      "machine"
+    ],
+    "buzzwole": [
+      "level-up",
+      "machine"
+    ],
+    "naganadel": [
+      "machine"
+    ],
+    "sandshrew-alola": [
+      "machine"
+    ],
+    "sandslash-alola": [
+      "machine"
+    ],
+    "lurantis-totem": [
+      "machine"
+    ],
+    "salazzle-totem": [
+      "machine"
+    ],
+    "mimikyu-busted": [
+      "machine"
+    ],
+    "mimikyu-totem-disguised": [
+      "machine"
+    ],
+    "mimikyu-totem-busted": [
+      "machine"
+    ],
+    "ribombee-totem": [
+      "machine"
+    ],
+    "araquanid-totem": [
+      "level-up",
+      "machine"
+    ]
+  }
+}

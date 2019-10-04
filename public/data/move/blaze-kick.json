@@ -1,0 +1,40 @@
+{
+  "name": "blaze-kick",
+  "caption": "Blaze Kick",
+  "type": "fire",
+  "damageCategory": "physical",
+  "power": 85,
+  "accuracy": 90,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has an increased chance for a critical hit and a 10% chance to [burn]{mechanic:burn} the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User's [critical hit]{mechanic:critical-hit} rate is one level higher when using this move. Has a 10% chance to [burn]{mechanic:burn} the target."
+  },
+  "flavorText": "The user launches a kick that lands a critical hit\nmore easily. This may also leave the target with\na burn.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "hitmonlee": [
+      "level-up"
+    ],
+    "blaziken": [
+      "level-up"
+    ],
+    "chimchar": [
+      "egg"
+    ],
+    "riolu": [
+      "egg"
+    ],
+    "blaziken-mega": [
+      "level-up"
+    ]
+  }
+}

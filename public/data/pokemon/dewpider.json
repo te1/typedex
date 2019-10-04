@@ -1,0 +1,172 @@
+{
+  "name": "dewpider",
+  "caption": "Dewpider",
+  "types": [
+    "water",
+    "bug"
+  ],
+  "species": "dewpider",
+  "gen": "generation-vii",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.3,
+  "weight": 4,
+  "baseStats": {
+    "hp": 38,
+    "attack": 40,
+    "defense": 52,
+    "special-attack": 40,
+    "special-defense": 72,
+    "speed": 27
+  },
+  "evolutionChain": {
+    "species": "dewpider",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "araquanid",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "When two Dewpider meet, they display their\nwater bubbles to each other. Then the one with\nthe smaller bubble gets out of the other’s way.",
+  "moves": {
+    "bite": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "aurora-beam": [
+      "egg"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "leech-life": [
+      "level-up",
+      "machine"
+    ],
+    "bubble": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "spider-web": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "mirror-coat": [
+      "level-up"
+    ],
+    "stockpile": [
+      "egg"
+    ],
+    "spit-up": [
+      "egg"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "water-sport": [
+      "level-up"
+    ],
+    "aqua-ring": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "bug-bite": [
+      "level-up"
+    ],
+    "power-split": [
+      "egg"
+    ],
+    "entrainment": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "frost-breath": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "level-up",
+      "machine"
+    ],
+    "lunge": [
+      "level-up"
+    ],
+    "liquidation": [
+      "level-up"
+    ],
+    "sticky-web": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "water-bubble": 1,
+    "water-absorb": "hidden"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "static",
+  "caption": "Static",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a 30% chance of [paralyzing]{mechanic:paralysis} attacking Pokémon on contact.",
+    "full": "Whenever a move makes contact with this Pokémon, the move's user has a 30% chance of being [paralyzed]{mechanic:paralysis}.\n\nPokémon that are immune to []{type:electric}-type moves can still be paralyzed by this ability.\n\nOverworld: If the lead Pokémon has this ability, there is a 50% chance that encounters will be with an []{type:electric} Pokémon, if applicable."
+  },
+  "flavorText": "The Pokémon is charged with static electricity, so\ncontact with it may cause paralysis.",
+  "pokemon": {
+    "pikachu": 1,
+    "raichu": 1,
+    "voltorb": 2,
+    "electrode": 2,
+    "electabuzz": 1,
+    "zapdos": "hidden",
+    "pichu": 1,
+    "mareep": 1,
+    "flaaffy": 1,
+    "ampharos": 1,
+    "elekid": 1,
+    "electrike": 1,
+    "manectric": 1,
+    "emolga": 1,
+    "stunfisk": 1,
+    "pikachu-rock-star": 1,
+    "pikachu-belle": 1,
+    "pikachu-pop-star": 1,
+    "pikachu-phd": 1,
+    "pikachu-libre": 1,
+    "pikachu-cosplay": 1,
+    "pikachu-original-cap": 1,
+    "pikachu-hoenn-cap": 1,
+    "pikachu-sinnoh-cap": 1,
+    "pikachu-unova-cap": 1,
+    "pikachu-kalos-cap": 1,
+    "pikachu-alola-cap": 1,
+    "pikachu-partner-cap": 1
+  }
+}

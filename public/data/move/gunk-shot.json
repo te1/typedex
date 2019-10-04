@@ -1,0 +1,61 @@
+{
+  "name": "gunk-shot",
+  "caption": "Gunk Shot",
+  "type": "poison",
+  "damageCategory": "physical",
+  "power": 120,
+  "accuracy": 80,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Has a 30% chance to [poison]{mechanic:poison} the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 30% chance to [poison]{mechanic:poison} the target."
+  },
+  "flavorText": "The user shoots filthy garbage at the target to\nattack. This may also poison the target.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "ekans": [
+      "level-up"
+    ],
+    "arbok": [
+      "level-up"
+    ],
+    "grimer": [
+      "level-up"
+    ],
+    "muk": [
+      "level-up"
+    ],
+    "octillery": [
+      "level-up"
+    ],
+    "gulpin": [
+      "level-up",
+      "egg"
+    ],
+    "swalot": [
+      "level-up"
+    ],
+    "shuppet": [
+      "egg"
+    ],
+    "trubbish": [
+      "level-up"
+    ],
+    "garbodor": [
+      "level-up"
+    ],
+    "grimer-alola": [
+      "level-up"
+    ],
+    "muk-alola": [
+      "level-up"
+    ]
+  }
+}

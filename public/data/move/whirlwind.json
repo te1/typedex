@@ -1,0 +1,148 @@
+{
+  "name": "whirlwind",
+  "caption": "Whirlwind",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": -6,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Immediately ends wild battles.  Forces trainers to switch Pokémon.",
+    "full": "[Switch]{mechanic:switch}es the target out for another of its trainer's Pokémon selected at random.  Wild battles end immediately.\n\nDoesn't affect Pokémon with []{ability:suction-cups} or under the effect of []{move:ingrain}."
+  },
+  "flavorText": "The target is blown away, and a different Pokémon is\ndragged out. In the wild, this ends a battle against a\nsingle Pokémon.",
+  "flags": [
+    "reflectable",
+    "mirror",
+    "authentic"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "butterfree": [
+      "level-up"
+    ],
+    "pidgey": [
+      "level-up"
+    ],
+    "pidgeotto": [
+      "level-up"
+    ],
+    "pidgeot": [
+      "level-up"
+    ],
+    "spearow": [
+      "egg"
+    ],
+    "zubat": [
+      "egg"
+    ],
+    "aerodactyl": [
+      "egg"
+    ],
+    "snorlax": [
+      "egg"
+    ],
+    "hoothoot": [
+      "egg"
+    ],
+    "yanma": [
+      "egg"
+    ],
+    "murkrow": [
+      "egg"
+    ],
+    "skarmory": [
+      "egg"
+    ],
+    "lugia": [
+      "level-up"
+    ],
+    "ho-oh": [
+      "level-up"
+    ],
+    "beautifly": [
+      "level-up"
+    ],
+    "dustox": [
+      "level-up"
+    ],
+    "shiftry": [
+      "level-up"
+    ],
+    "taillow": [
+      "egg"
+    ],
+    "masquerain": [
+      "level-up"
+    ],
+    "whismur": [
+      "egg"
+    ],
+    "makuhita": [
+      "level-up"
+    ],
+    "hariyama": [
+      "level-up"
+    ],
+    "spoink": [
+      "egg"
+    ],
+    "tropius": [
+      "level-up"
+    ],
+    "starly": [
+      "level-up"
+    ],
+    "staravia": [
+      "level-up"
+    ],
+    "staraptor": [
+      "level-up"
+    ],
+    "cranidos": [
+      "egg"
+    ],
+    "munchlax": [
+      "egg"
+    ],
+    "hippopotas": [
+      "egg"
+    ],
+    "skorupi": [
+      "egg"
+    ],
+    "sigilyph": [
+      "level-up"
+    ],
+    "rufflet": [
+      "level-up"
+    ],
+    "braviary": [
+      "level-up"
+    ],
+    "vullaby": [
+      "level-up"
+    ],
+    "mandibuzz": [
+      "level-up"
+    ],
+    "volcarona": [
+      "level-up"
+    ],
+    "noibat": [
+      "level-up"
+    ],
+    "noivern": [
+      "level-up"
+    ],
+    "tapu-bulu": [
+      "level-up"
+    ],
+    "pidgeot-mega": [
+      "level-up"
+    ]
+  }
+}

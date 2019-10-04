@@ -1,0 +1,173 @@
+{
+  "name": "slurpuff",
+  "caption": "Slurpuff",
+  "types": [
+    "fairy"
+  ],
+  "species": "slurpuff",
+  "gen": "generation-vi",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.8,
+  "weight": 5,
+  "baseStats": {
+    "hp": 82,
+    "attack": 80,
+    "defense": 86,
+    "special-attack": 85,
+    "special-defense": 75,
+    "speed": 72
+  },
+  "evolutionChain": {
+    "species": "swirlix",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "slurpuff",
+        "triggers": [
+          "trade"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It can distinguish the faintest of scents.\nIt puts its sensitive sense of smell to use\nby helping pastry chefs in their work.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "level-up",
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "cotton-spore": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "level-up",
+      "machine"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "wish": [
+      "level-up"
+    ],
+    "endeavor": [
+      "level-up"
+    ],
+    "aromatherapy": [
+      "level-up"
+    ],
+    "fake-tears": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "energy-ball": [
+      "level-up",
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "round": [
+      "level-up",
+      "machine"
+    ],
+    "cotton-guard": [
+      "level-up"
+    ],
+    "draining-kiss": [
+      "level-up"
+    ],
+    "play-rough": [
+      "level-up"
+    ],
+    "fairy-wind": [
+      "level-up"
+    ],
+    "play-nice": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "sweet-veil": 1,
+    "unburden": "hidden"
+  }
+}

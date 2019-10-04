@@ -1,0 +1,200 @@
+{
+  "name": "metagross-mega",
+  "caption": "Mega Metagross",
+  "types": [
+    "steel",
+    "psychic"
+  ],
+  "species": "metagross",
+  "gen": "generation-iii",
+  "color": "blue",
+  "default": false,
+  "alternate": false,
+  "mega": true,
+  "height": 2.5,
+  "weight": 942.9,
+  "baseStats": {
+    "hp": 80,
+    "attack": 145,
+    "defense": 150,
+    "special-attack": 105,
+    "special-defense": 110,
+    "speed": 110
+  },
+  "evolutionChain": {
+    "species": "beldum",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "metang",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "metagross",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It boasts not only psychic powers but also\nfantastic strength. It grabs its prey with its four\nlegs and holds them in place with its claws.",
+  "moves": {
+    "take-down": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "level-up",
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "confusion": [
+      "level-up"
+    ],
+    "psychic": [
+      "level-up",
+      "machine"
+    ],
+    "agility": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "metal-claw": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "meteor-mash": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "miracle-eye": [
+      "level-up"
+    ],
+    "hammer-arm": [
+      "level-up"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "magnet-rise": [
+      "level-up"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "bullet-punch": [
+      "level-up"
+    ],
+    "zen-headbutt": [
+      "level-up"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "tough-claws": 1
+  }
+}

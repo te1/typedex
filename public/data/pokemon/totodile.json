@@ -1,0 +1,228 @@
+{
+  "name": "totodile",
+  "caption": "Totodile",
+  "types": [
+    "water"
+  ],
+  "species": "totodile",
+  "gen": "generation-ii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 9.5,
+  "baseStats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 64,
+    "special-attack": 44,
+    "special-defense": 48,
+    "speed": 43
+  },
+  "evolutionChain": {
+    "species": "totodile",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "croconaw",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "feraligatr",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Despite the smallness of its body, Totodile’s jaws are very\npowerful. While the Pokémon may think it is just playfully\nnipping, its bite has enough power to cause serious injury.",
+  "moves": {
+    "ice-punch": [
+      "egg"
+    ],
+    "scratch": [
+      "level-up"
+    ],
+    "thrash": [
+      "level-up",
+      "egg"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up",
+      "egg"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "rage": [
+      "level-up"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up",
+      "egg"
+    ],
+    "ancient-power": [
+      "egg"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "mud-sport": [
+      "egg"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "dragon-claw": [
+      "machine"
+    ],
+    "water-sport": [
+      "egg"
+    ],
+    "water-pulse": [
+      "egg"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "metal-claw": [
+      "egg"
+    ],
+    "superpower": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "dragon-dance": [
+      "egg"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "aqua-tail": [
+      "level-up"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "ice-fang": [
+      "level-up"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "aqua-jet": [
+      "egg"
+    ],
+    "fake-tears": [
+      "egg"
+    ],
+    "block": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "chip-away": [
+      "level-up"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "water-pledge": [
+      "tutor"
+    ],
+    "flatter": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "torrent": 1,
+    "sheer-force": "hidden"
+  }
+}

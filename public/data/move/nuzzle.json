@@ -1,0 +1,70 @@
+{
+  "name": "nuzzle",
+  "caption": "Nuzzle",
+  "type": "electric",
+  "damageCategory": "physical",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Has a 100% chance to paralyze the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 100% chance to [paralyze]{mechanic:paralysis} the target."
+  },
+  "flavorText": "The user attacks by nuzzling its electrified cheeks\nagainst the target. This also leaves the target\nwith paralysis.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "pikachu": [
+      "level-up"
+    ],
+    "plusle": [
+      "level-up"
+    ],
+    "minun": [
+      "level-up"
+    ],
+    "pachirisu": [
+      "level-up"
+    ],
+    "emolga": [
+      "level-up"
+    ],
+    "dedenne": [
+      "level-up"
+    ],
+    "togedemaru": [
+      "level-up"
+    ],
+    "pikachu-original-cap": [
+      "level-up"
+    ],
+    "pikachu-hoenn-cap": [
+      "level-up"
+    ],
+    "pikachu-sinnoh-cap": [
+      "level-up"
+    ],
+    "pikachu-unova-cap": [
+      "level-up"
+    ],
+    "pikachu-kalos-cap": [
+      "level-up"
+    ],
+    "pikachu-alola-cap": [
+      "level-up"
+    ],
+    "pikachu-partner-cap": [
+      "level-up"
+    ],
+    "togedemaru-totem": [
+      "level-up"
+    ]
+  }
+}

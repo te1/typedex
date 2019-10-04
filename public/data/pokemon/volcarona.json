@@ -1,0 +1,197 @@
+{
+  "name": "volcarona",
+  "caption": "Volcarona",
+  "types": [
+    "bug",
+    "fire"
+  ],
+  "species": "volcarona",
+  "gen": "generation-v",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.6,
+  "weight": 46,
+  "baseStats": {
+    "hp": 85,
+    "attack": 60,
+    "defense": 65,
+    "special-attack": 135,
+    "special-defense": 105,
+    "speed": 100
+  },
+  "evolutionChain": {
+    "species": "larvesta",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "volcarona",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "As it flies, it scatters its flaming scales. It was\nfeared by ancient people, who referred to it as\n“the rage of the sun.”",
+  "moves": {
+    "gust": [
+      "level-up"
+    ],
+    "whirlwind": [
+      "level-up"
+    ],
+    "fly": [
+      "machine"
+    ],
+    "ember": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "string-shot": [
+      "level-up"
+    ],
+    "fire-spin": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "leech-life": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "heat-wave": [
+      "level-up"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "silver-wind": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "bug-buzz": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "rage-powder": [
+      "level-up"
+    ],
+    "quiver-dance": [
+      "level-up"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "hurricane": [
+      "level-up"
+    ],
+    "fiery-dance": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "thrash": [
+      "level-up"
+    ],
+    "amnesia": [
+      "level-up"
+    ],
+    "flame-wheel": [
+      "level-up"
+    ],
+    "flare-blitz": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "absorb": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "flame-body": 1,
+    "swarm": "hidden"
+  }
+}

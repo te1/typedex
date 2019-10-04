@@ -1,0 +1,48 @@
+{
+  "name": "water-spout",
+  "caption": "Water Spout",
+  "type": "water",
+  "damageCategory": "special",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Inflicts more damage when the user has more HP remaining, with a maximum of 150 power.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Power increases with the user's remaining [HP]{mechanic:hp} and is given by `150 * HP / max HP`, to a maximum of 150 when the user has full HP."
+  },
+  "flavorText": "The user spouts water to damage opposing\nPokémon. The lower the user’s HP, the lower the\nmove’s power.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "all-opponents",
+  "pokemon": {
+    "squirtle": [
+      "egg"
+    ],
+    "remoraid": [
+      "egg"
+    ],
+    "wailmer": [
+      "level-up"
+    ],
+    "wailord": [
+      "level-up"
+    ],
+    "kyogre": [
+      "level-up"
+    ],
+    "frillish": [
+      "level-up"
+    ],
+    "jellicent": [
+      "level-up"
+    ],
+    "kyogre-primal": [
+      "level-up"
+    ]
+  }
+}

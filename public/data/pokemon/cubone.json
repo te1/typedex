@@ -1,0 +1,221 @@
+{
+  "name": "cubone",
+  "caption": "Cubone",
+  "types": [
+    "ground"
+  ],
+  "species": "cubone",
+  "gen": "generation-i",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 6.5,
+  "baseStats": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 95,
+    "special-attack": 40,
+    "special-defense": 50,
+    "speed": 35
+  },
+  "evolutionChain": {
+    "species": "cubone",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "marowak",
+        "triggers": [
+          "level-up",
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "At night, it weeps loudly for its dead mother,\nbut those cries only attract its natural\nenemy—Mandibuzz.",
+  "moves": {
+    "thrash": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "rage": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "bone-club": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "skull-bash": [
+      "egg"
+    ],
+    "bonemerang": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "headbutt": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "screech": [
+      "egg"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "belly-drum": [
+      "egg"
+    ],
+    "perish-song": [
+      "egg"
+    ],
+    "detect": [
+      "egg"
+    ],
+    "bone-rush": [
+      "level-up"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "false-swipe": [
+      "level-up",
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "ancient-power": [
+      "egg"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "double-kick": [
+      "egg"
+    ],
+    "endeavor": [
+      "level-up"
+    ],
+    "fling": [
+      "level-up",
+      "machine"
+    ],
+    "iron-head": [
+      "egg"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "chip-away": [
+      "egg"
+    ],
+    "retaliate": [
+      "level-up"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ],
+    "stomping-tantrum": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "rock-head": 1,
+    "lightning-rod": 2,
+    "battle-armor": "hidden"
+  }
+}

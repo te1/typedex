@@ -1,0 +1,80 @@
+{
+  "name": "seismic-toss",
+  "caption": "Seismic Toss",
+  "type": "fighting",
+  "damageCategory": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Inflicts damage equal to the user's level.",
+    "full": "Inflicts damage equal to the user's level.  Type immunity applies, but other type effects are ignored."
+  },
+  "flavorText": "The target is thrown using the power of gravity.\nIt inflicts damage equal to the user’s level.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror",
+    "non-sky-battle"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "mankey": [
+      "level-up"
+    ],
+    "primeape": [
+      "level-up"
+    ],
+    "machop": [
+      "level-up"
+    ],
+    "machoke": [
+      "level-up"
+    ],
+    "machamp": [
+      "level-up"
+    ],
+    "chansey": [
+      "egg"
+    ],
+    "pinsir": [
+      "level-up"
+    ],
+    "heracross": [
+      "egg"
+    ],
+    "teddiursa": [
+      "egg"
+    ],
+    "miltank": [
+      "egg"
+    ],
+    "makuhita": [
+      "level-up"
+    ],
+    "hariyama": [
+      "level-up"
+    ],
+    "mawile": [
+      "egg"
+    ],
+    "volbeat": [
+      "egg"
+    ],
+    "arceus": [
+      "level-up"
+    ],
+    "throh": [
+      "level-up"
+    ],
+    "passimian": [
+      "egg"
+    ],
+    "pinsir-mega": [
+      "level-up"
+    ]
+  }
+}

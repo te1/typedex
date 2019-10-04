@@ -1,0 +1,13 @@
+{
+  "name": "aura-break",
+  "caption": "Aura Break",
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Makes []{ability:dark-aura} and []{ability:fairy-aura} weaken moves of their respective types.",
+    "full": "While this Pokémon is on the field, []{ability:dark-aura} and []{ability:fairy-aura} weaken moves of their respective types to 2/3 their power, rather than strengthening them."
+  },
+  "flavorText": "The effects of “Aura” Abilities are reversed\nto lower the power of affected moves.",
+  "pokemon": {
+    "zygarde": 1
+  }
+}

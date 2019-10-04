@@ -1,0 +1,64 @@
+{
+  "name": "horn-drill",
+  "caption": "Horn Drill",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": null,
+  "accuracy": 30,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Causes a one-hit KO.",
+    "full": "Inflicts damage equal to the target's max [HP]{mechanic:hp}.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers.  This move's [accuracy]{mechanic:accuracy} is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will [fail]{mechanic:fail}.\n\nBecause this move inflicts a specific and finite amount of damage, []{move:endure} still prevents the target from fainting.\n\nThe effects of []{move:lock-on}, []{move:mind-reader}, and []{ability:no-guard} still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through []{move:detect} or []{move:protect}."
+  },
+  "flavorText": "The user stabs the target with a horn that rotates\nlike a drill. The target faints instantly if this\nattack hits.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "nidoran-m": [
+      "level-up"
+    ],
+    "nidorino": [
+      "level-up"
+    ],
+    "ponyta": [
+      "egg"
+    ],
+    "seel": [
+      "egg"
+    ],
+    "rhyhorn": [
+      "level-up"
+    ],
+    "rhydon": [
+      "level-up"
+    ],
+    "goldeen": [
+      "level-up"
+    ],
+    "seaking": [
+      "level-up"
+    ],
+    "lapras": [
+      "egg"
+    ],
+    "rhyperior": [
+      "level-up"
+    ],
+    "excadrill": [
+      "level-up"
+    ],
+    "tyrunt": [
+      "level-up"
+    ],
+    "tyrantrum": [
+      "level-up"
+    ]
+  }
+}

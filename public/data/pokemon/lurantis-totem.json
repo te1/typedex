@@ -1,0 +1,178 @@
+{
+  "name": "lurantis-totem",
+  "caption": "Totem Lurantis",
+  "types": [
+    "grass"
+  ],
+  "species": "lurantis",
+  "gen": "generation-vii",
+  "color": "pink",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": null,
+  "height": 1.5,
+  "weight": 58,
+  "baseStats": {
+    "hp": 70,
+    "attack": 105,
+    "defense": 90,
+    "special-attack": 80,
+    "special-defense": 90,
+    "speed": 45
+  },
+  "evolutionChain": {
+    "species": "fomantis",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "lurantis",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "For self-protection, it pretends to be a bug\nPokémon. Both of its arms bear\nkeen-edged petals.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "razor-leaf": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "leech-life": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "fury-cutter": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "synthesis": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "level-up",
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "ingrain": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "leaf-blade": [
+      "level-up"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "x-scissor": [
+      "level-up",
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "petal-blizzard": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "solar-blade": [
+      "level-up"
+    ],
+    "leafage": [
+      "level-up"
+    ],
+    "night-slash": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "leaf-guard": 1,
+    "contrary": "hidden"
+  }
+}

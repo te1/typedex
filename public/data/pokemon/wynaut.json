@@ -1,0 +1,65 @@
+{
+  "name": "wynaut",
+  "caption": "Wynaut",
+  "types": [
+    "psychic"
+  ],
+  "species": "wynaut",
+  "gen": "generation-iii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.6,
+  "weight": 14,
+  "baseStats": {
+    "hp": 95,
+    "attack": 23,
+    "defense": 48,
+    "special-attack": 23,
+    "special-defense": 48,
+    "speed": 23
+  },
+  "evolutionChain": {
+    "species": "wynaut",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "wobbuffet",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Wynaut can always be seen with a big, happy smile on its face.\nLook at its tail to determine if it is angry. When angered, this\nPokémon will be slapping the ground with its tail.",
+  "moves": {
+    "counter": [
+      "level-up"
+    ],
+    "splash": [
+      "level-up"
+    ],
+    "destiny-bond": [
+      "level-up"
+    ],
+    "charm": [
+      "level-up"
+    ],
+    "safeguard": [
+      "level-up",
+      "machine"
+    ],
+    "encore": [
+      "level-up"
+    ],
+    "mirror-coat": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "shadow-tag": 1,
+    "telepathy": "hidden"
+  }
+}

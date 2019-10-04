@@ -1,0 +1,20 @@
+{
+  "name": "black-hole-eclipse--physical",
+  "caption": "Black Hole Eclipse",
+  "type": "dark",
+  "damageCategory": "physical",
+  "power": null,
+  "accuracy": null,
+  "pp": 1,
+  "z": true,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The user gathers dark energy using its Z-Power\nand sucks the target into it. The power varies,\ndepending on the original move.",
+  "flags": [],
+  "target": "selected-pokemon",
+  "pokemon": {}
+}

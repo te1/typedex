@@ -1,0 +1,26 @@
+{
+  "name": "snow-cloak",
+  "caption": "Snow Cloak",
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Increases evasion to 1.25× during [hail]{mechanic:hail}.  Protects against hail damage.",
+    "full": "During [hail]{mechanic:hail}, this Pokémon has 1.25× its [evasion]{mechanic:evasion}, and it does not take hail damage regardless of type.\n\nThe evasion bonus does not count as a [stat modifier]{mechanic:stat-modifier}.\n\nOverworld: If the lead Pokémon has this ability, the wild encounter rate is halved in snow."
+  },
+  "flavorText": "Boosts evasion in a hailstorm.",
+  "pokemon": {
+    "articuno": "hidden",
+    "swinub": 2,
+    "piloswine": 2,
+    "glaceon": 1,
+    "mamoswine": 2,
+    "froslass": 1,
+    "vanillite": 2,
+    "vanillish": 2,
+    "cubchoo": 1,
+    "beartic": 1,
+    "sandshrew-alola": 1,
+    "sandslash-alola": 1,
+    "vulpix-alola": 1,
+    "ninetales-alola": 1
+  }
+}

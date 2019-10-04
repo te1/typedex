@@ -1,0 +1,178 @@
+{
+  "name": "xurkitree",
+  "caption": "Xurkitree",
+  "types": [
+    "electric"
+  ],
+  "species": "xurkitree",
+  "gen": "generation-vii",
+  "color": "black",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 3.8,
+  "weight": 100,
+  "baseStats": {
+    "hp": 83,
+    "attack": 89,
+    "defense": 71,
+    "special-attack": 173,
+    "special-defense": 71,
+    "speed": 83
+  },
+  "flavorText": "Although it’s alien to this world and a danger\nhere, it’s apparently a common organism in the\nworld where it normally lives.",
+  "moves": {
+    "thunder-punch": [
+      "level-up"
+    ],
+    "wrap": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunder-shock": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "level-up",
+      "machine"
+    ],
+    "thunder-wave": [
+      "level-up",
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "hypnosis": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "zap-cannon": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "spark": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "charge": [
+      "level-up"
+    ],
+    "ingrain": [
+      "level-up"
+    ],
+    "tail-glow": [
+      "level-up"
+    ],
+    "signal-beam": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "shock-wave": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "discharge": [
+      "level-up"
+    ],
+    "power-whip": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "volt-switch": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "ion-deluge": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "eerie-impulse": [
+      "level-up"
+    ],
+    "electric-terrain": [
+      "level-up"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "beast-boost": 1
+  }
+}

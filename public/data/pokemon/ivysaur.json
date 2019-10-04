@@ -1,0 +1,173 @@
+{
+  "name": "ivysaur",
+  "caption": "Ivysaur",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "species": "ivysaur",
+  "gen": "generation-i",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1,
+  "weight": 13,
+  "baseStats": {
+    "hp": 60,
+    "attack": 62,
+    "defense": 63,
+    "special-attack": 80,
+    "special-defense": 80,
+    "speed": 60
+  },
+  "evolutionChain": {
+    "species": "bulbasaur",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "ivysaur",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "venusaur",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "There is a bud on this Pokémon’s back. To support its weight,\nIvysaur’s legs and trunk grow thick and strong.\nIf it starts spending more time lying in the sunlight,\nit’s a sign that the bud will bloom into a large flower soon.",
+  "moves": {
+    "swords-dance": [
+      "machine"
+    ],
+    "vine-whip": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "leech-seed": [
+      "level-up"
+    ],
+    "growth": [
+      "level-up"
+    ],
+    "razor-leaf": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "level-up",
+      "machine"
+    ],
+    "poison-powder": [
+      "level-up"
+    ],
+    "sleep-powder": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "sweet-scent": [
+      "level-up"
+    ],
+    "synthesis": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "worry-seed": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "grass-pledge": [
+      "tutor"
+    ],
+    "nature-power": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "overgrow": 1,
+    "chlorophyll": "hidden"
+  }
+}

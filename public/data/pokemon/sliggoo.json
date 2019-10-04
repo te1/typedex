@@ -1,0 +1,153 @@
+{
+  "name": "sliggoo",
+  "caption": "Sliggoo",
+  "types": [
+    "dragon"
+  ],
+  "species": "sliggoo",
+  "gen": "generation-vi",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.8,
+  "weight": 17.5,
+  "baseStats": {
+    "hp": 68,
+    "attack": 75,
+    "defense": 53,
+    "special-attack": 83,
+    "special-defense": 113,
+    "speed": 60
+  },
+  "evolutionChain": {
+    "species": "goomy",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "sliggoo",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "goodra",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It crawls along sluggishly. The swirly protrusion\non its back is filled with its brain and\nother organs.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "body-slam": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "absorb": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "bubble": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "dragon-breath": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "level-up",
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "muddy-water": [
+      "level-up"
+    ],
+    "dragon-pulse": [
+      "level-up"
+    ],
+    "draco-meteor": [
+      "tutor"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "sap-sipper": 1,
+    "hydration": 2,
+    "gooey": "hidden"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "name": "wide-guard",
+  "caption": "Wide Guard",
+  "type": "rock",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 3,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Prevents any multi-target moves from hitting friendly Pokémon this turn.",
+    "full": "Moves with multiple targets will not hit friendly Pokémon for the remainder of this turn.  If the user is last to act this turn, this move will [fail]{mechanic:fail}.\n\nThis move cannot be selected by []{move:assist} or []{move:metronome}."
+  },
+  "flavorText": "The user and its allies are protected from\nwide-ranging attacks for one turn.",
+  "flags": [
+    "snatch"
+  ],
+  "target": "users-field",
+  "pokemon": {
+    "paras": [
+      "egg"
+    ],
+    "machamp": [
+      "level-up"
+    ],
+    "geodude": [
+      "egg"
+    ],
+    "onix": [
+      "egg"
+    ],
+    "kingler": [
+      "level-up"
+    ],
+    "hitmonlee": [
+      "level-up"
+    ],
+    "mr-mime": [
+      "level-up"
+    ],
+    "aerodactyl": [
+      "egg"
+    ],
+    "mantine": [
+      "level-up",
+      "egg"
+    ],
+    "hitmontop": [
+      "level-up"
+    ],
+    "mudkip": [
+      "egg"
+    ],
+    "wingull": [
+      "egg"
+    ],
+    "makuhita": [
+      "egg"
+    ],
+    "nosepass": [
+      "egg"
+    ],
+    "turtwig": [
+      "egg"
+    ],
+    "shieldon": [
+      "egg"
+    ],
+    "mantyke": [
+      "level-up",
+      "egg"
+    ],
+    "gallade": [
+      "level-up"
+    ],
+    "probopass": [
+      "level-up"
+    ],
+    "regigigas": [
+      "level-up"
+    ],
+    "roggenrola": [
+      "egg"
+    ],
+    "timburr": [
+      "egg"
+    ],
+    "throh": [
+      "level-up"
+    ],
+    "dwebble": [
+      "egg"
+    ],
+    "tirtouga": [
+      "level-up"
+    ],
+    "carracosta": [
+      "level-up"
+    ],
+    "alomomola": [
+      "level-up"
+    ],
+    "mienshao": [
+      "level-up"
+    ],
+    "honedge": [
+      "egg"
+    ],
+    "avalugg": [
+      "level-up"
+    ],
+    "crabrawler": [
+      "egg"
+    ],
+    "mareanie": [
+      "level-up"
+    ],
+    "toxapex": [
+      "level-up"
+    ],
+    "araquanid": [
+      "level-up"
+    ],
+    "stufful": [
+      "egg"
+    ],
+    "wimpod": [
+      "egg"
+    ],
+    "turtonator": [
+      "egg"
+    ],
+    "solgaleo": [
+      "level-up"
+    ],
+    "lunala": [
+      "level-up"
+    ],
+    "celesteela": [
+      "level-up"
+    ],
+    "guzzlord": [
+      "level-up"
+    ],
+    "stakataka": [
+      "level-up"
+    ],
+    "gallade-mega": [
+      "level-up"
+    ],
+    "araquanid-totem": [
+      "level-up"
+    ]
+  }
+}

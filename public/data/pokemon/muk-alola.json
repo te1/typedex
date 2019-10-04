@@ -1,0 +1,224 @@
+{
+  "name": "muk-alola",
+  "caption": "Alolan Muk",
+  "types": [
+    "poison",
+    "dark"
+  ],
+  "species": "muk",
+  "gen": "generation-i",
+  "color": "purple",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": "Alola Form",
+  "height": 1,
+  "weight": 52,
+  "baseStats": {
+    "hp": 105,
+    "attack": 105,
+    "defense": 75,
+    "special-attack": 65,
+    "special-defense": 100,
+    "speed": 50
+  },
+  "evolutionChain": {
+    "species": "grimer",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "muk",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Their food sources have decreased, and their\nnumbers have declined sharply. Sludge ponds\nare being built to prevent their extinction.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "disable": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "minimize": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "poison-gas": [
+      "level-up"
+    ],
+    "acid-armor": [
+      "level-up"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "memento": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "knock-off": [
+      "level-up"
+    ],
+    "poison-fang": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "fling": [
+      "level-up",
+      "machine"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "gunk-shot": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "acid-spray": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "quash": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "belch": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "venom-drench": [
+      "level-up"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "poison-touch": 1,
+    "gluttony": 2,
+    "power-of-alchemy": "hidden"
+  }
+}

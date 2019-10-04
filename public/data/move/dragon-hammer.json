@@ -1,0 +1,31 @@
+{
+  "name": "dragon-hammer",
+  "caption": "Dragon Hammer",
+  "type": "dragon",
+  "damageCategory": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The user uses its body like a hammer to attack the\ntarget and inflict damage.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "tropius": [
+      "egg"
+    ],
+    "exeggutor-alola": [
+      "level-up"
+    ]
+  }
+}

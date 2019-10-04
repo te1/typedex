@@ -1,0 +1,535 @@
+{
+  "name": "sludge-bomb",
+  "caption": "Sludge Bomb",
+  "type": "poison",
+  "damageCategory": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a 30% chance to [poison]{mechanic:poison} the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 30% chance to [poison]{mechanic:poison} the target."
+  },
+  "flavorText": "Unsanitary sludge is hurled at the target. This may\nalso poison the target.",
+  "flags": [
+    "protect",
+    "mirror",
+    "ballistics"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "bulbasaur": [
+      "machine"
+    ],
+    "ivysaur": [
+      "machine"
+    ],
+    "venusaur": [
+      "machine"
+    ],
+    "beedrill": [
+      "machine"
+    ],
+    "ekans": [
+      "machine"
+    ],
+    "arbok": [
+      "machine"
+    ],
+    "nidoran-f": [
+      "machine"
+    ],
+    "nidorina": [
+      "machine"
+    ],
+    "nidoqueen": [
+      "machine"
+    ],
+    "nidoran-m": [
+      "machine"
+    ],
+    "nidorino": [
+      "machine"
+    ],
+    "nidoking": [
+      "machine"
+    ],
+    "zubat": [
+      "machine"
+    ],
+    "golbat": [
+      "machine"
+    ],
+    "oddish": [
+      "machine"
+    ],
+    "gloom": [
+      "machine"
+    ],
+    "vileplume": [
+      "machine"
+    ],
+    "paras": [
+      "machine"
+    ],
+    "parasect": [
+      "machine"
+    ],
+    "venonat": [
+      "machine"
+    ],
+    "venomoth": [
+      "machine"
+    ],
+    "diglett": [
+      "machine"
+    ],
+    "dugtrio": [
+      "machine"
+    ],
+    "bellsprout": [
+      "machine"
+    ],
+    "weepinbell": [
+      "machine"
+    ],
+    "victreebel": [
+      "machine"
+    ],
+    "tentacool": [
+      "machine"
+    ],
+    "tentacruel": [
+      "machine"
+    ],
+    "grimer": [
+      "level-up",
+      "machine"
+    ],
+    "muk": [
+      "level-up",
+      "machine"
+    ],
+    "gastly": [
+      "machine"
+    ],
+    "haunter": [
+      "machine"
+    ],
+    "gengar": [
+      "machine"
+    ],
+    "exeggcute": [
+      "machine"
+    ],
+    "exeggutor": [
+      "machine"
+    ],
+    "koffing": [
+      "level-up",
+      "machine"
+    ],
+    "weezing": [
+      "level-up",
+      "machine"
+    ],
+    "tangela": [
+      "machine"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "spinarak": [
+      "machine"
+    ],
+    "ariados": [
+      "machine"
+    ],
+    "crobat": [
+      "machine"
+    ],
+    "bellossom": [
+      "machine"
+    ],
+    "sunkern": [
+      "machine"
+    ],
+    "sunflora": [
+      "machine"
+    ],
+    "wooper": [
+      "machine"
+    ],
+    "quagsire": [
+      "machine"
+    ],
+    "gligar": [
+      "machine"
+    ],
+    "snubbull": [
+      "machine"
+    ],
+    "granbull": [
+      "machine"
+    ],
+    "qwilfish": [
+      "machine"
+    ],
+    "shuckle": [
+      "machine"
+    ],
+    "octillery": [
+      "machine"
+    ],
+    "houndour": [
+      "machine"
+    ],
+    "houndoom": [
+      "machine"
+    ],
+    "dustox": [
+      "machine"
+    ],
+    "shroomish": [
+      "machine"
+    ],
+    "breloom": [
+      "machine"
+    ],
+    "mawile": [
+      "machine"
+    ],
+    "roselia": [
+      "machine"
+    ],
+    "gulpin": [
+      "level-up",
+      "machine"
+    ],
+    "swalot": [
+      "level-up",
+      "machine"
+    ],
+    "torkoal": [
+      "machine"
+    ],
+    "seviper": [
+      "machine"
+    ],
+    "corphish": [
+      "machine"
+    ],
+    "crawdaunt": [
+      "machine"
+    ],
+    "lileep": [
+      "machine"
+    ],
+    "cradily": [
+      "machine"
+    ],
+    "metang": [
+      "machine"
+    ],
+    "metagross": [
+      "machine"
+    ],
+    "budew": [
+      "machine"
+    ],
+    "roserade": [
+      "machine"
+    ],
+    "vespiquen": [
+      "machine"
+    ],
+    "gastrodon": [
+      "machine"
+    ],
+    "stunky": [
+      "machine"
+    ],
+    "skuntank": [
+      "machine"
+    ],
+    "skorupi": [
+      "machine"
+    ],
+    "drapion": [
+      "machine"
+    ],
+    "croagunk": [
+      "level-up",
+      "machine"
+    ],
+    "toxicroak": [
+      "level-up",
+      "machine"
+    ],
+    "carnivine": [
+      "machine"
+    ],
+    "tangrowth": [
+      "machine"
+    ],
+    "gliscor": [
+      "machine"
+    ],
+    "darkrai": [
+      "machine"
+    ],
+    "arceus": [
+      "machine"
+    ],
+    "drilbur": [
+      "machine"
+    ],
+    "excadrill": [
+      "machine"
+    ],
+    "tympole": [
+      "machine"
+    ],
+    "palpitoad": [
+      "machine"
+    ],
+    "seismitoad": [
+      "machine"
+    ],
+    "venipede": [
+      "machine"
+    ],
+    "whirlipede": [
+      "machine"
+    ],
+    "scolipede": [
+      "machine"
+    ],
+    "sandile": [
+      "machine"
+    ],
+    "krokorok": [
+      "machine"
+    ],
+    "krookodile": [
+      "machine"
+    ],
+    "scraggy": [
+      "machine"
+    ],
+    "scrafty": [
+      "machine"
+    ],
+    "trubbish": [
+      "level-up",
+      "machine"
+    ],
+    "garbodor": [
+      "level-up",
+      "machine"
+    ],
+    "foongus": [
+      "machine"
+    ],
+    "amoonguss": [
+      "machine"
+    ],
+    "frillish": [
+      "machine"
+    ],
+    "jellicent": [
+      "machine"
+    ],
+    "shelmet": [
+      "machine"
+    ],
+    "accelgor": [
+      "machine"
+    ],
+    "stunfisk": [
+      "machine"
+    ],
+    "druddigon": [
+      "machine"
+    ],
+    "tornadus-incarnate": [
+      "machine"
+    ],
+    "thundurus-incarnate": [
+      "machine"
+    ],
+    "landorus-incarnate": [
+      "machine"
+    ],
+    "chespin": [
+      "machine"
+    ],
+    "quilladin": [
+      "machine"
+    ],
+    "chesnaught": [
+      "machine"
+    ],
+    "bunnelby": [
+      "machine"
+    ],
+    "diggersby": [
+      "machine"
+    ],
+    "pancham": [
+      "machine"
+    ],
+    "pangoro": [
+      "machine"
+    ],
+    "binacle": [
+      "machine"
+    ],
+    "barbaracle": [
+      "machine"
+    ],
+    "skrelp": [
+      "level-up",
+      "machine"
+    ],
+    "dragalge": [
+      "level-up",
+      "machine"
+    ],
+    "clauncher": [
+      "machine"
+    ],
+    "clawitzer": [
+      "machine"
+    ],
+    "goomy": [
+      "machine"
+    ],
+    "sliggoo": [
+      "machine"
+    ],
+    "goodra": [
+      "machine"
+    ],
+    "pumpkaboo-average": [
+      "machine"
+    ],
+    "gourgeist-average": [
+      "machine"
+    ],
+    "volcanion": [
+      "machine"
+    ],
+    "mareanie": [
+      "machine"
+    ],
+    "toxapex": [
+      "machine"
+    ],
+    "morelull": [
+      "machine"
+    ],
+    "shiinotic": [
+      "machine"
+    ],
+    "salandit": [
+      "machine"
+    ],
+    "salazzle": [
+      "machine"
+    ],
+    "golisopod": [
+      "machine"
+    ],
+    "palossand": [
+      "machine"
+    ],
+    "nihilego": [
+      "machine"
+    ],
+    "guzzlord": [
+      "machine"
+    ],
+    "poipole": [
+      "machine"
+    ],
+    "naganadel": [
+      "machine"
+    ],
+    "tornadus-therian": [
+      "machine"
+    ],
+    "thundurus-therian": [
+      "machine"
+    ],
+    "landorus-therian": [
+      "machine"
+    ],
+    "pumpkaboo-small": [
+      "machine"
+    ],
+    "pumpkaboo-large": [
+      "machine"
+    ],
+    "pumpkaboo-super": [
+      "machine"
+    ],
+    "gourgeist-small": [
+      "machine"
+    ],
+    "gourgeist-large": [
+      "machine"
+    ],
+    "gourgeist-super": [
+      "machine"
+    ],
+    "venusaur-mega": [
+      "machine"
+    ],
+    "gengar-mega": [
+      "machine"
+    ],
+    "houndoom-mega": [
+      "machine"
+    ],
+    "mawile-mega": [
+      "machine"
+    ],
+    "metagross-mega": [
+      "machine"
+    ],
+    "beedrill-mega": [
+      "machine"
+    ],
+    "rattata-alola": [
+      "machine"
+    ],
+    "raticate-alola": [
+      "machine"
+    ],
+    "raticate-totem-alola": [
+      "machine"
+    ],
+    "diglett-alola": [
+      "machine"
+    ],
+    "dugtrio-alola": [
+      "machine"
+    ],
+    "grimer-alola": [
+      "machine"
+    ],
+    "muk-alola": [
+      "machine"
+    ],
+    "exeggutor-alola": [
+      "machine"
+    ],
+    "salazzle-totem": [
+      "machine"
+    ]
+  }
+}

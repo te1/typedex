@@ -1,0 +1,232 @@
+{
+  "name": "solgaleo",
+  "caption": "Solgaleo",
+  "types": [
+    "psychic",
+    "steel"
+  ],
+  "species": "solgaleo",
+  "gen": "generation-vii",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 3.4,
+  "weight": 230,
+  "baseStats": {
+    "hp": 137,
+    "attack": 137,
+    "defense": 107,
+    "special-attack": 113,
+    "special-defense": 89,
+    "speed": 97
+  },
+  "evolutionChain": {
+    "species": "cosmog",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "cosmoem",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "solgaleo",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          },
+          {
+            "species": "lunala",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Sometimes the result of its opening an Ultra\nWormhole is that energy and life-forms from\nother worlds are called here to this world.",
+  "moves": {
+    "roar": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "level-up",
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "teleport": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "metal-claw": [
+      "level-up"
+    ],
+    "morning-sun": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "metal-sound": [
+      "level-up"
+    ],
+    "cosmic-power": [
+      "level-up"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "wake-up-slap": [
+      "level-up"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "metal-burst": [
+      "level-up"
+    ],
+    "flare-blitz": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "level-up",
+      "machine"
+    ],
+    "zen-headbutt": [
+      "level-up"
+    ],
+    "flash-cannon": [
+      "level-up",
+      "machine"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "iron-head": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "wide-guard": [
+      "level-up"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "noble-roar": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "sunsteel-strike": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "full-metal-body": 1
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "name": "signal-beam",
+  "caption": "Signal Beam",
+  "type": "bug",
+  "damageCategory": "special",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Has a 10% chance to confuse the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 10% chance to [confuse]{mechanic:confuse} the target."
+  },
+  "flavorText": "The user attacks with a sinister beam of light.\nThis may also confuse the target.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "venonat": [
+      "level-up",
+      "egg"
+    ],
+    "venomoth": [
+      "level-up"
+    ],
+    "seel": [
+      "egg"
+    ],
+    "dewgong": [
+      "level-up"
+    ],
+    "horsea": [
+      "egg"
+    ],
+    "goldeen": [
+      "egg"
+    ],
+    "porygon": [
+      "level-up"
+    ],
+    "spinarak": [
+      "egg"
+    ],
+    "chinchou": [
+      "level-up"
+    ],
+    "lanturn": [
+      "level-up"
+    ],
+    "mareep": [
+      "level-up"
+    ],
+    "flaaffy": [
+      "level-up"
+    ],
+    "ampharos": [
+      "level-up"
+    ],
+    "yanma": [
+      "egg"
+    ],
+    "qwilfish": [
+      "egg"
+    ],
+    "remoraid": [
+      "level-up"
+    ],
+    "octillery": [
+      "level-up"
+    ],
+    "mantine": [
+      "level-up"
+    ],
+    "porygon2": [
+      "level-up"
+    ],
+    "surskit": [
+      "egg"
+    ],
+    "volbeat": [
+      "level-up"
+    ],
+    "trapinch": [
+      "egg"
+    ],
+    "spheal": [
+      "egg"
+    ],
+    "shinx": [
+      "egg"
+    ],
+    "finneon": [
+      "egg"
+    ],
+    "mantyke": [
+      "egg"
+    ],
+    "porygon-z": [
+      "level-up"
+    ],
+    "joltik": [
+      "level-up"
+    ],
+    "galvantula": [
+      "level-up"
+    ],
+    "genesect": [
+      "level-up"
+    ],
+    "xurkitree": [
+      "level-up"
+    ],
+    "meowstic-female": [
+      "level-up"
+    ],
+    "ampharos-mega": [
+      "level-up"
+    ]
+  }
+}

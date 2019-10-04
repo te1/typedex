@@ -1,0 +1,20 @@
+{
+  "name": "sticky-hold",
+  "caption": "Sticky Hold",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Prevents a held item from being removed by other Pokémon.",
+    "full": "This Pokémon's hold item cannot be removed by other Pokémon.\n\nDamaging moves that would remove this Pokémon's item can still inflict damage against this Pokémon, e.g. []{move:knock-off} or []{move:pluck}.  This Pokémon can still use moves that involve the loss of its own item, e.g. []{move:fling} or []{move:trick}.\n\nOverworld: If the lead Pokémon has this ability, the encounter rate while fishing is increased."
+  },
+  "flavorText": "Items held by the Pokémon are stuck fast and\ncannot be removed by other Pokémon.",
+  "pokemon": {
+    "grimer": 2,
+    "muk": 2,
+    "gulpin": 2,
+    "swalot": 2,
+    "shellos": 1,
+    "gastrodon": 1,
+    "trubbish": 2,
+    "accelgor": 2
+  }
+}

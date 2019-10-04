@@ -1,0 +1,180 @@
+{
+  "name": "wailord",
+  "caption": "Wailord",
+  "types": [
+    "water"
+  ],
+  "species": "wailord",
+  "gen": "generation-iii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 14.5,
+  "weight": 398,
+  "baseStats": {
+    "hp": 170,
+    "attack": 90,
+    "defense": 45,
+    "special-attack": 90,
+    "special-defense": 45,
+    "speed": 60
+  },
+  "evolutionChain": {
+    "species": "wailmer",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "wailord",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "They eat so many fish Pokémon that when\nWailord become too numerous, fishermen have\nto chase them off.",
+  "moves": {
+    "growl": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "mist": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "amnesia": [
+      "level-up"
+    ],
+    "splash": [
+      "level-up"
+    ],
+    "rest": [
+      "level-up",
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "rollout": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "whirlpool": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "dive": [
+      "level-up"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "water-spout": [
+      "level-up"
+    ],
+    "water-pulse": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "bounce": [
+      "level-up"
+    ],
+    "brine": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "heavy-slam": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "soak": [
+      "level-up"
+    ],
+    "noble-roar": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "water-veil": 1,
+    "oblivious": 2,
+    "pressure": "hidden"
+  }
+}

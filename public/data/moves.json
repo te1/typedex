@@ -1,0 +1,6963 @@
+{
+  "moves": [
+    {
+      "name": "10-000-000-volt-thunderbolt",
+      "caption": "10,000,000 Volt Thunderbolt",
+      "type": "electric",
+      "damageCategory": "special",
+      "power": 195,
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "absorb",
+      "caption": "Absorb",
+      "type": "grass",
+      "damageCategory": "special",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 25,
+      "gen": "generation-i"
+    },
+    {
+      "name": "accelerock",
+      "caption": "Accelerock",
+      "type": "rock",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "acid",
+      "caption": "Acid",
+      "type": "poison",
+      "damageCategory": "special",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "acid-armor",
+      "caption": "Acid Armor",
+      "type": "poison",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "acid-downpour--physical",
+      "caption": "Acid Downpour",
+      "type": "poison",
+      "damageCategory": "physical",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "acid-downpour--special",
+      "caption": "Acid Downpour",
+      "type": "poison",
+      "damageCategory": "special",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "acid-spray",
+      "caption": "Acid Spray",
+      "type": "poison",
+      "damageCategory": "special",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-v"
+    },
+    {
+      "name": "acrobatics",
+      "caption": "Acrobatics",
+      "type": "flying",
+      "damageCategory": "physical",
+      "power": 55,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "acupressure",
+      "caption": "Acupressure",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 30,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "aerial-ace",
+      "caption": "Aerial Ace",
+      "type": "flying",
+      "damageCategory": "physical",
+      "power": 60,
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "aeroblast",
+      "caption": "Aeroblast",
+      "type": "flying",
+      "damageCategory": "special",
+      "power": 100,
+      "accuracy": 95,
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "after-you",
+      "caption": "After You",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "agility",
+      "caption": "Agility",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "air-cutter",
+      "caption": "Air Cutter",
+      "type": "flying",
+      "damageCategory": "special",
+      "power": 60,
+      "accuracy": 95,
+      "pp": 25,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "air-slash",
+      "caption": "Air Slash",
+      "type": "flying",
+      "damageCategory": "special",
+      "power": 75,
+      "accuracy": 95,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "all-out-pummeling--physical",
+      "caption": "All-Out Pummeling",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "all-out-pummeling--special",
+      "caption": "All-Out Pummeling",
+      "type": "fighting",
+      "damageCategory": "special",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "ally-switch",
+      "caption": "Ally Switch",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "amnesia",
+      "caption": "Amnesia",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "anchor-shot",
+      "caption": "Anchor Shot",
+      "type": "steel",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "ancient-power",
+      "caption": "Ancient Power",
+      "type": "rock",
+      "damageCategory": "special",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "aqua-jet",
+      "caption": "Aqua Jet",
+      "type": "water",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "aqua-ring",
+      "caption": "Aqua Ring",
+      "type": "water",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "aqua-tail",
+      "caption": "Aqua Tail",
+      "type": "water",
+      "damageCategory": "physical",
+      "power": 90,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "arm-thrust",
+      "caption": "Arm Thrust",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 15,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "aromatherapy",
+      "caption": "Aromatherapy",
+      "type": "grass",
+      "damageCategory": "status",
+      "pp": 5,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "aromatic-mist",
+      "caption": "Aromatic Mist",
+      "type": "fairy",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "assist",
+      "caption": "Assist",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "assurance",
+      "caption": "Assurance",
+      "type": "dark",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "astonish",
+      "caption": "Astonish",
+      "type": "ghost",
+      "damageCategory": "physical",
+      "power": 30,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "attack-order",
+      "caption": "Attack Order",
+      "type": "bug",
+      "damageCategory": "physical",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "attract",
+      "caption": "Attract",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "aura-sphere",
+      "caption": "Aura Sphere",
+      "type": "fighting",
+      "damageCategory": "special",
+      "power": 80,
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "aurora-beam",
+      "caption": "Aurora Beam",
+      "type": "ice",
+      "damageCategory": "special",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "aurora-veil",
+      "caption": "Aurora Veil",
+      "type": "ice",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "autotomize",
+      "caption": "Autotomize",
+      "type": "steel",
+      "damageCategory": "status",
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "avalanche",
+      "caption": "Avalanche",
+      "type": "ice",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "baby-doll-eyes",
+      "caption": "Baby-Doll Eyes",
+      "type": "fairy",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "baneful-bunker",
+      "caption": "Baneful Bunker",
+      "type": "poison",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "barrage",
+      "caption": "Barrage",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 15,
+      "accuracy": 85,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "barrier",
+      "caption": "Barrier",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "baton-pass",
+      "caption": "Baton Pass",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 40,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "beak-blast",
+      "caption": "Beak Blast",
+      "type": "flying",
+      "damageCategory": "physical",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "beat-up",
+      "caption": "Beat Up",
+      "type": "dark",
+      "damageCategory": "physical",
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "belch",
+      "caption": "Belch",
+      "type": "poison",
+      "damageCategory": "special",
+      "power": 120,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "belly-drum",
+      "caption": "Belly Drum",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "bestow",
+      "caption": "Bestow",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "bide",
+      "caption": "Bide",
+      "type": "normal",
+      "damageCategory": "physical",
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "bind",
+      "caption": "Bind",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 15,
+      "accuracy": 85,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "bite",
+      "caption": "Bite",
+      "type": "dark",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 25,
+      "gen": "generation-i"
+    },
+    {
+      "name": "black-hole-eclipse--physical",
+      "caption": "Black Hole Eclipse",
+      "type": "dark",
+      "damageCategory": "physical",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "black-hole-eclipse--special",
+      "caption": "Black Hole Eclipse",
+      "type": "dark",
+      "damageCategory": "special",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "blast-burn",
+      "caption": "Blast Burn",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 150,
+      "accuracy": 90,
+      "pp": 5,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "blaze-kick",
+      "caption": "Blaze Kick",
+      "type": "fire",
+      "damageCategory": "physical",
+      "power": 85,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "blizzard",
+      "caption": "Blizzard",
+      "type": "ice",
+      "damageCategory": "special",
+      "power": 110,
+      "accuracy": 70,
+      "pp": 5,
+      "gen": "generation-i"
+    },
+    {
+      "name": "block",
+      "caption": "Block",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 5,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "bloom-doom--physical",
+      "caption": "Bloom Doom",
+      "type": "grass",
+      "damageCategory": "physical",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "bloom-doom--special",
+      "caption": "Bloom Doom",
+      "type": "grass",
+      "damageCategory": "special",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "blue-flare",
+      "caption": "Blue Flare",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 130,
+      "accuracy": 85,
+      "pp": 5,
+      "gen": "generation-v"
+    },
+    {
+      "name": "body-slam",
+      "caption": "Body Slam",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "bolt-strike",
+      "caption": "Bolt Strike",
+      "type": "electric",
+      "damageCategory": "physical",
+      "power": 130,
+      "accuracy": 85,
+      "pp": 5,
+      "gen": "generation-v"
+    },
+    {
+      "name": "bone-club",
+      "caption": "Bone Club",
+      "type": "ground",
+      "damageCategory": "physical",
+      "power": 65,
+      "accuracy": 85,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "bone-rush",
+      "caption": "Bone Rush",
+      "type": "ground",
+      "damageCategory": "physical",
+      "power": 25,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "bonemerang",
+      "caption": "Bonemerang",
+      "type": "ground",
+      "damageCategory": "physical",
+      "power": 50,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "boomburst",
+      "caption": "Boomburst",
+      "type": "normal",
+      "damageCategory": "special",
+      "power": 140,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "bounce",
+      "caption": "Bounce",
+      "type": "flying",
+      "damageCategory": "physical",
+      "power": 85,
+      "accuracy": 85,
+      "pp": 5,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "brave-bird",
+      "caption": "Brave Bird",
+      "type": "flying",
+      "damageCategory": "physical",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "breakneck-blitz--physical",
+      "caption": "Breakneck Blitz",
+      "type": "normal",
+      "damageCategory": "physical",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "breakneck-blitz--special",
+      "caption": "Breakneck Blitz",
+      "type": "normal",
+      "damageCategory": "special",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "brick-break",
+      "caption": "Brick Break",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "brine",
+      "caption": "Brine",
+      "type": "water",
+      "damageCategory": "special",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "brutal-swing",
+      "caption": "Brutal Swing",
+      "type": "dark",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "bubble",
+      "caption": "Bubble",
+      "type": "water",
+      "damageCategory": "special",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "bubble-beam",
+      "caption": "Bubble Beam",
+      "type": "water",
+      "damageCategory": "special",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "bug-bite",
+      "caption": "Bug Bite",
+      "type": "bug",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "bug-buzz",
+      "caption": "Bug Buzz",
+      "type": "bug",
+      "damageCategory": "special",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "bulk-up",
+      "caption": "Bulk Up",
+      "type": "fighting",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "bulldoze",
+      "caption": "Bulldoze",
+      "type": "ground",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-v"
+    },
+    {
+      "name": "bullet-punch",
+      "caption": "Bullet Punch",
+      "type": "steel",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "bullet-seed",
+      "caption": "Bullet Seed",
+      "type": "grass",
+      "damageCategory": "physical",
+      "power": 25,
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "burn-up",
+      "caption": "Burn Up",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 130,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "calm-mind",
+      "caption": "Calm Mind",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "camouflage",
+      "caption": "Camouflage",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "captivate",
+      "caption": "Captivate",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "catastropika",
+      "caption": "Catastropika",
+      "type": "electric",
+      "damageCategory": "physical",
+      "power": 210,
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "celebrate",
+      "caption": "Celebrate",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 40,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "charge",
+      "caption": "Charge",
+      "type": "electric",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "charge-beam",
+      "caption": "Charge Beam",
+      "type": "electric",
+      "damageCategory": "special",
+      "power": 50,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "charm",
+      "caption": "Charm",
+      "type": "fairy",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "chatter",
+      "caption": "Chatter",
+      "type": "flying",
+      "damageCategory": "special",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "chip-away",
+      "caption": "Chip Away",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-v"
+    },
+    {
+      "name": "circle-throw",
+      "caption": "Circle Throw",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "clamp",
+      "caption": "Clamp",
+      "type": "water",
+      "damageCategory": "physical",
+      "power": 35,
+      "accuracy": 85,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "clanging-scales",
+      "caption": "Clanging Scales",
+      "type": "dragon",
+      "damageCategory": "special",
+      "power": 110,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "clangorous-soulblaze",
+      "caption": "Clangorous Soulblaze",
+      "type": "dragon",
+      "damageCategory": "special",
+      "power": 185,
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "clear-smog",
+      "caption": "Clear Smog",
+      "type": "poison",
+      "damageCategory": "special",
+      "power": 50,
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "close-combat",
+      "caption": "Close Combat",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "coil",
+      "caption": "Coil",
+      "type": "poison",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-v"
+    },
+    {
+      "name": "comet-punch",
+      "caption": "Comet Punch",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 18,
+      "accuracy": 85,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "confide",
+      "caption": "Confide",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "confuse-ray",
+      "caption": "Confuse Ray",
+      "type": "ghost",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "confusion",
+      "caption": "Confusion",
+      "type": "psychic",
+      "damageCategory": "special",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 25,
+      "gen": "generation-i"
+    },
+    {
+      "name": "constrict",
+      "caption": "Constrict",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 10,
+      "accuracy": 100,
+      "pp": 35,
+      "gen": "generation-i"
+    },
+    {
+      "name": "continental-crush--physical",
+      "caption": "Continental Crush",
+      "type": "rock",
+      "damageCategory": "physical",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "continental-crush--special",
+      "caption": "Continental Crush",
+      "type": "rock",
+      "damageCategory": "special",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "conversion",
+      "caption": "Conversion",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "conversion-2",
+      "caption": "Conversion 2",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 30,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "copycat",
+      "caption": "Copycat",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "core-enforcer",
+      "caption": "Core Enforcer",
+      "type": "dragon",
+      "damageCategory": "special",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "corkscrew-crash--physical",
+      "caption": "Corkscrew Crash",
+      "type": "steel",
+      "damageCategory": "physical",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "corkscrew-crash--special",
+      "caption": "Corkscrew Crash",
+      "type": "steel",
+      "damageCategory": "special",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "cosmic-power",
+      "caption": "Cosmic Power",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "cotton-guard",
+      "caption": "Cotton Guard",
+      "type": "grass",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "cotton-spore",
+      "caption": "Cotton Spore",
+      "type": "grass",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 40,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "counter",
+      "caption": "Counter",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "covet",
+      "caption": "Covet",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 25,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "crabhammer",
+      "caption": "Crabhammer",
+      "type": "water",
+      "damageCategory": "physical",
+      "power": 100,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "crafty-shield",
+      "caption": "Crafty Shield",
+      "type": "fairy",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "cross-chop",
+      "caption": "Cross Chop",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 100,
+      "accuracy": 80,
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "cross-poison",
+      "caption": "Cross Poison",
+      "type": "poison",
+      "damageCategory": "physical",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "crunch",
+      "caption": "Crunch",
+      "type": "dark",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "crush-claw",
+      "caption": "Crush Claw",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 75,
+      "accuracy": 95,
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "crush-grip",
+      "caption": "Crush Grip",
+      "type": "normal",
+      "damageCategory": "physical",
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "curse",
+      "caption": "Curse",
+      "type": "ghost",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "cut",
+      "caption": "Cut",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 50,
+      "accuracy": 95,
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "dark-pulse",
+      "caption": "Dark Pulse",
+      "type": "dark",
+      "damageCategory": "special",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "dark-void",
+      "caption": "Dark Void",
+      "type": "dark",
+      "damageCategory": "status",
+      "accuracy": 50,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "darkest-lariat",
+      "caption": "Darkest Lariat",
+      "type": "dark",
+      "damageCategory": "physical",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "dazzling-gleam",
+      "caption": "Dazzling Gleam",
+      "type": "fairy",
+      "damageCategory": "special",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "defend-order",
+      "caption": "Defend Order",
+      "type": "bug",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "defense-curl",
+      "caption": "Defense Curl",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 40,
+      "gen": "generation-i"
+    },
+    {
+      "name": "defog",
+      "caption": "Defog",
+      "type": "flying",
+      "damageCategory": "status",
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "destiny-bond",
+      "caption": "Destiny Bond",
+      "type": "ghost",
+      "damageCategory": "status",
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "detect",
+      "caption": "Detect",
+      "type": "fighting",
+      "damageCategory": "status",
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "devastating-drake--physical",
+      "caption": "Devastating Drake",
+      "type": "dragon",
+      "damageCategory": "physical",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "devastating-drake--special",
+      "caption": "Devastating Drake",
+      "type": "dragon",
+      "damageCategory": "special",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "diamond-storm",
+      "caption": "Diamond Storm",
+      "type": "rock",
+      "damageCategory": "physical",
+      "power": 100,
+      "accuracy": 95,
+      "pp": 5,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "dig",
+      "caption": "Dig",
+      "type": "ground",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "disable",
+      "caption": "Disable",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "disarming-voice",
+      "caption": "Disarming Voice",
+      "type": "fairy",
+      "damageCategory": "special",
+      "power": 40,
+      "pp": 15,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "discharge",
+      "caption": "Discharge",
+      "type": "electric",
+      "damageCategory": "special",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "dive",
+      "caption": "Dive",
+      "type": "water",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "dizzy-punch",
+      "caption": "Dizzy Punch",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "doom-desire",
+      "caption": "Doom Desire",
+      "type": "steel",
+      "damageCategory": "special",
+      "power": 140,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "double-edge",
+      "caption": "Double-Edge",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "double-hit",
+      "caption": "Double Hit",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 35,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "double-kick",
+      "caption": "Double Kick",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 30,
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "double-slap",
+      "caption": "Double Slap",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 15,
+      "accuracy": 85,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "double-team",
+      "caption": "Double Team",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "draco-meteor",
+      "caption": "Draco Meteor",
+      "type": "dragon",
+      "damageCategory": "special",
+      "power": 130,
+      "accuracy": 90,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "dragon-ascent",
+      "caption": "Dragon Ascent",
+      "type": "flying",
+      "damageCategory": "physical",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "dragon-breath",
+      "caption": "Dragon Breath",
+      "type": "dragon",
+      "damageCategory": "special",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "dragon-claw",
+      "caption": "Dragon Claw",
+      "type": "dragon",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "dragon-dance",
+      "caption": "Dragon Dance",
+      "type": "dragon",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "dragon-hammer",
+      "caption": "Dragon Hammer",
+      "type": "dragon",
+      "damageCategory": "physical",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "dragon-pulse",
+      "caption": "Dragon Pulse",
+      "type": "dragon",
+      "damageCategory": "special",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "dragon-rage",
+      "caption": "Dragon Rage",
+      "type": "dragon",
+      "damageCategory": "special",
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "dragon-rush",
+      "caption": "Dragon Rush",
+      "type": "dragon",
+      "damageCategory": "physical",
+      "power": 100,
+      "accuracy": 75,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "dragon-tail",
+      "caption": "Dragon Tail",
+      "type": "dragon",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "drain-punch",
+      "caption": "Drain Punch",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "draining-kiss",
+      "caption": "Draining Kiss",
+      "type": "fairy",
+      "damageCategory": "special",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "dream-eater",
+      "caption": "Dream Eater",
+      "type": "psychic",
+      "damageCategory": "special",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "drill-peck",
+      "caption": "Drill Peck",
+      "type": "flying",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "drill-run",
+      "caption": "Drill Run",
+      "type": "ground",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 95,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "dual-chop",
+      "caption": "Dual Chop",
+      "type": "dragon",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 90,
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "dynamic-punch",
+      "caption": "Dynamic Punch",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 100,
+      "accuracy": 50,
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "earth-power",
+      "caption": "Earth Power",
+      "type": "ground",
+      "damageCategory": "special",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "earthquake",
+      "caption": "Earthquake",
+      "type": "ground",
+      "damageCategory": "physical",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "echoed-voice",
+      "caption": "Echoed Voice",
+      "type": "normal",
+      "damageCategory": "special",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "eerie-impulse",
+      "caption": "Eerie Impulse",
+      "type": "electric",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "egg-bomb",
+      "caption": "Egg Bomb",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 100,
+      "accuracy": 75,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "electric-terrain",
+      "caption": "Electric Terrain",
+      "type": "electric",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "electrify",
+      "caption": "Electrify",
+      "type": "electric",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "electro-ball",
+      "caption": "Electro Ball",
+      "type": "electric",
+      "damageCategory": "special",
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "electroweb",
+      "caption": "Electroweb",
+      "type": "electric",
+      "damageCategory": "special",
+      "power": 55,
+      "accuracy": 95,
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "embargo",
+      "caption": "Embargo",
+      "type": "dark",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "ember",
+      "caption": "Ember",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 25,
+      "gen": "generation-i"
+    },
+    {
+      "name": "encore",
+      "caption": "Encore",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "endeavor",
+      "caption": "Endeavor",
+      "type": "normal",
+      "damageCategory": "physical",
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "endure",
+      "caption": "Endure",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "energy-ball",
+      "caption": "Energy Ball",
+      "type": "grass",
+      "damageCategory": "special",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "entrainment",
+      "caption": "Entrainment",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "eruption",
+      "caption": "Eruption",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 150,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "explosion",
+      "caption": "Explosion",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 250,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-i"
+    },
+    {
+      "name": "extrasensory",
+      "caption": "Extrasensory",
+      "type": "psychic",
+      "damageCategory": "special",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "extreme-evoboost",
+      "caption": "Extreme Evoboost",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "extreme-speed",
+      "caption": "Extreme Speed",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "facade",
+      "caption": "Facade",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "fairy-lock",
+      "caption": "Fairy Lock",
+      "type": "fairy",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "fairy-wind",
+      "caption": "Fairy Wind",
+      "type": "fairy",
+      "damageCategory": "special",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "fake-out",
+      "caption": "Fake Out",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "fake-tears",
+      "caption": "Fake Tears",
+      "type": "dark",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "false-swipe",
+      "caption": "False Swipe",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 40,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "feather-dance",
+      "caption": "Feather Dance",
+      "type": "flying",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "feint",
+      "caption": "Feint",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 30,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "feint-attack",
+      "caption": "Feint Attack",
+      "type": "dark",
+      "damageCategory": "physical",
+      "power": 60,
+      "pp": 20,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "fell-stinger",
+      "caption": "Fell Stinger",
+      "type": "bug",
+      "damageCategory": "physical",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 25,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "fiery-dance",
+      "caption": "Fiery Dance",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "final-gambit",
+      "caption": "Final Gambit",
+      "type": "fighting",
+      "damageCategory": "special",
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-v"
+    },
+    {
+      "name": "fire-blast",
+      "caption": "Fire Blast",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 110,
+      "accuracy": 85,
+      "pp": 5,
+      "gen": "generation-i"
+    },
+    {
+      "name": "fire-fang",
+      "caption": "Fire Fang",
+      "type": "fire",
+      "damageCategory": "physical",
+      "power": 65,
+      "accuracy": 95,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "fire-lash",
+      "caption": "Fire Lash",
+      "type": "fire",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "fire-pledge",
+      "caption": "Fire Pledge",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "fire-punch",
+      "caption": "Fire Punch",
+      "type": "fire",
+      "damageCategory": "physical",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "fire-spin",
+      "caption": "Fire Spin",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 35,
+      "accuracy": 85,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "first-impression",
+      "caption": "First Impression",
+      "type": "bug",
+      "damageCategory": "physical",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "fissure",
+      "caption": "Fissure",
+      "type": "ground",
+      "damageCategory": "physical",
+      "accuracy": 30,
+      "pp": 5,
+      "gen": "generation-i"
+    },
+    {
+      "name": "flail",
+      "caption": "Flail",
+      "type": "normal",
+      "damageCategory": "physical",
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "flame-burst",
+      "caption": "Flame Burst",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "flame-charge",
+      "caption": "Flame Charge",
+      "type": "fire",
+      "damageCategory": "physical",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-v"
+    },
+    {
+      "name": "flame-wheel",
+      "caption": "Flame Wheel",
+      "type": "fire",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 25,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "flamethrower",
+      "caption": "Flamethrower",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "flare-blitz",
+      "caption": "Flare Blitz",
+      "type": "fire",
+      "damageCategory": "physical",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "flash",
+      "caption": "Flash",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "flash-cannon",
+      "caption": "Flash Cannon",
+      "type": "steel",
+      "damageCategory": "special",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "flatter",
+      "caption": "Flatter",
+      "type": "dark",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "fleur-cannon",
+      "caption": "Fleur Cannon",
+      "type": "fairy",
+      "damageCategory": "special",
+      "power": 130,
+      "accuracy": 90,
+      "pp": 5,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "fling",
+      "caption": "Fling",
+      "type": "dark",
+      "damageCategory": "physical",
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "floral-healing",
+      "caption": "Floral Healing",
+      "type": "fairy",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "flower-shield",
+      "caption": "Flower Shield",
+      "type": "fairy",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "fly",
+      "caption": "Fly",
+      "type": "flying",
+      "damageCategory": "physical",
+      "power": 90,
+      "accuracy": 95,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "flying-press",
+      "caption": "Flying Press",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 100,
+      "accuracy": 95,
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "focus-blast",
+      "caption": "Focus Blast",
+      "type": "fighting",
+      "damageCategory": "special",
+      "power": 120,
+      "accuracy": 70,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "focus-energy",
+      "caption": "Focus Energy",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "focus-punch",
+      "caption": "Focus Punch",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 150,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "follow-me",
+      "caption": "Follow Me",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "force-palm",
+      "caption": "Force Palm",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "foresight",
+      "caption": "Foresight",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 40,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "forests-curse",
+      "caption": "Forest’s Curse",
+      "type": "grass",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "foul-play",
+      "caption": "Foul Play",
+      "type": "dark",
+      "damageCategory": "physical",
+      "power": 95,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "freeze-dry",
+      "caption": "Freeze-Dry",
+      "type": "ice",
+      "damageCategory": "special",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "freeze-shock",
+      "caption": "Freeze Shock",
+      "type": "ice",
+      "damageCategory": "physical",
+      "power": 140,
+      "accuracy": 90,
+      "pp": 5,
+      "gen": "generation-v"
+    },
+    {
+      "name": "frenzy-plant",
+      "caption": "Frenzy Plant",
+      "type": "grass",
+      "damageCategory": "special",
+      "power": 150,
+      "accuracy": 90,
+      "pp": 5,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "frost-breath",
+      "caption": "Frost Breath",
+      "type": "ice",
+      "damageCategory": "special",
+      "power": 60,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "frustration",
+      "caption": "Frustration",
+      "type": "normal",
+      "damageCategory": "physical",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "fury-attack",
+      "caption": "Fury Attack",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 15,
+      "accuracy": 85,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "fury-cutter",
+      "caption": "Fury Cutter",
+      "type": "bug",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 95,
+      "pp": 20,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "fury-swipes",
+      "caption": "Fury Swipes",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 18,
+      "accuracy": 80,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "fusion-bolt",
+      "caption": "Fusion Bolt",
+      "type": "electric",
+      "damageCategory": "physical",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-v"
+    },
+    {
+      "name": "fusion-flare",
+      "caption": "Fusion Flare",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-v"
+    },
+    {
+      "name": "future-sight",
+      "caption": "Future Sight",
+      "type": "psychic",
+      "damageCategory": "special",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "gastro-acid",
+      "caption": "Gastro Acid",
+      "type": "poison",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "gear-grind",
+      "caption": "Gear Grind",
+      "type": "steel",
+      "damageCategory": "physical",
+      "power": 50,
+      "accuracy": 85,
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "gear-up",
+      "caption": "Gear Up",
+      "type": "steel",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "genesis-supernova",
+      "caption": "Genesis Supernova",
+      "type": "psychic",
+      "damageCategory": "special",
+      "power": 185,
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "geomancy",
+      "caption": "Geomancy",
+      "type": "fairy",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "giga-drain",
+      "caption": "Giga Drain",
+      "type": "grass",
+      "damageCategory": "special",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "giga-impact",
+      "caption": "Giga Impact",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 150,
+      "accuracy": 90,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "gigavolt-havoc--physical",
+      "caption": "Gigavolt Havoc",
+      "type": "electric",
+      "damageCategory": "physical",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "gigavolt-havoc--special",
+      "caption": "Gigavolt Havoc",
+      "type": "electric",
+      "damageCategory": "special",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "glaciate",
+      "caption": "Glaciate",
+      "type": "ice",
+      "damageCategory": "special",
+      "power": 65,
+      "accuracy": 95,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "glare",
+      "caption": "Glare",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "grass-knot",
+      "caption": "Grass Knot",
+      "type": "grass",
+      "damageCategory": "special",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "grass-pledge",
+      "caption": "Grass Pledge",
+      "type": "grass",
+      "damageCategory": "special",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "grass-whistle",
+      "caption": "Grass Whistle",
+      "type": "grass",
+      "damageCategory": "status",
+      "accuracy": 55,
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "grassy-terrain",
+      "caption": "Grassy Terrain",
+      "type": "grass",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "gravity",
+      "caption": "Gravity",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "growl",
+      "caption": "Growl",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 40,
+      "gen": "generation-i"
+    },
+    {
+      "name": "growth",
+      "caption": "Growth",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "grudge",
+      "caption": "Grudge",
+      "type": "ghost",
+      "damageCategory": "status",
+      "pp": 5,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "guard-split",
+      "caption": "Guard Split",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "guard-swap",
+      "caption": "Guard Swap",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "guardian-of-alola",
+      "caption": "Guardian of Alola",
+      "type": "fairy",
+      "damageCategory": "special",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "guillotine",
+      "caption": "Guillotine",
+      "type": "normal",
+      "damageCategory": "physical",
+      "accuracy": 30,
+      "pp": 5,
+      "gen": "generation-i"
+    },
+    {
+      "name": "gunk-shot",
+      "caption": "Gunk Shot",
+      "type": "poison",
+      "damageCategory": "physical",
+      "power": 120,
+      "accuracy": 80,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "gust",
+      "caption": "Gust",
+      "type": "flying",
+      "damageCategory": "special",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35,
+      "gen": "generation-i"
+    },
+    {
+      "name": "gyro-ball",
+      "caption": "Gyro Ball",
+      "type": "steel",
+      "damageCategory": "physical",
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "hail",
+      "caption": "Hail",
+      "type": "ice",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "hammer-arm",
+      "caption": "Hammer Arm",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 100,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "happy-hour",
+      "caption": "Happy Hour",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 30,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "harden",
+      "caption": "Harden",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "haze",
+      "caption": "Haze",
+      "type": "ice",
+      "damageCategory": "status",
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "head-charge",
+      "caption": "Head Charge",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "head-smash",
+      "caption": "Head Smash",
+      "type": "rock",
+      "damageCategory": "physical",
+      "power": 150,
+      "accuracy": 80,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "headbutt",
+      "caption": "Headbutt",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "heal-bell",
+      "caption": "Heal Bell",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "heal-block",
+      "caption": "Heal Block",
+      "type": "psychic",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "heal-order",
+      "caption": "Heal Order",
+      "type": "bug",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "heal-pulse",
+      "caption": "Heal Pulse",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "healing-wish",
+      "caption": "Healing Wish",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "heart-stamp",
+      "caption": "Heart Stamp",
+      "type": "psychic",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 25,
+      "gen": "generation-v"
+    },
+    {
+      "name": "heart-swap",
+      "caption": "Heart Swap",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "heat-crash",
+      "caption": "Heat Crash",
+      "type": "fire",
+      "damageCategory": "physical",
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "heat-wave",
+      "caption": "Heat Wave",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 95,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "heavy-slam",
+      "caption": "Heavy Slam",
+      "type": "steel",
+      "damageCategory": "physical",
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "helping-hand",
+      "caption": "Helping Hand",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "hex",
+      "caption": "Hex",
+      "type": "ghost",
+      "damageCategory": "special",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "hidden-power",
+      "caption": "Hidden Power",
+      "type": "normal",
+      "damageCategory": "special",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "high-horsepower",
+      "caption": "High Horsepower",
+      "type": "ground",
+      "damageCategory": "physical",
+      "power": 95,
+      "accuracy": 95,
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "high-jump-kick",
+      "caption": "High Jump Kick",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 130,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "hold-back",
+      "caption": "Hold Back",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 40,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "hold-hands",
+      "caption": "Hold Hands",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 40,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "hone-claws",
+      "caption": "Hone Claws",
+      "type": "dark",
+      "damageCategory": "status",
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "horn-attack",
+      "caption": "Horn Attack",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 25,
+      "gen": "generation-i"
+    },
+    {
+      "name": "horn-drill",
+      "caption": "Horn Drill",
+      "type": "normal",
+      "damageCategory": "physical",
+      "accuracy": 30,
+      "pp": 5,
+      "gen": "generation-i"
+    },
+    {
+      "name": "horn-leech",
+      "caption": "Horn Leech",
+      "type": "grass",
+      "damageCategory": "physical",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "howl",
+      "caption": "Howl",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 40,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "hurricane",
+      "caption": "Hurricane",
+      "type": "flying",
+      "damageCategory": "special",
+      "power": 110,
+      "accuracy": 70,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "hydro-cannon",
+      "caption": "Hydro Cannon",
+      "type": "water",
+      "damageCategory": "special",
+      "power": 150,
+      "accuracy": 90,
+      "pp": 5,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "hydro-pump",
+      "caption": "Hydro Pump",
+      "type": "water",
+      "damageCategory": "special",
+      "power": 110,
+      "accuracy": 80,
+      "pp": 5,
+      "gen": "generation-i"
+    },
+    {
+      "name": "hydro-vortex--physical",
+      "caption": "Hydro Vortex",
+      "type": "water",
+      "damageCategory": "physical",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "hydro-vortex--special",
+      "caption": "Hydro Vortex",
+      "type": "water",
+      "damageCategory": "special",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "hyper-beam",
+      "caption": "Hyper Beam",
+      "type": "normal",
+      "damageCategory": "special",
+      "power": 150,
+      "accuracy": 90,
+      "pp": 5,
+      "gen": "generation-i"
+    },
+    {
+      "name": "hyper-fang",
+      "caption": "Hyper Fang",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 90,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "hyper-voice",
+      "caption": "Hyper Voice",
+      "type": "normal",
+      "damageCategory": "special",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "hyperspace-fury",
+      "caption": "Hyperspace Fury",
+      "type": "dark",
+      "damageCategory": "physical",
+      "power": 100,
+      "pp": 5,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "hyperspace-hole",
+      "caption": "Hyperspace Hole",
+      "type": "psychic",
+      "damageCategory": "special",
+      "power": 80,
+      "pp": 5,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "hypnosis",
+      "caption": "Hypnosis",
+      "type": "psychic",
+      "damageCategory": "status",
+      "accuracy": 60,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "ice-ball",
+      "caption": "Ice Ball",
+      "type": "ice",
+      "damageCategory": "physical",
+      "power": 30,
+      "accuracy": 90,
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "ice-beam",
+      "caption": "Ice Beam",
+      "type": "ice",
+      "damageCategory": "special",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "ice-burn",
+      "caption": "Ice Burn",
+      "type": "ice",
+      "damageCategory": "special",
+      "power": 140,
+      "accuracy": 90,
+      "pp": 5,
+      "gen": "generation-v"
+    },
+    {
+      "name": "ice-fang",
+      "caption": "Ice Fang",
+      "type": "ice",
+      "damageCategory": "physical",
+      "power": 65,
+      "accuracy": 95,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "ice-hammer",
+      "caption": "Ice Hammer",
+      "type": "ice",
+      "damageCategory": "physical",
+      "power": 100,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "ice-punch",
+      "caption": "Ice Punch",
+      "type": "ice",
+      "damageCategory": "physical",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "ice-shard",
+      "caption": "Ice Shard",
+      "type": "ice",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "icicle-crash",
+      "caption": "Icicle Crash",
+      "type": "ice",
+      "damageCategory": "physical",
+      "power": 85,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "icicle-spear",
+      "caption": "Icicle Spear",
+      "type": "ice",
+      "damageCategory": "physical",
+      "power": 25,
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "icy-wind",
+      "caption": "Icy Wind",
+      "type": "ice",
+      "damageCategory": "special",
+      "power": 55,
+      "accuracy": 95,
+      "pp": 15,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "imprison",
+      "caption": "Imprison",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "incinerate",
+      "caption": "Incinerate",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "inferno",
+      "caption": "Inferno",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 100,
+      "accuracy": 50,
+      "pp": 5,
+      "gen": "generation-v"
+    },
+    {
+      "name": "inferno-overdrive--physical",
+      "caption": "Inferno Overdrive",
+      "type": "fire",
+      "damageCategory": "physical",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "inferno-overdrive--special",
+      "caption": "Inferno Overdrive",
+      "type": "fire",
+      "damageCategory": "special",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "infestation",
+      "caption": "Infestation",
+      "type": "bug",
+      "damageCategory": "special",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "ingrain",
+      "caption": "Ingrain",
+      "type": "grass",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "instruct",
+      "caption": "Instruct",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 15,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "ion-deluge",
+      "caption": "Ion Deluge",
+      "type": "electric",
+      "damageCategory": "status",
+      "pp": 25,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "iron-defense",
+      "caption": "Iron Defense",
+      "type": "steel",
+      "damageCategory": "status",
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "iron-head",
+      "caption": "Iron Head",
+      "type": "steel",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "iron-tail",
+      "caption": "Iron Tail",
+      "type": "steel",
+      "damageCategory": "physical",
+      "power": 100,
+      "accuracy": 75,
+      "pp": 15,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "judgment",
+      "caption": "Judgment",
+      "type": "normal",
+      "damageCategory": "special",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "jump-kick",
+      "caption": "Jump Kick",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 100,
+      "accuracy": 95,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "karate-chop",
+      "caption": "Karate Chop",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 25,
+      "gen": "generation-i"
+    },
+    {
+      "name": "kinesis",
+      "caption": "Kinesis",
+      "type": "psychic",
+      "damageCategory": "status",
+      "accuracy": 80,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "kings-shield",
+      "caption": "King’s Shield",
+      "type": "steel",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "knock-off",
+      "caption": "Knock Off",
+      "type": "dark",
+      "damageCategory": "physical",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "lands-wrath",
+      "caption": "Land’s Wrath",
+      "type": "ground",
+      "damageCategory": "physical",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "laser-focus",
+      "caption": "Laser Focus",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 30,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "last-resort",
+      "caption": "Last Resort",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 140,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "lava-plume",
+      "caption": "Lava Plume",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "leaf-blade",
+      "caption": "Leaf Blade",
+      "type": "grass",
+      "damageCategory": "physical",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "leaf-storm",
+      "caption": "Leaf Storm",
+      "type": "grass",
+      "damageCategory": "special",
+      "power": 130,
+      "accuracy": 90,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "leaf-tornado",
+      "caption": "Leaf Tornado",
+      "type": "grass",
+      "damageCategory": "special",
+      "power": 65,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "leafage",
+      "caption": "Leafage",
+      "type": "grass",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 40,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "leech-life",
+      "caption": "Leech Life",
+      "type": "bug",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "leech-seed",
+      "caption": "Leech Seed",
+      "type": "grass",
+      "damageCategory": "status",
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "leer",
+      "caption": "Leer",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "lets-snuggle-forever",
+      "caption": "Let’s Snuggle Forever",
+      "type": "fairy",
+      "damageCategory": "physical",
+      "power": 190,
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "lick",
+      "caption": "Lick",
+      "type": "ghost",
+      "damageCategory": "physical",
+      "power": 30,
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "light-of-ruin",
+      "caption": "Light of Ruin",
+      "type": "fairy",
+      "damageCategory": "special",
+      "power": 140,
+      "accuracy": 90,
+      "pp": 5,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "light-screen",
+      "caption": "Light Screen",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "light-that-burns-the-sky",
+      "caption": "Light That Burns the Sky",
+      "type": "psychic",
+      "damageCategory": "special",
+      "power": 200,
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "liquidation",
+      "caption": "Liquidation",
+      "type": "water",
+      "damageCategory": "physical",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "lock-on",
+      "caption": "Lock-On",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "lovely-kiss",
+      "caption": "Lovely Kiss",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 75,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "low-kick",
+      "caption": "Low Kick",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "low-sweep",
+      "caption": "Low Sweep",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-v"
+    },
+    {
+      "name": "lucky-chant",
+      "caption": "Lucky Chant",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 30,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "lunar-dance",
+      "caption": "Lunar Dance",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "lunge",
+      "caption": "Lunge",
+      "type": "bug",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "luster-purge",
+      "caption": "Luster Purge",
+      "type": "psychic",
+      "damageCategory": "special",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "mach-punch",
+      "caption": "Mach Punch",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "magic-coat",
+      "caption": "Magic Coat",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "magic-room",
+      "caption": "Magic Room",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "magical-leaf",
+      "caption": "Magical Leaf",
+      "type": "grass",
+      "damageCategory": "special",
+      "power": 60,
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "magma-storm",
+      "caption": "Magma Storm",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 100,
+      "accuracy": 75,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "magnet-bomb",
+      "caption": "Magnet Bomb",
+      "type": "steel",
+      "damageCategory": "physical",
+      "power": 60,
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "magnet-rise",
+      "caption": "Magnet Rise",
+      "type": "electric",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "magnetic-flux",
+      "caption": "Magnetic Flux",
+      "type": "electric",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "magnitude",
+      "caption": "Magnitude",
+      "type": "ground",
+      "damageCategory": "physical",
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "malicious-moonsault",
+      "caption": "Malicious Moonsault",
+      "type": "dark",
+      "damageCategory": "physical",
+      "power": 180,
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "mat-block",
+      "caption": "Mat Block",
+      "type": "fighting",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "me-first",
+      "caption": "Me First",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "mean-look",
+      "caption": "Mean Look",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "meditate",
+      "caption": "Meditate",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 40,
+      "gen": "generation-i"
+    },
+    {
+      "name": "mega-drain",
+      "caption": "Mega Drain",
+      "type": "grass",
+      "damageCategory": "special",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "mega-kick",
+      "caption": "Mega Kick",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 120,
+      "accuracy": 75,
+      "pp": 5,
+      "gen": "generation-i"
+    },
+    {
+      "name": "mega-punch",
+      "caption": "Mega Punch",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 85,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "megahorn",
+      "caption": "Megahorn",
+      "type": "bug",
+      "damageCategory": "physical",
+      "power": 120,
+      "accuracy": 85,
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "memento",
+      "caption": "Memento",
+      "type": "dark",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "menacing-moonraze-maelstrom",
+      "caption": "Menacing Moonraze Maelstrom",
+      "type": "ghost",
+      "damageCategory": "special",
+      "power": 200,
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "metal-burst",
+      "caption": "Metal Burst",
+      "type": "steel",
+      "damageCategory": "physical",
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "metal-claw",
+      "caption": "Metal Claw",
+      "type": "steel",
+      "damageCategory": "physical",
+      "power": 50,
+      "accuracy": 95,
+      "pp": 35,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "metal-sound",
+      "caption": "Metal Sound",
+      "type": "steel",
+      "damageCategory": "status",
+      "accuracy": 85,
+      "pp": 40,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "meteor-mash",
+      "caption": "Meteor Mash",
+      "type": "steel",
+      "damageCategory": "physical",
+      "power": 90,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "metronome",
+      "caption": "Metronome",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "milk-drink",
+      "caption": "Milk Drink",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "mimic",
+      "caption": "Mimic",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "mind-blown",
+      "caption": "Mind Blown",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 150,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "mind-reader",
+      "caption": "Mind Reader",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "minimize",
+      "caption": "Minimize",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "miracle-eye",
+      "caption": "Miracle Eye",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 40,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "mirror-coat",
+      "caption": "Mirror Coat",
+      "type": "psychic",
+      "damageCategory": "special",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "mirror-move",
+      "caption": "Mirror Move",
+      "type": "flying",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "mirror-shot",
+      "caption": "Mirror Shot",
+      "type": "steel",
+      "damageCategory": "special",
+      "power": 65,
+      "accuracy": 85,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "mist",
+      "caption": "Mist",
+      "type": "ice",
+      "damageCategory": "status",
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "mist-ball",
+      "caption": "Mist Ball",
+      "type": "psychic",
+      "damageCategory": "special",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "misty-terrain",
+      "caption": "Misty Terrain",
+      "type": "fairy",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "moonblast",
+      "caption": "Moonblast",
+      "type": "fairy",
+      "damageCategory": "special",
+      "power": 95,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "moongeist-beam",
+      "caption": "Moongeist Beam",
+      "type": "ghost",
+      "damageCategory": "special",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "moonlight",
+      "caption": "Moonlight",
+      "type": "fairy",
+      "damageCategory": "status",
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "morning-sun",
+      "caption": "Morning Sun",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "mud-bomb",
+      "caption": "Mud Bomb",
+      "type": "ground",
+      "damageCategory": "special",
+      "power": 65,
+      "accuracy": 85,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "mud-shot",
+      "caption": "Mud Shot",
+      "type": "ground",
+      "damageCategory": "special",
+      "power": 55,
+      "accuracy": 95,
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "mud-slap",
+      "caption": "Mud-Slap",
+      "type": "ground",
+      "damageCategory": "special",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "mud-sport",
+      "caption": "Mud Sport",
+      "type": "ground",
+      "damageCategory": "status",
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "muddy-water",
+      "caption": "Muddy Water",
+      "type": "water",
+      "damageCategory": "special",
+      "power": 90,
+      "accuracy": 85,
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "multi-attack",
+      "caption": "Multi-Attack",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "mystical-fire",
+      "caption": "Mystical Fire",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "nasty-plot",
+      "caption": "Nasty Plot",
+      "type": "dark",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "natural-gift",
+      "caption": "Natural Gift",
+      "type": "normal",
+      "damageCategory": "physical",
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "nature-power",
+      "caption": "Nature Power",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "natures-madness",
+      "caption": "Nature’s Madness",
+      "type": "fairy",
+      "damageCategory": "special",
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "needle-arm",
+      "caption": "Needle Arm",
+      "type": "grass",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "never-ending-nightmare--physical",
+      "caption": "Never-Ending Nightmare",
+      "type": "ghost",
+      "damageCategory": "physical",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "never-ending-nightmare--special",
+      "caption": "Never-Ending Nightmare",
+      "type": "ghost",
+      "damageCategory": "special",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "night-daze",
+      "caption": "Night Daze",
+      "type": "dark",
+      "damageCategory": "special",
+      "power": 85,
+      "accuracy": 95,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "night-shade",
+      "caption": "Night Shade",
+      "type": "ghost",
+      "damageCategory": "special",
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "night-slash",
+      "caption": "Night Slash",
+      "type": "dark",
+      "damageCategory": "physical",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "nightmare",
+      "caption": "Nightmare",
+      "type": "ghost",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "noble-roar",
+      "caption": "Noble Roar",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "nuzzle",
+      "caption": "Nuzzle",
+      "type": "electric",
+      "damageCategory": "physical",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "oblivion-wing",
+      "caption": "Oblivion Wing",
+      "type": "flying",
+      "damageCategory": "special",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "oceanic-operetta",
+      "caption": "Oceanic Operetta",
+      "type": "water",
+      "damageCategory": "special",
+      "power": 195,
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "octazooka",
+      "caption": "Octazooka",
+      "type": "water",
+      "damageCategory": "special",
+      "power": 65,
+      "accuracy": 85,
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "odor-sleuth",
+      "caption": "Odor Sleuth",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 40,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "ominous-wind",
+      "caption": "Ominous Wind",
+      "type": "ghost",
+      "damageCategory": "special",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "origin-pulse",
+      "caption": "Origin Pulse",
+      "type": "water",
+      "damageCategory": "special",
+      "power": 110,
+      "accuracy": 85,
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "outrage",
+      "caption": "Outrage",
+      "type": "dragon",
+      "damageCategory": "physical",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "overheat",
+      "caption": "Overheat",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 130,
+      "accuracy": 90,
+      "pp": 5,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "pain-split",
+      "caption": "Pain Split",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "parabolic-charge",
+      "caption": "Parabolic Charge",
+      "type": "electric",
+      "damageCategory": "special",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "parting-shot",
+      "caption": "Parting Shot",
+      "type": "dark",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "pay-day",
+      "caption": "Pay Day",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "payback",
+      "caption": "Payback",
+      "type": "dark",
+      "damageCategory": "physical",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "peck",
+      "caption": "Peck",
+      "type": "flying",
+      "damageCategory": "physical",
+      "power": 35,
+      "accuracy": 100,
+      "pp": 35,
+      "gen": "generation-i"
+    },
+    {
+      "name": "perish-song",
+      "caption": "Perish Song",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "petal-blizzard",
+      "caption": "Petal Blizzard",
+      "type": "grass",
+      "damageCategory": "physical",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "petal-dance",
+      "caption": "Petal Dance",
+      "type": "grass",
+      "damageCategory": "special",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "phantom-force",
+      "caption": "Phantom Force",
+      "type": "ghost",
+      "damageCategory": "physical",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "photon-geyser",
+      "caption": "Photon Geyser",
+      "type": "psychic",
+      "damageCategory": "special",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "pin-missile",
+      "caption": "Pin Missile",
+      "type": "bug",
+      "damageCategory": "physical",
+      "power": 25,
+      "accuracy": 95,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "plasma-fists",
+      "caption": "Plasma Fists",
+      "type": "electric",
+      "damageCategory": "physical",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "play-nice",
+      "caption": "Play Nice",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "play-rough",
+      "caption": "Play Rough",
+      "type": "fairy",
+      "damageCategory": "physical",
+      "power": 90,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "pluck",
+      "caption": "Pluck",
+      "type": "flying",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "poison-fang",
+      "caption": "Poison Fang",
+      "type": "poison",
+      "damageCategory": "physical",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "poison-gas",
+      "caption": "Poison Gas",
+      "type": "poison",
+      "damageCategory": "status",
+      "accuracy": 90,
+      "pp": 40,
+      "gen": "generation-i"
+    },
+    {
+      "name": "poison-jab",
+      "caption": "Poison Jab",
+      "type": "poison",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "poison-powder",
+      "caption": "Poison Powder",
+      "type": "poison",
+      "damageCategory": "status",
+      "accuracy": 75,
+      "pp": 35,
+      "gen": "generation-i"
+    },
+    {
+      "name": "poison-sting",
+      "caption": "Poison Sting",
+      "type": "poison",
+      "damageCategory": "physical",
+      "power": 15,
+      "accuracy": 100,
+      "pp": 35,
+      "gen": "generation-i"
+    },
+    {
+      "name": "poison-tail",
+      "caption": "Poison Tail",
+      "type": "poison",
+      "damageCategory": "physical",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 25,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "pollen-puff",
+      "caption": "Pollen Puff",
+      "type": "bug",
+      "damageCategory": "special",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "pound",
+      "caption": "Pound",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35,
+      "gen": "generation-i"
+    },
+    {
+      "name": "powder",
+      "caption": "Powder",
+      "type": "bug",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "powder-snow",
+      "caption": "Powder Snow",
+      "type": "ice",
+      "damageCategory": "special",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 25,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "power-gem",
+      "caption": "Power Gem",
+      "type": "rock",
+      "damageCategory": "special",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "power-split",
+      "caption": "Power Split",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "power-swap",
+      "caption": "Power Swap",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "power-trick",
+      "caption": "Power Trick",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "power-trip",
+      "caption": "Power Trip",
+      "type": "dark",
+      "damageCategory": "physical",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "power-up-punch",
+      "caption": "Power-Up Punch",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "power-whip",
+      "caption": "Power Whip",
+      "type": "grass",
+      "damageCategory": "physical",
+      "power": 120,
+      "accuracy": 85,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "precipice-blades",
+      "caption": "Precipice Blades",
+      "type": "ground",
+      "damageCategory": "physical",
+      "power": 120,
+      "accuracy": 85,
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "present",
+      "caption": "Present",
+      "type": "normal",
+      "damageCategory": "physical",
+      "accuracy": 90,
+      "pp": 15,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "prismatic-laser",
+      "caption": "Prismatic Laser",
+      "type": "psychic",
+      "damageCategory": "special",
+      "power": 160,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "protect",
+      "caption": "Protect",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "psybeam",
+      "caption": "Psybeam",
+      "type": "psychic",
+      "damageCategory": "special",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "psych-up",
+      "caption": "Psych Up",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "psychic",
+      "caption": "Psychic",
+      "type": "psychic",
+      "damageCategory": "special",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "psychic-fangs",
+      "caption": "Psychic Fangs",
+      "type": "psychic",
+      "damageCategory": "physical",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "psychic-terrain",
+      "caption": "Psychic Terrain",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "psycho-boost",
+      "caption": "Psycho Boost",
+      "type": "psychic",
+      "damageCategory": "special",
+      "power": 140,
+      "accuracy": 90,
+      "pp": 5,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "psycho-cut",
+      "caption": "Psycho Cut",
+      "type": "psychic",
+      "damageCategory": "physical",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "psycho-shift",
+      "caption": "Psycho Shift",
+      "type": "psychic",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "psyshock",
+      "caption": "Psyshock",
+      "type": "psychic",
+      "damageCategory": "special",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "psystrike",
+      "caption": "Psystrike",
+      "type": "psychic",
+      "damageCategory": "special",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "psywave",
+      "caption": "Psywave",
+      "type": "psychic",
+      "damageCategory": "special",
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "pulverizing-pancake",
+      "caption": "Pulverizing Pancake",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 210,
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "punishment",
+      "caption": "Punishment",
+      "type": "dark",
+      "damageCategory": "physical",
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "purify",
+      "caption": "Purify",
+      "type": "poison",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "pursuit",
+      "caption": "Pursuit",
+      "type": "dark",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "quash",
+      "caption": "Quash",
+      "type": "dark",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "quick-attack",
+      "caption": "Quick Attack",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "quick-guard",
+      "caption": "Quick Guard",
+      "type": "fighting",
+      "damageCategory": "status",
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "quiver-dance",
+      "caption": "Quiver Dance",
+      "type": "bug",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-v"
+    },
+    {
+      "name": "rage",
+      "caption": "Rage",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "rage-powder",
+      "caption": "Rage Powder",
+      "type": "bug",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-v"
+    },
+    {
+      "name": "rain-dance",
+      "caption": "Rain Dance",
+      "type": "water",
+      "damageCategory": "status",
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "rapid-spin",
+      "caption": "Rapid Spin",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 40,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "razor-leaf",
+      "caption": "Razor Leaf",
+      "type": "grass",
+      "damageCategory": "physical",
+      "power": 55,
+      "accuracy": 95,
+      "pp": 25,
+      "gen": "generation-i"
+    },
+    {
+      "name": "razor-shell",
+      "caption": "Razor Shell",
+      "type": "water",
+      "damageCategory": "physical",
+      "power": 75,
+      "accuracy": 95,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "razor-wind",
+      "caption": "Razor Wind",
+      "type": "normal",
+      "damageCategory": "special",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "recover",
+      "caption": "Recover",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "recycle",
+      "caption": "Recycle",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "reflect",
+      "caption": "Reflect",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "reflect-type",
+      "caption": "Reflect Type",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "refresh",
+      "caption": "Refresh",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "relic-song",
+      "caption": "Relic Song",
+      "type": "normal",
+      "damageCategory": "special",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "rest",
+      "caption": "Rest",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "retaliate",
+      "caption": "Retaliate",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-v"
+    },
+    {
+      "name": "return",
+      "caption": "Return",
+      "type": "normal",
+      "damageCategory": "physical",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "revelation-dance",
+      "caption": "Revelation Dance",
+      "type": "normal",
+      "damageCategory": "special",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "revenge",
+      "caption": "Revenge",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "reversal",
+      "caption": "Reversal",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "roar",
+      "caption": "Roar",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "roar-of-time",
+      "caption": "Roar of Time",
+      "type": "dragon",
+      "damageCategory": "special",
+      "power": 150,
+      "accuracy": 90,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "rock-blast",
+      "caption": "Rock Blast",
+      "type": "rock",
+      "damageCategory": "physical",
+      "power": 25,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "rock-climb",
+      "caption": "Rock Climb",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 90,
+      "accuracy": 85,
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "rock-polish",
+      "caption": "Rock Polish",
+      "type": "rock",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "rock-slide",
+      "caption": "Rock Slide",
+      "type": "rock",
+      "damageCategory": "physical",
+      "power": 75,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "rock-smash",
+      "caption": "Rock Smash",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "rock-throw",
+      "caption": "Rock Throw",
+      "type": "rock",
+      "damageCategory": "physical",
+      "power": 50,
+      "accuracy": 90,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "rock-tomb",
+      "caption": "Rock Tomb",
+      "type": "rock",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 95,
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "rock-wrecker",
+      "caption": "Rock Wrecker",
+      "type": "rock",
+      "damageCategory": "physical",
+      "power": 150,
+      "accuracy": 90,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "role-play",
+      "caption": "Role Play",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "rolling-kick",
+      "caption": "Rolling Kick",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 85,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "rollout",
+      "caption": "Rollout",
+      "type": "rock",
+      "damageCategory": "physical",
+      "power": 30,
+      "accuracy": 90,
+      "pp": 20,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "roost",
+      "caption": "Roost",
+      "type": "flying",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "rototiller",
+      "caption": "Rototiller",
+      "type": "ground",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "round",
+      "caption": "Round",
+      "type": "normal",
+      "damageCategory": "special",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "sacred-fire",
+      "caption": "Sacred Fire",
+      "type": "fire",
+      "damageCategory": "physical",
+      "power": 100,
+      "accuracy": 95,
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "sacred-sword",
+      "caption": "Sacred Sword",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "safeguard",
+      "caption": "Safeguard",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 25,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "sand-attack",
+      "caption": "Sand Attack",
+      "type": "ground",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "sand-tomb",
+      "caption": "Sand Tomb",
+      "type": "ground",
+      "damageCategory": "physical",
+      "power": 35,
+      "accuracy": 85,
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "sandstorm",
+      "caption": "Sandstorm",
+      "type": "rock",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "savage-spin-out--physical",
+      "caption": "Savage Spin-Out",
+      "type": "bug",
+      "damageCategory": "physical",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "savage-spin-out--special",
+      "caption": "Savage Spin-Out",
+      "type": "bug",
+      "damageCategory": "special",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "scald",
+      "caption": "Scald",
+      "type": "water",
+      "damageCategory": "special",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "scary-face",
+      "caption": "Scary Face",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "scratch",
+      "caption": "Scratch",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35,
+      "gen": "generation-i"
+    },
+    {
+      "name": "screech",
+      "caption": "Screech",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 85,
+      "pp": 40,
+      "gen": "generation-i"
+    },
+    {
+      "name": "searing-shot",
+      "caption": "Searing Shot",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-v"
+    },
+    {
+      "name": "searing-sunraze-smash",
+      "caption": "Searing Sunraze Smash",
+      "type": "steel",
+      "damageCategory": "physical",
+      "power": 200,
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "secret-power",
+      "caption": "Secret Power",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "secret-sword",
+      "caption": "Secret Sword",
+      "type": "fighting",
+      "damageCategory": "special",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "seed-bomb",
+      "caption": "Seed Bomb",
+      "type": "grass",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "seed-flare",
+      "caption": "Seed Flare",
+      "type": "grass",
+      "damageCategory": "special",
+      "power": 120,
+      "accuracy": 85,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "seismic-toss",
+      "caption": "Seismic Toss",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "self-destruct",
+      "caption": "Self-Destruct",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 200,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-i"
+    },
+    {
+      "name": "shadow-ball",
+      "caption": "Shadow Ball",
+      "type": "ghost",
+      "damageCategory": "special",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "shadow-bone",
+      "caption": "Shadow Bone",
+      "type": "ghost",
+      "damageCategory": "physical",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "shadow-claw",
+      "caption": "Shadow Claw",
+      "type": "ghost",
+      "damageCategory": "physical",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "shadow-force",
+      "caption": "Shadow Force",
+      "type": "ghost",
+      "damageCategory": "physical",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "shadow-punch",
+      "caption": "Shadow Punch",
+      "type": "ghost",
+      "damageCategory": "physical",
+      "power": 60,
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "shadow-sneak",
+      "caption": "Shadow Sneak",
+      "type": "ghost",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "sharpen",
+      "caption": "Sharpen",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "shattered-psyche--physical",
+      "caption": "Shattered Psyche",
+      "type": "psychic",
+      "damageCategory": "physical",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "shattered-psyche--special",
+      "caption": "Shattered Psyche",
+      "type": "psychic",
+      "damageCategory": "special",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "sheer-cold",
+      "caption": "Sheer Cold",
+      "type": "ice",
+      "damageCategory": "special",
+      "accuracy": 30,
+      "pp": 5,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "shell-smash",
+      "caption": "Shell Smash",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "shell-trap",
+      "caption": "Shell Trap",
+      "type": "fire",
+      "damageCategory": "special",
+      "power": 150,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "shift-gear",
+      "caption": "Shift Gear",
+      "type": "steel",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "shock-wave",
+      "caption": "Shock Wave",
+      "type": "electric",
+      "damageCategory": "special",
+      "power": 60,
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "shore-up",
+      "caption": "Shore Up",
+      "type": "ground",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "signal-beam",
+      "caption": "Signal Beam",
+      "type": "bug",
+      "damageCategory": "special",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "silver-wind",
+      "caption": "Silver Wind",
+      "type": "bug",
+      "damageCategory": "special",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "simple-beam",
+      "caption": "Simple Beam",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "sing",
+      "caption": "Sing",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 55,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "sinister-arrow-raid",
+      "caption": "Sinister Arrow Raid",
+      "type": "ghost",
+      "damageCategory": "physical",
+      "power": 180,
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "sketch",
+      "caption": "Sketch",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 1,
+      "gen": "generation-ii",
+      "z": true
+    },
+    {
+      "name": "skill-swap",
+      "caption": "Skill Swap",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "skull-bash",
+      "caption": "Skull Bash",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 130,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "sky-attack",
+      "caption": "Sky Attack",
+      "type": "flying",
+      "damageCategory": "physical",
+      "power": 140,
+      "accuracy": 90,
+      "pp": 5,
+      "gen": "generation-i"
+    },
+    {
+      "name": "sky-drop",
+      "caption": "Sky Drop",
+      "type": "flying",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "sky-uppercut",
+      "caption": "Sky Uppercut",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 85,
+      "accuracy": 90,
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "slack-off",
+      "caption": "Slack Off",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "slam",
+      "caption": "Slam",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 75,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "slash",
+      "caption": "Slash",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "sleep-powder",
+      "caption": "Sleep Powder",
+      "type": "grass",
+      "damageCategory": "status",
+      "accuracy": 75,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "sleep-talk",
+      "caption": "Sleep Talk",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "sludge",
+      "caption": "Sludge",
+      "type": "poison",
+      "damageCategory": "special",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "sludge-bomb",
+      "caption": "Sludge Bomb",
+      "type": "poison",
+      "damageCategory": "special",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "sludge-wave",
+      "caption": "Sludge Wave",
+      "type": "poison",
+      "damageCategory": "special",
+      "power": 95,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "smack-down",
+      "caption": "Smack Down",
+      "type": "rock",
+      "damageCategory": "physical",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "smart-strike",
+      "caption": "Smart Strike",
+      "type": "steel",
+      "damageCategory": "physical",
+      "power": 70,
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "smelling-salts",
+      "caption": "Smelling Salts",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "smog",
+      "caption": "Smog",
+      "type": "poison",
+      "damageCategory": "special",
+      "power": 30,
+      "accuracy": 70,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "smokescreen",
+      "caption": "Smokescreen",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "snarl",
+      "caption": "Snarl",
+      "type": "dark",
+      "damageCategory": "special",
+      "power": 55,
+      "accuracy": 95,
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "snatch",
+      "caption": "Snatch",
+      "type": "dark",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "snore",
+      "caption": "Snore",
+      "type": "normal",
+      "damageCategory": "special",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "soak",
+      "caption": "Soak",
+      "type": "water",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-v"
+    },
+    {
+      "name": "soft-boiled",
+      "caption": "Soft-Boiled",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "solar-beam",
+      "caption": "Solar Beam",
+      "type": "grass",
+      "damageCategory": "special",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "solar-blade",
+      "caption": "Solar Blade",
+      "type": "grass",
+      "damageCategory": "physical",
+      "power": 125,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "sonic-boom",
+      "caption": "Sonic Boom",
+      "type": "normal",
+      "damageCategory": "special",
+      "accuracy": 90,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "soul-stealing-7-star-strike",
+      "caption": "Soul-Stealing 7-Star Strike",
+      "type": "ghost",
+      "damageCategory": "physical",
+      "power": 195,
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "spacial-rend",
+      "caption": "Spacial Rend",
+      "type": "dragon",
+      "damageCategory": "special",
+      "power": 100,
+      "accuracy": 95,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "spark",
+      "caption": "Spark",
+      "type": "electric",
+      "damageCategory": "physical",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "sparkling-aria",
+      "caption": "Sparkling Aria",
+      "type": "water",
+      "damageCategory": "special",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "spectral-thief",
+      "caption": "Spectral Thief",
+      "type": "ghost",
+      "damageCategory": "physical",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "speed-swap",
+      "caption": "Speed Swap",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "spider-web",
+      "caption": "Spider Web",
+      "type": "bug",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "spike-cannon",
+      "caption": "Spike Cannon",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "spikes",
+      "caption": "Spikes",
+      "type": "ground",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "spiky-shield",
+      "caption": "Spiky Shield",
+      "type": "grass",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "spirit-shackle",
+      "caption": "Spirit Shackle",
+      "type": "ghost",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "spit-up",
+      "caption": "Spit Up",
+      "type": "normal",
+      "damageCategory": "special",
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "spite",
+      "caption": "Spite",
+      "type": "ghost",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "splash",
+      "caption": "Splash",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 40,
+      "gen": "generation-i"
+    },
+    {
+      "name": "splintered-stormshards",
+      "caption": "Splintered Stormshards",
+      "type": "rock",
+      "damageCategory": "physical",
+      "power": 190,
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "spore",
+      "caption": "Spore",
+      "type": "grass",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "spotlight",
+      "caption": "Spotlight",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 15,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "stealth-rock",
+      "caption": "Stealth Rock",
+      "type": "rock",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "steam-eruption",
+      "caption": "Steam Eruption",
+      "type": "water",
+      "damageCategory": "special",
+      "power": 110,
+      "accuracy": 95,
+      "pp": 5,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "steamroller",
+      "caption": "Steamroller",
+      "type": "bug",
+      "damageCategory": "physical",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-v"
+    },
+    {
+      "name": "steel-wing",
+      "caption": "Steel Wing",
+      "type": "steel",
+      "damageCategory": "physical",
+      "power": 70,
+      "accuracy": 90,
+      "pp": 25,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "sticky-web",
+      "caption": "Sticky Web",
+      "type": "bug",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "stockpile",
+      "caption": "Stockpile",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "stoked-sparksurfer",
+      "caption": "Stoked Sparksurfer",
+      "type": "electric",
+      "damageCategory": "special",
+      "power": 175,
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "stomp",
+      "caption": "Stomp",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "stomping-tantrum",
+      "caption": "Stomping Tantrum",
+      "type": "ground",
+      "damageCategory": "physical",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "stone-edge",
+      "caption": "Stone Edge",
+      "type": "rock",
+      "damageCategory": "physical",
+      "power": 100,
+      "accuracy": 80,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "stored-power",
+      "caption": "Stored Power",
+      "type": "psychic",
+      "damageCategory": "special",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "storm-throw",
+      "caption": "Storm Throw",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "strength",
+      "caption": "Strength",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "strength-sap",
+      "caption": "Strength Sap",
+      "type": "grass",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "string-shot",
+      "caption": "String Shot",
+      "type": "bug",
+      "damageCategory": "status",
+      "accuracy": 95,
+      "pp": 40,
+      "gen": "generation-i"
+    },
+    {
+      "name": "struggle",
+      "caption": "Struggle",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 50,
+      "pp": 1,
+      "gen": "generation-i",
+      "z": true
+    },
+    {
+      "name": "struggle-bug",
+      "caption": "Struggle Bug",
+      "type": "bug",
+      "damageCategory": "special",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-v"
+    },
+    {
+      "name": "stun-spore",
+      "caption": "Stun Spore",
+      "type": "grass",
+      "damageCategory": "status",
+      "accuracy": 75,
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "submission",
+      "caption": "Submission",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 80,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "substitute",
+      "caption": "Substitute",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "subzero-slammer--physical",
+      "caption": "Subzero Slammer",
+      "type": "ice",
+      "damageCategory": "physical",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "subzero-slammer--special",
+      "caption": "Subzero Slammer",
+      "type": "ice",
+      "damageCategory": "special",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "sucker-punch",
+      "caption": "Sucker Punch",
+      "type": "dark",
+      "damageCategory": "physical",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "sunny-day",
+      "caption": "Sunny Day",
+      "type": "fire",
+      "damageCategory": "status",
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "sunsteel-strike",
+      "caption": "Sunsteel Strike",
+      "type": "steel",
+      "damageCategory": "physical",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "super-fang",
+      "caption": "Super Fang",
+      "type": "normal",
+      "damageCategory": "physical",
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "superpower",
+      "caption": "Superpower",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "supersonic",
+      "caption": "Supersonic",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 55,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "supersonic-skystrike--physical",
+      "caption": "Supersonic Skystrike",
+      "type": "flying",
+      "damageCategory": "physical",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "supersonic-skystrike--special",
+      "caption": "Supersonic Skystrike",
+      "type": "flying",
+      "damageCategory": "special",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "surf",
+      "caption": "Surf",
+      "type": "water",
+      "damageCategory": "special",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "swagger",
+      "caption": "Swagger",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 85,
+      "pp": 15,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "swallow",
+      "caption": "Swallow",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "sweet-kiss",
+      "caption": "Sweet Kiss",
+      "type": "fairy",
+      "damageCategory": "status",
+      "accuracy": 75,
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "sweet-scent",
+      "caption": "Sweet Scent",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "swift",
+      "caption": "Swift",
+      "type": "normal",
+      "damageCategory": "special",
+      "power": 60,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "switcheroo",
+      "caption": "Switcheroo",
+      "type": "dark",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "swords-dance",
+      "caption": "Swords Dance",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "synchronoise",
+      "caption": "Synchronoise",
+      "type": "psychic",
+      "damageCategory": "special",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "synthesis",
+      "caption": "Synthesis",
+      "type": "grass",
+      "damageCategory": "status",
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "tackle",
+      "caption": "Tackle",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35,
+      "gen": "generation-i"
+    },
+    {
+      "name": "tail-glow",
+      "caption": "Tail Glow",
+      "type": "bug",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "tail-slap",
+      "caption": "Tail Slap",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 25,
+      "accuracy": 85,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "tail-whip",
+      "caption": "Tail Whip",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "tailwind",
+      "caption": "Tailwind",
+      "type": "flying",
+      "damageCategory": "status",
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "take-down",
+      "caption": "Take Down",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 90,
+      "accuracy": 85,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "taunt",
+      "caption": "Taunt",
+      "type": "dark",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "tearful-look",
+      "caption": "Tearful Look",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "techno-blast",
+      "caption": "Techno Blast",
+      "type": "normal",
+      "damageCategory": "special",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-v"
+    },
+    {
+      "name": "tectonic-rage--physical",
+      "caption": "Tectonic Rage",
+      "type": "ground",
+      "damageCategory": "physical",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "tectonic-rage--special",
+      "caption": "Tectonic Rage",
+      "type": "ground",
+      "damageCategory": "special",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "teeter-dance",
+      "caption": "Teeter Dance",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "telekinesis",
+      "caption": "Telekinesis",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "teleport",
+      "caption": "Teleport",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "thief",
+      "caption": "Thief",
+      "type": "dark",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 25,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "thousand-arrows",
+      "caption": "Thousand Arrows",
+      "type": "ground",
+      "damageCategory": "physical",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "thousand-waves",
+      "caption": "Thousand Waves",
+      "type": "ground",
+      "damageCategory": "physical",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "thrash",
+      "caption": "Thrash",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "throat-chop",
+      "caption": "Throat Chop",
+      "type": "dark",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "thunder",
+      "caption": "Thunder",
+      "type": "electric",
+      "damageCategory": "special",
+      "power": 110,
+      "accuracy": 70,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "thunder-fang",
+      "caption": "Thunder Fang",
+      "type": "electric",
+      "damageCategory": "physical",
+      "power": 65,
+      "accuracy": 95,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "thunder-punch",
+      "caption": "Thunder Punch",
+      "type": "electric",
+      "damageCategory": "physical",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "thunder-shock",
+      "caption": "Thunder Shock",
+      "type": "electric",
+      "damageCategory": "special",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "thunder-wave",
+      "caption": "Thunder Wave",
+      "type": "electric",
+      "damageCategory": "status",
+      "accuracy": 90,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "thunderbolt",
+      "caption": "Thunderbolt",
+      "type": "electric",
+      "damageCategory": "special",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "tickle",
+      "caption": "Tickle",
+      "type": "normal",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "topsy-turvy",
+      "caption": "Topsy-Turvy",
+      "type": "dark",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "torment",
+      "caption": "Torment",
+      "type": "dark",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "toxic",
+      "caption": "Toxic",
+      "type": "poison",
+      "damageCategory": "status",
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "toxic-spikes",
+      "caption": "Toxic Spikes",
+      "type": "poison",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "toxic-thread",
+      "caption": "Toxic Thread",
+      "type": "poison",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "transform",
+      "caption": "Transform",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "tri-attack",
+      "caption": "Tri Attack",
+      "type": "normal",
+      "damageCategory": "special",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-i"
+    },
+    {
+      "name": "trick",
+      "caption": "Trick",
+      "type": "psychic",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "trick-or-treat",
+      "caption": "Trick-or-Treat",
+      "type": "ghost",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "trick-room",
+      "caption": "Trick Room",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "triple-kick",
+      "caption": "Triple Kick",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 10,
+      "accuracy": 90,
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "trop-kick",
+      "caption": "Trop Kick",
+      "type": "grass",
+      "damageCategory": "physical",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-vii"
+    },
+    {
+      "name": "trump-card",
+      "caption": "Trump Card",
+      "type": "normal",
+      "damageCategory": "special",
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "twineedle",
+      "caption": "Twineedle",
+      "type": "bug",
+      "damageCategory": "physical",
+      "power": 25,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "twinkle-tackle--physical",
+      "caption": "Twinkle Tackle",
+      "type": "fairy",
+      "damageCategory": "physical",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "twinkle-tackle--special",
+      "caption": "Twinkle Tackle",
+      "type": "fairy",
+      "damageCategory": "special",
+      "pp": 1,
+      "gen": "generation-vii",
+      "z": true
+    },
+    {
+      "name": "twister",
+      "caption": "Twister",
+      "type": "dragon",
+      "damageCategory": "special",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "u-turn",
+      "caption": "U-turn",
+      "type": "bug",
+      "damageCategory": "physical",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "uproar",
+      "caption": "Uproar",
+      "type": "normal",
+      "damageCategory": "special",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "v-create",
+      "caption": "V-create",
+      "type": "fire",
+      "damageCategory": "physical",
+      "power": 180,
+      "accuracy": 95,
+      "pp": 5,
+      "gen": "generation-v"
+    },
+    {
+      "name": "vacuum-wave",
+      "caption": "Vacuum Wave",
+      "type": "fighting",
+      "damageCategory": "special",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "venom-drench",
+      "caption": "Venom Drench",
+      "type": "poison",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "venoshock",
+      "caption": "Venoshock",
+      "type": "poison",
+      "damageCategory": "special",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "vice-grip",
+      "caption": "Vice Grip",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 55,
+      "accuracy": 100,
+      "pp": 30,
+      "gen": "generation-i"
+    },
+    {
+      "name": "vine-whip",
+      "caption": "Vine Whip",
+      "type": "grass",
+      "damageCategory": "physical",
+      "power": 45,
+      "accuracy": 100,
+      "pp": 25,
+      "gen": "generation-i"
+    },
+    {
+      "name": "vital-throw",
+      "caption": "Vital Throw",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 70,
+      "pp": 10,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "volt-switch",
+      "caption": "Volt Switch",
+      "type": "electric",
+      "damageCategory": "special",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-v"
+    },
+    {
+      "name": "volt-tackle",
+      "caption": "Volt Tackle",
+      "type": "electric",
+      "damageCategory": "physical",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "wake-up-slap",
+      "caption": "Wake-Up Slap",
+      "type": "fighting",
+      "damageCategory": "physical",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "water-gun",
+      "caption": "Water Gun",
+      "type": "water",
+      "damageCategory": "special",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 25,
+      "gen": "generation-i"
+    },
+    {
+      "name": "water-pledge",
+      "caption": "Water Pledge",
+      "type": "water",
+      "damageCategory": "special",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "water-pulse",
+      "caption": "Water Pulse",
+      "type": "water",
+      "damageCategory": "special",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "water-shuriken",
+      "caption": "Water Shuriken",
+      "type": "water",
+      "damageCategory": "special",
+      "power": 15,
+      "accuracy": 100,
+      "pp": 20,
+      "gen": "generation-vi"
+    },
+    {
+      "name": "water-sport",
+      "caption": "Water Sport",
+      "type": "water",
+      "damageCategory": "status",
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "water-spout",
+      "caption": "Water Spout",
+      "type": "water",
+      "damageCategory": "special",
+      "power": 150,
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "waterfall",
+      "caption": "Waterfall",
+      "type": "water",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-i"
+    },
+    {
+      "name": "weather-ball",
+      "caption": "Weather Ball",
+      "type": "normal",
+      "damageCategory": "special",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "whirlpool",
+      "caption": "Whirlpool",
+      "type": "water",
+      "damageCategory": "special",
+      "power": 35,
+      "accuracy": 85,
+      "pp": 15,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "whirlwind",
+      "caption": "Whirlwind",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "wide-guard",
+      "caption": "Wide Guard",
+      "type": "rock",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "wild-charge",
+      "caption": "Wild Charge",
+      "type": "electric",
+      "damageCategory": "physical",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-v"
+    },
+    {
+      "name": "will-o-wisp",
+      "caption": "Will-O-Wisp",
+      "type": "fire",
+      "damageCategory": "status",
+      "accuracy": 85,
+      "pp": 15,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "wing-attack",
+      "caption": "Wing Attack",
+      "type": "flying",
+      "damageCategory": "physical",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 35,
+      "gen": "generation-i"
+    },
+    {
+      "name": "wish",
+      "caption": "Wish",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "withdraw",
+      "caption": "Withdraw",
+      "type": "water",
+      "damageCategory": "status",
+      "pp": 40,
+      "gen": "generation-i"
+    },
+    {
+      "name": "wonder-room",
+      "caption": "Wonder Room",
+      "type": "psychic",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-v"
+    },
+    {
+      "name": "wood-hammer",
+      "caption": "Wood Hammer",
+      "type": "grass",
+      "damageCategory": "physical",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "work-up",
+      "caption": "Work Up",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 30,
+      "gen": "generation-v"
+    },
+    {
+      "name": "worry-seed",
+      "caption": "Worry Seed",
+      "type": "grass",
+      "damageCategory": "status",
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "wrap",
+      "caption": "Wrap",
+      "type": "normal",
+      "damageCategory": "physical",
+      "power": 15,
+      "accuracy": 90,
+      "pp": 20,
+      "gen": "generation-i"
+    },
+    {
+      "name": "wring-out",
+      "caption": "Wring Out",
+      "type": "normal",
+      "damageCategory": "special",
+      "accuracy": 100,
+      "pp": 5,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "x-scissor",
+      "caption": "X-Scissor",
+      "type": "bug",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "yawn",
+      "caption": "Yawn",
+      "type": "normal",
+      "damageCategory": "status",
+      "pp": 10,
+      "gen": "generation-iii"
+    },
+    {
+      "name": "zap-cannon",
+      "caption": "Zap Cannon",
+      "type": "electric",
+      "damageCategory": "special",
+      "power": 120,
+      "accuracy": 50,
+      "pp": 5,
+      "gen": "generation-ii"
+    },
+    {
+      "name": "zen-headbutt",
+      "caption": "Zen Headbutt",
+      "type": "psychic",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 90,
+      "pp": 15,
+      "gen": "generation-iv"
+    },
+    {
+      "name": "zing-zap",
+      "caption": "Zing Zap",
+      "type": "electric",
+      "damageCategory": "physical",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10,
+      "gen": "generation-vii"
+    }
+  ],
+  "flags": [
+    {
+      "name": "contact",
+      "caption": "Makes contact",
+      "description": "User touches the target.  This triggers some abilities (e.g., []{ability:static}) and items (e.g., []{item:sticky-barb})."
+    },
+    {
+      "name": "charge",
+      "caption": "Has a charging turn",
+      "description": "This move has a charging turn that can be skipped with a []{item:power-herb}."
+    },
+    {
+      "name": "recharge",
+      "caption": "Must recharge",
+      "description": "The turn after this move is used, the Pokémon's action is skipped so it can recharge."
+    },
+    {
+      "name": "protect",
+      "caption": "Blocked by Detect and Protect",
+      "description": "This move will not work if the target has used []{move:detect} or []{move:protect} this turn."
+    },
+    {
+      "name": "reflectable",
+      "caption": "Reflectable",
+      "description": "This move may be reflected back at the user with []{move:magic-coat} or []{ability:magic-bounce}."
+    },
+    {
+      "name": "snatch",
+      "caption": "Snatchable",
+      "description": "This move will be stolen if another Pokémon has used []{move:snatch} this turn."
+    },
+    {
+      "name": "mirror",
+      "caption": "Copied by Mirror Move",
+      "description": "A Pokémon targeted by this move can use []{move:mirror-move} to copy it."
+    },
+    {
+      "name": "punch",
+      "caption": "Punch-based",
+      "description": "This move has 1.2× its usual power when used by a Pokémon with []{ability:iron-fist}."
+    },
+    {
+      "name": "sound",
+      "caption": "Sound-based",
+      "description": "Pokémon with []{ability:soundproof} are immune to this move."
+    },
+    {
+      "name": "gravity",
+      "caption": "Unusable during Gravity",
+      "description": "This move cannot be used in high []{move:gravity}."
+    },
+    {
+      "name": "defrost",
+      "caption": "Defrosts when used",
+      "description": "This move can be used while frozen to force the Pokémon to defrost."
+    },
+    {
+      "name": "distance",
+      "caption": "Targets opposite side in triples",
+      "description": "In triple battles, this move can be used on either side to target the farthest away opposing Pokémon."
+    },
+    {
+      "name": "heal",
+      "caption": "Heals",
+      "description": "This move is blocked by []{move:heal-block}."
+    },
+    {
+      "name": "authentic",
+      "caption": "Ignores Substitute",
+      "description": "This move ignores the target's []{move:substitute}."
+    },
+    {
+      "name": "powder",
+      "caption": "Powder-based",
+      "description": "Pokémon with []{ability:overcoat} and []{type:grass}-type Pokémon are immune to this move."
+    },
+    {
+      "name": "bite",
+      "caption": "Jaw-based",
+      "description": "This move has 1.5× its usual power when used by a Pokémon with []{ability:strong-jaw}."
+    },
+    {
+      "name": "pulse",
+      "caption": "Pulse-based",
+      "description": "This move has 1.5× its usual power when used by a Pokémon with []{ability:mega-launcher}."
+    },
+    {
+      "name": "ballistics",
+      "caption": "Ballistics-based",
+      "description": "This move is blocked by []{ability:bulletproof}."
+    },
+    {
+      "name": "mental",
+      "caption": "Mental effects",
+      "description": "This move is blocked by []{ability:aroma-veil} and cured by []{item:mental-herb}."
+    },
+    {
+      "name": "non-sky-battle",
+      "caption": "Unusable during Sky Battles",
+      "description": "This move is unusable during Sky Battles."
+    },
+    {
+      "name": "dance",
+      "caption": "Dance",
+      "description": "This move triggers []{ability:dancer}."
+    }
+  ],
+  "targets": [
+    {
+      "name": "specific-move",
+      "caption": "Specific move",
+      "description": "One specific move.  How this move is chosen depends upon on the move being used."
+    },
+    {
+      "name": "selected-pokemon-me-first",
+      "caption": "Selected Pokémon",
+      "description": "One other Pokémon on the field, selected by the trainer.  Stolen moves reuse the same target."
+    },
+    {
+      "name": "ally",
+      "caption": "Ally",
+      "description": "The user's ally (if any)."
+    },
+    {
+      "name": "users-field",
+      "caption": "User's field",
+      "description": "The user's side of the field.  Affects the user and its ally (if any)."
+    },
+    {
+      "name": "user-or-ally",
+      "caption": "User or ally",
+      "description": "Either the user or its ally, selected by the trainer."
+    },
+    {
+      "name": "opponents-field",
+      "caption": "Opponent's field",
+      "description": "The opposing side of the field.  Affects opposing Pokémon."
+    },
+    {
+      "name": "user",
+      "caption": "User",
+      "description": "The user."
+    },
+    {
+      "name": "random-opponent",
+      "caption": "Random opponent",
+      "description": "One opposing Pokémon, selected at random."
+    },
+    {
+      "name": "all-other-pokemon",
+      "caption": "All other Pokémon",
+      "description": "Every other Pokémon on the field."
+    },
+    {
+      "name": "selected-pokemon",
+      "caption": "Selected Pokémon",
+      "description": "One other Pokémon on the field, selected by the trainer."
+    },
+    {
+      "name": "all-opponents",
+      "caption": "All opponents",
+      "description": "All opposing Pokémon."
+    },
+    {
+      "name": "entire-field",
+      "caption": "Entire field",
+      "description": "The entire field.  Affects all Pokémon."
+    },
+    {
+      "name": "user-and-allies",
+      "caption": "User and allies",
+      "description": "The user and its allies."
+    },
+    {
+      "name": "all-pokemon",
+      "caption": "All Pokémon",
+      "description": "Every Pokémon on the field."
+    }
+  ]
+}

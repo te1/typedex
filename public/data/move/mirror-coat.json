@@ -1,0 +1,122 @@
+{
+  "name": "mirror-coat",
+  "caption": "Mirror Coat",
+  "type": "psychic",
+  "damageCategory": "special",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": -5,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Inflicts twice the damage the user received from the last special hit it took.",
+    "full": "Targets the last opposing Pokémon to hit the user with a [special]{mechanic:special} move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will [fail]{mechanic:fail}.  Type immunity applies, but other type effects are ignored.\n\nThis move cannot be copied by []{move:mirror-move}, nor selected by []{move:assist} or []{move:metronome}."
+  },
+  "flavorText": "A retaliation move that counters any special attack,\ninflicting double the damage taken.",
+  "flags": [
+    "protect"
+  ],
+  "target": "specific-move",
+  "pokemon": {
+    "squirtle": [
+      "egg"
+    ],
+    "tentacool": [
+      "egg"
+    ],
+    "voltorb": [
+      "level-up"
+    ],
+    "electrode": [
+      "level-up"
+    ],
+    "wobbuffet": [
+      "level-up"
+    ],
+    "girafarig": [
+      "egg"
+    ],
+    "corsola": [
+      "level-up"
+    ],
+    "mantine": [
+      "egg"
+    ],
+    "suicune": [
+      "level-up"
+    ],
+    "mudkip": [
+      "egg"
+    ],
+    "spoink": [
+      "egg"
+    ],
+    "lileep": [
+      "egg"
+    ],
+    "feebas": [
+      "egg"
+    ],
+    "wynaut": [
+      "level-up"
+    ],
+    "shellos": [
+      "egg"
+    ],
+    "lopunny": [
+      "level-up"
+    ],
+    "mantyke": [
+      "egg"
+    ],
+    "magnezone": [
+      "level-up"
+    ],
+    "glaceon": [
+      "level-up"
+    ],
+    "snivy": [
+      "egg"
+    ],
+    "gothita": [
+      "egg"
+    ],
+    "vanillite": [
+      "level-up"
+    ],
+    "vanillish": [
+      "level-up"
+    ],
+    "vanilluxe": [
+      "level-up"
+    ],
+    "alomomola": [
+      "egg"
+    ],
+    "amaura": [
+      "egg"
+    ],
+    "bergmite": [
+      "egg"
+    ],
+    "dewpider": [
+      "level-up"
+    ],
+    "araquanid": [
+      "level-up"
+    ],
+    "nihilego": [
+      "level-up"
+    ],
+    "deoxys-defense": [
+      "level-up"
+    ],
+    "lopunny-mega": [
+      "level-up"
+    ],
+    "araquanid-totem": [
+      "level-up"
+    ]
+  }
+}

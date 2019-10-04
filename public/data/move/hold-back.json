@@ -1,0 +1,24 @@
+{
+  "name": "hold-back",
+  "caption": "Hold Back",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 40,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Cannot lower the target's HP below 1.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Will not reduce the target's [HP]{mechanic:hp} below 1."
+  },
+  "flavorText": "The user holds back when it attacks, and the target\nis left with at least 1 HP.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {}
+}

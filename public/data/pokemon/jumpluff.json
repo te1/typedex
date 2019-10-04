@@ -1,0 +1,193 @@
+{
+  "name": "jumpluff",
+  "caption": "Jumpluff",
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "species": "jumpluff",
+  "gen": "generation-ii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.8,
+  "weight": 3,
+  "baseStats": {
+    "hp": 75,
+    "attack": 55,
+    "defense": 70,
+    "special-attack": 55,
+    "special-defense": 95,
+    "speed": 110
+  },
+  "evolutionChain": {
+    "species": "hoppip",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "skiploom",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "jumpluff",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "Jumpluff rides warm southern winds to cross the sea and fly to\nforeign lands. The Pokémon descends to the ground when it\nencounters cold air while it is floating.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "mega-drain": [
+      "level-up"
+    ],
+    "leech-seed": [
+      "level-up"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "poison-powder": [
+      "level-up"
+    ],
+    "stun-spore": [
+      "level-up"
+    ],
+    "sleep-powder": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "splash": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "cotton-spore": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "giga-drain": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "synthesis": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "bullet-seed": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "memento": [
+      "level-up"
+    ],
+    "bounce": [
+      "level-up"
+    ],
+    "u-turn": [
+      "level-up",
+      "machine"
+    ],
+    "worry-seed": [
+      "level-up"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "rage-powder": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "level-up",
+      "machine"
+    ],
+    "fairy-wind": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "absorb": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "chlorophyll": 1,
+    "leaf-guard": 2,
+    "infiltrator": "hidden"
+  }
+}

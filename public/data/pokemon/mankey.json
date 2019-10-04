@@ -1,0 +1,245 @@
+{
+  "name": "mankey",
+  "caption": "Mankey",
+  "types": [
+    "fighting"
+  ],
+  "species": "mankey",
+  "gen": "generation-i",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 28,
+  "baseStats": {
+    "hp": 40,
+    "attack": 80,
+    "defense": 35,
+    "special-attack": 35,
+    "special-defense": 45,
+    "speed": 70
+  },
+  "evolutionChain": {
+    "species": "mankey",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "primeape",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "The smallest of things could cause it to lose its\ntemper. Because it doesn’t hold in its stress,\nthis Pokémon can live a long time.",
+  "moves": {
+    "karate-chop": [
+      "level-up"
+    ],
+    "scratch": [
+      "level-up"
+    ],
+    "thrash": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "seismic-toss": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "low-kick": [
+      "level-up"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "meditate": [
+      "egg"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "reversal": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "foresight": [
+      "egg"
+    ],
+    "swagger": [
+      "level-up",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "egg",
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "cross-chop": [
+      "level-up"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "beat-up": [
+      "egg"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "focus-punch": [
+      "egg"
+    ],
+    "smelling-salts": [
+      "egg"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "revenge": [
+      "egg"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "overheat": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "covet": [
+      "level-up"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "close-combat": [
+      "level-up",
+      "egg"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "assurance": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "punishment": [
+      "level-up"
+    ],
+    "poison-jab": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "outrage": [
+      "level-up"
+    ],
+    "encore": [
+      "egg"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "final-gambit": [
+      "level-up"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "night-slash": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "power-trip": [
+      "egg"
+    ],
+    "stomping-tantrum": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "vital-spirit": 1,
+    "anger-point": 2,
+    "defiant": "hidden"
+  }
+}

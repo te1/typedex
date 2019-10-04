@@ -1,0 +1,28 @@
+{
+  "name": "fiery-dance",
+  "caption": "Fiery Dance",
+  "type": "fire",
+  "damageCategory": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Has a 50% chance to raise the user's Special Attack by one stage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 50% chance to raise the user's [Special Attack]{mechanic:special-attack} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "Cloaked in flames, the user dances and flaps its\nwings. This may also raise the user’s Sp. Atk stat.",
+  "flags": [
+    "protect",
+    "mirror",
+    "dance"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "volcarona": [
+      "level-up"
+    ]
+  }
+}

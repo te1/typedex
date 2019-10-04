@@ -1,0 +1,88 @@
+{
+  "name": "ice-shard",
+  "caption": "Ice Shard",
+  "type": "ice",
+  "damageCategory": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "z": false,
+  "priority": 1,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The user flash-freezes chunks of ice and hurls them\nat the target. This move always goes first.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "seel": [
+      "level-up"
+    ],
+    "dewgong": [
+      "level-up"
+    ],
+    "shellder": [
+      "level-up"
+    ],
+    "lapras": [
+      "level-up"
+    ],
+    "articuno": [
+      "level-up"
+    ],
+    "sneasel": [
+      "level-up",
+      "egg"
+    ],
+    "swinub": [
+      "level-up"
+    ],
+    "delibird": [
+      "egg"
+    ],
+    "phanpy": [
+      "egg"
+    ],
+    "snorunt": [
+      "level-up"
+    ],
+    "glalie": [
+      "level-up"
+    ],
+    "snover": [
+      "level-up"
+    ],
+    "abomasnow": [
+      "level-up"
+    ],
+    "glaceon": [
+      "level-up"
+    ],
+    "froslass": [
+      "level-up"
+    ],
+    "vanillite": [
+      "egg"
+    ],
+    "cryogonal": [
+      "level-up"
+    ],
+    "abomasnow-mega": [
+      "level-up"
+    ],
+    "glalie-mega": [
+      "level-up"
+    ],
+    "vulpix-alola": [
+      "level-up"
+    ],
+    "ninetales-alola": [
+      "level-up"
+    ]
+  }
+}

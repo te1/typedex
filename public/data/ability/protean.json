@@ -1,0 +1,16 @@
+{
+  "name": "protean",
+  "caption": "Protean",
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Changes the bearer's type to match each move it uses.",
+    "full": "Changes the bearer's type to match each move it uses.\n\nThe type change takes place just before the move is used."
+  },
+  "flavorText": "Changes the Pokémon’s type to the type of the\nmove it’s about to use.",
+  "pokemon": {
+    "kecleon": "hidden",
+    "froakie": "hidden",
+    "frogadier": "hidden",
+    "greninja": "hidden"
+  }
+}

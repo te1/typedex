@@ -1,0 +1,226 @@
+{
+  "name": "murkrow",
+  "caption": "Murkrow",
+  "types": [
+    "dark",
+    "flying"
+  ],
+  "species": "murkrow",
+  "gen": "generation-ii",
+  "color": "black",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.5,
+  "weight": 2.1,
+  "baseStats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 42,
+    "special-attack": 85,
+    "special-defense": 42,
+    "speed": 91
+  },
+  "evolutionChain": {
+    "species": "murkrow",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "honchkrow",
+        "triggers": [
+          "use-item"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It has a weakness for shiny things. It’s been\nknown to sneak into the nests of Gabite—noted\ncollectors of jewels—in search of treasure.",
+  "moves": {
+    "wing-attack": [
+      "level-up",
+      "egg"
+    ],
+    "whirlwind": [
+      "egg"
+    ],
+    "fly": [
+      "machine"
+    ],
+    "peck": [
+      "level-up"
+    ],
+    "drill-peck": [
+      "egg"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "night-shade": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "haze": [
+      "level-up"
+    ],
+    "mirror-move": [
+      "egg"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "level-up",
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "mean-look": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "sky-attack": [
+      "egg"
+    ],
+    "confuse-ray": [
+      "egg"
+    ],
+    "perish-song": [
+      "egg"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "torment": [
+      "level-up",
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "feather-dance": [
+      "egg"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "screech": [
+      "egg"
+    ],
+    "roost": [
+      "egg",
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "assurance": [
+      "level-up",
+      "egg"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "psycho-shift": [
+      "egg"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "tailwind": [
+      "level-up"
+    ],
+    "brave-bird": [
+      "egg"
+    ],
+    "foul-play": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "quash": [
+      "level-up",
+      "machine"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "flatter": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "punishment": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "insomnia": 1,
+    "super-luck": 2,
+    "prankster": "hidden"
+  }
+}

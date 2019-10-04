@@ -1,0 +1,15 @@
+{
+  "name": "filter",
+  "caption": "Filter",
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Decreases damage taken from [super-effective]{mechanic:super-effective} moves by 1/4.",
+    "full": "This Pokémon takes 0.75× as much damage from moves that are [super effective]{mechanic:super-effective} against it.\n\nThis ability functions identically to []{ability:solid-rock}."
+  },
+  "flavorText": "Reduces the power of supereffective attacks taken.",
+  "pokemon": {
+    "mr-mime": 2,
+    "mime-jr": 2,
+    "aggron-mega": 1
+  }
+}

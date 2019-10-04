@@ -1,0 +1,149 @@
+{
+  "name": "basculin-blue-striped",
+  "caption": "Blue-Striped Basculin",
+  "types": [
+    "water"
+  ],
+  "species": "basculin",
+  "gen": "generation-v",
+  "color": "green",
+  "default": false,
+  "alternate": true,
+  "mega": false,
+  "form": "Blue-Striped Form",
+  "height": 1,
+  "weight": 18,
+  "baseStats": {
+    "hp": 70,
+    "attack": 92,
+    "defense": 65,
+    "special-attack": 80,
+    "special-defense": 55,
+    "speed": 98
+  },
+  "flavorText": "Savage, violent Pokémon, red and blue Basculin\nare always fighting each other over territory.",
+  "moves": {
+    "headbutt": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "thrash": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "flail": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "uproar": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "aqua-tail": [
+      "level-up"
+    ],
+    "aqua-jet": [
+      "level-up"
+    ],
+    "soak": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "chip-away": [
+      "level-up"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "final-gambit": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "head-smash": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "rock-head": 1,
+    "adaptability": 2,
+    "mold-breaker": "hidden"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "name": "gastly",
+  "caption": "Gastly",
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "species": "gastly",
+  "gen": "generation-i",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.3,
+  "weight": 0.1,
+  "baseStats": {
+    "hp": 30,
+    "attack": 35,
+    "defense": 30,
+    "special-attack": 100,
+    "special-defense": 35,
+    "speed": 80
+  },
+  "evolutionChain": {
+    "species": "gastly",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "haunter",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "gengar",
+            "triggers": [
+              "trade"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It’s said that gas emanating from a graveyard\nwas possessed by the grievances of the\ndeceased and thus became a Pokémon.",
+  "moves": {
+    "thunderbolt": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "hypnosis": [
+      "level-up"
+    ],
+    "night-shade": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "confuse-ray": [
+      "level-up"
+    ],
+    "lick": [
+      "level-up"
+    ],
+    "dream-eater": [
+      "level-up",
+      "machine"
+    ],
+    "psywave": [
+      "egg"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "haze": [
+      "egg"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "nightmare": [
+      "level-up"
+    ],
+    "curse": [
+      "level-up"
+    ],
+    "spite": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "destiny-bond": [
+      "level-up"
+    ],
+    "perish-song": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "mean-look": [
+      "level-up"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "level-up",
+      "machine"
+    ],
+    "sludge-bomb": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "grudge": [
+      "egg"
+    ],
+    "astonish": [
+      "egg"
+    ],
+    "fire-punch": [
+      "egg"
+    ],
+    "ice-punch": [
+      "egg"
+    ],
+    "thunder-punch": [
+      "egg"
+    ],
+    "payback": [
+      "level-up",
+      "machine"
+    ],
+    "embargo": [
+      "machine"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "dark-pulse": [
+      "level-up",
+      "machine"
+    ],
+    "energy-ball": [
+      "machine"
+    ],
+    "trick-room": [
+      "machine"
+    ],
+    "disable": [
+      "egg"
+    ],
+    "smog": [
+      "egg"
+    ],
+    "scary-face": [
+      "egg"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "clear-smog": [
+      "egg"
+    ],
+    "hex": [
+      "level-up"
+    ],
+    "reflect-type": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "levitate": 1
+  }
+}

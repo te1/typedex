@@ -1,0 +1,64 @@
+{
+  "name": "power-whip",
+  "caption": "Power Whip",
+  "type": "grass",
+  "damageCategory": "physical",
+  "power": 120,
+  "accuracy": 85,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "The user violently whirls its vines, tentacles, or the \nlike to harshly lash the target.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "bulbasaur": [
+      "egg"
+    ],
+    "bellsprout": [
+      "egg"
+    ],
+    "lickitung": [
+      "level-up"
+    ],
+    "tangela": [
+      "level-up"
+    ],
+    "roselia": [
+      "egg"
+    ],
+    "carnivine": [
+      "level-up"
+    ],
+    "lickilicky": [
+      "level-up"
+    ],
+    "tangrowth": [
+      "level-up"
+    ],
+    "ferrothorn": [
+      "level-up"
+    ],
+    "goodra": [
+      "level-up"
+    ],
+    "tsareena": [
+      "level-up"
+    ],
+    "dhelmise": [
+      "level-up"
+    ],
+    "xurkitree": [
+      "level-up"
+    ]
+  }
+}

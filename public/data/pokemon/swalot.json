@@ -1,0 +1,181 @@
+{
+  "name": "swalot",
+  "caption": "Swalot",
+  "types": [
+    "poison"
+  ],
+  "species": "swalot",
+  "gen": "generation-iii",
+  "color": "purple",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.7,
+  "weight": 80,
+  "baseStats": {
+    "hp": 100,
+    "attack": 73,
+    "defense": 83,
+    "special-attack": 73,
+    "special-defense": 83,
+    "speed": 55
+  },
+  "evolutionChain": {
+    "species": "gulpin",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "swalot",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "When Swalot spots prey, it spurts out a hideously toxic fluid\nfrom its pores and sprays the target. Once the prey has\nweakened, this Pokémon gulps it down whole with its\ncavernous mouth.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "body-slam": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "level-up",
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "sludge": [
+      "level-up"
+    ],
+    "amnesia": [
+      "level-up"
+    ],
+    "poison-gas": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sludge-bomb": [
+      "level-up",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "encore": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "stockpile": [
+      "level-up"
+    ],
+    "spit-up": [
+      "level-up"
+    ],
+    "swallow": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "yawn": [
+      "level-up"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "explosion": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "wring-out": [
+      "level-up"
+    ],
+    "gastro-acid": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "gunk-shot": [
+      "level-up"
+    ],
+    "venoshock": [
+      "machine"
+    ],
+    "sludge-wave": [
+      "machine"
+    ],
+    "acid-spray": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "belch": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "infestation": [
+      "machine"
+    ],
+    "venom-drench": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "liquid-ooze": 1,
+    "sticky-hold": 2,
+    "gluttony": "hidden"
+  }
+}

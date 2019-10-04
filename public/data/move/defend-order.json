@@ -1,0 +1,26 @@
+{
+  "name": "defend-order",
+  "caption": "Defend Order",
+  "type": "bug",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Raises the user's Defense and Special Defense by one stage.",
+    "full": "Raises the user's [Defense]{mechanic:defense} and [Special Defense]{mechanic:special-defense} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "The user calls out its underlings to shield its body,\nraising its Defense and Sp. Def stats.",
+  "flags": [
+    "snatch"
+  ],
+  "target": "user",
+  "pokemon": {
+    "vespiquen": [
+      "level-up"
+    ]
+  }
+}

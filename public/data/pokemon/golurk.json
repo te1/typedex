@@ -1,0 +1,214 @@
+{
+  "name": "golurk",
+  "caption": "Golurk",
+  "types": [
+    "ground",
+    "ghost"
+  ],
+  "species": "golurk",
+  "gen": "generation-v",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 2.8,
+  "weight": 330,
+  "baseStats": {
+    "hp": 89,
+    "attack": 124,
+    "defense": 80,
+    "special-attack": 55,
+    "special-defense": 80,
+    "speed": 55
+  },
+  "evolutionChain": {
+    "species": "golett",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "golurk",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Some say that ancient people invented Golurk\nto serve as a laborer. It follows its master’s\norders faithfully.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "mega-punch": [
+      "level-up"
+    ],
+    "fly": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "night-shade": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "curse": [
+      "level-up"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "mud-slap": [
+      "level-up"
+    ],
+    "rollout": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "magnitude": [
+      "level-up"
+    ],
+    "dynamic-punch": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "focus-punch": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "astonish": [
+      "level-up"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "shadow-punch": [
+      "level-up"
+    ],
+    "iron-defense": [
+      "level-up"
+    ],
+    "hammer-arm": [
+      "level-up"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "flash-cannon": [
+      "machine"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "heavy-slam": [
+      "level-up"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "phantom-force": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "high-horsepower": [
+      "level-up"
+    ],
+    "stomping-tantrum": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "iron-fist": 1,
+    "klutz": 2,
+    "no-guard": "hidden"
+  }
+}

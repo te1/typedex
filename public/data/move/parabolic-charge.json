@@ -1,0 +1,34 @@
+{
+  "name": "parabolic-charge",
+  "caption": "Parabolic Charge",
+  "type": "electric",
+  "damageCategory": "special",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Heals the user for half the total damage dealt to all targets.",
+    "full": "Heals the user for half the total damage dealt to all targets."
+  },
+  "flavorText": "The user attacks everything around it. The user’s HP\nis restored by half the damage taken by those hit.",
+  "flags": [
+    "protect",
+    "mirror",
+    "heal"
+  ],
+  "target": "all-other-pokemon",
+  "pokemon": {
+    "helioptile": [
+      "level-up"
+    ],
+    "heliolisk": [
+      "level-up"
+    ],
+    "dedenne": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "name": "zeraora",
+  "caption": "Zeraora",
+  "types": [
+    "electric"
+  ],
+  "species": "zeraora",
+  "gen": "generation-vii",
+  "color": "yellow",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.5,
+  "weight": 44.5,
+  "baseStats": {
+    "hp": 88,
+    "attack": 112,
+    "defense": 75,
+    "special-attack": 102,
+    "special-defense": 80,
+    "speed": 143
+  },
+  "flavorText": "It electrifies its claws and tears its opponents\napart with them. Even if they dodge its attack,\nthey’ll be electrocuted by the flying sparks.",
+  "moves": {
+    "thunder-punch": [
+      "level-up"
+    ],
+    "scratch": [
+      "level-up"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "spark": [
+      "level-up"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "fake-out": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "charge": [
+      "level-up"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "close-combat": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "discharge": [
+      "level-up"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "hone-claws": [
+      "level-up"
+    ],
+    "low-sweep": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "quick-guard": [
+      "level-up"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "volt-switch": [
+      "level-up",
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "wild-charge": [
+      "level-up",
+      "machine"
+    ],
+    "snarl": [
+      "level-up",
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ],
+    "plasma-fists": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "volt-absorb": 1
+  }
+}

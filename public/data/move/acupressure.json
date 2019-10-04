@@ -1,0 +1,57 @@
+{
+  "name": "acupressure",
+  "caption": "Acupressure",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Raises one of a friendly Pokémon's stats at random by two stages.",
+    "full": "Raises one of the target's stats by two [stages]{mechanic:stage}.  The raised stat is chosen at random from any stats that can be raised by two stages.  If no stat is eligible, this move will [fail]{mechanic:fail}.\n\nIf the target has a []{move:substitute}, this move will have no effect, even if the user is the target.\n\nThis move cannot be copied by []{move:mirror-move}."
+  },
+  "flavorText": "The user applies pressure to stress points, sharply\nboosting one of its or its allies’ stats.",
+  "flags": [],
+  "target": "user-or-ally",
+  "pokemon": {
+    "tentacool": [
+      "egg"
+    ],
+    "doduo": [
+      "level-up"
+    ],
+    "dodrio": [
+      "level-up"
+    ],
+    "shuckle": [
+      "egg"
+    ],
+    "meditite": [
+      "level-up"
+    ],
+    "medicham": [
+      "level-up"
+    ],
+    "skorupi": [
+      "level-up"
+    ],
+    "drapion": [
+      "level-up"
+    ],
+    "croagunk": [
+      "egg"
+    ],
+    "maractus": [
+      "level-up"
+    ],
+    "bounsweet": [
+      "egg"
+    ],
+    "medicham-mega": [
+      "level-up"
+    ]
+  }
+}

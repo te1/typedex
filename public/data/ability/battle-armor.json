@@ -1,0 +1,21 @@
+{
+  "name": "battle-armor",
+  "caption": "Battle Armor",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Protects against [critical hits]{mechanic:critical-hit}.",
+    "full": "Moves cannot score [critical hits]{mechanic:critical-hit} against this Pokémon.\n\nThis ability functions identically to []{ability:shell-armor}."
+  },
+  "flavorText": "Hard armor protects the Pokémon from critical hits.",
+  "pokemon": {
+    "cubone": "hidden",
+    "marowak": "hidden",
+    "kabuto": 2,
+    "kabutops": 2,
+    "anorith": 1,
+    "armaldo": 1,
+    "skorupi": 1,
+    "drapion": 1,
+    "type-null": 1
+  }
+}

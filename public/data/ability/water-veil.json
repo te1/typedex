@@ -1,0 +1,23 @@
+{
+  "name": "water-veil",
+  "caption": "Water Veil",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Prevents [burns]{mechanic:burn}.",
+    "full": "This Pokémon cannot be [burned]{mechanic:burn}.\n\nIf a Pokémon is burned and acquires this ability, its burn is healed; this includes when regaining a lost ability upon leaving battle."
+  },
+  "flavorText": "The Pokémon is covered with a water veil, which\nprevents the Pokémon from getting a burn.",
+  "pokemon": {
+    "goldeen": 2,
+    "seaking": 2,
+    "mantine": "hidden",
+    "wailmer": 1,
+    "wailord": 1,
+    "huntail": "hidden",
+    "buizel": "hidden",
+    "floatzel": "hidden",
+    "finneon": "hidden",
+    "lumineon": "hidden",
+    "mantyke": "hidden"
+  }
+}

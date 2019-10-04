@@ -1,0 +1,17 @@
+{
+  "name": "wonder-skin",
+  "caption": "Wonder Skin",
+  "gen": "generation-v",
+  "effect": {
+    "short": "Lowers incoming non-damaging moves' base [accuracy]{mechanic:accuracy} to exactly 50%.",
+    "full": "Non-damaging moves have exactly 50% base [accuracy]{mechanic:accuracy} against this Pokémon."
+  },
+  "flavorText": "Makes status moves more likely to miss.",
+  "pokemon": {
+    "venomoth": "hidden",
+    "skitty": "hidden",
+    "delcatty": "hidden",
+    "sigilyph": 1,
+    "bruxish": "hidden"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "name": "moonblast",
+  "caption": "Moonblast",
+  "type": "fairy",
+  "damageCategory": "special",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Has a 30% chance to lower the target's Special Attack by one stage.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 30% chance to lower the target's [Special Attack]{mechanic:special-attack} by one [stage]{mechanic:stage}."
+  },
+  "flavorText": "Borrowing the power of the moon, the user attacks\nthe target. This may also lower the target’s\nSp. Atk stat.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "clefairy": [
+      "level-up"
+    ],
+    "oddish": [
+      "level-up"
+    ],
+    "hoothoot": [
+      "level-up"
+    ],
+    "noctowl": [
+      "level-up"
+    ],
+    "gardevoir": [
+      "level-up"
+    ],
+    "swablu": [
+      "level-up"
+    ],
+    "altaria": [
+      "level-up"
+    ],
+    "lunatone": [
+      "level-up"
+    ],
+    "cresselia": [
+      "level-up"
+    ],
+    "whimsicott": [
+      "level-up"
+    ],
+    "flabebe": [
+      "level-up"
+    ],
+    "floette": [
+      "level-up"
+    ],
+    "florges": [
+      "level-up"
+    ],
+    "spritzee": [
+      "level-up"
+    ],
+    "aromatisse": [
+      "level-up"
+    ],
+    "sylveon": [
+      "level-up"
+    ],
+    "carbink": [
+      "level-up"
+    ],
+    "xerneas": [
+      "level-up"
+    ],
+    "diancie": [
+      "level-up"
+    ],
+    "popplio": [
+      "level-up"
+    ],
+    "brionne": [
+      "level-up"
+    ],
+    "primarina": [
+      "level-up"
+    ],
+    "cutiefly": [
+      "egg"
+    ],
+    "morelull": [
+      "level-up"
+    ],
+    "shiinotic": [
+      "level-up"
+    ],
+    "tapu-lele": [
+      "level-up"
+    ],
+    "tapu-fini": [
+      "level-up"
+    ],
+    "lunala": [
+      "level-up"
+    ],
+    "gardevoir-mega": [
+      "level-up"
+    ],
+    "floette-eternal": [
+      "level-up"
+    ],
+    "altaria-mega": [
+      "level-up"
+    ],
+    "diancie-mega": [
+      "level-up"
+    ]
+  }
+}

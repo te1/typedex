@@ -1,0 +1,179 @@
+{
+  "name": "yanmega",
+  "caption": "Yanmega",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "species": "yanmega",
+  "gen": "generation-iv",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.9,
+  "weight": 51.5,
+  "baseStats": {
+    "hp": 86,
+    "attack": 76,
+    "defense": 86,
+    "special-attack": 116,
+    "special-defense": 56,
+    "speed": 95
+  },
+  "evolutionChain": {
+    "species": "yanma",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "yanmega",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "It prefers to battle by biting apart foes’ heads\ninstantly while flying by at high speed.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "supersonic": [
+      "level-up"
+    ],
+    "sonic-boom": [
+      "level-up"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "screech": [
+      "level-up"
+    ],
+    "double-team": [
+      "level-up",
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "foresight": [
+      "level-up"
+    ],
+    "detect": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "uproar": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "u-turn": [
+      "level-up",
+      "machine"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "bug-buzz": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "bug-bite": [
+      "level-up"
+    ],
+    "feint": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "leech-life": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "speed-boost": 1,
+    "tinted-lens": 2,
+    "frisk": "hidden"
+  }
+}

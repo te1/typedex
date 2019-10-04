@@ -1,0 +1,309 @@
+{
+  "name": "flail",
+  "caption": "Flail",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Inflicts more damage when the user has less HP remaining, with a maximum of 200 power.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Power varies inversely with the user's proportional remaining [HP]{mechanic:hp}.\n\n64 * current HP / max HP | Power\n-----------------------: | ----:\n 0– 1                    |  200\n 2– 5                    |  150\n 6–12                    |  100\n13–21                    |   80\n22–42                    |   40\n43–64                    |   20\n"
+  },
+  "flavorText": "The user flails about aimlessly to attack. The less HP\nthe user has, the greater the move’s power.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "squirtle": [
+      "egg"
+    ],
+    "sandshrew": [
+      "egg"
+    ],
+    "vulpix": [
+      "egg"
+    ],
+    "oddish": [
+      "egg"
+    ],
+    "paras": [
+      "egg"
+    ],
+    "meowth": [
+      "egg"
+    ],
+    "geodude": [
+      "egg"
+    ],
+    "farfetchd": [
+      "egg"
+    ],
+    "doduo": [
+      "egg"
+    ],
+    "onix": [
+      "egg"
+    ],
+    "krabby": [
+      "level-up",
+      "egg"
+    ],
+    "kingler": [
+      "level-up"
+    ],
+    "tangela": [
+      "egg"
+    ],
+    "horsea": [
+      "egg"
+    ],
+    "goldeen": [
+      "level-up"
+    ],
+    "seaking": [
+      "level-up"
+    ],
+    "pinsir": [
+      "egg"
+    ],
+    "magikarp": [
+      "level-up"
+    ],
+    "eevee": [
+      "egg"
+    ],
+    "kabuto": [
+      "egg"
+    ],
+    "chikorita": [
+      "egg"
+    ],
+    "totodile": [
+      "level-up"
+    ],
+    "croconaw": [
+      "level-up"
+    ],
+    "feraligatr": [
+      "level-up"
+    ],
+    "chinchou": [
+      "level-up",
+      "egg"
+    ],
+    "lanturn": [
+      "level-up"
+    ],
+    "pichu": [
+      "egg"
+    ],
+    "sudowoodo": [
+      "level-up"
+    ],
+    "pineco": [
+      "egg"
+    ],
+    "dunsparce": [
+      "level-up"
+    ],
+    "qwilfish": [
+      "egg"
+    ],
+    "heracross": [
+      "egg"
+    ],
+    "swinub": [
+      "level-up"
+    ],
+    "corsola": [
+      "level-up"
+    ],
+    "remoraid": [
+      "egg"
+    ],
+    "phanpy": [
+      "level-up"
+    ],
+    "zigzagoon": [
+      "level-up"
+    ],
+    "lotad": [
+      "egg"
+    ],
+    "slakoth": [
+      "level-up"
+    ],
+    "slaking": [
+      "level-up"
+    ],
+    "torkoal": [
+      "level-up"
+    ],
+    "spinda": [
+      "level-up"
+    ],
+    "trapinch": [
+      "egg"
+    ],
+    "zangoose": [
+      "egg"
+    ],
+    "barboach": [
+      "egg"
+    ],
+    "feebas": [
+      "level-up"
+    ],
+    "relicanth": [
+      "level-up"
+    ],
+    "luvdisc": [
+      "level-up"
+    ],
+    "piplup": [
+      "egg"
+    ],
+    "wormadam-plant": [
+      "level-up"
+    ],
+    "pachirisu": [
+      "egg"
+    ],
+    "buneary": [
+      "egg"
+    ],
+    "glameow": [
+      "egg"
+    ],
+    "bonsly": [
+      "level-up"
+    ],
+    "finneon": [
+      "egg"
+    ],
+    "uxie": [
+      "level-up"
+    ],
+    "patrat": [
+      "egg"
+    ],
+    "tympole": [
+      "level-up"
+    ],
+    "palpitoad": [
+      "level-up"
+    ],
+    "seismitoad": [
+      "level-up"
+    ],
+    "sewaddle": [
+      "level-up"
+    ],
+    "basculin-red-striped": [
+      "level-up"
+    ],
+    "dwebble": [
+      "level-up"
+    ],
+    "crustle": [
+      "level-up"
+    ],
+    "tirtouga": [
+      "egg"
+    ],
+    "minccino": [
+      "egg"
+    ],
+    "karrablast": [
+      "level-up"
+    ],
+    "cubchoo": [
+      "level-up"
+    ],
+    "beartic": [
+      "level-up"
+    ],
+    "stunfisk": [
+      "level-up"
+    ],
+    "bunnelby": [
+      "level-up"
+    ],
+    "diggersby": [
+      "level-up"
+    ],
+    "fletchling": [
+      "level-up"
+    ],
+    "fletchinder": [
+      "level-up"
+    ],
+    "talonflame": [
+      "level-up"
+    ],
+    "spritzee": [
+      "level-up"
+    ],
+    "aromatisse": [
+      "level-up"
+    ],
+    "clauncher": [
+      "level-up"
+    ],
+    "clawitzer": [
+      "level-up"
+    ],
+    "carbink": [
+      "level-up"
+    ],
+    "goomy": [
+      "level-up"
+    ],
+    "sliggoo": [
+      "level-up"
+    ],
+    "goodra": [
+      "level-up"
+    ],
+    "diancie": [
+      "level-up"
+    ],
+    "stufful": [
+      "level-up"
+    ],
+    "bewear": [
+      "level-up"
+    ],
+    "bounsweet": [
+      "level-up"
+    ],
+    "komala": [
+      "level-up"
+    ],
+    "turtonator": [
+      "level-up"
+    ],
+    "togedemaru": [
+      "egg"
+    ],
+    "wormadam-sandy": [
+      "level-up"
+    ],
+    "wormadam-trash": [
+      "level-up"
+    ],
+    "basculin-blue-striped": [
+      "level-up"
+    ],
+    "diancie-mega": [
+      "level-up"
+    ]
+  }
+}

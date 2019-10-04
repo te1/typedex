@@ -1,0 +1,31 @@
+{
+  "name": "sacred-fire",
+  "caption": "Sacred Fire",
+  "type": "fire",
+  "damageCategory": "physical",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a 50% chance to [burn]{mechanic:burn} the target.  Lets frozen Pokémon thaw themselves.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 50% chance to [burn]{mechanic:burn} the target.  [Frozen]{mechanic:frozen} Pokémon may use this move, in which case they will thaw."
+  },
+  "flavorText": "The target is razed with a mystical fire of great\nintensity. This may also leave the target with a burn.",
+  "flags": [
+    "protect",
+    "mirror",
+    "defrost"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "entei": [
+      "level-up"
+    ],
+    "ho-oh": [
+      "level-up"
+    ]
+  }
+}

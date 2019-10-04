@@ -1,0 +1,65 @@
+{
+  "name": "burmy",
+  "caption": "Burmy",
+  "types": [
+    "bug"
+  ],
+  "species": "burmy",
+  "gen": "generation-iv",
+  "color": "green",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": "Plant Cloak",
+  "height": 0.2,
+  "weight": 3.4,
+  "baseStats": {
+    "hp": 40,
+    "attack": 29,
+    "defense": 45,
+    "special-attack": 29,
+    "special-defense": 45,
+    "speed": 36
+  },
+  "evolutionChain": {
+    "species": "burmy",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "wormadam",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      },
+      {
+        "species": "mothim",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "To shelter itself from cold, wintry winds, it covers\nitself with a cloak made of twigs and leaves.",
+  "moves": {
+    "tackle": [
+      "level-up"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "hidden-power": [
+      "level-up",
+      "machine"
+    ],
+    "bug-bite": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "shed-skin": 1,
+    "overcoat": "hidden"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "prismatic-laser",
+  "caption": "Prismatic Laser",
+  "type": "psychic",
+  "damageCategory": "special",
+  "power": 160,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-vii",
+  "effect": {
+    "short": "User foregoes its next turn to recharge.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  User loses its next turn to \"recharge\", and cannot attack or [switch]{mechanic:switch} out during that turn."
+  },
+  "flavorText": "The user shoots powerful lasers using the power of\na prism. The user can’t move on the next turn.",
+  "flags": [
+    "recharge",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "necrozma": [
+      "level-up"
+    ],
+    "necrozma-dusk": [
+      "level-up"
+    ],
+    "necrozma-dawn": [
+      "level-up"
+    ],
+    "necrozma-ultra": [
+      "level-up"
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "name": "darmanitan-standard",
+  "caption": "Standard Darmanitan",
+  "types": [
+    "fire"
+  ],
+  "species": "darmanitan",
+  "gen": "generation-v",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": "Standard Mode",
+  "height": 1.3,
+  "weight": 92.9,
+  "baseStats": {
+    "hp": 105,
+    "attack": 140,
+    "defense": 55,
+    "special-attack": 30,
+    "special-defense": 55,
+    "speed": 95
+  },
+  "evolutionChain": {
+    "species": "darumaka",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "darmanitan",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "When one is injured in a fierce battle, it hardens\ninto a stone-like form. Then it meditates and\nsharpens its mind.",
+  "moves": {
+    "fire-punch": [
+      "level-up"
+    ],
+    "headbutt": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "thrash": [
+      "level-up"
+    ],
+    "roar": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "rage": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "belly-drum": [
+      "level-up"
+    ],
+    "rollout": [
+      "level-up"
+    ],
+    "swagger": [
+      "level-up",
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "facade": [
+      "level-up",
+      "machine"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "superpower": [
+      "level-up"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "overheat": [
+      "level-up",
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "bulk-up": [
+      "machine"
+    ],
+    "hammer-arm": [
+      "level-up"
+    ],
+    "gyro-ball": [
+      "machine"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "flare-blitz": [
+      "level-up"
+    ],
+    "focus-blast": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "fire-fang": [
+      "level-up"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "smack-down": [
+      "machine"
+    ],
+    "flame-charge": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "incinerate": [
+      "level-up"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "work-up": [
+      "level-up",
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "sheer-force": 1,
+    "zen-mode": "hidden"
+  }
+}

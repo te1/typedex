@@ -1,0 +1,15 @@
+{
+  "name": "cheek-pouch",
+  "caption": "Cheek Pouch",
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Restores HP upon eating a Berry, in addition to the Berry's effect.",
+    "full": "Restores HP upon eating a Berry, in addition to the Berry's effect."
+  },
+  "flavorText": "Restores HP as well when the Pokémon eats a Berry.",
+  "pokemon": {
+    "bunnelby": 2,
+    "diggersby": 2,
+    "dedenne": 1
+  }
+}

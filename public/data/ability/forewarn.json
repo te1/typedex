@@ -1,0 +1,18 @@
+{
+  "name": "forewarn",
+  "caption": "Forewarn",
+  "gen": "generation-iv",
+  "effect": {
+    "short": "Reveals the opponents' strongest move upon entering battle.",
+    "full": "When this Pokémon enters battle, it reveals the move with the highest base power known by any opposing Pokémon to all participating trainers.\n\nIn the event of a tie, one is chosen at random.\n\nMoves without a listed base power are assigned one as follows:\n\nPower | Moves\n----: | -----\n  160 | One-hit KO moves: []{move:fissure}, []{move:guillotine}, []{move:horn-drill}, and []{move:sheer-cold}\n  120 | Counter moves: []{move:counter}, []{move:metal-burst}, and []{move:mirror-coat}\n   80 | Variable power or set damage: []{move:crush-grip}, []{move:dragon-rage}, []{move:electro-ball}, []{move:endeavor}, []{move:final-gambit}, []{move:flail}, []{move:frustration}, []{move:grass-knot}, []{move:gyro-ball}, []{move:heat-crash}, []{move:heavy-slam}, []{move:hidden-power}, []{move:low-kick}, []{move:natural-gift}, []{move:night-shade}, []{move:psywave}, []{move:return}, []{move:reversal}, []{move:seismic-toss}, []{move:sonic-boom}, []{move:trump-card}, and []{move:wring-out}\n    0 | Any such move not listed\n"
+  },
+  "flavorText": "When it enters a battle, the Pokémon can tell one of\nthe moves an opposing Pokémon has.",
+  "pokemon": {
+    "drowzee": 2,
+    "hypno": 2,
+    "jynx": 2,
+    "smoochum": 2,
+    "munna": 1,
+    "musharna": 1
+  }
+}

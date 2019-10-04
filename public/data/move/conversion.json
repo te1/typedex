@@ -1,0 +1,32 @@
+{
+  "name": "conversion",
+  "caption": "Conversion",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "User's type changes to the type of one of its moves at random.",
+    "full": "User's [type]{mechanic:type} changes to the [type]{mechanic:type} of one of its moves, selected at random.  []{move:hidden-power} and []{move:weather-ball} are treated as []{type:normal}.  Only moves with a different [type]{mechanic:type} are eligible, and []{move:curse} is never eligible.  If the user has no suitable moves, this move will [fail]{mechanic:fail}."
+  },
+  "flavorText": "The user changes its type to become the same type\nas the move at the top of the list of moves it knows.",
+  "flags": [
+    "snatch"
+  ],
+  "target": "user",
+  "pokemon": {
+    "porygon": [
+      "level-up"
+    ],
+    "porygon2": [
+      "level-up"
+    ],
+    "porygon-z": [
+      "level-up"
+    ]
+  }
+}

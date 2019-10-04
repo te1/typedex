@@ -1,0 +1,222 @@
+{
+  "name": "sentret",
+  "caption": "Sentret",
+  "types": [
+    "normal"
+  ],
+  "species": "sentret",
+  "gen": "generation-ii",
+  "color": "brown",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.8,
+  "weight": 6,
+  "baseStats": {
+    "hp": 35,
+    "attack": 46,
+    "defense": 34,
+    "special-attack": 35,
+    "special-defense": 45,
+    "speed": 20
+  },
+  "evolutionChain": {
+    "species": "sentret",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "furret",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "When Sentret sleeps, it does so while another stands guard.\nThe sentry wakes the others at the first sign of danger.\nWhen this Pokémon becomes separated from its pack,\nit becomes incapable of sleep due to fear.",
+  "moves": {
+    "slam": [
+      "level-up"
+    ],
+    "double-edge": [
+      "egg"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "focus-energy": [
+      "egg"
+    ],
+    "amnesia": [
+      "level-up"
+    ],
+    "fury-swipes": [
+      "level-up"
+    ],
+    "rest": [
+      "level-up",
+      "machine"
+    ],
+    "slash": [
+      "egg"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "reversal": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "pursuit": [
+      "egg"
+    ],
+    "iron-tail": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "scratch": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "follow-me": [
+      "level-up"
+    ],
+    "helping-hand": [
+      "level-up"
+    ],
+    "trick": [
+      "egg"
+    ],
+    "assist": [
+      "egg"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "foresight": [
+      "level-up"
+    ],
+    "charm": [
+      "egg"
+    ],
+    "baton-pass": [
+      "level-up"
+    ],
+    "hyper-voice": [
+      "level-up"
+    ],
+    "covet": [
+      "egg"
+    ],
+    "natural-gift": [
+      "egg"
+    ],
+    "u-turn": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "me-first": [
+      "level-up"
+    ],
+    "last-resort": [
+      "egg"
+    ],
+    "sucker-punch": [
+      "level-up"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "captivate": [
+      "egg"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ],
+    "baby-doll-eyes": [
+      "egg"
+    ]
+  },
+  "abilities": {
+    "run-away": 1,
+    "keen-eye": 2,
+    "frisk": "hidden"
+  }
+}

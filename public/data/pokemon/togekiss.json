@@ -1,0 +1,188 @@
+{
+  "name": "togekiss",
+  "caption": "Togekiss",
+  "types": [
+    "fairy",
+    "flying"
+  ],
+  "species": "togekiss",
+  "gen": "generation-iv",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.5,
+  "weight": 38,
+  "baseStats": {
+    "hp": 85,
+    "attack": 50,
+    "defense": 95,
+    "special-attack": 120,
+    "special-defense": 115,
+    "speed": 80
+  },
+  "evolutionChain": {
+    "species": "togepi",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "togetic",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "togekiss",
+            "triggers": [
+              "use-item"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "As everyone knows, it visits peaceful regions,\nbringing them gifts of kindness and\nsweet blessings.",
+  "moves": {
+    "fly": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "light-screen": [
+      "machine"
+    ],
+    "reflect": [
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "sky-attack": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "steel-wing": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "extreme-speed": [
+      "level-up"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "roost": [
+      "machine"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "aura-sphere": [
+      "level-up"
+    ],
+    "air-slash": [
+      "level-up"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "psyshock": [
+      "machine"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "after-you": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "hustle": 1,
+    "serene-grace": 2,
+    "super-luck": "hidden"
+  }
+}

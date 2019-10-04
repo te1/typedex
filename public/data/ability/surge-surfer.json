@@ -1,0 +1,13 @@
+{
+  "name": "surge-surfer",
+  "caption": "Surge Surfer",
+  "gen": "generation-vii",
+  "effect": {
+    "short": "Doubles this Pokémon's Speed on Electric Terrain.",
+    "full": "Doubles this Pokémon's Speed on Electric Terrain."
+  },
+  "flavorText": "Doubles the Pokémon’s Speed stat on\nElectric Terrain.",
+  "pokemon": {
+    "raichu-alola": 1
+  }
+}

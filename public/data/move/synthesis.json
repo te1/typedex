@@ -1,0 +1,158 @@
+{
+  "name": "synthesis",
+  "caption": "Synthesis",
+  "type": "grass",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Heals the user by half its max HP.  Affected by weather.",
+    "full": "Heals the user for half its max [HP]{mechanic:hp}.\n\nDuring []{move:sunny-day}, the healing is increased to 2/3 max [HP]{mechanic:hp}.\n\nDuring []{move:hail}, []{move:rain-dance}, or []{move:sandstorm}, the healing is decreased to 1/4 max [HP]{mechanic:hp}."
+  },
+  "flavorText": "The user restores its own HP. The amount of HP\nregained varies with the weather.",
+  "flags": [
+    "snatch",
+    "heal"
+  ],
+  "target": "user",
+  "pokemon": {
+    "bulbasaur": [
+      "level-up"
+    ],
+    "ivysaur": [
+      "level-up"
+    ],
+    "venusaur": [
+      "level-up"
+    ],
+    "oddish": [
+      "egg"
+    ],
+    "bellsprout": [
+      "egg"
+    ],
+    "exeggcute": [
+      "egg"
+    ],
+    "chikorita": [
+      "level-up"
+    ],
+    "bayleef": [
+      "level-up"
+    ],
+    "meganium": [
+      "level-up"
+    ],
+    "hoppip": [
+      "level-up"
+    ],
+    "skiploom": [
+      "level-up"
+    ],
+    "jumpluff": [
+      "level-up"
+    ],
+    "sunkern": [
+      "level-up"
+    ],
+    "treecko": [
+      "egg"
+    ],
+    "lotad": [
+      "egg"
+    ],
+    "seedot": [
+      "level-up"
+    ],
+    "roselia": [
+      "level-up",
+      "egg"
+    ],
+    "tropius": [
+      "level-up",
+      "egg"
+    ],
+    "turtwig": [
+      "level-up"
+    ],
+    "grotle": [
+      "level-up"
+    ],
+    "torterra": [
+      "level-up"
+    ],
+    "budew": [
+      "egg"
+    ],
+    "carnivine": [
+      "egg"
+    ],
+    "leafeon": [
+      "level-up"
+    ],
+    "shaymin-land": [
+      "level-up"
+    ],
+    "petilil": [
+      "level-up"
+    ],
+    "lilligant": [
+      "level-up"
+    ],
+    "maractus": [
+      "level-up"
+    ],
+    "deerling": [
+      "egg"
+    ],
+    "foongus": [
+      "level-up"
+    ],
+    "amoonguss": [
+      "level-up"
+    ],
+    "chespin": [
+      "egg"
+    ],
+    "skiddo": [
+      "level-up"
+    ],
+    "gogoat": [
+      "level-up"
+    ],
+    "rowlet": [
+      "level-up"
+    ],
+    "dartrix": [
+      "level-up"
+    ],
+    "decidueye": [
+      "level-up"
+    ],
+    "fomantis": [
+      "level-up"
+    ],
+    "lurantis": [
+      "level-up"
+    ],
+    "bounsweet": [
+      "egg"
+    ],
+    "comfey": [
+      "level-up"
+    ],
+    "kartana": [
+      "level-up"
+    ],
+    "venusaur-mega": [
+      "level-up"
+    ],
+    "lurantis-totem": [
+      "level-up"
+    ]
+  }
+}

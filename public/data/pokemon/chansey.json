@@ -1,0 +1,273 @@
+{
+  "name": "chansey",
+  "caption": "Chansey",
+  "types": [
+    "normal"
+  ],
+  "species": "chansey",
+  "gen": "generation-i",
+  "color": "pink",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.1,
+  "weight": 34.6,
+  "baseStats": {
+    "hp": 250,
+    "attack": 5,
+    "defense": 5,
+    "special-attack": 35,
+    "special-defense": 105,
+    "speed": 50
+  },
+  "evolutionChain": {
+    "species": "happiny",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "chansey",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "blissey",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "It seems that other Pokémon’s efforts to take\nits delicious, nutritious egg away from it caused\nChansey to get faster at fleeing.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "double-slap": [
+      "level-up"
+    ],
+    "take-down": [
+      "level-up"
+    ],
+    "double-edge": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "sing": [
+      "level-up"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "counter": [
+      "egg"
+    ],
+    "seismic-toss": [
+      "egg"
+    ],
+    "solar-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "psychic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "minimize": [
+      "level-up"
+    ],
+    "defense-curl": [
+      "level-up"
+    ],
+    "light-screen": [
+      "level-up",
+      "machine"
+    ],
+    "metronome": [
+      "egg"
+    ],
+    "egg-bomb": [
+      "level-up"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "soft-boiled": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "heal-bell": [
+      "egg"
+    ],
+    "return": [
+      "machine"
+    ],
+    "present": [
+      "egg"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "earthquake": [
+      "machine"
+    ],
+    "safeguard": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "refresh": [
+      "level-up"
+    ],
+    "aromatherapy": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "helping-hand": [
+      "egg"
+    ],
+    "gravity": [
+      "egg"
+    ],
+    "healing-wish": [
+      "level-up"
+    ],
+    "natural-gift": [
+      "egg"
+    ],
+    "fling": [
+      "level-up",
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "grass-knot": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "mud-bomb": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "heal-pulse": [
+      "level-up"
+    ],
+    "bestow": [
+      "level-up"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "wild-charge": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "dazzling-gleam": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "natural-cure": 1,
+    "serene-grace": 2,
+    "healer": "hidden"
+  }
+}

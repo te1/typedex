@@ -1,0 +1,192 @@
+{
+  "name": "popplio",
+  "caption": "Popplio",
+  "types": [
+    "water"
+  ],
+  "species": "popplio",
+  "gen": "generation-vii",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 7.5,
+  "baseStats": {
+    "hp": 50,
+    "attack": 54,
+    "defense": 54,
+    "special-attack": 66,
+    "special-defense": 56,
+    "speed": 40
+  },
+  "evolutionChain": {
+    "species": "popplio",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "brionne",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "primarina",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "The balloons it inflates with its nose grow\nlarger and larger as it practices day by day.",
+  "moves": {
+    "pound": [
+      "level-up"
+    ],
+    "double-slap": [
+      "level-up"
+    ],
+    "growl": [
+      "level-up"
+    ],
+    "sing": [
+      "level-up"
+    ],
+    "water-gun": [
+      "level-up"
+    ],
+    "hydro-pump": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "waterfall": [
+      "machine"
+    ],
+    "amnesia": [
+      "egg"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "perish-song": [
+      "egg"
+    ],
+    "charm": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "encore": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "hyper-voice": [
+      "level-up"
+    ],
+    "aqua-ring": [
+      "egg"
+    ],
+    "captivate": [
+      "level-up"
+    ],
+    "aqua-jet": [
+      "level-up"
+    ],
+    "wonder-room": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "acrobatics": [
+      "machine"
+    ],
+    "water-pledge": [
+      "tutor"
+    ],
+    "work-up": [
+      "machine"
+    ],
+    "disarming-voice": [
+      "level-up"
+    ],
+    "misty-terrain": [
+      "level-up"
+    ],
+    "moonblast": [
+      "level-up"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "aromatic-mist": [
+      "egg"
+    ],
+    "baby-doll-eyes": [
+      "level-up"
+    ],
+    "icy-wind": [
+      "level-up"
+    ]
+  },
+  "abilities": {
+    "torrent": 1,
+    "liquid-voice": "hidden"
+  }
+}

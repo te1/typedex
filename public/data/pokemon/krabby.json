@@ -1,0 +1,203 @@
+{
+  "name": "krabby",
+  "caption": "Krabby",
+  "types": [
+    "water"
+  ],
+  "species": "krabby",
+  "gen": "generation-i",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 0.4,
+  "weight": 6.5,
+  "baseStats": {
+    "hp": 30,
+    "attack": 105,
+    "defense": 90,
+    "special-attack": 25,
+    "special-defense": 25,
+    "speed": 50
+  },
+  "evolutionChain": {
+    "species": "krabby",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "kingler",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Krabby live on beaches, burrowed inside holes dug into the\nsand. On sandy beaches with little in the way of food, these\nPokémon can be seen squabbling with each other\nover territory.",
+  "moves": {
+    "vice-grip": [
+      "level-up"
+    ],
+    "guillotine": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "machine"
+    ],
+    "stomp": [
+      "level-up"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "surf": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "bubble-beam": [
+      "level-up"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "harden": [
+      "level-up"
+    ],
+    "bide": [
+      "egg"
+    ],
+    "bubble": [
+      "level-up"
+    ],
+    "crabhammer": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "slam": [
+      "level-up",
+      "egg"
+    ],
+    "haze": [
+      "egg"
+    ],
+    "amnesia": [
+      "egg"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "flail": [
+      "level-up",
+      "egg"
+    ],
+    "protect": [
+      "level-up",
+      "machine"
+    ],
+    "endure": [
+      "egg"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "knock-off": [
+      "egg"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "mud-shot": [
+      "level-up"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "metal-claw": [
+      "level-up"
+    ],
+    "ancient-power": [
+      "egg"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "mud-sport": [
+      "level-up"
+    ],
+    "tickle": [
+      "egg"
+    ],
+    "brine": [
+      "level-up"
+    ],
+    "fling": [
+      "machine"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "agility": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "chip-away": [
+      "egg"
+    ],
+    "scald": [
+      "machine"
+    ],
+    "ally-switch": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "hyper-cutter": 1,
+    "shell-armor": 2,
+    "sheer-force": "hidden"
+  }
+}

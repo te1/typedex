@@ -1,0 +1,163 @@
+{
+  "name": "spark",
+  "caption": "Spark",
+  "type": "electric",
+  "damageCategory": "physical",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Has a 30% chance to [paralyze]{mechanic:paralysis} the target.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  Has a 30% chance to [paralyze]{mechanic:paralyze} the target."
+  },
+  "flavorText": "The user throws an electrically charged tackle at the\ntarget. This may also leave the target with paralysis.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "pikachu": [
+      "level-up"
+    ],
+    "magnemite": [
+      "level-up"
+    ],
+    "magneton": [
+      "level-up"
+    ],
+    "voltorb": [
+      "level-up"
+    ],
+    "electrode": [
+      "level-up"
+    ],
+    "chinchou": [
+      "level-up"
+    ],
+    "lanturn": [
+      "level-up"
+    ],
+    "raikou": [
+      "level-up"
+    ],
+    "nosepass": [
+      "level-up"
+    ],
+    "electrike": [
+      "level-up"
+    ],
+    "manectric": [
+      "level-up"
+    ],
+    "plusle": [
+      "level-up"
+    ],
+    "minun": [
+      "level-up"
+    ],
+    "barboach": [
+      "egg"
+    ],
+    "shinx": [
+      "level-up"
+    ],
+    "luxio": [
+      "level-up"
+    ],
+    "luxray": [
+      "level-up"
+    ],
+    "pachirisu": [
+      "level-up"
+    ],
+    "magnezone": [
+      "level-up"
+    ],
+    "probopass": [
+      "level-up"
+    ],
+    "blitzle": [
+      "level-up"
+    ],
+    "zebstrika": [
+      "level-up"
+    ],
+    "emolga": [
+      "level-up"
+    ],
+    "tynamo": [
+      "level-up"
+    ],
+    "eelektrik": [
+      "level-up"
+    ],
+    "stunfisk": [
+      "egg"
+    ],
+    "grubbin": [
+      "level-up"
+    ],
+    "charjabug": [
+      "level-up"
+    ],
+    "vikavolt": [
+      "level-up"
+    ],
+    "togedemaru": [
+      "level-up"
+    ],
+    "tapu-koko": [
+      "level-up"
+    ],
+    "xurkitree": [
+      "level-up"
+    ],
+    "zeraora": [
+      "level-up"
+    ],
+    "manectric-mega": [
+      "level-up"
+    ],
+    "pikachu-original-cap": [
+      "level-up"
+    ],
+    "pikachu-hoenn-cap": [
+      "level-up"
+    ],
+    "pikachu-sinnoh-cap": [
+      "level-up"
+    ],
+    "pikachu-unova-cap": [
+      "level-up"
+    ],
+    "pikachu-kalos-cap": [
+      "level-up"
+    ],
+    "pikachu-alola-cap": [
+      "level-up"
+    ],
+    "geodude-alola": [
+      "level-up"
+    ],
+    "graveler-alola": [
+      "level-up"
+    ],
+    "golem-alola": [
+      "level-up"
+    ],
+    "vikavolt-totem": [
+      "level-up"
+    ],
+    "pikachu-partner-cap": [
+      "level-up"
+    ],
+    "togedemaru-totem": [
+      "level-up"
+    ]
+  }
+}

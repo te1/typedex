@@ -1,0 +1,39 @@
+{
+  "name": "spiky-shield",
+  "caption": "Spiky Shield",
+  "type": "grass",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 4,
+  "gen": "generation-vi",
+  "effect": {
+    "short": "Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP.",
+    "full": "Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP."
+  },
+  "flavorText": "In addition to protecting the user from attacks, this\nmove also damages any attacker who makes\ndirect contact.",
+  "flags": [],
+  "target": "user",
+  "pokemon": {
+    "cacturne": [
+      "level-up"
+    ],
+    "pansage": [
+      "egg"
+    ],
+    "maractus": [
+      "level-up"
+    ],
+    "chesnaught": [
+      "level-up"
+    ],
+    "togedemaru": [
+      "level-up"
+    ],
+    "togedemaru-totem": [
+      "level-up"
+    ]
+  }
+}

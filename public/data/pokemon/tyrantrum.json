@@ -1,0 +1,182 @@
+{
+  "name": "tyrantrum",
+  "caption": "Tyrantrum",
+  "types": [
+    "rock",
+    "dragon"
+  ],
+  "species": "tyrantrum",
+  "gen": "generation-vi",
+  "color": "red",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 2.5,
+  "weight": 270,
+  "baseStats": {
+    "hp": 82,
+    "attack": 121,
+    "defense": 119,
+    "special-attack": 69,
+    "special-defense": 59,
+    "speed": 71
+  },
+  "evolutionChain": {
+    "species": "tyrunt",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "tyrantrum",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": []
+      }
+    ]
+  },
+  "flavorText": "Complete restoration is impossible, allowing\nroom for theories that its entire body was\nonce covered in a feather-like coat.",
+  "moves": {
+    "stomp": [
+      "level-up"
+    ],
+    "horn-drill": [
+      "level-up"
+    ],
+    "tackle": [
+      "level-up"
+    ],
+    "thrash": [
+      "level-up"
+    ],
+    "tail-whip": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "roar": [
+      "level-up",
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "earthquake": [
+      "level-up",
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "bide": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "rock-slide": [
+      "level-up",
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "charm": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "ancient-power": [
+      "level-up"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "brick-break": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "dragon-claw": [
+      "level-up",
+      "machine"
+    ],
+    "rock-polish": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "giga-impact": [
+      "level-up",
+      "machine"
+    ],
+    "draco-meteor": [
+      "tutor"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "stealth-rock": [
+      "level-up"
+    ],
+    "head-smash": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "bulldoze": [
+      "machine"
+    ],
+    "dragon-tail": [
+      "level-up",
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "strong-jaw": 1,
+    "rock-head": "hidden"
+  }
+}

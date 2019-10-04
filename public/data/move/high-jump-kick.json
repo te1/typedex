@@ -1,0 +1,77 @@
+{
+  "name": "high-jump-kick",
+  "caption": "High Jump Kick",
+  "type": "fighting",
+  "damageCategory": "physical",
+  "power": 130,
+  "accuracy": 90,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "If the user misses, it takes half the damage it would have inflicted in recoil.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  If this move misses, is blocked by []{move:protect} or []{move:detect}, or has no effect, the user takes half the damage it would have inflicted in recoil.  This recoil damage will not exceed half the user's max HP.\n\nThis move cannot be used while []{move:gravity} is in effect."
+  },
+  "flavorText": "The target is attacked with a knee kick from a jump.\nIf it misses, the user is hurt instead.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror",
+    "gravity"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "hitmonlee": [
+      "level-up"
+    ],
+    "tyrogue": [
+      "egg"
+    ],
+    "blaziken": [
+      "level-up"
+    ],
+    "meditite": [
+      "level-up"
+    ],
+    "medicham": [
+      "level-up"
+    ],
+    "lopunny": [
+      "level-up"
+    ],
+    "riolu": [
+      "egg"
+    ],
+    "scraggy": [
+      "level-up"
+    ],
+    "scrafty": [
+      "level-up"
+    ],
+    "mienfoo": [
+      "level-up"
+    ],
+    "mienshao": [
+      "level-up"
+    ],
+    "hawlucha": [
+      "level-up"
+    ],
+    "tsareena": [
+      "level-up"
+    ],
+    "pheromosa": [
+      "level-up"
+    ],
+    "blaziken-mega": [
+      "level-up"
+    ],
+    "medicham-mega": [
+      "level-up"
+    ],
+    "lopunny-mega": [
+      "level-up"
+    ]
+  }
+}

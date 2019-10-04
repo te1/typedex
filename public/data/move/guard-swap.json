@@ -1,0 +1,85 @@
+{
+  "name": "guard-swap",
+  "caption": "Guard Swap",
+  "type": "psychic",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "User swaps Defense and Special Defense changes with the target.",
+    "full": "User swaps its [Defense]{mechanic:defense} and [Special Defense]{mechanic:special-defense} modifiers with the target."
+  },
+  "flavorText": "The user employs its psychic power to switch\nchanges to its Defense and Sp. Def stats with\nthe target.",
+  "flags": [
+    "protect",
+    "mirror",
+    "authentic"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "abra": [
+      "egg"
+    ],
+    "drowzee": [
+      "egg"
+    ],
+    "mr-mime": [
+      "level-up"
+    ],
+    "mewtwo": [
+      "level-up"
+    ],
+    "natu": [
+      "level-up"
+    ],
+    "xatu": [
+      "level-up"
+    ],
+    "wooper": [
+      "egg"
+    ],
+    "umbreon": [
+      "level-up"
+    ],
+    "girafarig": [
+      "level-up"
+    ],
+    "slugma": [
+      "egg"
+    ],
+    "skarmory": [
+      "egg"
+    ],
+    "mawile": [
+      "egg"
+    ],
+    "meditite": [
+      "egg"
+    ],
+    "castform": [
+      "egg"
+    ],
+    "tirtouga": [
+      "egg"
+    ],
+    "elgyem": [
+      "egg"
+    ],
+    "shelmet": [
+      "level-up"
+    ],
+    "inkay": [
+      "egg"
+    ],
+    "mewtwo-mega-x": [
+      "level-up"
+    ],
+    "mewtwo-mega-y": [
+      "level-up"
+    ]
+  }
+}

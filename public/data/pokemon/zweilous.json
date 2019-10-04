@@ -1,0 +1,173 @@
+{
+  "name": "zweilous",
+  "caption": "Zweilous",
+  "types": [
+    "dark",
+    "dragon"
+  ],
+  "species": "zweilous",
+  "gen": "generation-v",
+  "color": "blue",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "height": 1.4,
+  "weight": 50,
+  "baseStats": {
+    "hp": 72,
+    "attack": 85,
+    "defense": 70,
+    "special-attack": 65,
+    "special-defense": 70,
+    "speed": 58
+  },
+  "evolutionChain": {
+    "species": "deino",
+    "triggers": [],
+    "evolvesTo": [
+      {
+        "species": "zweilous",
+        "triggers": [
+          "level-up"
+        ],
+        "evolvesTo": [
+          {
+            "species": "hydreigon",
+            "triggers": [
+              "level-up"
+            ],
+            "evolvesTo": []
+          }
+        ]
+      }
+    ]
+  },
+  "flavorText": "The two heads do not get along. Whichever head\neats more than the other gets to be the leader.",
+  "moves": {
+    "slam": [
+      "level-up"
+    ],
+    "headbutt": [
+      "level-up"
+    ],
+    "body-slam": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "roar": [
+      "level-up",
+      "machine"
+    ],
+    "dragon-rage": [
+      "level-up"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "double-team": [
+      "machine"
+    ],
+    "focus-energy": [
+      "level-up"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "scary-face": [
+      "level-up"
+    ],
+    "outrage": [
+      "level-up"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "dragon-breath": [
+      "level-up"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "crunch": [
+      "level-up"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "machine"
+    ],
+    "hyper-voice": [
+      "level-up"
+    ],
+    "dragon-pulse": [
+      "level-up"
+    ],
+    "dragon-rush": [
+      "level-up"
+    ],
+    "draco-meteor": [
+      "tutor"
+    ],
+    "double-hit": [
+      "level-up"
+    ],
+    "round": [
+      "machine"
+    ],
+    "dragon-tail": [
+      "machine"
+    ],
+    "work-up": [
+      "level-up",
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "confide": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "hustle": 1
+  }
+}

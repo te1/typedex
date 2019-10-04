@@ -1,0 +1,25 @@
+{
+  "name": "defiant",
+  "caption": "Defiant",
+  "gen": "generation-v",
+  "effect": {
+    "short": "Raises [Attack]{mechanic:attack} two [stages]{mechanic:stat-modifier} upon having any stat lowered.",
+    "full": "When any of this Pokémon's stats are [lowered]{mechanic:stat-modifier}, its [Attack]{mechanic:attack} rises by two stages.\n\nIf multiple stats are lowered at once, this ability takes effect with each stat lowered."
+  },
+  "flavorText": "Boosts the Pokémon’s Attack stat sharply when its\nstats are lowered.",
+  "pokemon": {
+    "mankey": "hidden",
+    "primeape": "hidden",
+    "farfetchd": "hidden",
+    "piplup": "hidden",
+    "prinplup": "hidden",
+    "empoleon": "hidden",
+    "purugly": "hidden",
+    "pawniard": 1,
+    "bisharp": 1,
+    "braviary": "hidden",
+    "tornadus-incarnate": "hidden",
+    "thundurus-incarnate": "hidden",
+    "passimian": "hidden"
+  }
+}

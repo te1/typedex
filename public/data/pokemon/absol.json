@@ -1,0 +1,266 @@
+{
+  "name": "absol",
+  "caption": "Absol",
+  "types": [
+    "dark"
+  ],
+  "species": "absol",
+  "gen": "generation-iii",
+  "color": "white",
+  "default": true,
+  "alternate": false,
+  "mega": false,
+  "form": null,
+  "height": 1.2,
+  "weight": 47,
+  "baseStats": {
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "special-attack": 75,
+    "special-defense": 60,
+    "speed": 75
+  },
+  "flavorText": "The only thing unlucky about Absol is its\nappearance. It protects fields and warns people\nof disaster, so one ought to be grateful for it.",
+  "moves": {
+    "scratch": [
+      "level-up"
+    ],
+    "razor-wind": [
+      "level-up"
+    ],
+    "swords-dance": [
+      "level-up",
+      "machine"
+    ],
+    "double-edge": [
+      "egg"
+    ],
+    "leer": [
+      "level-up"
+    ],
+    "bite": [
+      "level-up"
+    ],
+    "flamethrower": [
+      "machine"
+    ],
+    "ice-beam": [
+      "machine"
+    ],
+    "blizzard": [
+      "machine"
+    ],
+    "hyper-beam": [
+      "machine"
+    ],
+    "thunderbolt": [
+      "machine"
+    ],
+    "thunder": [
+      "machine"
+    ],
+    "toxic": [
+      "machine"
+    ],
+    "quick-attack": [
+      "level-up"
+    ],
+    "double-team": [
+      "level-up",
+      "machine"
+    ],
+    "fire-blast": [
+      "machine"
+    ],
+    "rest": [
+      "machine"
+    ],
+    "slash": [
+      "level-up"
+    ],
+    "substitute": [
+      "machine"
+    ],
+    "thief": [
+      "machine"
+    ],
+    "curse": [
+      "egg"
+    ],
+    "protect": [
+      "machine"
+    ],
+    "feint-attack": [
+      "egg"
+    ],
+    "perish-song": [
+      "level-up",
+      "egg"
+    ],
+    "sandstorm": [
+      "machine"
+    ],
+    "attract": [
+      "machine"
+    ],
+    "return": [
+      "machine"
+    ],
+    "frustration": [
+      "machine"
+    ],
+    "baton-pass": [
+      "egg"
+    ],
+    "hidden-power": [
+      "machine"
+    ],
+    "rain-dance": [
+      "machine"
+    ],
+    "sunny-day": [
+      "machine"
+    ],
+    "shadow-ball": [
+      "machine"
+    ],
+    "future-sight": [
+      "level-up"
+    ],
+    "hail": [
+      "machine"
+    ],
+    "torment": [
+      "machine"
+    ],
+    "facade": [
+      "machine"
+    ],
+    "taunt": [
+      "level-up",
+      "machine"
+    ],
+    "magic-coat": [
+      "egg"
+    ],
+    "aerial-ace": [
+      "machine"
+    ],
+    "calm-mind": [
+      "machine"
+    ],
+    "thunder-wave": [
+      "machine"
+    ],
+    "dream-eater": [
+      "machine"
+    ],
+    "rock-slide": [
+      "machine"
+    ],
+    "swagger": [
+      "machine"
+    ],
+    "sleep-talk": [
+      "machine"
+    ],
+    "psych-up": [
+      "machine"
+    ],
+    "detect": [
+      "level-up"
+    ],
+    "false-swipe": [
+      "machine"
+    ],
+    "mean-look": [
+      "egg"
+    ],
+    "pursuit": [
+      "level-up"
+    ],
+    "will-o-wisp": [
+      "machine"
+    ],
+    "rock-tomb": [
+      "machine"
+    ],
+    "payback": [
+      "machine"
+    ],
+    "assurance": [
+      "egg"
+    ],
+    "me-first": [
+      "level-up",
+      "egg"
+    ],
+    "punishment": [
+      "egg"
+    ],
+    "sucker-punch": [
+      "level-up",
+      "egg"
+    ],
+    "dark-pulse": [
+      "machine"
+    ],
+    "night-slash": [
+      "level-up"
+    ],
+    "x-scissor": [
+      "machine"
+    ],
+    "giga-impact": [
+      "machine"
+    ],
+    "shadow-claw": [
+      "machine"
+    ],
+    "psycho-cut": [
+      "level-up"
+    ],
+    "zen-headbutt": [
+      "egg"
+    ],
+    "stone-edge": [
+      "machine"
+    ],
+    "charge-beam": [
+      "machine"
+    ],
+    "feint": [
+      "level-up"
+    ],
+    "megahorn": [
+      "egg"
+    ],
+    "round": [
+      "machine"
+    ],
+    "echoed-voice": [
+      "machine"
+    ],
+    "hex": [
+      "egg"
+    ],
+    "snarl": [
+      "machine"
+    ],
+    "play-rough": [
+      "egg"
+    ],
+    "confide": [
+      "machine"
+    ],
+    "brutal-swing": [
+      "machine"
+    ]
+  },
+  "abilities": {
+    "pressure": 1,
+    "super-luck": 2,
+    "justified": "hidden"
+  }
+}

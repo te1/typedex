@@ -1,0 +1,267 @@
+{
+  "name": "helping-hand",
+  "caption": "Helping Hand",
+  "type": "normal",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "z": false,
+  "priority": 5,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Ally's next move inflicts half more damage.",
+    "full": "Boosts the power of the target's moves by 50% until the end of this turn.\n\nThis move cannot be copied by []{move:mirror-move}, nor selected by []{move:assist} or []{move:metronome}."
+  },
+  "flavorText": "The user assists an ally by boosting the power of\nthat ally’s attack.",
+  "flags": [
+    "authentic"
+  ],
+  "target": "ally",
+  "pokemon": {
+    "nidoran-f": [
+      "level-up"
+    ],
+    "nidorina": [
+      "level-up"
+    ],
+    "nidoran-m": [
+      "level-up"
+    ],
+    "nidorino": [
+      "level-up"
+    ],
+    "growlithe": [
+      "level-up"
+    ],
+    "chansey": [
+      "egg"
+    ],
+    "eevee": [
+      "level-up"
+    ],
+    "vaporeon": [
+      "level-up"
+    ],
+    "jolteon": [
+      "level-up"
+    ],
+    "flareon": [
+      "level-up"
+    ],
+    "sentret": [
+      "level-up"
+    ],
+    "furret": [
+      "level-up"
+    ],
+    "marill": [
+      "level-up"
+    ],
+    "azumarill": [
+      "level-up"
+    ],
+    "hoppip": [
+      "egg"
+    ],
+    "sunkern": [
+      "egg"
+    ],
+    "espeon": [
+      "level-up"
+    ],
+    "umbreon": [
+      "level-up"
+    ],
+    "shuckle": [
+      "egg"
+    ],
+    "tyrogue": [
+      "level-up",
+      "egg"
+    ],
+    "miltank": [
+      "egg"
+    ],
+    "zigzagoon": [
+      "egg"
+    ],
+    "shroomish": [
+      "egg"
+    ],
+    "makuhita": [
+      "egg"
+    ],
+    "azurill": [
+      "level-up"
+    ],
+    "skitty": [
+      "egg"
+    ],
+    "plusle": [
+      "level-up"
+    ],
+    "minun": [
+      "level-up"
+    ],
+    "volbeat": [
+      "level-up"
+    ],
+    "illumise": [
+      "level-up"
+    ],
+    "latias": [
+      "level-up"
+    ],
+    "latios": [
+      "level-up"
+    ],
+    "jirachi": [
+      "level-up"
+    ],
+    "chimchar": [
+      "egg"
+    ],
+    "shinx": [
+      "egg"
+    ],
+    "buizel": [
+      "egg"
+    ],
+    "cherubi": [
+      "level-up"
+    ],
+    "cherrim": [
+      "level-up"
+    ],
+    "happiny": [
+      "egg"
+    ],
+    "leafeon": [
+      "level-up"
+    ],
+    "glaceon": [
+      "level-up"
+    ],
+    "gallade": [
+      "level-up"
+    ],
+    "lillipup": [
+      "level-up"
+    ],
+    "herdier": [
+      "level-up"
+    ],
+    "stoutland": [
+      "level-up"
+    ],
+    "munna": [
+      "egg"
+    ],
+    "woobat": [
+      "egg"
+    ],
+    "audino": [
+      "level-up"
+    ],
+    "leavanny": [
+      "level-up"
+    ],
+    "cottonee": [
+      "level-up"
+    ],
+    "petilil": [
+      "level-up"
+    ],
+    "minccino": [
+      "level-up"
+    ],
+    "cinccino": [
+      "level-up"
+    ],
+    "solosis": [
+      "egg"
+    ],
+    "alomomola": [
+      "level-up"
+    ],
+    "cobalion": [
+      "level-up"
+    ],
+    "terrakion": [
+      "level-up"
+    ],
+    "virizion": [
+      "level-up"
+    ],
+    "keldeo-ordinary": [
+      "level-up"
+    ],
+    "meowstic-male": [
+      "level-up"
+    ],
+    "binacle": [
+      "egg"
+    ],
+    "clauncher": [
+      "egg"
+    ],
+    "sylveon": [
+      "level-up"
+    ],
+    "dedenne": [
+      "egg"
+    ],
+    "oricorio-baile": [
+      "level-up"
+    ],
+    "wishiwashi-solo": [
+      "level-up"
+    ],
+    "comfey": [
+      "level-up"
+    ],
+    "pyukumuku": [
+      "level-up"
+    ],
+    "magearna": [
+      "level-up"
+    ],
+    "poipole": [
+      "level-up"
+    ],
+    "naganadel": [
+      "level-up"
+    ],
+    "keldeo-resolute": [
+      "level-up"
+    ],
+    "latias-mega": [
+      "level-up"
+    ],
+    "latios-mega": [
+      "level-up"
+    ],
+    "gallade-mega": [
+      "level-up"
+    ],
+    "audino-mega": [
+      "level-up"
+    ],
+    "oricorio-pom-pom": [
+      "level-up"
+    ],
+    "oricorio-pau": [
+      "level-up"
+    ],
+    "oricorio-sensu": [
+      "level-up"
+    ],
+    "wishiwashi-school": [
+      "level-up"
+    ],
+    "magearna-original": [
+      "level-up"
+    ]
+  }
+}

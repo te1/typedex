@@ -1,0 +1,27 @@
+{
+  "name": "judgment",
+  "caption": "Judgment",
+  "type": "normal",
+  "damageCategory": "special",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iv",
+  "effect": {
+    "short": "If the user is holding a appropriate plate or drive, the damage inflicted will match it.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}.  If the user is holding a plate or a drive, this move's type is the type corresponding to that item.\n\nNote: This effect is technically shared by both []{move:techno-blast} and []{move:judgment}; however, Techno Blast is only affected by drives, and Judgment is only affected by plates."
+  },
+  "flavorText": "The user releases countless shots of light at the\ntarget. This move’s type varies depending on the\nkind of Plate the user is holding.",
+  "flags": [
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "arceus": [
+      "level-up"
+    ]
+  }
+}

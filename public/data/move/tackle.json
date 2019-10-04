@@ -1,0 +1,859 @@
+{
+  "name": "tackle",
+  "caption": "Tackle",
+  "type": "normal",
+  "damageCategory": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 35,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-i",
+  "effect": {
+    "short": "Inflicts regular damage with no additional effect.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}."
+  },
+  "flavorText": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "bulbasaur": [
+      "level-up"
+    ],
+    "ivysaur": [
+      "level-up"
+    ],
+    "venusaur": [
+      "level-up"
+    ],
+    "squirtle": [
+      "level-up"
+    ],
+    "wartortle": [
+      "level-up"
+    ],
+    "blastoise": [
+      "level-up"
+    ],
+    "caterpie": [
+      "level-up"
+    ],
+    "pidgey": [
+      "level-up"
+    ],
+    "pidgeotto": [
+      "level-up"
+    ],
+    "pidgeot": [
+      "level-up"
+    ],
+    "rattata": [
+      "level-up"
+    ],
+    "raticate": [
+      "level-up"
+    ],
+    "venonat": [
+      "level-up"
+    ],
+    "venomoth": [
+      "level-up"
+    ],
+    "geodude": [
+      "level-up"
+    ],
+    "graveler": [
+      "level-up"
+    ],
+    "golem": [
+      "level-up"
+    ],
+    "ponyta": [
+      "level-up"
+    ],
+    "slowpoke": [
+      "level-up"
+    ],
+    "slowbro": [
+      "level-up"
+    ],
+    "magnemite": [
+      "level-up"
+    ],
+    "magneton": [
+      "level-up"
+    ],
+    "shellder": [
+      "level-up"
+    ],
+    "onix": [
+      "level-up"
+    ],
+    "voltorb": [
+      "level-up"
+    ],
+    "electrode": [
+      "level-up"
+    ],
+    "koffing": [
+      "level-up"
+    ],
+    "weezing": [
+      "level-up"
+    ],
+    "staryu": [
+      "level-up"
+    ],
+    "tauros": [
+      "level-up"
+    ],
+    "magikarp": [
+      "level-up"
+    ],
+    "eevee": [
+      "level-up"
+    ],
+    "vaporeon": [
+      "level-up"
+    ],
+    "jolteon": [
+      "level-up"
+    ],
+    "flareon": [
+      "level-up"
+    ],
+    "porygon": [
+      "level-up"
+    ],
+    "snorlax": [
+      "level-up"
+    ],
+    "chikorita": [
+      "level-up"
+    ],
+    "bayleef": [
+      "level-up"
+    ],
+    "meganium": [
+      "level-up"
+    ],
+    "cyndaquil": [
+      "level-up"
+    ],
+    "quilava": [
+      "level-up"
+    ],
+    "typhlosion": [
+      "level-up"
+    ],
+    "hoothoot": [
+      "level-up"
+    ],
+    "noctowl": [
+      "level-up"
+    ],
+    "ledyba": [
+      "level-up"
+    ],
+    "ledian": [
+      "level-up"
+    ],
+    "mareep": [
+      "level-up"
+    ],
+    "flaaffy": [
+      "level-up"
+    ],
+    "ampharos": [
+      "level-up"
+    ],
+    "marill": [
+      "level-up"
+    ],
+    "azumarill": [
+      "level-up"
+    ],
+    "hoppip": [
+      "level-up"
+    ],
+    "skiploom": [
+      "level-up"
+    ],
+    "jumpluff": [
+      "level-up"
+    ],
+    "yanma": [
+      "level-up"
+    ],
+    "espeon": [
+      "level-up"
+    ],
+    "umbreon": [
+      "level-up"
+    ],
+    "slowking": [
+      "level-up"
+    ],
+    "girafarig": [
+      "level-up"
+    ],
+    "pineco": [
+      "level-up"
+    ],
+    "forretress": [
+      "level-up"
+    ],
+    "steelix": [
+      "level-up"
+    ],
+    "snubbull": [
+      "level-up"
+    ],
+    "granbull": [
+      "level-up"
+    ],
+    "qwilfish": [
+      "level-up"
+    ],
+    "heracross": [
+      "level-up"
+    ],
+    "swinub": [
+      "level-up"
+    ],
+    "corsola": [
+      "level-up"
+    ],
+    "mantine": [
+      "level-up"
+    ],
+    "phanpy": [
+      "level-up"
+    ],
+    "porygon2": [
+      "level-up"
+    ],
+    "stantler": [
+      "level-up"
+    ],
+    "tyrogue": [
+      "level-up"
+    ],
+    "miltank": [
+      "level-up"
+    ],
+    "mudkip": [
+      "level-up"
+    ],
+    "marshtomp": [
+      "level-up"
+    ],
+    "swampert": [
+      "level-up"
+    ],
+    "poochyena": [
+      "level-up"
+    ],
+    "mightyena": [
+      "level-up"
+    ],
+    "zigzagoon": [
+      "level-up"
+    ],
+    "linoone": [
+      "level-up"
+    ],
+    "wurmple": [
+      "level-up"
+    ],
+    "shroomish": [
+      "level-up"
+    ],
+    "breloom": [
+      "level-up"
+    ],
+    "makuhita": [
+      "level-up"
+    ],
+    "hariyama": [
+      "level-up"
+    ],
+    "nosepass": [
+      "level-up"
+    ],
+    "skitty": [
+      "level-up"
+    ],
+    "aron": [
+      "level-up"
+    ],
+    "lairon": [
+      "level-up"
+    ],
+    "aggron": [
+      "level-up"
+    ],
+    "electrike": [
+      "level-up"
+    ],
+    "manectric": [
+      "level-up"
+    ],
+    "volbeat": [
+      "level-up"
+    ],
+    "illumise": [
+      "level-up"
+    ],
+    "numel": [
+      "level-up"
+    ],
+    "camerupt": [
+      "level-up"
+    ],
+    "spinda": [
+      "level-up"
+    ],
+    "lunatone": [
+      "level-up"
+    ],
+    "solrock": [
+      "level-up"
+    ],
+    "feebas": [
+      "level-up"
+    ],
+    "castform": [
+      "level-up"
+    ],
+    "relicanth": [
+      "level-up"
+    ],
+    "luvdisc": [
+      "level-up"
+    ],
+    "turtwig": [
+      "level-up"
+    ],
+    "grotle": [
+      "level-up"
+    ],
+    "torterra": [
+      "level-up"
+    ],
+    "prinplup": [
+      "level-up"
+    ],
+    "empoleon": [
+      "level-up"
+    ],
+    "starly": [
+      "level-up"
+    ],
+    "staravia": [
+      "level-up"
+    ],
+    "staraptor": [
+      "level-up"
+    ],
+    "bidoof": [
+      "level-up"
+    ],
+    "bibarel": [
+      "level-up"
+    ],
+    "shinx": [
+      "level-up"
+    ],
+    "luxio": [
+      "level-up"
+    ],
+    "luxray": [
+      "level-up"
+    ],
+    "shieldon": [
+      "level-up"
+    ],
+    "bastiodon": [
+      "level-up"
+    ],
+    "burmy": [
+      "level-up"
+    ],
+    "wormadam-plant": [
+      "level-up"
+    ],
+    "mothim": [
+      "level-up"
+    ],
+    "cherubi": [
+      "level-up"
+    ],
+    "cherrim": [
+      "level-up"
+    ],
+    "bronzor": [
+      "level-up"
+    ],
+    "bronzong": [
+      "level-up"
+    ],
+    "gible": [
+      "level-up"
+    ],
+    "gabite": [
+      "level-up"
+    ],
+    "garchomp": [
+      "level-up"
+    ],
+    "munchlax": [
+      "level-up"
+    ],
+    "hippopotas": [
+      "level-up"
+    ],
+    "hippowdon": [
+      "level-up"
+    ],
+    "mantyke": [
+      "level-up"
+    ],
+    "magnezone": [
+      "level-up"
+    ],
+    "yanmega": [
+      "level-up"
+    ],
+    "leafeon": [
+      "level-up"
+    ],
+    "glaceon": [
+      "level-up"
+    ],
+    "porygon-z": [
+      "level-up"
+    ],
+    "probopass": [
+      "level-up"
+    ],
+    "snivy": [
+      "level-up"
+    ],
+    "servine": [
+      "level-up"
+    ],
+    "serperior": [
+      "level-up"
+    ],
+    "tepig": [
+      "level-up"
+    ],
+    "pignite": [
+      "level-up"
+    ],
+    "emboar": [
+      "level-up"
+    ],
+    "oshawott": [
+      "level-up"
+    ],
+    "dewott": [
+      "level-up"
+    ],
+    "samurott": [
+      "level-up"
+    ],
+    "patrat": [
+      "level-up"
+    ],
+    "watchog": [
+      "level-up"
+    ],
+    "lillipup": [
+      "level-up"
+    ],
+    "herdier": [
+      "level-up"
+    ],
+    "stoutland": [
+      "level-up"
+    ],
+    "roggenrola": [
+      "level-up"
+    ],
+    "boldore": [
+      "level-up"
+    ],
+    "gigalith": [
+      "level-up"
+    ],
+    "sewaddle": [
+      "level-up"
+    ],
+    "swadloon": [
+      "level-up"
+    ],
+    "leavanny": [
+      "level-up"
+    ],
+    "basculin-red-striped": [
+      "level-up"
+    ],
+    "darumaka": [
+      "level-up"
+    ],
+    "darmanitan-standard": [
+      "level-up"
+    ],
+    "deerling": [
+      "level-up"
+    ],
+    "sawsbuck": [
+      "level-up"
+    ],
+    "ferroseed": [
+      "level-up"
+    ],
+    "ferrothorn": [
+      "level-up"
+    ],
+    "tynamo": [
+      "level-up"
+    ],
+    "stunfisk": [
+      "level-up"
+    ],
+    "heatmor": [
+      "level-up"
+    ],
+    "deino": [
+      "level-up"
+    ],
+    "chesnaught": [
+      "level-up"
+    ],
+    "bunnelby": [
+      "level-up"
+    ],
+    "diggersby": [
+      "level-up"
+    ],
+    "fletchling": [
+      "level-up"
+    ],
+    "fletchinder": [
+      "level-up"
+    ],
+    "talonflame": [
+      "level-up"
+    ],
+    "scatterbug": [
+      "level-up"
+    ],
+    "litleo": [
+      "level-up"
+    ],
+    "pyroar": [
+      "level-up"
+    ],
+    "flabebe": [
+      "level-up"
+    ],
+    "floette": [
+      "level-up"
+    ],
+    "skiddo": [
+      "level-up"
+    ],
+    "gogoat": [
+      "level-up"
+    ],
+    "pancham": [
+      "level-up"
+    ],
+    "pangoro": [
+      "level-up"
+    ],
+    "furfrou": [
+      "level-up"
+    ],
+    "honedge": [
+      "level-up"
+    ],
+    "doublade": [
+      "level-up"
+    ],
+    "swirlix": [
+      "level-up"
+    ],
+    "slurpuff": [
+      "level-up"
+    ],
+    "inkay": [
+      "level-up"
+    ],
+    "malamar": [
+      "level-up"
+    ],
+    "skrelp": [
+      "level-up"
+    ],
+    "dragalge": [
+      "level-up"
+    ],
+    "tyrunt": [
+      "level-up"
+    ],
+    "tyrantrum": [
+      "level-up"
+    ],
+    "sylveon": [
+      "level-up"
+    ],
+    "hawlucha": [
+      "level-up"
+    ],
+    "dedenne": [
+      "level-up"
+    ],
+    "carbink": [
+      "level-up"
+    ],
+    "goomy": [
+      "level-up"
+    ],
+    "sliggoo": [
+      "level-up"
+    ],
+    "goodra": [
+      "level-up"
+    ],
+    "klefki": [
+      "level-up"
+    ],
+    "phantump": [
+      "level-up"
+    ],
+    "trevenant": [
+      "level-up"
+    ],
+    "bergmite": [
+      "level-up"
+    ],
+    "avalugg": [
+      "level-up"
+    ],
+    "noibat": [
+      "level-up"
+    ],
+    "noivern": [
+      "level-up"
+    ],
+    "diancie": [
+      "level-up"
+    ],
+    "rowlet": [
+      "level-up"
+    ],
+    "dartrix": [
+      "level-up"
+    ],
+    "decidueye": [
+      "level-up"
+    ],
+    "yungoos": [
+      "level-up"
+    ],
+    "gumshoos": [
+      "level-up"
+    ],
+    "rockruff": [
+      "level-up"
+    ],
+    "lycanroc-midday": [
+      "level-up"
+    ],
+    "stufful": [
+      "level-up"
+    ],
+    "bewear": [
+      "level-up"
+    ],
+    "passimian": [
+      "level-up"
+    ],
+    "type-null": [
+      "level-up"
+    ],
+    "silvally": [
+      "level-up"
+    ],
+    "minior-red-meteor": [
+      "level-up"
+    ],
+    "turtonator": [
+      "level-up"
+    ],
+    "togedemaru": [
+      "level-up"
+    ],
+    "jangmo-o": [
+      "level-up"
+    ],
+    "hakamo-o": [
+      "level-up"
+    ],
+    "kommo-o": [
+      "level-up"
+    ],
+    "celesteela": [
+      "level-up"
+    ],
+    "stakataka": [
+      "level-up"
+    ],
+    "wormadam-sandy": [
+      "level-up"
+    ],
+    "wormadam-trash": [
+      "level-up"
+    ],
+    "castform-sunny": [
+      "level-up"
+    ],
+    "castform-rainy": [
+      "level-up"
+    ],
+    "castform-snowy": [
+      "level-up"
+    ],
+    "basculin-blue-striped": [
+      "level-up"
+    ],
+    "darmanitan-zen": [
+      "level-up"
+    ],
+    "venusaur-mega": [
+      "level-up"
+    ],
+    "blastoise-mega": [
+      "level-up"
+    ],
+    "ampharos-mega": [
+      "level-up"
+    ],
+    "heracross-mega": [
+      "level-up"
+    ],
+    "aggron-mega": [
+      "level-up"
+    ],
+    "manectric-mega": [
+      "level-up"
+    ],
+    "garchomp-mega": [
+      "level-up"
+    ],
+    "floette-eternal": [
+      "level-up"
+    ],
+    "swampert-mega": [
+      "level-up"
+    ],
+    "slowbro-mega": [
+      "level-up"
+    ],
+    "steelix-mega": [
+      "level-up"
+    ],
+    "pidgeot-mega": [
+      "level-up"
+    ],
+    "diancie-mega": [
+      "level-up"
+    ],
+    "camerupt-mega": [
+      "level-up"
+    ],
+    "rattata-alola": [
+      "level-up"
+    ],
+    "raticate-alola": [
+      "level-up"
+    ],
+    "raticate-totem-alola": [
+      "level-up"
+    ],
+    "geodude-alola": [
+      "level-up"
+    ],
+    "graveler-alola": [
+      "level-up"
+    ],
+    "golem-alola": [
+      "level-up"
+    ],
+    "gumshoos-totem": [
+      "level-up"
+    ],
+    "lycanroc-midnight": [
+      "level-up"
+    ],
+    "minior-orange-meteor": [
+      "level-up"
+    ],
+    "minior-yellow-meteor": [
+      "level-up"
+    ],
+    "minior-green-meteor": [
+      "level-up"
+    ],
+    "minior-blue-meteor": [
+      "level-up"
+    ],
+    "minior-indigo-meteor": [
+      "level-up"
+    ],
+    "minior-violet-meteor": [
+      "level-up"
+    ],
+    "minior-red": [
+      "level-up"
+    ],
+    "minior-orange": [
+      "level-up"
+    ],
+    "minior-yellow": [
+      "level-up"
+    ],
+    "minior-green": [
+      "level-up"
+    ],
+    "minior-blue": [
+      "level-up"
+    ],
+    "minior-indigo": [
+      "level-up"
+    ],
+    "minior-violet": [
+      "level-up"
+    ],
+    "kommo-o-totem": [
+      "level-up"
+    ],
+    "rockruff-own-tempo": [
+      "level-up"
+    ],
+    "lycanroc-dusk": [
+      "level-up"
+    ],
+    "togedemaru-totem": [
+      "level-up"
+    ]
+  }
+}

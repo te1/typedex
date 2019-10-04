@@ -1,303 +1,402 @@
-[
-  {
-    "id": 1,
-    "name": "generation-i",
-    "caption": "Generation I",
-    "versionGroups": [
-      {
-        "id": 1,
-        "name": "red-blue",
-        "order": 1,
-        "versions": [
-          {
-            "id": 1,
-            "name": "red",
-            "caption": "Red"
-          },
-          {
-            "id": 2,
-            "name": "blue",
-            "caption": "Blue"
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "name": "yellow",
-        "order": 2,
-        "versions": [
-          {
-            "id": 3,
-            "name": "yellow",
-            "caption": "Yellow"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "name": "generation-ii",
-    "caption": "Generation II",
-    "versionGroups": [
-      {
-        "id": 3,
-        "name": "gold-silver",
-        "order": 3,
-        "versions": [
-          {
-            "id": 4,
-            "name": "gold",
-            "caption": "Gold"
-          },
-          {
-            "id": 5,
-            "name": "silver",
-            "caption": "Silver"
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "name": "crystal",
-        "order": 4,
-        "versions": [
-          {
-            "id": 6,
-            "name": "crystal",
-            "caption": "Crystal"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "name": "generation-iii",
-    "caption": "Generation III",
-    "versionGroups": [
-      {
-        "id": 5,
-        "name": "ruby-sapphire",
-        "order": 5,
-        "versions": [
-          {
-            "id": 7,
-            "name": "ruby",
-            "caption": "Ruby"
-          },
-          {
-            "id": 8,
-            "name": "sapphire",
-            "caption": "Sapphire"
-          }
-        ]
-      },
-      {
-        "id": 6,
-        "name": "emerald",
-        "order": 6,
-        "versions": [
-          {
-            "id": 9,
-            "name": "emerald",
-            "caption": "Emerald"
-          }
-        ]
-      },
-      {
-        "id": 7,
-        "name": "firered-leafgreen",
-        "order": 9,
-        "versions": [
-          {
-            "id": 10,
-            "name": "firered",
-            "caption": "FireRed"
-          },
-          {
-            "id": 11,
-            "name": "leafgreen",
-            "caption": "LeafGreen"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "name": "generation-iv",
-    "caption": "Generation IV",
-    "versionGroups": [
-      {
-        "id": 8,
-        "name": "diamond-pearl",
-        "order": 10,
-        "versions": [
-          {
-            "id": 12,
-            "name": "diamond",
-            "caption": "Diamond"
-          },
-          {
-            "id": 13,
-            "name": "pearl",
-            "caption": "Pearl"
-          }
-        ]
-      },
-      {
-        "id": 9,
-        "name": "platinum",
-        "order": 11,
-        "versions": [
-          {
-            "id": 14,
-            "name": "platinum",
-            "caption": "Platinum"
-          }
-        ]
-      },
-      {
-        "id": 10,
-        "name": "heartgold-soulsilver",
-        "order": 12,
-        "versions": [
-          {
-            "id": 15,
-            "name": "heartgold",
-            "caption": "HeartGold"
-          },
-          {
-            "id": 16,
-            "name": "soulsilver",
-            "caption": "SoulSilver"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "name": "generation-v",
-    "caption": "Generation V",
-    "versionGroups": [
-      {
-        "id": 11,
-        "name": "black-white",
-        "order": 13,
-        "versions": [
-          {
-            "id": 17,
-            "name": "black",
-            "caption": "Black"
-          },
-          {
-            "id": 18,
-            "name": "white",
-            "caption": "White"
-          }
-        ]
-      },
-      {
-        "id": 14,
-        "name": "black-2-white-2",
-        "order": 14,
-        "versions": [
-          {
-            "id": 21,
-            "name": "black-2",
-            "caption": "Black 2"
-          },
-          {
-            "id": 22,
-            "name": "white-2",
-            "caption": "White 2"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "name": "generation-vi",
-    "caption": "Generation VI",
-    "versionGroups": [
-      {
-        "id": 15,
-        "name": "x-y",
-        "order": 15,
-        "versions": [
-          {
-            "id": 23,
-            "name": "x",
-            "caption": "X"
-          },
-          {
-            "id": 24,
-            "name": "y",
-            "caption": "Y"
-          }
-        ]
-      },
-      {
-        "id": 16,
-        "name": "omega-ruby-alpha-sapphire",
-        "order": 16,
-        "versions": [
-          {
-            "id": 25,
-            "name": "omega-ruby",
-            "caption": "Omega Ruby"
-          },
-          {
-            "id": 26,
-            "name": "alpha-sapphire",
-            "caption": "Alpha Sapphire"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "name": "generation-vii",
-    "caption": "Generation VII",
-    "versionGroups": [
-      {
-        "id": 17,
-        "name": "sun-moon",
-        "order": 17,
-        "versions": [
-          {
-            "id": 27,
-            "name": "sun",
-            "caption": "Sun"
-          },
-          {
-            "id": 28,
-            "name": "moon",
-            "caption": "Moon"
-          }
-        ]
-      },
-      {
-        "id": 18,
-        "name": "ultra-sun-ultra-moon",
-        "order": 18,
-        "versions": [
-          {
-            "id": 29,
-            "name": "ultra-sun",
-            "caption": "Ultra Sun"
-          },
-          {
-            "id": 30,
-            "name": "ultra-moon",
-            "caption": "Ultra Moon"
-          }
-        ]
-      }
-    ]
-  }
-]
+{
+  "generations": [
+    {
+      "name": "generation-i",
+      "num": 1,
+      "versionGroups": [
+        "red-blue",
+        "yellow"
+      ]
+    },
+    {
+      "name": "generation-ii",
+      "num": 2,
+      "versionGroups": [
+        "gold-silver",
+        "crystal"
+      ]
+    },
+    {
+      "name": "generation-iii",
+      "num": 3,
+      "versionGroups": [
+        "ruby-sapphire",
+        "emerald",
+        "firered-leafgreen"
+      ]
+    },
+    {
+      "name": "generation-iv",
+      "num": 4,
+      "versionGroups": [
+        "diamond-pearl",
+        "platinum",
+        "heartgold-soulsilver"
+      ]
+    },
+    {
+      "name": "generation-v",
+      "num": 5,
+      "versionGroups": [
+        "black-white",
+        "black-2-white-2"
+      ]
+    },
+    {
+      "name": "generation-vi",
+      "num": 6,
+      "versionGroups": [
+        "x-y",
+        "omega-ruby-alpha-sapphire"
+      ]
+    },
+    {
+      "name": "generation-vii",
+      "num": 7,
+      "versionGroups": [
+        "sun-moon",
+        "ultra-sun-ultra-moon"
+      ]
+    }
+  ],
+  "versionGroups": [
+    {
+      "name": "red-blue",
+      "versions": [
+        "red",
+        "blue"
+      ],
+      "moveMethods": [
+        "level-up",
+        "machine"
+      ]
+    },
+    {
+      "name": "yellow",
+      "versions": [
+        "yellow"
+      ],
+      "moveMethods": [
+        "level-up",
+        "machine"
+      ]
+    },
+    {
+      "name": "gold-silver",
+      "versions": [
+        "gold",
+        "silver"
+      ],
+      "moveMethods": [
+        "level-up",
+        "egg",
+        "machine"
+      ]
+    },
+    {
+      "name": "crystal",
+      "versions": [
+        "crystal"
+      ],
+      "moveMethods": [
+        "level-up",
+        "egg",
+        "tutor",
+        "machine"
+      ]
+    },
+    {
+      "name": "ruby-sapphire",
+      "versions": [
+        "ruby",
+        "sapphire"
+      ],
+      "moveMethods": [
+        "level-up",
+        "egg",
+        "machine"
+      ]
+    },
+    {
+      "name": "emerald",
+      "versions": [
+        "emerald"
+      ],
+      "moveMethods": [
+        "level-up",
+        "egg",
+        "tutor",
+        "machine",
+        "light-ball-egg"
+      ]
+    },
+    {
+      "name": "firered-leafgreen",
+      "versions": [
+        "firered",
+        "leafgreen"
+      ],
+      "moveMethods": [
+        "level-up",
+        "egg",
+        "tutor",
+        "machine"
+      ]
+    },
+    {
+      "name": "diamond-pearl",
+      "versions": [
+        "diamond",
+        "pearl"
+      ],
+      "moveMethods": [
+        "level-up",
+        "egg",
+        "tutor",
+        "machine",
+        "light-ball-egg"
+      ]
+    },
+    {
+      "name": "platinum",
+      "versions": [
+        "platinum"
+      ],
+      "moveMethods": [
+        "level-up",
+        "egg",
+        "tutor",
+        "machine",
+        "light-ball-egg",
+        "form-change"
+      ]
+    },
+    {
+      "name": "heartgold-soulsilver",
+      "versions": [
+        "heartgold",
+        "soulsilver"
+      ],
+      "moveMethods": [
+        "level-up",
+        "egg",
+        "tutor",
+        "machine",
+        "light-ball-egg",
+        "form-change"
+      ]
+    },
+    {
+      "name": "black-white",
+      "versions": [
+        "black",
+        "white"
+      ],
+      "moveMethods": [
+        "level-up",
+        "egg",
+        "tutor",
+        "machine",
+        "light-ball-egg",
+        "form-change"
+      ]
+    },
+    {
+      "name": "black-2-white-2",
+      "versions": [
+        "black-2",
+        "white-2"
+      ],
+      "moveMethods": [
+        "level-up",
+        "egg",
+        "tutor",
+        "machine",
+        "light-ball-egg",
+        "form-change"
+      ]
+    },
+    {
+      "name": "x-y",
+      "versions": [
+        "x",
+        "y"
+      ],
+      "moveMethods": [
+        "level-up",
+        "egg",
+        "tutor",
+        "machine",
+        "light-ball-egg",
+        "form-change"
+      ]
+    },
+    {
+      "name": "omega-ruby-alpha-sapphire",
+      "versions": [
+        "omega-ruby",
+        "alpha-sapphire"
+      ],
+      "moveMethods": [
+        "level-up",
+        "egg",
+        "tutor",
+        "machine",
+        "light-ball-egg",
+        "form-change"
+      ]
+    },
+    {
+      "name": "sun-moon",
+      "versions": [
+        "sun",
+        "moon"
+      ],
+      "moveMethods": [
+        "level-up",
+        "egg",
+        "tutor",
+        "machine",
+        "light-ball-egg",
+        "form-change"
+      ]
+    },
+    {
+      "name": "ultra-sun-ultra-moon",
+      "versions": [
+        "ultra-sun",
+        "ultra-moon"
+      ],
+      "moveMethods": [
+        "level-up",
+        "egg",
+        "tutor",
+        "machine",
+        "light-ball-egg",
+        "form-change"
+      ]
+    }
+  ],
+  "versions": [
+    {
+      "name": "red",
+      "caption": "Red"
+    },
+    {
+      "name": "blue",
+      "caption": "Blue"
+    },
+    {
+      "name": "yellow",
+      "caption": "Yellow"
+    },
+    {
+      "name": "gold",
+      "caption": "Gold"
+    },
+    {
+      "name": "silver",
+      "caption": "Silver"
+    },
+    {
+      "name": "crystal",
+      "caption": "Crystal"
+    },
+    {
+      "name": "ruby",
+      "caption": "Ruby"
+    },
+    {
+      "name": "sapphire",
+      "caption": "Sapphire"
+    },
+    {
+      "name": "emerald",
+      "caption": "Emerald"
+    },
+    {
+      "name": "firered",
+      "caption": "FireRed"
+    },
+    {
+      "name": "leafgreen",
+      "caption": "LeafGreen"
+    },
+    {
+      "name": "diamond",
+      "caption": "Diamond"
+    },
+    {
+      "name": "pearl",
+      "caption": "Pearl"
+    },
+    {
+      "name": "platinum",
+      "caption": "Platinum"
+    },
+    {
+      "name": "heartgold",
+      "caption": "HeartGold"
+    },
+    {
+      "name": "soulsilver",
+      "caption": "SoulSilver"
+    },
+    {
+      "name": "black",
+      "caption": "Black"
+    },
+    {
+      "name": "white",
+      "caption": "White"
+    },
+    {
+      "name": "colosseum",
+      "caption": "Colosseum"
+    },
+    {
+      "name": "xd",
+      "caption": "XD"
+    },
+    {
+      "name": "black-2",
+      "caption": "Black 2"
+    },
+    {
+      "name": "white-2",
+      "caption": "White 2"
+    },
+    {
+      "name": "x",
+      "caption": "X"
+    },
+    {
+      "name": "y",
+      "caption": "Y"
+    },
+    {
+      "name": "omega-ruby",
+      "caption": "Omega Ruby"
+    },
+    {
+      "name": "alpha-sapphire",
+      "caption": "Alpha Sapphire"
+    },
+    {
+      "name": "sun",
+      "caption": "Sun"
+    },
+    {
+      "name": "moon",
+      "caption": "Moon"
+    },
+    {
+      "name": "ultra-sun",
+      "caption": "Ultra Sun"
+    },
+    {
+      "name": "ultra-moon",
+      "caption": "Ultra Moon"
+    }
+  ]
+}

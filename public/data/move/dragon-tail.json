@@ -1,0 +1,299 @@
+{
+  "name": "dragon-tail",
+  "caption": "Dragon Tail",
+  "type": "dragon",
+  "damageCategory": "physical",
+  "power": 60,
+  "accuracy": 90,
+  "pp": 10,
+  "z": false,
+  "priority": -6,
+  "gen": "generation-v",
+  "effect": {
+    "short": "Ends wild battles.  Forces trainers to switch Pokémon.",
+    "full": "Inflicts [regular damage]{mechanic:regular-damage}, then [switches]{mechanic:switch-out} the target out for another of its trainer's Pokémon, selected at random.\n\nIf the target is under the effect of []{move:ingrain} or []{ability:suction-cups}, or it has a []{move:substitute}, or its Trainer has no more usable Pokémon, it will not be switched out.  If the target is a wild Pokémon, the battle ends instead."
+  },
+  "flavorText": "The target is knocked away, and a different Pokémon\nis dragged out. In the wild, this ends a battle against\na single Pokémon.",
+  "flags": [
+    "contact",
+    "protect",
+    "mirror"
+  ],
+  "target": "selected-pokemon",
+  "pokemon": {
+    "charizard": [
+      "machine"
+    ],
+    "blastoise": [
+      "machine"
+    ],
+    "arbok": [
+      "machine"
+    ],
+    "nidoqueen": [
+      "machine"
+    ],
+    "nidoking": [
+      "machine"
+    ],
+    "onix": [
+      "machine"
+    ],
+    "lickitung": [
+      "machine"
+    ],
+    "rhydon": [
+      "machine"
+    ],
+    "gyarados": [
+      "machine"
+    ],
+    "dratini": [
+      "level-up",
+      "machine"
+    ],
+    "dragonair": [
+      "level-up",
+      "machine"
+    ],
+    "dragonite": [
+      "level-up",
+      "machine"
+    ],
+    "mew": [
+      "machine"
+    ],
+    "meganium": [
+      "machine"
+    ],
+    "feraligatr": [
+      "machine"
+    ],
+    "slowking": [
+      "machine"
+    ],
+    "steelix": [
+      "machine"
+    ],
+    "tyranitar": [
+      "machine"
+    ],
+    "lugia": [
+      "machine"
+    ],
+    "aggron": [
+      "machine"
+    ],
+    "flygon": [
+      "level-up",
+      "machine"
+    ],
+    "seviper": [
+      "machine"
+    ],
+    "milotic": [
+      "level-up",
+      "machine"
+    ],
+    "salamence": [
+      "level-up",
+      "machine"
+    ],
+    "groudon": [
+      "machine"
+    ],
+    "rayquaza": [
+      "machine"
+    ],
+    "rampardos": [
+      "machine"
+    ],
+    "garchomp": [
+      "machine"
+    ],
+    "lickilicky": [
+      "machine"
+    ],
+    "rhyperior": [
+      "machine"
+    ],
+    "dialga": [
+      "machine"
+    ],
+    "palkia": [
+      "machine"
+    ],
+    "giratina-altered": [
+      "machine"
+    ],
+    "serperior": [
+      "machine"
+    ],
+    "samurott": [
+      "machine"
+    ],
+    "krookodile": [
+      "machine"
+    ],
+    "scraggy": [
+      "machine"
+    ],
+    "scrafty": [
+      "machine"
+    ],
+    "archeops": [
+      "machine"
+    ],
+    "eelektross": [
+      "machine"
+    ],
+    "fraxure": [
+      "machine"
+    ],
+    "haxorus": [
+      "machine"
+    ],
+    "druddigon": [
+      "level-up",
+      "machine"
+    ],
+    "deino": [
+      "machine"
+    ],
+    "zweilous": [
+      "machine"
+    ],
+    "hydreigon": [
+      "machine"
+    ],
+    "reshiram": [
+      "machine"
+    ],
+    "zekrom": [
+      "machine"
+    ],
+    "kyurem": [
+      "machine"
+    ],
+    "dragalge": [
+      "level-up",
+      "machine"
+    ],
+    "helioptile": [
+      "machine"
+    ],
+    "heliolisk": [
+      "machine"
+    ],
+    "tyrunt": [
+      "level-up",
+      "machine"
+    ],
+    "tyrantrum": [
+      "level-up",
+      "machine"
+    ],
+    "amaura": [
+      "machine"
+    ],
+    "aurorus": [
+      "machine"
+    ],
+    "goodra": [
+      "machine"
+    ],
+    "zygarde": [
+      "machine"
+    ],
+    "salazzle": [
+      "machine"
+    ],
+    "turtonator": [
+      "machine"
+    ],
+    "drampa": [
+      "machine"
+    ],
+    "jangmo-o": [
+      "level-up",
+      "machine"
+    ],
+    "hakamo-o": [
+      "level-up",
+      "machine"
+    ],
+    "kommo-o": [
+      "level-up",
+      "machine"
+    ],
+    "guzzlord": [
+      "level-up",
+      "machine"
+    ],
+    "naganadel": [
+      "machine"
+    ],
+    "giratina-origin": [
+      "machine"
+    ],
+    "kyurem-black": [
+      "machine"
+    ],
+    "kyurem-white": [
+      "machine"
+    ],
+    "charizard-mega-x": [
+      "machine"
+    ],
+    "charizard-mega-y": [
+      "machine"
+    ],
+    "blastoise-mega": [
+      "machine"
+    ],
+    "gyarados-mega": [
+      "machine"
+    ],
+    "tyranitar-mega": [
+      "machine"
+    ],
+    "aggron-mega": [
+      "machine"
+    ],
+    "garchomp-mega": [
+      "machine"
+    ],
+    "steelix-mega": [
+      "machine"
+    ],
+    "groudon-primal": [
+      "machine"
+    ],
+    "rayquaza-mega": [
+      "machine"
+    ],
+    "salamence-mega": [
+      "level-up",
+      "machine"
+    ],
+    "exeggutor-alola": [
+      "machine"
+    ],
+    "zygarde-10": [
+      "machine"
+    ],
+    "zygarde-50": [
+      "machine"
+    ],
+    "zygarde-complete": [
+      "machine"
+    ],
+    "salazzle-totem": [
+      "machine"
+    ],
+    "kommo-o-totem": [
+      "level-up",
+      "machine"
+    ]
+  }
+}

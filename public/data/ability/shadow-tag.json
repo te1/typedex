@@ -1,0 +1,18 @@
+{
+  "name": "shadow-tag",
+  "caption": "Shadow Tag",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Prevents opponents from fleeing or switching out.",
+    "full": "While this Pokémon is in battle, opposing Pokémon cannot flee or switch out.\n\nOther Pokémon with this ability are unaffected.  Pokémon with []{ability:run-away} can still flee.  Pokémon can still switch out with the use of a move or item."
+  },
+  "flavorText": "This Pokémon steps on the opposing Pokémon’s\nshadow to prevent it from escaping.",
+  "pokemon": {
+    "wobbuffet": 1,
+    "wynaut": 1,
+    "gothita": "hidden",
+    "gothorita": "hidden",
+    "gothitelle": "hidden",
+    "gengar-mega": 1
+  }
+}

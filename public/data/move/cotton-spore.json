@@ -1,0 +1,74 @@
+{
+  "name": "cotton-spore",
+  "caption": "Cotton Spore",
+  "type": "grass",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 40,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-ii",
+  "effect": {
+    "short": "Lowers the target's Speed by two stages.",
+    "full": "Lowers the target's [Speed]{mechanic:speed} by two [stages]{mechanic:stage}."
+  },
+  "flavorText": "The user releases cotton-like spores that cling to\nthe opposing Pokémon, which harshly lowers their\nSpeed stat.",
+  "flags": [
+    "protect",
+    "reflectable",
+    "mirror",
+    "powder"
+  ],
+  "target": "all-opponents",
+  "pokemon": {
+    "mareep": [
+      "level-up"
+    ],
+    "flaaffy": [
+      "level-up"
+    ],
+    "ampharos": [
+      "level-up"
+    ],
+    "hoppip": [
+      "level-up"
+    ],
+    "skiploom": [
+      "level-up"
+    ],
+    "jumpluff": [
+      "level-up"
+    ],
+    "roselia": [
+      "egg"
+    ],
+    "cacnea": [
+      "level-up"
+    ],
+    "cacturne": [
+      "level-up"
+    ],
+    "budew": [
+      "egg"
+    ],
+    "cottonee": [
+      "level-up"
+    ],
+    "whimsicott": [
+      "level-up"
+    ],
+    "maractus": [
+      "level-up"
+    ],
+    "swirlix": [
+      "level-up"
+    ],
+    "slurpuff": [
+      "level-up"
+    ],
+    "ampharos-mega": [
+      "level-up"
+    ]
+  }
+}

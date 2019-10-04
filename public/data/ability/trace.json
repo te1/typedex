@@ -1,0 +1,18 @@
+{
+  "name": "trace",
+  "caption": "Trace",
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Copies an opponent's ability upon entering battle.",
+    "full": "When this Pokémon enters battle, it copies a random opponent's ability.\n\nThis ability cannot copy []{ability:flower-gift}, []{ability:forecast}, []{ability:illusion}, []{ability:imposter}, []{ability:multitype}, []{ability:trace}, []{ability:wonder-guard}, or []{ability:zen-mode}."
+  },
+  "flavorText": "When it enters a battle, the Pokémon copies an\nopposing Pokémon’s Ability.",
+  "pokemon": {
+    "porygon": 1,
+    "porygon2": 1,
+    "ralts": 2,
+    "kirlia": 2,
+    "gardevoir": 2,
+    "alakazam-mega": 1
+  }
+}

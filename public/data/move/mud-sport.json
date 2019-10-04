@@ -1,0 +1,174 @@
+{
+  "name": "mud-sport",
+  "caption": "Mud Sport",
+  "type": "ground",
+  "damageCategory": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "z": false,
+  "priority": 0,
+  "gen": "generation-iii",
+  "effect": {
+    "short": "Halves all Electric-type damage.",
+    "full": "[]{type:electric} moves inflict half damage, regardless of target.  If the user leaves the [field]{mechanic:field}, this effect ends."
+  },
+  "flavorText": "The user kicks up mud on the battlefield. This\nweakens Electric-type moves for five turns.",
+  "flags": [
+    "non-sky-battle"
+  ],
+  "target": "entire-field",
+  "pokemon": {
+    "squirtle": [
+      "egg"
+    ],
+    "geodude": [
+      "level-up"
+    ],
+    "graveler": [
+      "level-up"
+    ],
+    "golem": [
+      "level-up"
+    ],
+    "slowpoke": [
+      "egg"
+    ],
+    "onix": [
+      "level-up"
+    ],
+    "krabby": [
+      "level-up"
+    ],
+    "kingler": [
+      "level-up"
+    ],
+    "goldeen": [
+      "egg"
+    ],
+    "totodile": [
+      "egg"
+    ],
+    "wooper": [
+      "level-up",
+      "egg"
+    ],
+    "quagsire": [
+      "level-up"
+    ],
+    "steelix": [
+      "level-up"
+    ],
+    "swinub": [
+      "level-up"
+    ],
+    "piloswine": [
+      "level-up"
+    ],
+    "mantine": [
+      "egg"
+    ],
+    "stantler": [
+      "egg"
+    ],
+    "treecko": [
+      "egg"
+    ],
+    "mudkip": [
+      "level-up"
+    ],
+    "zigzagoon": [
+      "level-up"
+    ],
+    "linoone": [
+      "level-up"
+    ],
+    "barboach": [
+      "level-up"
+    ],
+    "whiscash": [
+      "level-up"
+    ],
+    "corphish": [
+      "egg"
+    ],
+    "anorith": [
+      "level-up"
+    ],
+    "armaldo": [
+      "level-up"
+    ],
+    "feebas": [
+      "egg"
+    ],
+    "clamperl": [
+      "egg"
+    ],
+    "relicanth": [
+      "level-up"
+    ],
+    "luvdisc": [
+      "egg"
+    ],
+    "piplup": [
+      "egg"
+    ],
+    "bidoof": [
+      "egg"
+    ],
+    "shellos": [
+      "level-up"
+    ],
+    "gastrodon": [
+      "level-up"
+    ],
+    "buneary": [
+      "egg"
+    ],
+    "mantyke": [
+      "egg"
+    ],
+    "mamoswine": [
+      "level-up"
+    ],
+    "panpour": [
+      "egg"
+    ],
+    "drilbur": [
+      "level-up"
+    ],
+    "excadrill": [
+      "level-up"
+    ],
+    "tympole": [
+      "egg"
+    ],
+    "trubbish": [
+      "egg"
+    ],
+    "ducklett": [
+      "egg"
+    ],
+    "stunfisk": [
+      "level-up"
+    ],
+    "froakie": [
+      "egg"
+    ],
+    "hawlucha": [
+      "egg"
+    ],
+    "mudbray": [
+      "level-up"
+    ],
+    "mudsdale": [
+      "level-up"
+    ],
+    "pyukumuku": [
+      "level-up"
+    ],
+    "steelix-mega": [
+      "level-up"
+    ]
+  }
+}
