@@ -5,22 +5,18 @@ export class Data {
   constructor() {
     this.generations = [];
     this.generationsByName = {};
-    this.generationsById = {};
 
     this.types = [];
     this.typesByName = {};
-    this.typesById = {};
     this.typeNone = {};
     this.typeAll = {};
 
     this.categories = [];
     this.categoriesByName = {};
-    this.categoriesById = {};
     this.categoryAll = {};
 
     this.moves = [];
     this.movesByName = {};
-    this.movesById = {};
 
     this.moveDetails = {};
 
@@ -28,9 +24,20 @@ export class Data {
   }
 
   async loadGenerations() {
-    this.generations = await api.loadGenerations();
+    let data = await api.loadGenerations();
+
+    // build caption, because it's not included by default
+    data.generations = _.map(data.generations, item => {
+      return {
+        ...item,
+        caption: 'Gen ' + item.num,
+      };
+    });
+
+    this.generations = data.generations;
     this.generationsByName = _.keyBy(this.generations, 'name');
-    this.generationsById = _.keyBy(this.generations, 'id');
+
+    // TODO versionGroups, versions
   }
 
   getGeneration(generation) {
@@ -45,7 +52,6 @@ export class Data {
 
     this.types = data.types;
     this.typesByName = _.keyBy(this.types, 'name');
-    this.typesById = _.keyBy(this.types, 'id');
 
     this.typeNone = {
       name: 'none',
@@ -61,7 +67,6 @@ export class Data {
 
     this.categories = data.categories;
     this.categoriesByName = _.keyBy(this.categories, 'name');
-    this.categoriesById = _.keyBy(this.categories, 'id');
 
     this.categoryAll = {
       name: 'all',
@@ -100,9 +105,20 @@ export class Data {
   }
 
   async loadMoves() {
-    this.moves = await api.loadMoves();
+    let data = await api.loadMoves();
+
+    // to reduce file size null/false values are ommited during export
+    // to allow easy filtering they are restored here
+    data.moves = _.map(data.moves, item => {
+      return _.defaults(item, {
+        z: false,
+      });
+    });
+
+    this.moves = data.moves;
     this.movesByName = _.keyBy(this.moves, 'name');
-    this.movesById = _.keyBy(this.moves, 'id');
+
+    // TODO targets, flags
   }
 
   getMove(move) {
@@ -122,11 +138,11 @@ export class Data {
     return this.moveDetails[move];
   }
 
-  async loadPokemon() {
-    this.pokemon = await api.loadPokemon();
+  // async loadPokemon() {
+  //   this.pokemon = await api.loadPokemon();
 
-    return this.pokemon;
-  }
+  //   return this.pokemon;
+  // }
 }
 
 const data = new Data();

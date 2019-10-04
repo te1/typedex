@@ -8,17 +8,25 @@ const cacheFor = 60 * 60 * 8; // 8 hours in seconds
 export class Api {
   constructor() {
     this.generations = [];
+
     this.types = [];
     this.categories = [];
+
     this.moves = [];
     this.moveDetails = {};
+
     // this.pokemon = {};
   }
 
   async loadGenerations() {
-    this.generations = await this._load('generations.json', 'generations');
+    let data = await this._load('generations.json', 'generations');
 
-    return this.generations;
+    this.generations = data.generations;
+    // TODO versionGroups, versions
+
+    return {
+      generations: this.generations,
+    };
   }
 
   async loadTypes() {
@@ -34,23 +42,18 @@ export class Api {
   }
 
   async loadMoves() {
-    let data = await this._load('moves/index.json', 'moves');
+    let data = await this._load('moves.json', 'moves');
 
-    // to reduce file size null/false values are ommited during export
-    // to allow easy filtering they are restored here
-    data = _.map(data, item => {
-      return _.defaults(item, {
-        z: false,
-      });
-    });
+    this.moves = data.moves;
+    // TODO targets, flags
 
-    this.moves = data;
-
-    return this.moves;
+    return {
+      moves: this.moves,
+    };
   }
 
   async loadMoveDetails(moveName) {
-    let url = 'moves/' + moveName + '.json';
+    let url = 'move/' + moveName + '.json';
     let cacheName = 'moves_' + moveName;
 
     let data = await this._load(url, cacheName);
@@ -60,10 +63,10 @@ export class Api {
     return this.moveDetails[moveName];
   }
 
-  async loadPokemon() {
-    // this.pokemon = await this._load('pokemon-index');
-    // return this.pokemon;
-  }
+  // async loadPokemon() {
+  //   // this.pokemon = await this._load('pokemon-index');
+  //   // return this.pokemon;
+  // }
 
   async _load(url, cacheName) {
     let fetch = async () => {

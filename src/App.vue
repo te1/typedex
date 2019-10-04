@@ -39,11 +39,13 @@
       window.api = api;
       window.data = data;
 
+      // await cache.clear();
+
       await Promise.all([
         data.loadGenerations(),
         data.loadTypes(),
         data.loadMoves(),
-        data.loadPokemon(),
+        // data.loadPokemon(),
       ]);
 
       this.loading = false;

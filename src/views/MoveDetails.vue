@@ -51,7 +51,7 @@
           v-if="generation"
           class="mb-2 flex justify-between"
         >
-          <div>Generation</div>
+          <div>Introduced in</div>
           <div class="font-semibold tracking-wider">
             {{ generation.caption }}
           </div>
