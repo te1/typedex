@@ -1,5 +1,5 @@
 import Vue from 'vue';
-import Router from 'vue-router';
+import VueRouter from 'vue-router';
 
 import Home from './views/Home';
 import About from './views/About';
@@ -9,11 +9,12 @@ import Pokemon from './views/Pokemon';
 import Moves from './views/Moves';
 // import Test from './views/Test';
 
-Vue.use(Router);
+Vue.use(VueRouter);
 
-export default new Router({
+export default new VueRouter({
   mode: 'history',
   base: process.env.BASE_URL,
+
   routes: [
     { path: '/', name: 'home', component: Home },
     { path: '/about', name: 'about', component: About },
@@ -24,4 +25,8 @@ export default new Router({
     // { path: '/test', name: 'test', component: Test },
     { path: '*', redirect: '/' },
   ],
+
+  scrollBehavior(to, from, savedPosition) {
+    return { x: 0, y: 0 };
+  },
 });
