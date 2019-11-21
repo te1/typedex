@@ -26,16 +26,6 @@
           Type
         </type-picker>
 
-        <category-picker
-          v-model="filter.category"
-          allow-clear
-          show-all
-          class="mb-2"
-          trigger-classes="w-48"
-        >
-          Category
-        </category-picker>
-
         <div class="flex justify-between items-baseline">
           <div>
             Results
@@ -50,14 +40,16 @@
 
     <app-heading class="mb-2">Moves</app-heading>
 
-    <move-card
-      v-for="item in filteredMoves"
-      :key="item.obj.name"
-      :move="item.obj"
-      :fuzzy-result="item"
-      class="cursor-pointer hover:opacity-75"
-      @click.native="select(item.obj)"
-    />
+    <div class="box mb-4 p-2">
+      <move-card
+        v-for="item in filteredMoves"
+        :key="item.obj.caption"
+        :move="item.obj"
+        :fuzzy-result="item"
+        class="cursor-pointer hover:opacity-75"
+        @click.native="select(item.obj)"
+      />
+    </div>
 
     <div
       v-if="!filteredMoves.length"
@@ -82,7 +74,6 @@
   import data from '../../services/data';
   import InputSearch from '../app/InputSearch';
   import TypePicker from '../type/TypePicker';
-  import CategoryPicker from '../type/CategoryPicker';
   import MoveCard from './MoveCard';
 
   export default {
@@ -91,7 +82,6 @@
     components: {
       InputSearch,
       TypePicker,
-      CategoryPicker,
       MoveCard,
     },
 
@@ -101,8 +91,6 @@
         filter: {
           name: '',
           type: null,
-          category: null,
-          z: false,
         },
       };
     },
@@ -116,16 +104,8 @@
         let filter = this.filter;
         let result = this.moves;
 
-        if (filter.z != null) {
-          result = _.filter(result, { z: filter.z });
-        }
-
         if (filter.type != null) {
           result = _.filter(result, { type: filter.type.name });
-        }
-
-        if (filter.category != null) {
-          result = _.filter(result, { damageCategory: filter.category.name });
         }
 
         if (this.filterName) {
@@ -149,7 +129,7 @@
 
     methods: {
       select(move) {
-        this.$router.push('/move/' + move.name);
+        this.$router.push('/offense/' + move.type);
       },
     },
   };

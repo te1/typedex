@@ -43,6 +43,12 @@
     },
 
     activated() {
+      let newType = this.getTypeFromRoute(this.$route, { useFallback: false });
+
+      if (newType && (!this.type || this.type !== newType)) {
+        this.type = newType;
+      }
+
       this.updateRoute(this.type, { replace: true });
     },
 
@@ -58,13 +64,13 @@
     },
 
     methods: {
-      getTypeFromRoute(route) {
+      getTypeFromRoute(route, opts = { useFallback: true }) {
         let type;
 
         if (route && route.params && route.params.type) {
           type = data.getType(route.params.type);
         }
-        if (!type) {
+        if (!type && opts.useFallback) {
           type = data.getType('normal'); // fallback
         }
 

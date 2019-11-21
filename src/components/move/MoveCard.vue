@@ -1,40 +1,22 @@
 <!-- eslint-disable vue/no-v-html -->
 
 <template>
-  <div class="box flex justify-between mb-4 px-2 pt-1 pb-2">
+  <div class="flex items-center justify-between mb-2 pb-2 last:mb-0 last:pb-0 border-b last:border-b-0">
     <div>
       <div
-        class="box-heading"
+        class="box-heading mb-0"
         v-html="caption"
       />
 
-      <div class="flex items-center">
-        <type-label
-          class="mr-2"
-          :type="resolvedMove.type"
-        />
-
-        <category-label :category="resolvedMove.damageCategory" />
-      </div>
-    </div>
-
-    <div class="self-center">
       <div
-        v-for="stat in stats"
-        :key="stat.prop"
-        class="flex items-baseline justify-between leading-tight"
+        v-if="flag"
+        class="text-sm -mt-1"
       >
-        <template v-if="resolvedMove[stat.prop]">
-          <div class="w-12 mr-1 text-xs">
-            {{ stat.caption }}
-          </div>
-
-          <div class="text-sm font-semibold tracking-wider">
-            {{ resolvedMove[stat.prop] }}
-          </div>
-        </template>
+        {{ flag }}
       </div>
     </div>
+
+    <type-label :type="move.type" />
   </div>
 </template>
 
@@ -42,19 +24,17 @@
   import fuzzysort from 'fuzzysort';
   import data from '../../services/data';
   import TypeLabel from '../type/TypeLabel';
-  import CategoryLabel from '../type/CategoryLabel';
 
   export default {
     name: 'MoveCard',
 
     components: {
       TypeLabel,
-      CategoryLabel,
     },
 
     props: {
       move: {
-        type: [Object, String],
+        type: Object,
         required: true,
       },
 
@@ -65,21 +45,7 @@
       },
     },
 
-    data() {
-      return {
-        stats: [
-          { prop: 'power', caption: 'Power' },
-          { prop: 'accuracy', caption: 'Accuracy' },
-          { prop: 'pp', caption: 'PP' },
-        ],
-      };
-    },
-
     computed: {
-      resolvedMove() {
-        return data.getMove(this.move);
-      },
-
       caption() {
         if (this.fuzzyResult && this.fuzzyResult.target) {
           return fuzzysort.highlight(
@@ -88,7 +54,23 @@
             '</span>'
           );
         }
-        return this.resolvedMove.caption;
+        return this.move.caption;
+      },
+
+      flag() {
+        switch (this.move.flag) {
+          case 'z':
+            return 'Z-Move';
+
+          case 'max':
+            return 'Max Move';
+
+          case 'gmax':
+            return 'G-Max Move';
+
+          default:
+            return null;
+        }
       },
     },
   };

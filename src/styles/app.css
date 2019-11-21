@@ -1,6 +1,5 @@
 @tailwind base;
 @tailwind components;
-@tailwind utilities;
 
 .max-h-screen-90 {
   max-height: 90vh;
@@ -38,3 +37,5 @@
 .btn-link:hover {
   @apply opacity-75;
 }
+
+@tailwind utilities;

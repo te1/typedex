@@ -8,6 +8,10 @@ module.exports = {
       },
     },
   },
-  variants: {},
+  variants: {
+    borderWidth: ['responsive', 'last', 'hover', 'focus'],
+    margin: ['responsive', 'last'],
+    padding: ['responsive', 'last'],
+  },
   plugins: [],
 };

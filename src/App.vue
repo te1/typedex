@@ -42,7 +42,6 @@
       // await cache.clear();
 
       await Promise.all([
-        data.loadGenerations(),
         data.loadTypes(),
         data.loadMoves(),
         // data.loadPokemon(),
