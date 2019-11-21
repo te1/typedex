@@ -8,7 +8,7 @@ typedex is a simple web app that shows type effectiveness in Pokemon battles. Qu
 - Show damage taken by Pokemon type
 - Show damage done by move type
 - **TODO** Show list of Pokemon (name, type(s) and picture)
-- **TODO** Show list of moves (name and type)
+- Show list of moves (name and type)
 - **TODO** Search by name (with autocomplete) for Pokemon and moves
 
 
