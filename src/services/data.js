@@ -1,5 +1,6 @@
 import _ from 'lodash';
-import api from './api';
+import types from '../assets/data/types.json';
+import moves from '../assets/data/moves.json';
 
 export class Data {
   constructor() {
@@ -11,8 +12,8 @@ export class Data {
     this.moves = [];
   }
 
-  async loadTypes() {
-    this.types = await api.loadTypes();
+  loadTypes() {
+    this.types = types;
     this.typesByName = _.keyBy(this.types, 'name');
 
     this.typeNone = {
@@ -49,8 +50,8 @@ export class Data {
     return type;
   }
 
-  async loadMoves() {
-    this.moves = await api.loadMoves();
+  loadMoves() {
+    this.moves = moves;
 
     Object.freeze(this.moves);
   }
