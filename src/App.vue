@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="app">
     <app-bar />
 
     <div class="container mx-auto px-4 py-2">

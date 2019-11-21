@@ -12,7 +12,11 @@
     <p>No copyright or trademark infringement is intended in using Pokémon content.</p>
     <p>
       Data provided by
-      <a href="https://pokeapi.co" target="_blank" rel="noopener">PokéAPI</a>
+      <a
+        href="https://pokeapi.co"
+        target="_blank"
+        rel="noopener"
+      >PokéAPI</a>
     </p>
   </div>
 </template>

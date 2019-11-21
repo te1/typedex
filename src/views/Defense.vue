@@ -35,7 +35,6 @@
 </template>
 
 <script>
-  import _ from 'lodash';
   import data from '../services/data';
   import TypePicker from '../components/type/TypePicker';
   import DamageTaken from '../components/damage/DamageTaken';

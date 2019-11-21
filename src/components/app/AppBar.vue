@@ -53,4 +53,6 @@
   export default {
     name: 'AppBar',
   };
+
+  // purgecss keep: router-link-active
 </script>

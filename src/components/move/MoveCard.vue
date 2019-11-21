@@ -22,7 +22,6 @@
 
 <script>
   import fuzzysort from 'fuzzysort';
-  import data from '../../services/data';
   import TypeLabel from '../type/TypeLabel';
 
   export default {
@@ -75,4 +74,3 @@
     },
   };
 </script>
-
