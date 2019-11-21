@@ -28,6 +28,14 @@
       info-color="green"
       info-icon="ban"
     />
+
+    <damage-list
+      :data="damageTaken.neutral"
+      :attack="false"
+      heading="All the rest"
+      info="Neutral"
+      :info-icon="['far', 'circle']"
+    />
   </div>
 </template>
 
@@ -55,11 +63,11 @@
         let data = {};
 
         _.forEach(this.types, type => {
-          _.forEach(type.damageTaken, damage => {
-            if (data[damage[0]] == null) {
-              data[damage[0]] = damage[1];
+          _.forEach(type.damageTaken, (factor, otherType) => {
+            if (data[otherType] == null) {
+              data[otherType] = factor;
             } else {
-              data[damage[0]] *= damage[1];
+              data[otherType] *= factor;
             }
           });
         });
@@ -81,6 +89,7 @@
           item => item.factor > 0 && item.factor < 1
         );
         result.immune = _.filter(data, item => item.factor <= 0);
+        result.neutral = _.filter(data, item => item.factor === 1);
 
         return result;
       },

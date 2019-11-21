@@ -70,7 +70,7 @@
       },
 
       infoIcon: {
-        type: String,
+        type: [String, Array],
         default: '',
       },
 

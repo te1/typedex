@@ -25,6 +25,13 @@
       info-color="red"
       info-icon="ban"
     />
+
+    <damage-list
+      :data="damageDone.neutral"
+      heading="All the rest"
+      info="Neutral"
+      :info-icon="['far', 'circle']"
+    />
   </div>
 </template>
 
@@ -53,10 +60,10 @@
       },
 
       damageDone() {
-        let data = _.map(this.resolvedType.damageDone, item => {
+        let data = _.map(this.resolvedType.damageDone, (factor, type) => {
           return {
-            type: item[0],
-            factor: item[1],
+            type,
+            factor,
           };
         });
 
@@ -67,6 +74,7 @@
         result.strong = _.filter(data, item => item.factor > 1);
         result.weak = _.filter(data, item => item.factor > 0 && item.factor < 1);
         result.immune = _.filter(data, item => item.factor <= 0);
+        result.neutral = _.filter(data, item => item.factor === 1);
 
         return result;
       },
