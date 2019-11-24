@@ -25,6 +25,12 @@ I just can't remember type matchups in Pokemon games so I needed a quick and eas
 - [Cloudflare](https://www.cloudflare.com)?
 
 
+## Acknowledgements
+
+- Data is taken from [Bulbapedia](https://bulbapedia.bulbagarden.net)
+- Sprites are taken from [Pokémon Showdown](https://pokemonshowdown.com)
+
+
 ## License
 
 This software is licensed under the [MIT license](https://github.com/te1/typedex/blob/master/LICENSE).
