@@ -40,7 +40,10 @@
 
     <app-heading class="mb-2">Moves</app-heading>
 
-    <div class="box mb-4 p-2">
+    <div
+      v-if="filteredMoves.length"
+      class="box mb-4 p-2"
+    >
       <move-card
         v-for="item in filteredMoves"
         :key="item.obj.caption"
@@ -91,6 +94,10 @@
         filter: {
           name: '',
           type: null,
+          normal: true,
+          max: true,
+          gmax: true,
+          z: false,
         },
       };
     },
@@ -106,6 +113,22 @@
 
         if (filter.type != null) {
           result = _.filter(result, { type: filter.type.name });
+        }
+
+        if (filter.normal === false) {
+          result = _.reject(result, move => !move.flag);
+        }
+
+        if (filter.max === false) {
+          result = _.reject(result, { flag: 'max' });
+        }
+
+        if (filter.gmax === false) {
+          result = _.reject(result, { flag: 'gmax' });
+        }
+
+        if (filter.z === false) {
+          result = _.reject(result, { flag: 'z' });
         }
 
         if (this.filterName) {
