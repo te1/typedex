@@ -2,7 +2,10 @@
   {
     "caption": "10,000,000 Volt Thunderbolt",
     "type": "electric",
-    "flag": "z"
+    "flag": "z",
+    "exclusive": [
+      "Cap Pikachu"
+    ]
   },
   {
     "caption": "Absorb",
@@ -372,7 +375,10 @@
   {
     "caption": "Catastropika",
     "type": "electric",
-    "flag": "z"
+    "flag": "z",
+    "exclusive": [
+      "Pikachu"
+    ]
   },
   {
     "caption": "Celebrate",
@@ -417,7 +423,10 @@
   {
     "caption": "Clangorous Soulblaze",
     "type": "dragon",
-    "flag": "z"
+    "flag": "z",
+    "exclusive": [
+      "Kommo-o"
+    ]
   },
   {
     "caption": "Clear Smog",
@@ -801,7 +810,10 @@
   {
     "caption": "Extreme Evoboost",
     "type": "normal",
-    "flag": "z"
+    "flag": "z",
+    "exclusive": [
+      "Eevee"
+    ]
   },
   {
     "caption": "Extreme Speed",
@@ -1042,132 +1054,210 @@
   {
     "caption": "G-Max Befuddle",
     "type": "bug",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Butterfree"
+    ]
   },
   {
     "caption": "G-Max Centiferno",
     "type": "fire",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Centiskorch"
+    ]
   },
   {
     "caption": "G-Max Chi Strike",
     "type": "fighting",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Machamp"
+    ]
   },
   {
     "caption": "G-Max Cuddle",
     "type": "normal",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Eevee"
+    ]
   },
   {
     "caption": "G-Max Depletion",
     "type": "dragon",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Duraludon"
+    ]
   },
   {
     "caption": "G-Max Finale",
     "type": "fairy",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Alcremie"
+    ]
   },
   {
     "caption": "G-Max Foam Burst",
     "type": "water",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Kingler"
+    ]
   },
   {
     "caption": "G-Max Gold Rush",
     "type": "normal",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Meowth"
+    ]
   },
   {
     "caption": "G-Max Gravitas",
     "type": "psychic",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Orbeetle"
+    ]
   },
   {
     "caption": "G-Max Malodor",
     "type": "poison",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Garbodor"
+    ]
   },
   {
     "caption": "G-Max Meltdown",
     "type": "steel",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Melmetal"
+    ]
   },
   {
     "caption": "G-Max Replenish",
     "type": "normal",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Snorlax"
+    ]
   },
   {
     "caption": "G-Max Resonance",
     "type": "ice",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Lapras"
+    ]
   },
   {
     "caption": "G-Max Sandblast",
     "type": "ground",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Sandaconda"
+    ]
   },
   {
     "caption": "G-Max Smite",
     "type": "fairy",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Hatterene"
+    ]
   },
   {
     "caption": "G-Max Snooze",
     "type": "dark",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Grimmsnarl"
+    ]
   },
   {
     "caption": "G-Max Steelsurge",
     "type": "steel",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Copperajah"
+    ]
   },
   {
     "caption": "G-Max Stonesurge",
     "type": "water",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Drednaw"
+    ]
   },
   {
     "caption": "G-Max Stun Shock",
     "type": "electric",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Toxtricity"
+    ]
   },
   {
     "caption": "G-Max Sweetness",
     "type": "grass",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Appletun"
+    ]
   },
   {
     "caption": "G-Max Tartness",
     "type": "grass",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Flapple"
+    ]
   },
   {
     "caption": "G-Max Terror",
     "type": "ghost",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Gengar"
+    ]
   },
   {
     "caption": "G-Max Volcalith",
     "type": "rock",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Coalossal"
+    ]
   },
   {
     "caption": "G-Max Volt Crash",
     "type": "electric",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Pikachu"
+    ]
   },
   {
     "caption": "G-Max Wildfire",
     "type": "fire",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Charizard"
+    ]
   },
   {
     "caption": "G-Max Wind Rage",
     "type": "flying",
-    "flag": "gmax"
+    "flag": "gmax",
+    "exclusive": [
+      "Corviknight"
+    ]
   },
   {
     "caption": "Gastro Acid",
@@ -1184,7 +1274,10 @@
   {
     "caption": "Genesis Supernova",
     "type": "psychic",
-    "flag": "z"
+    "flag": "z",
+    "exclusive": [
+      "Mew"
+    ]
   },
   {
     "caption": "Geomancy",
@@ -1262,7 +1355,13 @@
   {
     "caption": "Guardian of Alola",
     "type": "fairy",
-    "flag": "z"
+    "flag": "z",
+    "exclusive": [
+      "Tapu Koko",
+      "Tapu Lele",
+      "Tapu Bulu",
+      "Tapu Fini"
+    ]
   },
   {
     "caption": "Guillotine",
@@ -1601,7 +1700,10 @@
   {
     "caption": "Let's Snuggle Forever",
     "type": "fairy",
-    "flag": "z"
+    "flag": "z",
+    "exclusive": [
+      "Mimikyu"
+    ]
   },
   {
     "caption": "Lick",
@@ -1618,7 +1720,10 @@
   {
     "caption": "Light That Burns the Sky",
     "type": "psychic",
-    "flag": "z"
+    "flag": "z",
+    "exclusive": [
+      "Ultra Necrozma"
+    ]
   },
   {
     "caption": "Light of Ruin",
@@ -1703,7 +1808,10 @@
   {
     "caption": "Malicious Moonsault",
     "type": "dark",
-    "flag": "z"
+    "flag": "z",
+    "exclusive": [
+      "Incineroar"
+    ]
   },
   {
     "caption": "Mat Block",
@@ -1839,7 +1947,11 @@
   {
     "caption": "Menacing Moonraze Maelstrom",
     "type": "ghost",
-    "flag": "z"
+    "flag": "z",
+    "exclusive": [
+      "Lunala",
+      "Dawn Wings Necrozma"
+    ]
   },
   {
     "caption": "Metal Burst",
@@ -2021,7 +2133,10 @@
   {
     "caption": "Oceanic Operetta",
     "type": "water",
-    "flag": "z"
+    "flag": "z",
+    "exclusive": [
+      "Primarina"
+    ]
   },
   {
     "caption": "Octazooka",
@@ -2254,7 +2369,10 @@
   {
     "caption": "Pulverizing Pancake",
     "type": "normal",
-    "flag": "z"
+    "flag": "z",
+    "exclusive": [
+      "Snorlax"
+    ]
   },
   {
     "caption": "Punishment",
@@ -2484,7 +2602,11 @@
   {
     "caption": "Searing Sunraze Smash",
     "type": "steel",
-    "flag": "z"
+    "flag": "z",
+    "exclusive": [
+      "Solgaleo",
+      "Dusk Mane Necrozma"
+    ]
   },
   {
     "caption": "Secret Power",
@@ -2586,7 +2708,10 @@
   {
     "caption": "Sinister Arrow",
     "type": "ghost",
-    "flag": "z"
+    "flag": "z",
+    "exclusive": [
+      "Decidueye"
+    ]
   },
   {
     "caption": "Sinister Arrow Raid",
@@ -2715,7 +2840,10 @@
   {
     "caption": "Soul-Stealing 7-Star Strike",
     "type": "ghost",
-    "flag": "z"
+    "flag": "z",
+    "exclusive": [
+      "Marshadow"
+    ]
   },
   {
     "caption": "Spacial Rend",
@@ -2780,7 +2908,10 @@
   {
     "caption": "Splintered Stormshards",
     "type": "rock",
-    "flag": "z"
+    "flag": "z",
+    "exclusive": [
+      "Lycanroc"
+    ]
   },
   {
     "caption": "Splishy Splash",
@@ -2825,7 +2956,10 @@
   {
     "caption": "Stoked Sparksurfer",
     "type": "electric",
-    "flag": "z"
+    "flag": "z",
+    "exclusive": [
+      "Alolan Raichu"
+    ]
   },
   {
     "caption": "Stomp",
@@ -3128,7 +3262,7 @@
   },
   {
     "caption": "Twinkle Tackle",
-    "type": "fairy",
+    "type": "Fairy",
     "flag": "z"
   },
   {
