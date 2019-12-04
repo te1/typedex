@@ -12,7 +12,15 @@
         v-if="flag"
         class="text-sm -mt-1"
       >
-        {{ flag }}
+        <span>
+          {{ flag }}
+        </span>
+        <span
+          v-if="exclusives"
+          class="text-gray-500"
+        >
+          {{ exclusives }}
+        </span>
       </div>
     </div>
 
@@ -70,6 +78,13 @@
           default:
             return null;
         }
+      },
+
+      exclusives() {
+        if (!this.move.exclusive || !this.move.exclusive.length) {
+          return false;
+        }
+        return this.move.exclusive.join(', ');
       },
     },
   };

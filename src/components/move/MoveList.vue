@@ -26,6 +26,34 @@
           Type
         </type-picker>
 
+        <input-checkbox
+          v-model="filter.normal"
+          class="mb-2"
+        >
+          Normal Move
+        </input-checkbox>
+
+        <input-checkbox
+          v-model="filter.max"
+          class="mb-2"
+        >
+          Max Move
+        </input-checkbox>
+
+        <input-checkbox
+          v-model="filter.gmax"
+          class="mb-2"
+        >
+          G-Max Move
+        </input-checkbox>
+
+        <input-checkbox
+          v-model="filter.z"
+          class="mb-2"
+        >
+          Z-Move
+        </input-checkbox>
+
         <div class="flex justify-between items-baseline">
           <div>
             Results
@@ -76,6 +104,7 @@
   import fuzzysort from 'fuzzysort';
   import data from '../../services/data';
   import InputSearch from '../app/InputSearch';
+  import InputCheckbox from '../app/InputCheckbox';
   import TypePicker from '../type/TypePicker';
   import MoveCard from './MoveCard';
 
@@ -84,6 +113,7 @@
 
     components: {
       InputSearch,
+      InputCheckbox,
       TypePicker,
       MoveCard,
     },

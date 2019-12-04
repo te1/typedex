@@ -13,9 +13,10 @@ import {
   faSquare,
   faFrown,
   faCircle,
+  faCheckSquare,
 } from '@fortawesome/free-regular-svg-icons';
 
 library.add(faQuestion, faTimes, faArrowUp, faArrowDown, faBan, faSearch);
-library.add(faSquare, faFrown, faCircle);
+library.add(faSquare, faFrown, faCircle, faCheckSquare);
 
 Vue.component('fa-icon', FontAwesomeIcon);
