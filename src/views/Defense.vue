@@ -71,6 +71,24 @@
     },
 
     activated() {
+      let newType1 = this.getTypeFromRoute(this.$route, 'type1', {
+        useFallback: false,
+      });
+
+      if (newType1 && (!this.type1 || this.type1 !== newType1)) {
+        this.type1 = newType1;
+      }
+
+      let newType2 = this.getTypeFromRoute(this.$route, 'type2', {
+        useFallback: false,
+      });
+
+      if (newType2 && (!this.type2 || this.type2 !== newType2)) {
+        this.type2 = newType2;
+      } else if (newType1 && !newType2) {
+        this.type2 = null;
+      }
+
       this.updateRoute(this.type1, this.type2, { replace: true });
     },
 
@@ -87,13 +105,13 @@
     },
 
     methods: {
-      getTypeFromRoute(route, paramName) {
+      getTypeFromRoute(route, paramName, opts = { useFallback: true }) {
         let type;
 
         if (route && route.params && route.params[paramName]) {
           type = data.getType(route.params[paramName]);
         }
-        if (!type && paramName === 'type1') {
+        if (!type && opts.useFallback && paramName === 'type1') {
           type = data.getType('normal'); // fallback
         }
 

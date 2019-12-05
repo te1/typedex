@@ -24,6 +24,7 @@
     created() {
       data.loadTypes();
       data.loadMoves();
+      data.loadPokemon();
     },
   };
 </script>

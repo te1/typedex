@@ -66,14 +66,14 @@
 
       flag() {
         switch (this.move.flag) {
-          case 'z':
-            return 'Z-Move';
-
           case 'max':
             return 'Max Move';
 
           case 'gmax':
             return 'G-Max Move';
+
+          case 'z':
+            return 'Z-Move';
 
           default:
             return null;

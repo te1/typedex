@@ -2,16 +2,12 @@
   <div class="fixed top-0 w-full z-10 bg-white shadow-md">
     <div class="container mx-auto h-12 px-4 py-2 flex items-center justify-between">
       <h1 class="text-lg font-semibold tracking-wider">
-        typedex
+        <router-link to="/">
+          typedex
+        </router-link>
       </h1>
 
       <div class="flex -mx-2">
-        <!--
-        <router-link to="/">
-          Home
-        </router-link>
-        -->
-
         <router-link
           to="/offense"
           class="nav-link px-2"
@@ -26,11 +22,12 @@
           Defense
         </router-link>
 
-        <!--
-        <router-link to="/pokemon">
+        <router-link
+          to="/pokemon"
+          class="nav-link px-2"
+        >
           Pokemon
         </router-link>
-        -->
 
         <router-link
           to="/move"
@@ -38,12 +35,6 @@
         >
           Moves
         </router-link>
-
-        <!--
-        <router-link to="/about">
-          About
-        </router-link>
-        -->
       </div>
     </div>
   </div>

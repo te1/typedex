@@ -1,6 +1,7 @@
 import _ from 'lodash';
 import types from '../assets/data/types.json';
 import moves from '../assets/data/moves.json';
+import pokemon from '../assets/data/pokemon.json';
 
 export class Data {
   constructor() {
@@ -10,6 +11,8 @@ export class Data {
     this.typeAll = {};
 
     this.moves = [];
+
+    this.pokemon = [];
   }
 
   loadTypes() {
@@ -54,6 +57,12 @@ export class Data {
     this.moves = moves;
 
     Object.freeze(this.moves);
+  }
+
+  loadPokemon() {
+    this.pokemon = pokemon;
+
+    Object.freeze(this.pokemon);
   }
 }
 
