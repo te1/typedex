@@ -303,8 +303,6 @@
           route += '/' + type2;
         }
 
-        console.log(route);
-
         this.$router.push(route);
       },
     },
